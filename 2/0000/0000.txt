@@ -1,146 +1,143 @@
-むかいとう
-ブラック２
-ホワイト２
-おとこ
-おんな
-たいせん
-こうかん
-とかい
-いなか
-あたまがいい
-うんどうできる
-じかん
-おかね
-がいけん
-なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
-ー
-かこにいく
-みらいにいく
-ひつようない
-かぞく
-ともだち
-じぶん
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-げんじつをみる
-ー
-ー
-おもしろい
-かっこいい
-やさしい
-おかねもち
-たたかい
-あつめる
-おはなし
-ポケモン
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
-SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
-えらくなる
-ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-ー
-ー
-ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+Aucune réponse
+Noir2
+Blanc2
+Mâle
+Femelle
+Combat
+Échange
+La ville
+Le pays
+Intelligent
+Sportif
+Temps
+Argent
+Apparence
+Substance
+Calme
+Mignon
+Bizarre
+Gruikui
+Moustillon
+Vipélierre
+La plage
+Les montagnes
+Classes
+Pauses
+Repas
+Famille
+Amis
+Personne
+Printemps
+Été
+Automne
+Hiver
+Doux
+Épicé
+Acide
+Amer
+Amusant
+Frais
+Nature
+Riche
+Combats
+Collectionnant
+L'histoire
+Pokémon
+Français
+Mathématiques
+Science
+Sciences sociales
+Français
+Mathématiques
+Science
+Sciences sociales
+Dresseur
+Professeur
+Team Plasma
+Pokémon
+Jouer dehors
+Faire les magasins
+Lire
+Jeux vidéo
+Faire la grâce matinée
+Pop
+Rock
+Jazz
+Rap
+Classique
+Nouvelles
+Drôme
+Comédie
+Sport
+Dessins animés
+Action
+Science-fiction
+Suspens
+Comédie
+Horreur
+Baseball
+Rugby
+Basketball
+Football
+Hockey
+Arts martiaux
+Rouge
+Vert
+Bleu
+Jaune
+Noir
+Blanc
+Faire de l'exercice
+Lire
+Musique
+Films
+Voyager
+Cuisiner
+Pêcher
+Jeux vidéo
+Étudiant
+Employé de bureau
+Créateur
+Employé des services publiques
+Femme au foyer
+Artiste
+Sans emploi
+Armando
+Rachid
+Noa
+Aloé
+Artie
+Inezia
+Bardane
+Carolina
+Zhu
+Iris
+Watson
+Normal
+Feu
+Eau
+Électrik
+Plante
+Glace
+Combat
+Poison
+Sol
+Vol
+Psy
+Insect
+Roche
+Spectre
+Dragon
+Ténèbres
+Acier
+0-10 heures
+10-20 heures
+20-30 heures
+30-40 heures
+40-50 heures
+50-60 heures
+60-70 heures
+70-80 heures
+80-90 heures
+90-100 heures
+100 heures et plus
