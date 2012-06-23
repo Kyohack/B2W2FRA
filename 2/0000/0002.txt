@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-ポケモンを　えらんでください
-どの　ポケモンに　つかう？
-どれと　いれかえる？
-どの　ポケモンで　たたかう？
-どの　ポケモンを　もどす？
+Choisissez un Pokémon.
+Sur quel Pokémon l'utiliser?
+Remplacer lequel?
+Combattre en utilisant quel Pokémon?
+Changer quel Poékmon?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -22,33 +22,33 @@ L\xf000Ȃ\x0001\x0000
 いれかえる
 ♂
 ♀
-つよさをみる
+RESUME
 わざをみる
-たたかえない
-せんとうちゅう
-たいきちゅう
-パートナー
-もちものなし
+Ne peut pas combattre
+En combat
+Est prêt
+Partenaire
+Aucun objet tenue
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Ｌｖ．
 \xf000Ȃ\x0001\x0000
-つぎのレベルまで
+NIVEAU SUIVANT
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
-ＨＰ
+PV
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-こうげき
+ATTAQUE
 \xf000Ȃ\x0001\x0000
-ぼうぎょ
+DEFENSE
 \xf000Ȃ\x0001\x0000
-とくこう
+ATQ SPE
 \xf000Ȃ\x0001\x0000
-とくぼう
+DEF SPE
 \xf000Ȃ\x0001\x0000
-すばやさ
+VITESSE
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 ＰＰ
@@ -56,19 +56,19 @@ L\xf000Ȃ\x0001\x0000
 \xf000ȁ\x0001\x0000
 ／
 ――
-いりょく
+POUVOIR
 \xf000Ȃ\x0001\x0000
 ―
-めいちゅう
+PRECISION
 \xf000Ȃ\x0001\x0000
-ぶんるい
+CATEGORIE
 ぶつり
-へんか
-とくしゅ
+STATUS
+SPECIALE
 アピールポイント
-わすれさせる
-やめる
-たいせつな　わざです！\xfffeわすれることは　できません！
+Oublier
+Annuler
+La CS ne peut être\xfffeoublier maintenant.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
