@@ -1,6 +1,6 @@
-どうぐ
-かいふく
-わざマシン
-きのみ
-たいせつなもの
-フリースペース
+OBJETS
+MÉDICAMENTS
+CT & CS
+BAIES
+OBJETS RARES
+ESPACE LIBRE
