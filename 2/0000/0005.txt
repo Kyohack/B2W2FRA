@@ -1,3 +1,3 @@
-データを　よめませんでした\xfffeでんげんを　きって\xfffeカードを　さしこみなおしてください
-データを　かけませんでした\xfffe\xfffeでんげんを　きって\xfffeカードを　さしこみなおしてください
-データを　かけませんでした\xfffe\xfffeバックアップきのうの　こしょう\xfffeまたは　じゅみょうが　きました\xfffeセーブすることは　できませんが\xfffeゲームを　あそぶことはできます\xfffe\xfffeでんげんを　きってください
+La sauvegarde ne peut être lu.\xfffeVeuillez appuyez sur le bouton power\xfffeet relancer le jeu.
+La sauvegarde ne peut être lu.\xfffe\Veuillez appuyez sur le bouton power\xfffeet relancer le jeu.
+La sauvegarde ne peut être lu.\xfffe\xfffeVeuillez appuyez\xfffesur le bouton power\xfffetoutes données non\xfffesauvegardés\xfffe\xfffeseront perdues
