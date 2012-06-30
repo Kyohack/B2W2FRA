@@ -1,24 +1,24 @@
-つかう
-すてる
-とうろく
-もたせる
-タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
-あずかる
-あずける
-みる
-なし
-かいじょ
-？？？
-？？？？？
+UTILISER
+JETER
+ENREGISTRER
+DONNER
+VUE
+COMFIRMER
+EXECUTER
+RETOURNER
+FERMER
+AFFICHER
+FACTICE
+ANNULER
+SAC
+COURIER
+PRENDRE
+DONNER
+EXAMINER
+RIEN
+Annuler la selection
+???
+????
 ／
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 ―
@@ -26,33 +26,33 @@
 ―――
 ♂
 ♀
-Ｌｖ．
-Ｎｏ
+LV.
+N°
 ＋
 →
-ＩＤＮｏ
+N° ID.
 　
-カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+curseur
+Retourner!
+Faire quoi maintenant?
+DONNER
 \xf000Ȃ\x0001\x0000
 ×
-のみ
+BOIRE
 \xf000ȃ\x0001\x0000まい
-とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
-ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
-これいじょう　あずけられません！
-これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
+ANNULER
+Qu'en est-il de  \xf000ĉ\x0001\x0000?
+Vous ne pouvez pas écrire\xfffeun e-mail ici!
+I'll n' y a pas un pokemon!
+Deplacer \xf000ĉ\x0001\x0000?
+Vous ne pouvez pas leur donner \xfffe\xf000ĉ\x0001\x0000!
+Vous ne pouvez pas leur donner \xfffe\xf000ĉ\x0001\x0000 ice!
+Stocker quelle nomber de \xfffe\xf000ĉ\x0001\x0000?
+Vous avez stocké\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000!
+Vous ne pouvez pas stockez plus!
+Ce element est important\xfffeVous ne pouvez pas jeter il.
+Jeter quelle nomber de \xf000ĉ\x0001\x0000?
+Vous avez jeté \xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000!
 \xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
 アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
 ここでは　おりられない！
