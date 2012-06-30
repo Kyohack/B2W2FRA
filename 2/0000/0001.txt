@@ -26,28 +26,28 @@ Statut
 Soins
 Poké Balls
 Objets de combat
-／
+/ 
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
 Utiliser
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-Ca ne fera rien de bon d'utiliser cela !
-Ca a été enfermé dans un nuage de fumée blanche！\xfffe
-\xf000Ă\x0001\x0000 \xfffeis a été drainé !
-\xf000Ă\x0001\x0000's \xfffeAttaque augmente !
-\xf000Ă\x0001\x0000's \xfffeAttaque Spéciale augmente !
-\xf000Ă\x0001\x0000's \xfffeVitesse augmente !
-\xf000Ă\x0001\x0000's \xfffeDéfense Spéciale augmente !
-\xf000Ă\x0001\x0000's \xfffeDéfense augmente !
-\xf000Ă\x0001\x0000's \xfffePrécision augmente !
+Ca ne fera rien de bon d'utiliser cela!
+Ca a été enfermé dans un nuage de fumée blanche!\xfffe
+\xf000Ă\x0001\x0000 \xfffeis a été drainé!
+\xf000Ă\x0001\x0000's \xfffeAttaque augmente!
+\xf000Ă\x0001\x0000's \xfffeAttaque Spéciale augmente!
+\xf000Ă\x0001\x0000's \xfffeVitesse augmente!
+\xf000Ă\x0001\x0000's \xfffeDéfense Spéciale augmente!
+\xf000Ă\x0001\x0000's \xfffeDéfense augmente!
+\xf000Ă\x0001\x0000's \xfffePrécision augmente!
 \xf000ĉ\x0001\x0000 \xfffea été utilisé
-Deuxième Pokémon\xfffemakes it impossible to aim!
-There is not room left in your PC!
-\xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
-It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
-It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
-Not enough energy!
-Professor Juniper’s words echoed...\xfffeThere is a time and place for everything! But not now.\xf000븀\x0000\xfffe
-You cannot throw the ball\xfffewithout concentrating!
-The Ball cannot be used \xfffebecause of the device Ghetsis used!
+Il est impossible de viser \xfffeà cause de deuxiéme pokemon!
+Il n'y a pas de place dans votre PC! 
+l'effect de \xf000ć\x0001\x0001 Empêche l'utilisation d'un autre élément!  \xfffe\xf000Ă\x0001\x0000
+Il n'est pas bon, il est impossible\xfffede visent à un Pokémon pas en vue! 
+Il n'est pas bon, il est impossible\xfffede visent à un Pokémon pas en vue! 
+Pas assez d'énergie! 
+Le professeur Juniper mots écho ...\xfffeIl y a un temps et un lieu pour tout! Mais pas maintenant.\xf000븀\x0000\xfffe
+Vous ne pouvez pas lancer le ballon \xfffeSans vous concentrer!
+La balle ne peut pas être utilisé \xfffeEn raison de l'appareil Ghetsis utilisé! 
