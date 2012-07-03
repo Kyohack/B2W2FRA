@@ -149,11 +149,11 @@ Choisissez svp le\xfffeque vous cherchait!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-Comment voulez-vous organiser?
+Comment voulez vous organiser?
 Par type
 Par nom
-おおいじゅん
-Du plus petit au plus grand
+Plus
+Faible niveau
 Ordre numérique
 もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xfffeveut organiser par ordre numérique!
