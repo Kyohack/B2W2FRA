@@ -32,21 +32,21 @@ Objets de combat
 Utiliser
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-Cela ne va rien faire!
-Ca a été enfermé dans un nuage de fumée blanche！\xfffe
-\xf000Ă\x0001\x0000 \xfffeis a été drainé !
-L'attaque de \xf000Ă\x0001\x0000 \xfffe augmente !
-L'attaque spéciale de \xf000Ă\x0001\x0000 \xfffe augmente !
-La vitesse de \xf000Ă\x0001\x0000 \xfffe augmente !
-La défense spéciale de \xf000Ă\x0001\x0000 \xfffe augmente !
-La défense de \xf000Ă\x0001\x0000 \xfffe augmente !
-La précision de \xf000Ă\x0001\x0000 augmente !
-\xf000ĉ\x0001\x0000を\xfffe a été utilisé !
-だめだ！　２ひきいて\xfffeねらいが　さだまらない…… !
-Il n'y a plus de place libre dans le PC !
+Cela n'a aucun effet!
+Votre équipe s'entoure \xfffe de brume!
+\xf000Ă\x0001\x0000は\xfffe se gonfle!
+L'attaque de \xf000Ă\x0001\x0000 \xfffe augmente!
+L'attaque spéciale de \xf000Ă\x0001\x0000 \xfffe augmente!
+La vitesse de \xf000Ă\x0001\x0000 \xfffe augmente!
+La défense spéciale de \xf000Ă\x0001\x0000 \xfffe augmente!
+La défense de \xf000Ă\x0001\x0000 \xfffe augmente!
+La précision de \xf000Ă\x0001\x0000 augmente!
+\xf000ĉ\x0001\x0000を\xfffe a été utilisé!
+Impossible! On ne peut pas viser\xfffe quand il y a deux Pokémon!
+Il n'y a plus de place libre dans le PC!
 \xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
-It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
-It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
+Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
+Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
 Vous n'avez pas assez d'énergie !
 Conseil du professeur...\xfffeChaque chose en son temps !
 Vous ne pouvez pas lancer la ball\xfffeボールは　じょうずに　なげられない！
