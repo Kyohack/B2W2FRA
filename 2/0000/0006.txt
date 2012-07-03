@@ -140,12 +140,12 @@ Vos objets ont été\xfffeorganisés!
 \xf000Ē\x0001\x0000
 \xfffeveut organiser par type!
 \xfffeveut organiser par nom!
-おおいじゅんに\xfffeもちものを　せいり　しました！
-\xfffeveut organiser par ordre assendent!
-ぜんぶ
-フリースペースへ
-もとのポケットへ
-Selectionner ce \xfffeque vous cherchez!
+\xfffeveut organiser par ordre descendant!
+\xfffeveut organiser par ordre ascendant!
+Total
+Mettre de la place
+Poche original
+Choisissez svp le\xfffeque vous cherchait!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
