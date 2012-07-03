@@ -26,11 +26,11 @@ DESELECTIONNER
 ―――
 ♂
 ♀
-Ｌｖ．
-Ｎｏ
+LV.
+N°
 ＋
 →
-ＩＤＮｏ
+N° ID.
 　
 Curseur
 Recule!
