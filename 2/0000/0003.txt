@@ -51,11 +51,11 @@ Random Matchup, Rating\xfffeDouble
 Random Matchup, Rating\xfffeTriple
 Random Matchup, Rating\xfffeRotation
 Random Matchup, Rating\xfffeLauncher Battle
-Combat Simple\xfffeシューターなし
-Combat Simple\xfffeシューターあり
-Combat Double\xfffeシューターなし
-Combat Double\xfffeシューターあり
-Combat Triple\xfffeシューターなし
-Combat Triple\xfffeシューターあり
-Combat Rotatif\xfffeシューターなし
-Combat Rotatif\xfffeシューターあり
+Match　Solo\xfffeSans lanceur
+Match　Solo\xfffeAvec lanceur
+Match　Double\xfffeSans lanceur
+Match　Double\xfffeAvec lanceur
+Match　Triple\xfffeSans lanceur
+Match　Triple\xfffeAvec lanceur
+Match　Rotation\xfffeSans lanceur
+Match　Rotation\xfffeAvec lanceur
