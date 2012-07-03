@@ -49,5 +49,5 @@ Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
 Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
 Vous n'avez pas assez d'énergie !
 Conseil du professeur...\xfffeChaque chose en son temps !
-Vous ne pouvez pas lancer la ball\xfffeボールは　じょうずに　なげられない！
-La ball ne peut pas être utilisée\xfffeボールは　つかえない！！
+Impossible de viser\xfffesans être concentré !
+La ball est inutilisable à\xfffecause de l'effet de l'appareil Ghetsis !
