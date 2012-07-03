@@ -42,12 +42,12 @@ La défense spéciale de \xf000Ă\x0001\x0000 \xfffe augmente!
 La défense de \xf000Ă\x0001\x0000 \xfffe augmente!
 La précision de \xf000Ă\x0001\x0000 augmente!
 \xf000ĉ\x0001\x0000を\xfffe a été utilisé!
-Il est impossible de viser \xfffeà cause de deuxiéme pokemon!
-Il n'y a pas de place dans votre PC! 
-l'effect de \xf000ć\x0001\x0001 Empêche l'utilisation d'un autre élément!  \xfffe\xf000Ă\x0001\x0000
+Impossible \xfffequand il y a deux Pokémons!
+Il n'y a plus de place dans le PC!
+\xf000ć\x0001\x0001 empêche l'utilisation de \xfffesur \xf000Ă\x0001\x0000!
 Il n'est pas bon, il est impossible\xfffede visent à un Pokémon pas en vue! 
 Il n'est pas bon, il est impossible\xfffede visent à un Pokémon pas en vue! 
-Pas assez d'énergie! 
-Le professeur Juniper mots écho ...\xfffeIl y a un temps et un lieu pour tout! Mais pas maintenant.\xf000븀\x0000\xfffe
-Vous ne pouvez pas lancer le ballon \xfffeSans vous concentrer!
-La balle ne peut pas être utilisé \xfffeEn raison de l'appareil Ghetsis utilisé!
+Pas assez d'énergie !
+Vous vous souvenz des mots du Professeur Juniper : \xfffeCe n'est pas le moment de faire ça!\xf000븀\x0000\xfffe
+Impossible \xfffesans concentration!
+La balle ne peut être utilisée \xfffeà cause du dispositif de Ghetsis!
