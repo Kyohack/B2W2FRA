@@ -1,107 +1,107 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
+『Mode Recherche』
+Merci d'entrer les critères de recherche.
+『Résultat de la Recherche』
+\xf000Ȃ\x0001\x0000 n'a pas été trouvé.
+Merci d'entrer l'ordre.
+Merci d'entrer la première lettre du nom.
+Merci d'entrer le type.
+Merci d'entrer la forme.
+Merci d'entrer la couleur.
+Pokémon trouvé !
+Aucun Pokémon trouvé...
+Recherche...
+ORDRE
+NOM
+TYPE
+COULEUR
+FORME
+Pokédex Unys : Mode Recherche
+Pokédex National : Mode Recherche
+RESET
+COMMENCER
+RETOUR
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+ACCEPTER
+RETOUR
+Numéro
+A à Z
+Lourd à Léger
+Léger à Lourd
+Grand à Petit
+Petit à Grand
+Ténèbre
+Roche
+Psy
+Combat
+Plante
+Glace
+Spectre
+Sol
+Electrique
+Poison
+Dragon
+Normal
+Acier
+Vol
+Feu
+Eau
+Insecte
 ――――
 ／
 ――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Rouge
+Bleu
+Jaune
+Vert
+Noir
+Marron
+Violet
+Gris
+Blanc
+Rose
 ――――
