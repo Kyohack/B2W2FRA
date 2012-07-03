@@ -1,11 +1,11 @@
-あなたの　なまえは？
-\xf000ā\x0001\x0000の　なまえは？
-ボックスの　なまえは？
-ライバルの　なまえは？
-ともだちの　なまえは？
-すれちがった　あいてへの　あいさつは？
-すれちがった　あいてへの　おれいは？
-すれちがった　あいてへ\xfffeつたえたい　メッセージは？
+Ton nom?
+Surnom de \xf000ā\x0001\x0000?
+Boite de nom?
+Le nom de ton rival?
+Le nom de ton ami?
+Comment salues-tu un passant?
+Comment remercies-tu un passant?
+Quel est ton message aux passants?
 この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
 あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
 じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
@@ -15,15 +15,15 @@
 さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
 すれちがった　あいてへの\xfffeよろこびの　メッセージは？
 ポケモンの　なまえは？
-なまえを　いれてください！
-にゅうりょく　できる　すうじは\xfffe４もじ　まで　です
+Entre ton nom s'il te plait.
+Les nombres doivent contenir\xfffeseulement jusqu'à 4 chiffres.
 ゲームシンクＩＤコードが\xfffeまちがっています
 　
 　
-よろしく！
-ありがとう！
-ホワイト．
-ブラック．
+Meilleures salutations!
+Merci!
+Blanc.
+Noir.
 ♂
 ♀
 にゅうりょくしてください
