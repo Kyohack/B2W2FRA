@@ -1,233 +1,233 @@
-なし
-マスターボール
-ハイパーボール
-スーパーボール
-モンスターボール
-サファリボール
-ネットボール
-ダイブボール
-ネストボール
-リピートボール
-タイマーボール
-ゴージャスボール
-プレミアボール
-ダークボール
-ヒールボール
-クイックボール
-プレシャスボール
-キズぐすり
-どくけし
-やけどなおし
-こおりなおし
-ねむけざまし
-まひなおし
-かいふくのくすり
-まんたんのくすり
-すごいキズぐすり
-いいキズぐすり
-なんでもなおし
-げんきのかけら
-げんきのかたまり
-おいしいみず
-サイコソーダ
-ミックスオレ
-モーモーミルク
-ちからのこな
-ちからのねっこ
-ばんのうごな
-ふっかつそう
-ピーピーエイド
-ピーピーリカバー
-ピーピーエイダー
-ピーピーマックス
-フエンせんべい
-きのみジュース
-せいなるはい
-マックスアップ
-タウリン
-ブロムヘキシン
-インドメタシン
-リゾチウム
-ふしぎなアメ
-ポイントアップ
-キトサン
-ポイントマックス
-もりのヨウカン
-エフェクトガード
-クリティカット
-プラスパワー
-ディフェンダー
-スピーダー
-ヨクアタール
-スペシャルアップ
-スペシャルガード
-ピッピにんぎょう
-エネコのシッポ
-あおいビードロ
-きいろビードロ
-あかいビードロ
-くろいビードロ
-しろいビードロ
-あさせのしお
-あさせのかいがら
-あかいかけら
-あおいかけら
-きいろいかけら
-みどりのかけら
-シルバースプレー
-ゴールドスプレー
-あなぬけのヒモ
-むしよけスプレー
-たいようのいし
-つきのいし
-ほのおのいし
-かみなりのいし
-みずのいし
-リーフのいし
-ちいさなキノコ
-おおきなキノコ
-しんじゅ
-おおきなしんじゅ
-ほしのすな
-ほしのかけら
-きんのたま
-ハートのウロコ
-あまいミツ
-すくすくこやし
-じめじめこやし
-ながながこやし
-ねばねばこやし
-ねっこのカセキ
-ツメのカセキ
-かいのカセキ
-こうらのカセキ
-ひみつのコハク
-たてのカセキ
-ずがいのカセキ
-きちょうなホネ
-ひかりのいし
-やみのいし
-めざめいし
-まんまるいし
-かなめいし
-はっきんだま
-？？？
-？？？
-？？？
-アクアカセット
-イナズマカセット
-ブレイズカセット
-フリーズカセット
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-？？？
-ハートスイーツ
-こんごうだま
-しらたま
-はじめてメール
-だいすきメール
-おさそいメール
-かんしゃメール
-しつもんメール
-おすすめメール
-おかえしメール
-ブリッジメールＳ
-ブリッジメールＨ
-ブリッジメールＣ
-ブリッジメールＶ
-ブリッジメールＷ
-クラボのみ
-カゴのみ
-モモンのみ
-チーゴのみ
-ナナシのみ
-ヒメリのみ
-オレンのみ
-キーのみ
-ラムのみ
-オボンのみ
-フィラのみ
-ウイのみ
-マゴのみ
-バンジのみ
-イアのみ
-ズリのみ
-ブリーのみ
-ナナのみ
-セシナのみ
-パイルのみ
-ザロクのみ
-ネコブのみ
-タポルのみ
-ロメのみ
-ウブのみ
-マトマのみ
-モコシのみ
-ゴスのみ
-ラブタのみ
-ノメルのみ
-ノワキのみ
-シーヤのみ
-カイスのみ
-ドリのみ
-ベリブのみ
-オッカのみ
-イトケのみ
-ソクノのみ
-リンドのみ
-ヤチェのみ
-ヨプのみ
-ビアーのみ
-シュカのみ
-バコウのみ
-ウタンのみ
-タンガのみ
-ヨロギのみ
-カシブのみ
-ハバンのみ
-ナモのみ
-リリバのみ
-ホズのみ
-チイラのみ
-リュガのみ
-カムラのみ
-ヤタピのみ
-ズアのみ
-サンのみ
-スターのみ
-ナゾのみ
-ミクルのみ
-イバンのみ
-ジャポのみ
-レンブのみ
-ひかりのこな
-しろいハーブ
-きょうせいギプス
-がくしゅうそうち
-せんせいのツメ
-やすらぎのすず
-メンタルハーブ
-こだわりハチマキ
-おうじゃのしるし
-ぎんのこな
-おまもりこばん
-きよめのおふだ
-こころのしずく
-しんかいのキバ
-しんかいのウロコ
-けむりだま
-かわらずのいし
+Aucun
+Master Ball
+Hyper Ball
+Super Ball
+Poké Ball
+Safari Ball
+Filet Ball
+Scuba Ball
+Faiblo Ball
+Bis Ball
+Chrono Ball
+Luxe Ball
+Premier Ball
+Sombre Ball
+Soin Ball
+Rapide Ball
+MÃ©moire Ball
+Potion
+Antidote
+Anti-Brûle
+Antigel
+Réveil
+Anti-Para
+Guérison
+Potion Max
+Hyper Potion
+Super Potion
+Total Soin
+Rappel
+Rappel Max
+Eau FraÃ®che
+Soda Cool
+Limonade
+Lait Meumeu
+PoudrÃ©nergie
+RacinÃ©nergie
+Poudre soin
+Herbe Rappel
+Huile
+Huile Max
+Elixir
+Max Elixir
+Lava Cookie
+Jus de Baie
+CendredacrÃ©e
+PV Plus
+ProtÃ©ine
+Fer
+Carbone
+Calcium
+Super Bonbon
+PP Plus
+Zinc
+PP Max
+Vieux GÃ¢teau
+DÃ©fense Spec.
+Muscle +
+Attaque +
+DÃ©fense +
+Vitesse +
+PrÃ©cision +
+SpÃ©cial +
+Def.SpÃ© +
+Poképoupée
+Fluffy Tail
+Flûte bleu
+Flûte jaune
+Flûterouge
+Flûtenoire
+Flûteblanche
+Shoal Salt
+Co. Tréfonds
+Tresson Rouge
+Tesson Bleu
+Tesson Jaune
+Tesson Verte
+Super Repousse
+Max Repousse
+Corde Sortie
+Repousse
+Pierre Soleil
+Pierre Lune
+Pierre Feu
+Pierre Foudre
+Pierre Eau
+Pierre Plante
+Petit Champi
+Grand Champi
+Perle
+Grande perle
+Pouss. Étoile
+Morc. Étoile
+Pépite
+Écaillecoeur
+Miel
+Fertipousse
+Fertihumide
+Fertistable
+Fertiglu
+Foss. Racine
+Foss. Griffe
+Foss. Nautile
+Foss. Dôme
+Vieil Ambre
+Foss. Armure
+Foss. Crâne
+Masse Os
+Pierre Éclat
+Pierre Nuit
+Pierre Aube
+Pierre Ovale
+Clé de Voûte
+Orbe Platiné
+???
+???
+???
+Module Aqua
+Module Choc
+Module Pyro
+Module Cryo
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Chococoeurs
+Orbe Adamant
+Orbe Perlé
+Lettre Salut
+Lettre Fan
+Lettre Invit
+Lettre Merci
+Lettre Demande
+Lettre Avis
+Lettre Réponse
+Lettre Pont S
+Lettre Pont D
+Lettre Pont T
+Lettre Pont V
+Lettre Pont M
+Baie Ceriz
+Baie marron
+Baie pecha
+Baie Fraive 
+Baie Willia 
+Baie Mepo 
+Baie Oran 
+Baie Kika 
+Baie Prine 
+Baie Sitrus 
+Baie Figuy 
+Baie Wiki 
+Baie Mago 
+Baie Gowav 
+Baie Papaya 
+Baie Framby 
+Baie Remu 
+Baie Nanab 
+Baie Repoi 
+Baie Nanana 
+Baie Grena 
+Baie Alga 
+Baie Qualot 
+Baie Lonme 
+Baie Resin 
+Baie Tamato 
+Baie Siam 
+Baie Mangou 
+Baie Rabuta 
+Baie Tronci 
+Baie Kiwan 
+Baie Palma 
+Baie Stekpa 
+Baie Durin 
+Baie Myrte 
+Baie Chocco 
+Baie Pocpoc 
+Baie Parma 
+Baie Ratam 
+Baie Nanone 
+BaiePomroz 
+Baie Kébia 
+Baie Jouca 
+Baie Cobaba 
+Baie Yapap 
+Baie Panga 
+Baie Charti 
+Baie Sédra 
+Baie Fraigo 
+Baie Lampou 
+Baie Babiri 
+Baie Zalis 
+Baie Lichii 
+Baie Lingan 
+Baie Sailak 
+Baie Pitaye 
+Baie Abriko 
+Baie Lansat 
+Baie Frista 
+Baie Enigma 
+Baie Micle 
+Baie Chérim 
+Baie Jaboca 
+Baie Pommo 
+Poudreclaire
+HerbeBlanche
+Brac. Macho
+Multi Exp
+Vive Griffe
+Grelot Zen
+Herbe Mental
+Band. Choix
+Roche Royale
+Cuillertordu
+Pièce Rune
+Rune Purif.
+Rosée âme
+Dent Ocean
+Écaillocean
+Boule fumée
+Pierre Staseし
 きあいのハチマキ
 しあわせタマゴ
 ピントレンズ
