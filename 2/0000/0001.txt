@@ -43,11 +43,11 @@ La défense de \xf000Ă\x0001\x0000 \xfffe augmente!
 La précision de \xf000Ă\x0001\x0000 augmente!
 \xf000ĉ\x0001\x0000を\xfffe a été utilisé!
 Impossible! On ne peut pas viser\xfffe quand il y a deux Pokémon!
-Il n'y a plus de place libre dans le PC!
-\xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
-Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
-Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
-Vous n'avez pas assez d'énergie !
-Conseil du professeur...\xfffeChaque chose en son temps !
-Vous ne pouvez pas lancer la ball\xfffeボールは　じょうずに　なげられない！
-La ball ne peut pas être utilisée\xfffeボールは　つかえない！！
+Il n'y a plus de place dans votre PC!
+L'effet de \xf000ć\x0001\x0001 empêche l'utilisation d'un objet! \xfffe\xf000Ă\x0001\x0000
+Ce n'est pas bon, il est impossible\xfffeto de viser un pokémon hors de vue !
+Ce n'est pas bon, il est impossible\xfffeto de viser un pokémon hors de vue !
+Plus assez d'energie!
+Les mots du professeur Juniper résonnent...\xfffeIl y a un temps et un endroit pour tout! Mais pour le moment.\xf000븀\x0000\xfffe
+Impossible de lancer une pokéball\xfffesans concentration !
+La balle ne peut être utilisée \xfffeà cause de la machine de Ghetis !
