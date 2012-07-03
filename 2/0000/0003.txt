@@ -18,44 +18,44 @@ Limite de temps:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 ENREGISTREMENT PRECEDENT
-Colosseum Single,\xfffePas de restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffePas de restrictions, Lanceur Activé
-Colosseum Single,\xfffeFlat, Lanceur Activé
-Colosseum Double,\xfffePas de restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffePas de restrictions, Lanceur Activé
-Colosseum Double,\xfffeFlat, Lanceur Activé
-Colosseum Triple,\xfffePas de restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffePas de restrictions, Lanceur Activé
-Colosseum Triple,\xfffeFlat, Lanceur Activé
-Colosseum Rotation,\xfffePas de restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffePas de restrictions, Lanceur Activé
-Colosseum Rotation,\xfffeFlat, Lanceur Activé
-Colosseum Multi,\xfffePas de restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffePas de restrictions, Lanceur Activé
-Colosseum Multi,\xfffeFlat, Lanceur Activé
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+Colisé Solo,\xfffePas de restrictions
+Colisé Solo,\xfffeFlat
+Colisé Solo,\xfffePas de restrictions, Lanceur Activé
+Colisé Solo,\xfffeFlat, Lanceur Activé
+Colisé Double,\xfffePas de restrictions
+Colisé Double,\xfffeFlat
+Colisé Double,\xfffePas de restrictions, Lanceur Activé
+Colisé Double,\xfffeFlat, Lanceur Activé
+Colisé Triple,\xfffePas de restrictions
+Colisé Triple,\xfffeFlat
+Colisé Triple,\xfffePas de restrictions, Lanceur Activé
+Colisé Triple,\xfffeFlat, Lanceur Activé
+Colisé Rotation,\xfffePas de restrictions
+Colisé Rotation,\xfffeFlat
+Colisé Rotation,\xfffePas de restrictions, Lanceur Activé
+Colisé Rotation,\xfffeFlat, Lanceur Activé
+Colisé Multi,\xfffePas de restrictions
+Colisé Multi,\xfffeFlat
+Colisé Multi,\xfffePas de restrictions, Lanceur Activé
+Colisé Multi,\xfffeFlat, Lanceur Activé
+Combat Métro,\xfffeSolo
+Combat Métro,\xfffeDouble
+Combat Métro,\xfffeMulti
+Affrontement Aléatoire, Libre\xfffeSolo
+Affrontement Aléatoire, Libre\xfffeDouble
+Affrontement Aléatoire, Libre\xfffeTriple
+Affrontement Aléatoire, Libre\xfffeRotation
+Affrontement Aléatoire, Libre\xfffeLauncher Battle
+Affrontement Aléatoire, Classement\xfffeSolo
+Affrontement Aléatoire, Classement\xfffeDouble
+Affrontement Aléatoire, Classement\xfffeTriple
+Affrontement Aléatoire, Classement\xfffeRotation
+Affrontement Aléatoire, Classement\xfffeCombat de Lanceur
+Competition, Solo\xfffeLanceur Désactivé
+Competition, Solo\xfffeLanceur Activé
+Competition, Double\xfffeLanceur Désactivé
+Competition, Double\xfffeLanceur Activé
+Competition, Triple\xfffeLanceur Désactivé
+Competition, Triple\xfffeLanceur Activé
+Competition, Rotation\xfffeLanceur Désactivé
+Competition, Rotation\xfffeLanceur Activé
