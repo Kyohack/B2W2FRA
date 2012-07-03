@@ -1,3 +1,3 @@
-Supprimer toutes les données\xfffesauvegardées?
-Une fois la sauvegarde suprimée,\xfffeil est impossible de la restaurée.\xf000븁\x0000\xfffeVoulez-vous vraiment supprimé\xfffetoutes les données?
-Suppression des données...\xfffeN'eteignez pas la console.
+Supprimer tous les données sauvegardés ?
+Une fois la sauvegarde est effacé,\xfffeil n'y aura aucun moyen de la rétablir.\xf000븁\x0000\xfffeen êtes vous sûr de supprimer\xfffetous les données sauvegardés?
+Supression de tous les données sauvegardés...\xfffeN'éteignez pas la console!
