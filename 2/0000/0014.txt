@@ -1,56 +1,56 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
-ほんとうに　にがしますか？
-\xf000Ă\x0001\x0000を　そとに　にがしてあげた
-ばいばい　\xf000Ă\x0001\x0000！
-てもちが　いっぱいです！
-たたかうポケモンが　いなくなります！
-このボックスを　どうしますか？
-どのボックスに\xfffeジャンプしますか？
-どのテーマに　しますか？
-どの　かべがみに　しますか？
-ボックスそうさを　つづけますか？
-このボックスは　いっぱいです！
-バッグが　いっぱいです！
-\xf000ĉ\x0001\x0000を　あずかった！
-\xf000ĉ\x0001\x0000を　もたせた！
-ポケモンを　タッチ！
-どのボックスへ　あずける？
-もちものなし
+\xf000Ă\x0001\x0000est séléctionné.
+Marquez s'il vous plaît.
+Relâcher ce Pokémon ?
+\xf000Ă\x0001\x0000a été relaché.
+Bye bye,　\xf000Ă\x0001\x0000！
+Il n'y a plus de place dans votre équipe!
+Vous n'avez plus de Pokémon capable de se battre!
+Que voulez vous faire ?
+Aller à quelle boîte ?
+Choisissez un thème.
+Choisissez un fond.
+Continuer la gestion de la boîte?
+Plus de places dans la boîte!
+Votre sac est plein!
+Prends le \xf000ĉ\x0001\x0000
+\xf000ĉ\x0001\x0000 est porté.
+Prendre lequel?
+Le placer dans quelle boîte?
+Aucun objet porté.
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか？
-メールをしまうことは　できません！
-\xf000ĉ\x0001\x0000を　どうしますか？
-\xf000ĉ\x0001\x0000を　しまいますか？
-\xf000ĉ\x0001\x0000を　バッグに　いれた！
-どうぐを　もつことが　できます
-メールを　はずしてください！
-タマゴを　にがすことは　できません！
-がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000が　もどってきちゃった！
-しんぱい　だったのかな……
-タマゴは　どうぐを　もてません！
-マークを　タッチしよう！
-ボックスに　おけます！
-てもちに　くわえることが　できます！
-このボックスは　いっぱいです！
-てもちが　いっぱいです！
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
-もちものを　せいりする
-バトルボックス
-ねかすポケモンをえらぶ
-メールは　いどうできません！
-\xf000ĉ\x0001\x0000を　もてない！
-メールを　もっています！
-たたかうポケモンが　いなくなります！
-メールは　いどうできません！
-ここでは　メールを　もたせられません
-タマゴは　えらべません！
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
-このポケモンは\xfffeいまは　ねむくないみたいです
-ポケモンせんたくを　つづけますか？
-バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
-バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません
+Prendre \xf000ĉ\x0001\x0000?
+Impossible de prendre les lettres!
+\xf000ĉ\x0001\x0000est sélectionné.
+Jeter \xf000ĉ\x0001\x0000?
+\xf000ĉ\x0001\x0000 est placé dans le sac.
+Peut porter un objet.
+Veuillez retirer la lettre.
+Vous ne pouvez pas relâcher un oeuf!
+Vous ne pouvez pas relâcher un Kyurem fusionné!
+\xf000Ă\x0001\x0000est revenu !
+Était-il inquiet pour toi?
+Un Oeuf ne peut pas porter d'objets!
+Touchez la marque!
+DEPOSER PKMN
+RETIRER PKMN
+La boîte est pleine.
+Plus de place dans votre équipe.
+DEPOSER PKMN
+RETIRER PKMN
+DEPLACER PKMN
+DEPLACER OBJET!
+BOITE DE COMBAT
+SELECTIONNER UN PKMN ENDORMI
+La lettre ne peut être retirée!
+Impossible de porter \xf000ĉ\x0001\x0000!
+Il a une lettre!
+Vous n'avez plus de Pokémon capable de se battre！
+Les lettres ne peuvent être déplacées.
+Il ne peut porter de lettre ici.
+Impossible de sélectionner un Oeuf
+\xf000Ă\x0001\x0000sera endormi.\xfffeContinuer？
+Ce Pokémon\xfffen'as pas l'air fatigué pour le moment.
+Sélectionner un autre Pokémon?
+Votre boite de combat est verrouillée.\xfffeVous ne pouvez pas déplacer vos PKMNs.
+Votre boite de combat est verrouillée.\xfffeVous ne pouvez pas prendre/donner des objets.
