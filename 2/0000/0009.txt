@@ -5,4 +5,4 @@ Bien, veuillez choisir les\xfffe4 Pokémons participant.\xf000븁\x0000
 Bien, veuillez choisir les\xfffe6 Pokémons participant.\xf000븁\x0000
 Voullez vous annuler \xfffele combat ?
 Annulation du combat.\xfffeVeuillez patienter...
-La caisse du Dresseur \xf000Ā\x0001\x0000 \xfffeà été montré !
+La Caisse du Dresseur \xf000Ā\x0001\x0000 \xfffeà été montré !
