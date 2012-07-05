@@ -1,117 +1,117 @@
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-もちもの
-せいかく
-とくせい
+OBJET
+NATURE
+CAPACITÉ SPÉC.
 \xf000ċ\x0001\x0000
-ボックス１
-ボックス２
-ボックス３
-ボックス４
-ボックス５
-ボックス６
-ボックス７
-ボックス８
-ボックス９
-ボックス１０
-ボックス１１
-ボックス１２
-ボックス１３
-ボックス１４
-ボックス１５
-ボックス１６
-ボックス１７
-ボックス１８
-ボックス１９
-ボックス２０
-ボックス２１
-ボックス２２
-ボックス２３
-ボックス２４
+BOÎTE 1
+BOÎTE 2
+BOÎTE 3
+BOÎTE 4
+BOÎTE 5
+BOÎTE 6
+BOÎTE 7
+BOÎTE 8
+BOÎTE 9
+BOÎTE 10
+BOÎTE 11
+BOÎTE 12
+BOÎTE 13
+BOÎTE 14
+BOÎTE 15
+BOÎTE 16
+BOÎTE 17
+BOÎTE 18
+BOÎTE 19
+BOÎTE 20
+BOÎTE 21
+BOÎTE 22
+BOÎTE 23
+BOÎTE 24
 \xf000ȁ\x0001\x0000
-ジャンプする
-かべがみ
-なまえ
-やめる
-ふうけい１
-ふうけい２
-ふうけい３
-エトセトラ
-だいすき１
-だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-モノクロ
-プラズマだん
-ポケウッド
-ＰＷＴ
-キュレム１
-キュレム２
-レシラム
-ゼクロム
-もどる
-まえへ
-つぎへ
-てもちポケモン
-ボックスリスト
-バトルボックス
-ボックスをきりかえる
-もちものせいり
-ようすをみる
-もちもの
-マーキング
-にがす
-つれていく
-あずける
-やめる
-いどうする
-いどうする
-ねかせる
-けってい
-やめる
-いれかえ
-やめる
-やめる
-ボックスを\xfffeきりかえる
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
-バッグへ
-もたせる
-いどうする
+CHANGER BOÎTE
+FONDS
+NOM
+ANNULER
+PAYSAGE 1
+PAYSAGE 2
+PAYSAGE 3
+AUTRES
+FAVORIS 1
+FAVORIS 2
+FORÊT
+VILLE
+DÉSERT
+SAVANE
+ROCHERS
+VOLCAN
+NEIGE
+GROTTE
+PLAGE
+MER
+RIVIÈRE
+CIEL
+CENTRE ⒆⒇
+MÉTAL
+VICHY
+UNI
+SPÉCIAL
+MONOCHROME
+TEAM PLASMA
+STUDIOS POKÉSTAR
+PWT
+KYUREM 1
+KYUREM 2
+RESHIRAM
+ZEKROM
+RETOUR
+PRÉCÉDENTE
+SUIVANTE
+ÉQUIPE ⒆⒇
+LISTE BOÎTE
+BOÎTE COMBAT
+CHANGER BOÎTE
+DÉPLACER OBJETS
+RÉSUMÉ
+OBJET
+MARQUER
+RELÂCHER
+RETIRER
+DÉPOSER
+ANNULER
+DÉPLACER
+DÉPLACER
+BORDER
+CONFIRMER
+ANNULER
+REMPLACER
+QUITTER
+QUITTER
+CHANGER\xfffeBOÎTE
+CHANGER\xfffeFONDS
+DÉPOSER\xfffePOKÉMON
+SAC
+DONNER
+DÉPLACER
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
+NATURE
+CAPACITÉ SPÉC.
+OBJET
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-なし
-？？？
-Ｌｖ．
-Ｎｏ．
-もっているわざ
-はい
-いいえ
-ボックスを　せいりする
-バトルボックス
+Rien
+???
+N.
+N° 
+CAPACITÉS
+OUI
+NON
+DÉPLACER POKÉMON
+BOÎTE COMBAT
 ポケモンを　しぼりこむ
 じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
