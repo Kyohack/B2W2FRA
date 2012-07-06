@@ -1,7 +1,7 @@
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
-Ｃギアの　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
-\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
-Ｃギアの　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-はい
-いいえ
+Activer le C-Gear et démarrer\xfffela communication sans fil?
+S'il est activé, fermer la console ne\xfffela mettra pas en Mode Veille.\xfffeAlors, attention à la batterie!
+Désactiver le C-Gear et arrêter\xfffela communication sans fil?
+\xf000\xff00\x0001\x0001ATTENTION!\xf000\xff00\x0001\x0000\xfffeDésactivez le C-Gear dans les endroits où\xfffela communication sans fil est interdite,\xfffecomme les avions ou les hôpitaux.
+Impossible d'activer le C-Gear.\xfffeLa fonction de communication sans fil\xfffedoit être activée dans les paramètres\xfffede la console. (50699)
+OUI
+NON
