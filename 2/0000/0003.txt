@@ -1,61 +1,61 @@
-Voulez vous sauvegarder le dernier combat\xfffecomme votre Vidéo de Combat?
+Voulez-vous enregistrer la vidéo du\xfffedernier combat sur le Magnéto VS?
 Oui
 Non
-Le dernier combat ne sera pas sauvé.\xfffeOK?
+Il ne restera aucune vidéo\xfffede ce combat. Continuer?
 Oui
 Non
-Votre vidéo de combat précédente sera\xfffeécrasée, OK?
+Écraser la Vidéo de combat précédente?
 Oui
 Non
-Sauvegarde de la vidéo du combat...\xfffeN'eteignez pas la console.
-La vidéo a été sauvegardé.
-Il y a eu une erreur.\xfffeLa vidéo n'as pas pu être sauvée.
-Attente de la décision de votre ami...\xfffeVeuillez patienter.
-Vous ne pouvez pas sauvegarder de \xfffevidéo avec ce dresseur... Veuillez patienter.
-Vous ne pouvez pas sauvegarder de \xfffevidéo avec ce dresseur.
-Le dernier combat ne peut pas être sauvé.
-Limite de temps:
+Enregistrement en cours...\xfffeNe pas éteindre.
+La Vidéo de combat a été sauvegardée!
+Une erreur est survenue.\xfffeLa sauvegarde a échoué.
+En attente d'une réponse de votre\xfffepartenaire. Veuillez patienter.
+Impossible d'enregistrer avec ce\xfffepartenaire. Veuillez patienter.
+Impossible d'enregistrer avec ce\xfffepartenaire.
+Impossible d'enregistrer la vidéo.
+TEMPS RESTANT
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-ENREGISTREMENT PRECEDENT
-Colosseum Single,\xfffePas de restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffePas de restrictions, Lanceur Activé
-Colosseum Single,\xfffeFlat, Lanceur Activé
-Colosseum Double,\xfffePas de restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffePas de restrictions, Lanceur Activé
-Colosseum Double,\xfffeFlat, Lanceur Activé
-Colosseum Triple,\xfffePas de restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffePas de restrictions, Lanceur Activé
-Colosseum Triple,\xfffeFlat, Lanceur Activé
-Colosseum Rotation,\xfffePas de restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffePas de restrictions, Lanceur Activé
-Colosseum Rotation,\xfffeFlat, Lanceur Activé
-Colosseum Multi,\xfffePas de restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffePas de restrictions, Lanceur Activé
-Colosseum Multi,\xfffeFlat, Lanceur Activé
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Match　Solo\xfffeSans lanceur
-Match　Solo\xfffeAvec lanceur
-Match　Double\xfffeSans lanceur
-Match　Double\xfffeAvec lanceur
-Match　Triple\xfffeSans lanceur
-Match　Triple\xfffeAvec lanceur
-Match　Rotation\xfffeSans lanceur
-Match　Rotation\xfffeAvec lanceur
+VIDÉO PRÉCÉDENTE
+Colisée Solo\xfffeTout est permis
+Colisée Solo\xfffeDans les règles
+Colisée Solo\xfffeTout est permis, avec Shooter
+Colisée Solo\xfffeDans les règles, avec Shooter
+Colisée Duo\xfffeTout est permis
+Colisée Duo\xfffeDans les règles
+Colisée Duo\xfffeTout est permis, avec Shooter
+Colisée Duo\xfffeDans les règles, avec Shooter
+Colisée Trio\xfffeTout est permis
+Colisée Trio\xfffeDans les règles
+Colisée Trio\xfffeTout est permis, avec Shooter
+Colisée Trio\xfffeDans les règles, avec Shooter
+Colisée Rotatif\xfffeTout est permis
+Colisée Rotatif\xfffeDans les règles
+Colisée Rotatif\xfffeTout est permis, avec Shooter
+Colisée Rotatif\xfffeDans les règles, avec Shooter
+Colisée Multi\xfffeTout est permis
+Colisée Multi\xfffeDans les règles
+Colisée Multi\xfffeTout est permis, avec Shooter
+Colisée Multi\xfffeDans les règles, avec Shooter
+Métro de Combat\xfffeSolo
+Métro de Combat\xfffeDuo
+Métro de Combat\xfffeMulti
+Rencontre Aléatoire Libre\xfffeSolo
+Rencontre Aléatoire Libre\xfffeDuo
+Rencontre Aléatoire Libre\xfffeTrio
+Rencontre Aléatoire Libre\xfffeRotatif
+Rencontre Aléatoire Libre\xfffeCombat Shooter
+Rencontre Aléatoire par Rang\xfffeSolo
+Rencontre Aléatoire par Rang\xfffeDuo
+Rencontre Aléatoire par Rang\xfffeTrio
+Rencontre Aléatoire par Rang\xfffeRotatif
+Rencontre Aléatoire par Rang\xfffeCombat Shooter
+Compétition\xfffeSolo, sans Shooter
+Compétition\xfffeSolo, avec Shooter
+Compétition\xfffeDuo, sans Shooter
+Compétition\xfffeDuo, avec Shooter
+Compétition\xfffeTrio, sans Shooter
+Compétition\xfffeTrio, avec Shooter
+Compétition\xfffeRotatif, sans Shooter
+Compétition\xfffeRotatif, avec Shooter
