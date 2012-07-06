@@ -1,146 +1,146 @@
-むかいとう
-ブラック２
-ホワイト２
-おとこ
-おんな
-たいせん
-こうかん
-とかい
-いなか
-あたまがいい
-うんどうできる
-じかん
-おかね
-がいけん
-なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
-ー
-かこにいく
-みらいにいく
-ひつようない
-かぞく
-ともだち
-じぶん
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-げんじつをみる
-ー
-ー
-おもしろい
-かっこいい
-やさしい
-おかねもち
-たたかい
-あつめる
-おはなし
-ポケモン
-そらをとぶ
-とうめいになる
-じかんをとめる
-こころをよむ
-つかう
-ためる
-じまんする
-きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
-SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
-えらくなる
-ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-ー
-ー
-ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+Pas de Reponse
+Noir2
+Blanc2
+Mâle
+Femelle
+Combat
+Échange
+La Ville
+La Compagne
+Intelligent
+Athlétique
+Temps
+Argent
+Apparance
+Fortune
+Froid
+Mignon
+Étrange
+Gruikui
+Moustillon
+Vipélierre
+Compétition
+Coopération
+-
+Va en passé
+Va en future
+Pas besoin
+Famille
+Amis
+Soi
+Gens cool
+Personne intelligente
+Homme Amusant
+Personne Étrange
+Chassant un rêve
+Vérification Réalité
+-
+-
+Intéréssant
+Froid
+Bon
+Riche
+Combats
+Colléctant
+L'Histoire
+Pokémon
+Volant
+Devenir transparent
+Arrêter le temps
+Lire les pensées
+Utilise
+Sauver
+Soit Fiers
+Contribuer
+0 - 5 ans
+5 - 10 ans
+10 - 15 ans
+15 - ans
+Jouer Dehors
+Achats
+Lecture
+jeux Videos
+Dormir Tard
+Pop
+Rock
+Jazz
+Rap
+Classique
+Nouvelles
+Drama
+Comedie
+Sports
+Dessins Animées
+Action
+Sci-Fi
+Romance
+Suspens
+Comedie
+Horreur
+Action
+Puzzle
+RPG
+Aventure
+Simulation
+Sport
+Travail
+Interpersonel
+Passe-Temps
+Santé
+Devenir Majetueux
+-
+S'Éxercer
+Lecture
+Music
+Filmes
+Voyager
+Cuisinier
+Pêche
+Jeux Videos
+Étudiant
+Employé de Bureau
+Createur
+Travailleur Autonome
+Officiel Publique
+Femme au Foyer
+Artiste
+Entre-Emplois
+Tcheren
+Roxie
+Artie
+Inezia
+Bardane
+Carolina
+Watson
+Marlon
+-
+-
+-
+Normal
+Feu
+Eau
+Électrique
+Plante
+Glace
+Combat
+Poison
+Sol
+Vol
+Psychique
+Incecte
+Rocher
+Phantôme
+Dragon
+Sombre
+Métal
+0-10 Heures
+10-20 Heures
+20-30 Heures
+30-40 Heures
+40-50 Heures
+50-60 Heures
+60-70 Heures
+70-80 Heures
+80-90 Heures
+90-100 Heures
+100+ Heures
