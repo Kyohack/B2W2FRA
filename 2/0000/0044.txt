@@ -1,50 +1,50 @@
-ゲームシンク
-Ｗｉ－Ｆｉせってい
-もどる
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-はい
-いいえ
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-Ｗｉ－Ｆｉせっていを　おこないますか？\xfffe（Ｗｉ－Ｆｉつうしんを　おこないます）
-ねかしつけている　ところです\xfffeでんげんを　きらないでください
-ゲームシンクが　かんりょう　しました
-ポケモンを\xfffeおこして　よろしいですか？
-ポケモンを　おこしています\xfffeでんげんを　きらないでください
-\xf000Ă\x0001\x0000が　めをさました！
-しばらく　おまちください
-\xf000Ă\x0001\x0000は\xfffeスヤスヤ　ねむりはじめた！
-\xf000Ă\x0001\x0000が　めをさました！
-ゲームシンクの　エネルギーぎれです\xfffeじゅうでんまで　１にち　かかります\xf000븁\x0000\xfffeおつかいの　ＤＳほんたいを　かえずに\xf000븁\x0000\xfffe１にち　たってから\xfffeもういちど　ゲームシンクをしてください
-まだ　ゆめを　みていないみたい
-ポケモンを　おこしますか？
-ボックスに　ねむらせる\xfffeポケモンが　いません
-いまは　ゆめを　みているようだ
-ぜんかい　おくられた　どうぐを\xfffeうけとっていません！\xf000븁\x0000\xfffeポケモンを　おこして　あたらしい\xfffeどうぐが　おくられると\xf000븁\x0000\xfffeぜんかい　おくられた　どうぐは\xfffeきえてしまいます\xf000븁\x0000\xfffeポケモンを\xfffeおこしても　よろしいですか？
-\xf000Ă\x0001\x0000は\xfffeレベルが\xf000ȁ\x0001\x0001アップしました
-Ｃギアのスキンがかわりました\xfffeミュージカルのえんもくがかわりました\xfffeずかんのスキンがかわりました
-Ｃギアのスキンがかわりました
-ミュージカルのえんもくがかわりました
-ずかんのスキンがかわりました
-Ｃギアのスキンがかわりました\xfffeミュージカルのえんもくがかわりました
-ミュージカルのえんもくがかわりました\xfffeずかんのスキンがかわりました
-Ｃギアのスキンがかわりました\xfffeずかんのスキンがかわりました
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０１）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０２）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０３）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０４）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０５）
-ごりようの　サービスは\xfffeしゅうりょう　いたしました\xfffe（エラーコード：１３２０６）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０７）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０８）
-つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０９）
-サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２１０）
-サーバーが　こんざつ　しています\xfffeせつぞく　に　しっぱいしました\xfffeじかんを　おいて　さいど\xfffeおためしください\xfffe（エラーコード：１３２１１）
-サーバーは　げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの　しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：１３２１２）
-ねかしつけた　ポケモンのゆめを\xfffeインターネットで\xfffeあそぶことが　できます！
-ポケモンのゆめを　あそぶには\xfffeゲームシンクせっていが\xfffeひつよう　です
-ゲームシンクせっていに　ついて\xfffeくわしくは　とりあつかい\xfffeせつめいしょを　ごらんください
-\xf000Ă\x0001\x0000が　めをさました！
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード　は\xfffeゲームかいしじの　タイトルメニュー\xfffeゲームシンクせってい　から\xfffeみなおすことが　できます\xf000븁\x0000
-ポケモングローバルリンクの\xfffeホームページで　せっていを\xfffeおこなうと　よりゲームシンクを\xfffeおたのしみいただくことが　できます\xfffehttp://www.pokemon-gl.com/\xfffeくわしくは　とりあつかい\xfffeせつめいしょを　ごらんください
-ボックスのなかが　いっぱいです！\xf000븁\x0000\xfffeボックスの　ポケモンを　１ぴき\xfffeへらさないと　おこすことができません
+SYNCHRO-JEU
+PARAMÈTRES NINTENDO WFC
+RETOUR
+Voulez-vous sauvegarder la partie?
+OUI
+NON
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Paramétrer la CWF Nintendo?
+Passage du marchand de sable...\xfffeNe pas éteindre.
+Suavegarde términé!
+Réveiller le Pokémon?
+Réveil du Pokémon...\xfffeNe pas éteindre.
+\xf000Ă\x0001\x0000 se réveille!
+Veuillez patienter.
+\xf000Ă\x0001\x0000 s'endort!
+Attendez un moment S.V.P...
+La Synchro-Jeu manque d'énergie.\xfffeIl faudra une journée pour la recharger.
+Il ne rêve pas encore.
+Réveiller ce Pokémon?
+Il n'y a aucun Pokémon à endormir\xfffedans les Boîtes.
+Il est en train de rêver.
+Vous n'avez pas encore récupéré\xfffele fragment de rêve précédent.\xf000븁\x0000\xfffeSi vous réveillez ce Pokémon maintenant,\xfffeun nouveau fragment de rêve remplacera\xf000븀\x0000\xfffele précédent.\xf000븁\x0000\xfffeVoulez-vous vraiment réveiller\xfffece Pokémon?
+\xf000Ă\x0001\x0000 a gagné\xfffe\xf000ȁ\x0001\x0001 niveau(x).
+L'habillage du C-Gear a changé.\xfffeLe programme du Music-Hall a changé.\xfffeL'habillage du Pokédex a changé.
+L'habillage du C-Gear a changé.
+Le programme du Music-Hall a changé.
+L'habillage du Pokédex a changé.
+L'habillage du C-Gear a changé.\xfffeLe programme du Music-Hall a changé.
+Le programme du Music-Hall a changé.\xfffeL'habillage du Pokédex a changé.
+L'habillage du C-Gear a changé.\xfffeL'habillage du Pokédex a changé.
+Une erreur s'est produite sur\xfffele serveur. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13201)
+Une erreur s'est produite sur\xfffele serveur. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13202)
+Une erreur de communication s'est\xfffeproduite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13203)
+Une erreur de communication s'est\xfffeproduite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13204)
+Une erreur s'est produite sur\xfffele serveur. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13205)
+Le service pour ce logiciel a\xfffeété interrompu.\xfffe(Code d'erreur: 13206)
+Une erreur de communication s'est\xfffeproduite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13207)
+Une erreur s'est produite sur\xfffele serveur. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13208)
+Une erreur de communication s'est\xfffeproduite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13209)
+Une erreur s'est produite sur\xfffele serveur. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13210)
+Le serveur est surchargé.\xfffeLa connexion a échoué.\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13211)
+Le serveur est en cours de maintenance.\xfffeVeuillez visiter le site du\xfffePokémon Global Link pour\xfffeplus de renseignements.\xfffehttp://www.pokemon-gl.com\xfffe(Code d'erreur: 13212)
+Vous pouvez jouer sur Internet avec\xfffeles rêves des Pokémon endormis!
+Pour jouer avec les rêves de vos Pokémon,\xfffeil faut d'abord paramétrer la Synchro-Jeu.
+Pour plus d'informations sur la Synchro-Jeu,\xfffereportez-vous au mode d'emploi.
+\xf000Ă\x0001\x0000 se réveille!
+Une autre partie est déjà sauvegardée.\xfffeSauvegarde impossible.\xf000븁\x0000\xfffeVeuillez vous référer au mode d'emploi\xfffepour plus d'informations.\xf000븁\x0000\xfffeAppuyez sur haut, SELECT et le\xfffebouton B à l'écran titre pour effacer\xf000븀\x0000\xfffela sauvegarde actuelle.
+ID de Synchro-Jeu édité.\xfffe\xfffeVous pouvez vérifier ce code à tout\xfffemoment dans le menu principal à la\xffferubrique “PARAMÈTRES SYNCHRO-JEU".
+Pour profiter au maximum de la\xfffeSynchro-Jeu, vous devez la paramétrer\xfffesur le site du Pokémon Global Link:\xfffehttp://www.pokemon-gl.com\xfffeVous trouverez des explications dans\xfffele mode d'emploi du jeu.
+Les Boîtes sont pleines!\xf000븁\x0000\xfffeVous devez en retirer un Pokémon\xfffepour pouvoir réveiller celui-ci.
