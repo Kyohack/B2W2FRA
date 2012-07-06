@@ -1,22 +1,22 @@
-VIDEO DE COMBAT
-COMBAT DE METRO
-AFFRONTEMENT ALEATOIRE
-ANNULER
-QUITTER
-MA VIDEO
-VIDEOS DES AUTRES
-SUPPRIMER LA VIDEO 
-\xf000봂\x0000VIDEO DE\xf000Ā\x0001\x0000
-VIDE
+VIDÉOS DE COMBAT
+MÉTRO DE COMBAT
+RENCONTRE ALÉATOIRE
+RETOUR
+RETOUR
+VIDÉO PERSO
+AUTRES VIDÉOS
+EFFACER VIDÉOS
+\xf000봂\x0000VIDÉO DE \xf000Ā\x0001\x0000
+PAS DE DONNÉES
 \xf000ȃ\x0001\x0000
 Combat
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
-\xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
-\xf000봂\x0000PROFILE DE\xf000Ā\x0001\x0000
+\xf000봂\x0000Vidéo nº: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Vidéo nº: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002 ★
+\xf000봂\x0000PROFIL DE \xf000Ā\x0001\x0000
 Mute
-\xf000봂\x0000\xf000ȁ\x0001\x0000Né dans
-\xf000봂\x0000Location
-\xf000봂\x0000Citation du dresseur
+\xf000봂\x0000Né(e) en \xf000ƀ\x0001\x0000
+\xf000봂\x0000Résidence
+\xf000봂\x0000Devise
 Donnée
 Profile
 
@@ -24,25 +24,25 @@ non enregistré
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
-VIDEO DE\xf000Ā\x0001\x0000
-SUPPRIMER MA VIDEO
-SUPPRIMER LES VIDEOS DES AUTRES
+VIDÉO DE \xf000Ā\x0001\x0000
+EFFACER VIDÉO PERSO
+EFFACER AUTRE VIDÉO
 Automne
 Éteigner l'enregistrement de\xf000Ā\x0001\x0000
-RECHERCHER PAR RANG
+PAR CLASSEMENT
 Envoyer des données
-LES 30 PLUS RECENTS
+30 PLUS RÉCENTES
 RECHERCHER
-RECHERCHER PAR NO.
-RECHERCHER PAR FACILITE
-RECHERCHER PAR POKÉMON
-RECHERCHER PAR LOCATION
-COMBAT DE LIEN
-COMBAT METRO
-ENVOYER UNE PHOTO
-REGARDER LA PHOTO
+SAISIR Nº VIDÉO
+PAR BÂTIMENT
+PAR POKÉMON
+PAR LIEU
+COMBATS EN LINK
+MÉTRO DE COMBAT
+ENVOYER CLICHÉ
+VOIR CLICHÉS
 ENVOYER
-Choisissez SVP le Pokémon que vous voulez voir.
+Choisissez le Pokémon que vous voulez voir.
 Photo de\xf000Ā\x0001\x0000　\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 Photo
@@ -56,16 +56,16 @@ Amusant
 Selectionnez
 Boîte
 Lire la suite
-Une
-Moustique
-Support
-Données
-ナ
-ハ
-マ
-ヤ
-ラ
-ワ
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
 Rang de cette semaine
 Rang de la semaine dérnière
 Changer les rangs
@@ -79,173 +79,173 @@ Equipe：Pokémon Favouri
 \xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
 \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001Mois
 \xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
-Rsultats de la semaine dernière!
+Resultats de la semaine dernière!
 Colisée
 Frontière de bataille
-SAUVEGARDER
-VOIR COMBAT\xfffeVIDEO
+SAUVER
+VOIR LA VIDÉO\xfffeDE COMBAT
 VIDEO COMBAT
-LES 30 VIDEO COMBAT PLUS RECENTES
-TOP-RANG VIDEOS COMBAT\xfffeCOMBAT LIEN
-TOP-RANG VIDEOS COMBAT\xfffeCOMBAT METRO
-LISTE DES VIDEOS COMBAT SELON\xfffeLES RESULTATS DE RECHERCHES
+LES 30 VIDÉOS LES PLUS RÉCENTES
+MEILLEURES VIDÉOS DE COMBAT\xfffeDES COMBATS EN LINK
+MEILLEURES VIDÉOS DE COMBAT\xfffeDU MÉTRO DE COMBAT
+RÉSULTAT DE LA RECHERCHE
 
-Où voulez vous enregistrer la video de combat de\xfffe\xf000Ā\x0001\x0000?
+Choisissez l'emplacement où sauvegarder\xfffela Vidéo de combat de \xf000Ā\x0001\x0000.
 Sauvegarder
-Etes vous sur de supprimer la video de combat de\xfffe\xf000Ā\x0001\x0000?
-REGARDER LES VIDEOS DE COMBAT
-ENVOYER LA VIDEO COMBAT
+Voulez-vous effacer la Vidéo de combat\xfffede \xf000Ā\x0001\x0000?
+VOIR VIDÉOS COMBAT
+ENVOYER VIDÉO COMBAT
 Les 30 les plus recents
 Rechercher
 Rechercher par No. de Video
-Rechercher par Facilité
-Rechercher par Pokémon
-Rechercher votre Location
-OK!
-SVP entrez le nombre de la video.
-SVP choisissez la facilité.
-SVP choisissez le Pokémon.
-SVP entrez les critères de recherche.
-Vous n'avez mis aucun critère.
-Chargement de la video combat...
-Il n'y a pas de videos combats correspondants a votre recherche...
-Envoi de la Video Combat...
-Video Combat a été envoyé!
-\xf000봂\x0000Voir le profile
-\xf000봂\x0000Fermer le profile
+PAR BÂTIMENT
+PAR POKÉMON
+PAR LIEU
+OK
+Veuillez saisir le nº de la vidéo.
+Veuillez choisir un bâtiment.
+Veuillez choisir un Pokémon.
+Veuillez définir votre recherche.
+Vous n'avez précisé aucun critère.
+Recherche en cours...
+Aucune Vidéo de combat ne correspond.
+Envoi de la Vidéo de combat...
+Vidéo de combat envoyée!
+\xf000봂\x0000VOIR LE PROFIL
+\xf000봂\x0000FERMER LE PROFIL
 Les 30 video combat plus recentes
-SVP mettez des critères de rechèrches.
-Indéfini
-LISTES DES VIDEOS DE COMBAT SELON LES\xfffe RESULTATS DE RECHECH
-La même video de combat ne peut pas être envoyé encore une fois.\xfffeTouchez l'écran inferieur pour continuer.
-Vous n'avez pas enregistré votre location.
-Il n'y a pas de video combat pour envoyer.
+Veuillez définir votre recherche.
+Non précisé
+LISTE DES VIDÉOS DE COMBATS\xfffeCONCÉRENAT LA RECHERCHE
+Une Vidéo de combat ne peut être envoyée\xfffequ'une seule fois. Touchez l'écran tactile.
+Vous n'avez pas enregistré votre\xfffelieu de résidence.
+Vous n'avez pas de Vidéo de combat\xfffeà envoyer.
 \xf000ȁ\x0001\x0000
 COMBAT LIEN
-COMBAT METRO
+MÉTRO DE COMBAT
 Location\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000SOLO TRAIN
-\xf000봂\x0000DOUBLE TRAIN
-\xf000봂\x0000MULTI TRAIN
+\xf000봂\x0000TRAIN SOLO
+\xf000봂\x0000TRAIN DUO
+\xf000봂\x0000TRAIN MULTI
 \xf000봂\x0000TRAIN Wi-Fi
-\xf000봂\x0000COMBAT METRO
-\xf000봂\x0000SUPER SOLO TRAIN
-\xf000봂\x0000SUPER DOUBLE TRAIN
-\xf000봂\x0000SUPER MULTI TRAIN
-SVP selectionnez l'enregistrement\xfffeque vous voulez voir.
-PRECEDENT:
-ENREGISTREMENT:
+\xf000봂\x0000MÉTRO DE COMBAT
+\xf000봂\x0000TRAIN SUPER SOLO
+\xf000봂\x0000TRAIN SUPER DUO
+\xf000봂\x0000TRAIN SUPER MULTI
+Sélectionnez le record que\xfffevous souhaitez consulter.
+Précédent
+Record
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-Gains
-Multi Avec dresseurs
-Multi Avec ami
-RANG
-Enregistrement courant
-\xf000봂\x0000Enregistrement train Wi-Fi
-COURANT:
-\xf000봂\x0000Calssment de\xf000Ā\x0001\x0000
-\xf000봂\x0000ENREGISTREMENT DU MODE CLASSEMENT
-\xf000봂\x0000ENREGISTREMENT DU MODE LIBRE
-\xf000봂\x0000Gagné
-\xf000봂\x0000Perdu
-\xf000봃\x0001\x0000Solo:
-\xf000봃\x0001\x0000Double:
-\xf000봃\x0001\x0000Triple:
-\xf000봃\x0001\x0000Rotation:
-\xf000봃\x0001\x0000Lanceur:
+\xf000봃\x0001\x0000victoires
+MULTI AVEC DRESSEURS
+MULTI AVEC AMI(E)S
+Rang
+Record Actuel
+\xf000봂\x0000RECORD TRAIN Wi-Fi
+Actuel
+\xf000봂\x0000SCORE DE RANG DE \xf000Ā\x0001\x0000
+\xf000봂\x0000RECORD MODE RANG
+\xf000봂\x0000RECORD MODE LIBRE
+\xf000봂\x0000GAGNÉS
+\xf000봂\x0000PERDUS
+\xf000봃\x0001\x0000SOLO
+\xf000봃\x0001\x0000DUO
+\xf000봃\x0001\x0000TRIO
+\xf000봃\x0001\x0000ROTATIF
+\xf000봃\x0001\x0000SHOOTER
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000Classment
+\xf000봃\x0001\x0000SCORE RANG
 \xf000봂\x0000OUI
 \xf000봂\x0000NON
 OUI
 NON
-En êtes vous sur de vouloir vous deconnecter de\xfffela connection Nintendo Wi-Fi?
-Colisée Solo,\xfffepas de Restrictions
-Colisée Solo,\xfffePlat
-Colisée Solo,\xfffePas de Restrictions, Lanceur démarré
-Colisée Solo,\xfffePlat, Lanceur démarré
-Colisée Double,\xfffePas de Restrictions
-Colisée Double,\xfffeplat
-Colisée Double,\xfffePas de Restrictions, Lanceur démarré
-Colisée Double,\xfffePlat, Lanceur démarré
-Colisée Triple,\xfffePas de Restrictions
-Colisée Triple,\xfffePlat
-Colisée Triple,\xfffePas de Restrictions, Lanceur démarré
-Colisée Triple,\xfffePlat, Lanceur démarré
-Colisée Rotation,\xfffePas Restrictions
-Colisée Rotation,\xfffePlat
-Colisée Rotation,\xfffePas de Restrictions, Lanceur démarré
-Colisée Rotation,\xfffePlat, Lanceur démarré
-Colisée Multi,\xfffePas de Restrictions
-Colisée Multi,\xfffePlat
-Colisée Multi,\xfffePas de Restrictions, Lanceur démarré
-Colisée Multi,\xfffePlat, Lanceur démarré
-Combat Metro,\xfffeSolo
-Combat Metro,\xfffeDouble
-Combat Metro,\xfffeMulti
-Affrontement aléatoire, Libre\xfffeSolo
-Affrontement aléatoire, Libre\xfffeDouble
-Affrontement aléatoire, Libre\xfffeTriple
-Affrontement aléatoire, Libre\xfffeRotation
-Affrontement aléatoire, Libre\xfffeLanceur Combat
-Affrontement aléatoire, Classement\xfffeSolo
-Affrontement aléatoire, Classement\xfffeDouble
-Affrontement aléatoire, Classement\xfffeTriple
-Affrontement aléatoire, Classement\xfffeRotation
-Affrontement aléatoire, Classement\xfffeLanceur Combat
-Competition, Solo\xfffeLanceur éteint
-Competition, Solo\xfffeLanceur démarré
-Competition, Double\xfffeLanceur éteint
-Competition, Double\xfffeLanceur démarré
-Competition, Triple\xfffeLanceur éteint
-Competition, Triple\xfffeLanceur démarré
-Competition, Rotation\xfffeLanceur éteint
-Competition, Rotation\xfffeLanceur démarré
-01: Colisée, Solo\xfffeLanceur éteint
-02: Colisée, Solo\xfffeLanceur démarré
-03: Colisée, Double\xfffeLanceur éteint
-04: Colisée, Double\xfffeLanceur démarré
-05: Colisée, Triple\xfffeLanceur éteint
-06: Colisée, Triple\xfffeLanceur démarré
-07: Colisée, Rotation\xfffeLanceur éteint
-08: Colisée, Rotation\xfffeLanceur démarré
-09: Colisée, Multi\xfffeLanceur éteint
-10: Colisée, Multi\xfffeLanceur démarré
-11: Combat Metro\xfffeSolo
-12: Combat Metro\xfffeDouble
-13: Combat Metro\xfffeMulti
-14: Affrontement aléatoire\xfffeSolo
-15: Affrontement aléatoire\xfffeDouble
-16: Affrontement aléatoire\xfffeTriple
-17: Affrontement aléatoire\xfffeRotation
-18: Affrontement aléatoire\xfffeLanceur Combat
-19: Competition de combat
-20: Chateau de combat\xfffeMulti
-21: Combat Arcade\xfffeSolo
-22: Combat Arcade\xfffeDouble
-23: Combat Arcade\xfffeMulti
-\xf000봂\x0000TAPPEZ ICI!
-En êtes vous sur de vouloir vous deconnecter de\xfffela connection Nintendo Wi-Fi?
+Voulez-vous interrompre la\xfffeconnexion Wi-Fi Nintendo?
+Colisée Solo\xfffeTout est permis
+Colisée Solo\xfffeDans les règles
+Colisée Solo\xfffeTout est permis, avec Shooter
+Colisée Solo\xfffeDans les règles, avec Shooter
+Colisée Duo\xfffeTout est permis
+Colisée Duo\xfffeDans les règles
+Colisée Duo\xfffeTout est permis, avec Shooter
+Colisée Duo\xfffeDans les règles, avec Shooter
+Colisée Trio\xfffeTout est permis
+Colisée Trio\xfffeDans les règles
+Colisée Trio\xfffeTout est permis, avec Shooter
+Colisée Trio\xfffeDans les règles, avec Shooter
+Colisée Rotatif\xfffeTout est permis
+Colisée Rotatif\xfffeDans les règles
+Colisée Rotatif\xfffeTout est permis, avec Shooter
+Colisée Rotatif\xfffeDans les règles, avec Shooter
+Colisée Multi\xfffeTout est permis
+Colisée Multi\xfffeDans les règles
+Colisée Multi\xfffeTout est permis, avec Shooter
+Colisée Multi\xfffeDans les règles, avec Shooter
+Métro de Combat\xfffeSolo
+Métro de Combat\xfffeDuo
+Métro de Combat\xfffeMulti
+Rencontre Aléatoire Libre\xfffeSolo
+Rencontre Aléatoire Libre\xfffeDuo
+Rencontre Aléatoire Libre\xfffeTrio
+Rencontre Aléatoire Libre\xfffeRotatif
+Rencontre Aléatoire Libre\xfffeCombat Shooter
+Rencontre Aléatoire par Rang\xfffeSolo
+Rencontre Aléatoire par Rang\xfffeDuo
+Rencontre Aléatoire par Rang\xfffeTrio
+Rencontre Aléatoire par Rang\xfffeRotatif
+Rencontre Aléatoire par Rang\xfffeCombat Shooter
+Compétition\xfffeSolo, sans Shooter
+Compétition\xfffeSolo, avec Shooter
+Compétition\xfffeDuo, sans Shooter
+Compétition\xfffeDuo, avec Shooter
+Compétition\xfffeTrio, sans Shooter
+Compétition\xfffeTrio, avec Shooter
+Compétition\xfffeRotatif, sans Shooter
+Compétition\xfffeRotatif, avec Shooter
+01: Colisée Solo\xfffe     Sans Shooter
+02: Colisée Solo\xfffe     Avec Shooter
+03: Colisée Duo\xfffe     Sans Shooter
+04: Colisée Duo\xfffe     Avec Shooter
+05: Colisée Trio\xfffe     Sans Shooter
+06: Colisée Trio\xfffe     Avec Shooter
+07: Colisée Rotatif\xfffe     Sans Shooter
+08: Colisée Rotatif\xfffe     Avec Shooter
+09: Colisée Multi\xfffe     Sans Shooter
+10: Colisée Multi\xfffe     Avec Shooter
+11: Métro de Combat\xfffe     Solo
+12: Métro de Combat\xfffe     Duo
+13: Métro de Combat\xfffe     Multi
+14: Rencontre Aléatoire\xfffe     Solo
+15: Rencontre Aléatoire\xfffe     Duo
+16: Rencontre Aléatoire\xfffe     Trio
+17: Rencontre Aléatoire\xfffe     Rotatif
+18: Rencontre Aléatoire\xfffe     Combat Shooter
+19: Compétition
+20: Castel de Combat\xfffe     Multi
+21: Arcade de Combat\xfffe     Solo
+22: Arcade de Combat\xfffe     Duo
+23: Arcade de Combat\xfffe     Multi
+\xf000봂\x0000TOUCHEZ ICI!
+Voulez-vous interrompre la\xfffeconnexion Wi-Fi Nintendo?
 　
-Erreur d'authentification.\xfffeConnection Impossible.
-Cette donnée est déjà enregistré.\xfffeTouchez l'ecran inferieur pour continuer.
-Il semble qu'il y'a un problème\xfffeavec La photo Musical.
-Il semble qu'il y'a un problème avec le\xfffePokémon dans la photo musical.
-Il semble qu'il y'a un problème\xfffeavec les données du profile.
-Une erreure est survenu.\xfffeTouchez l'ecran inferieur pour continuer.
+Une erreur est survenue lors de votre\xfffeauthentification. Connexion impossible.
+Données déjà enregistrées. \xfffeVeuillez toucher l'écran tactile.
+Il y a un problème avec le contenu du\xfffeCliché. Veuillez toucher l'écran tactile.
+Il y a un problème avec le Pokémon du\xfffeCliché. Veuillez toucher l'écran tactile.
+Il y a un problème avec les données de\xfffeProfil. Veuillez toucher l'écran tactile.
+Une erreur est survenue.\xfffeVeuillez toucher l'écran tactile.
+
+Une erreur est survenue lors de votre\xfffeauthentification. Connexion impossible.
+Il y a un problème avec le Pokémon\xfffesélectionné. Touchez l'écran tactile.
+Une erreur est survenue.\xfffeVeuillez toucher l'écran tactile.
 　
-Erreur d'authentification.\xfffeConnection Impossible.
-Il semble qu'il y'a un problème avec le\xfffePokémon choisi.
-Une erreure est survenu.\xfffeTouchez l'ecran inferieur pour continuer.
-　
-Erreur d'authentification de l'utilisateur.\xfffeAttendez un moment puis reconnectez vous.
-Cette donnée est déjà enregistré.\xfffeTouchez l'ecran inferieur pour continuer.
-Il semble qu'il y'a un problème avec les\xfffeDonnées de boîte.
-Il semble qu'il y'a un problème avec le\xfffeDonnées du Profile.
-Il semble qu'il y'a un problème avec votre\xfffepartie.
-Une erreure est survenu.\xfffeTouchez l'ecran inferieur pour continuer.
+Une erreur est survenue lors de votre\xfffeauthentification. Connexion impossible.
+Données déjà enregistrées. \xfffeVeuillez toucher l'écran tactile.
+Il y a un problème avec la Vidéo de\xfffecombat. Veuillez toucher l'écran tactile.
+Il y a un problème avec les données de\xfffeProfil. Veuillez toucher l'écran tactile.
+Il y a un problème avec votre partie\xfffePokémon. Veuillez toucher l'écran tactile.
+Une erreur est survenue.\xfffeVeuillez toucher l'écran tactile.
 　
 Erreur d'authentification de l'utilisateur.\xfffeAttendez un moment puis reconnectez vous.
 Il semble qu'il y'a un problème avec votre\xfffepartie.
@@ -260,85 +260,85 @@ Il semble qu'il y'a un problème avec votre\xfffeenregistrement de rangs.
 Il semble qu'il y'a un problème avec les\xfffedonnées de Profile.
 Une erreure est survenu.\xfffeTouchez l'ecran inferieur pour continuer.
 　
-Erreur d'authentification.\xfffeConnection Impossible.
-Cette donnée est déjà enregistré.\xfffeTouchez l'ecran inferieur pour continuer.
-Il semble qu'il y'a un problème\xfffeavec la video de combat.
-Il semble qu'il y'a un problème\xfffeavec la video de combat.
-Il semble qu'il y'a un problème\xfffeavec les données de profile.
-Il semble qu'il y'a un problème avec le\xfffePokémon dans la video de combat.
-Une erreure est survenu.\xfffeTouchez l'ecran inferieur pour continuer.
+Une erreur est survenue lors de votre\xfffeauthentification. Connexion impossible.
+Données déjà enregistrées. \xfffeVeuillez toucher l'écran tactile.
+Il y a un problème avec la Vidéo de\xfffecombat. Veuillez toucher l'écran tactile.
+Il y a un problème avec la Vidéo de\xfffecombat. Veuillez toucher l'écran tactile.
+Il y a un problème avec les données de\xfffeProfil. Veuillez toucher l'écran tactile.
+Il y a un problème avec le Pokémon de la\xfffeVidéo. Veuillez toucher l'écran tactile.
+Une erreur est survenue.\xfffeVeuillez toucher l'écran tactile.
 　
-Erreur d'authentification.\xfffeConnection Impossible.
-Il semble qu'il y'a un problème\xfffeavec les critères de recherche.
-Il semble qu'il y'a un problème\xfffeavec les critères de recherche.
+Une erreur est survenue lors de votre\xfffeauthentification. Connexion impossible.
+Il y a un problème avec les critères de\xffferecherche. Veuillez toucher l'écran tactile.
+Il y a un problème avec les critères de\xffferecherche. Veuillez toucher l'écran tactile.
 La recherche a échoué...
-　
-Erreur d'authentification.\xfffeConnection Impossible.
-Pas de videos combat correspendant on été trouvé...\xfffeTouchez l'ecran inferieur pour continuer.
-Vous ne pouvez pas voir cette video.
-Echoue de reception de la video de combat.
-　
-　
-　
-　
-　
-Une erreure est survenu.\xfffeCode de l'érreure 10601
-Une erreure est survenu.\xfffeCode de l'érreure 10602
-Une erreure est survenu.\xfffeCode de l'érreure 10603
-Une erreure est survenu.\xfffeCode de l'érreure 10604
-Connection impossible.\xfffeCode de l'érreure 10605
-Une erreure est survenu.\xfffeCode de l'érreure 10606
-Connection impossible.\xfffeCode de l'érreure 10607
-Une erreure est survenu.\xfffeCode de l'érreure 10608
-Une erreure est survenu.\xfffeCode de l'érreure 10609
-Il n'y a pas de reponse.\xfffeCode de l'érreure 10610
-Il n'y a pas de reponse.\xfffeCode de l'érreure 10611
-Il n'y a pas de reponse.\xfffeCode de l'érreure 10612
-Communication was interrupted.\xfffeCode de l'érreure 10613
-Connection impossible.\xfffeCode de l'érreure 10614
+
+Une erreur est survenue lors de votre\xfffeauthentification. Connexion impossible.
+Aucune Vidéo de combat ne correspond.
+Impossible de voir cette\xfffeVidéo de combat.
+La réception de la Vidéo\xfffede combat a échoué.
 　
 　
 　
 　
 　
+Une erreur est survenue.\xfffe(Code d'erreur: 10601)
+Une erreur est survenue.\xfffe(Code d'erreur: 10602)
+Une erreur est survenue.\xfffe(Code d'erreur: 10603)
+Une erreur est survenue.\xfffe(Code d'erreur: 10604)
+Connexion impossible.\xfffe(Code d'erreur: 10605)
+Une erreur est survenue.\xfffe(Code d'erreur: 10606)
+Connexion impossible.\xfffe(Code d'erreur: 10607)
+Une erreur est survenue.\xfffe(Code d'erreur: 10608)
+Une erreur est survenue.\xfffe(Code d'erreur: 10609)
+Pas de réponse.\xfffe(Code d'erreur: 10610)
+Pas de réponse.\xfffe(Code d'erreur: 10611)
+Pas de réponse.\xfffe(Code d'erreur: 10612)
+Communication interrompue.\xfffe(Code d'erreur: 10613)
+Connexion impossible.\xfffe(Code d'erreur: 10614)
 　
 　
-La connection au serveur a été perdu.\xfffeTouchez l'ecran inferieur pour continuer.
 　
 　
-Rien n'est sauvegardé.\xfffeTouchez l'ecran inferieur pour continuer.
-Chousissez une boîte SVP.
+　
+　
+　
+La connexion au serveur a été perdue.\xfffeVeuillez toucher l'écran tactile.
+　
+　
+Il n'y a pas de données sauvegardées.
+Choisissez une boîte SVP.
 Les données d'une boîte vide ne peuvent pas être envoyé.
 Où voulez vous envoyer ceci?
 Seulement une boîte peut être envoyé à la fois.
 Les mémes données de boîte ne peuvent pas étre envoyé encore une fois.
 Quelle categorie voulez vous voir?
-Les données sauvegardée ne peuvent pas être supprimés...
-La même video de combat ne peut pas être sauvé encore.\xfffeTouchez l'ecran inferieur pour continuer.
-Sauvegarde en cours...\xfffeN'éteigner pas la console.
-Reception des données des rangs...
-Envoie des données de sauvegarde...
-Sauvegarde accompli.\xfffeTouchez l'ecran inferieur pour continuer.
-En êtes vous sur de vouloir supprimer\xfffela video de\xf000Ā\x0001\x0000?
-En êtes vous certain de supprimer cette donnée?
-Suppression des donnée...\xfffeSauvegarde en cours... N'éteigner pas la console.
-Les données ont été supprimé.\xfffeTouchez l'ecran inferieur pour continuer.
-Envoi de votre photo musical...
-Reception de la Photo musical...
-Envoi de votre donnée de boîte...
-Reception des données de Boîte...
-Vous n'avez rien sauvegardé pour envoyer.\xfffeParticipez dans les données pour envoyer.
-Les mêmes données ne peuvent pas être envoyé encore.\xfffeTouchez l'ecran inferieur pour continuer.
-Reception des videos de combats...
-pas de données correspendants ont été trouvé...\xfffeTouchez l'ecran inferieur pour continuer.
-pas de Photos musicals correspendants ont été trouvé...\xfffeTouchez l'ecran inferieur pour continuer.
-Votre video combat a été envoyé.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-Le jeu va sauvegardé avant que\xfffevous pouvez voir la video combat.
-Suppression des données... Sauvegarde d'un tas de\xfffedonnées... N'éteigner pas la console.
-Sauvegarde d'un tas de\xfffedonnées... N'éteigner pas la console.
-Sauvegarde...\xfffeN'éteigner pas la console.
-Il n'ya pas de données de Rang...\xfffeTouchez l'ecran inferieur pour continuer.
-Voulez vous envoyer\xfffevotre video combat?
+Les données n'ont pas été effacées...
+Cette Vidéo de combat a déjà été\xfffesauvegardée. Touchez l'écran tactile.
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Réception des données de Classement...
+Envoi des informations de sauvegarde\xfffeen cours...
+Sauvegarde terminée.\xfffeVeuillez toucher l'écran tactile.
+Voulez-vous effacer la Vidéo de combat\xfffede \xf000Ā\x0001\x0000?
+Voulez-vous vraiment effacer ces données?
+Effacement des données...\xfffeNe pas éteindre.
+Les données ont été effacées.\xfffeVeuillez toucher l'écran tactile.
+Envoi de données du Cliché du Musical...
+Réception de données du Cliché du Musical...
+Envoi de données de Boîte Cliché...
+Réception de données de Boîte Cliché...
+Il n'y a pas de Cliché du Musical.\xfffeAllez donc participer à une Comédie Musicale!
+Ces données ont déjà été envoyées.\xfffeVeuillez toucher l'écran tactile.
+Réception de données de Vidéo de combat...
+Aucun résultat.
+Aucun Cliché du Musical ne correspond.\xfffeVeuillez toucher l'écran tactile.
+Votre Vidéo de combat a été envoyée.\xfffeVidéo nº: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+Avant de voir la Vidéo de combat, la\xfffepartie doit être sauvegardée.
+Effacement des données... Sauvegarde de\xfffebeaucoup de données... Ne pas éteindre.
+Sauvegarde de beaucoup de données...\xfffeNe pas éteindre.
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Pas de données de Classement disponibles...\xfffeVeuillez toucher l'écran tactile.
+Envoyer votre Vidéo de combat?
 
 　
 　
