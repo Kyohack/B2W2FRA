@@ -1,3 +1,3 @@
-La sauvegarde n'est pas accessible.\xfffe\xfffeEteignez la console et \xfffereinsérez la carte de jeu.
-La sauvegarde n'est pas accessible.\xfffe\xfffeEteignez la console et \xfffereinsérez la carte de jeu.
-La sauvegarde n'est pas accessible.\xfffe\xfffeEteignez la console et \xfffereinsérez la carte DS.
+La lecture a échoué.\xfffeVeuillez éteindre la console, enlever\xfffela carte de jeu, puis la réinsérer.
+La sauvegarde a échoué.\xfffe\xfffeVeuillez éteindre la console, enlever\xfffela carte de jeu, puis la réinsérer.
+Erreur de sauvegarde.\xfffe\xfffeLa mémoire est endommagée.\xfffeVous pouvez jouer, mais il est\xfffeimpossible de sauvegarder.\xfffe\xfffeVeuillez éteindre la console.
