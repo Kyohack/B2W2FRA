@@ -15,7 +15,7 @@ NOM
 TYPE
 COULEUR
 FORME
-Pokédex Unys : Mode Recherche
+Pokédex Régional : Mode Recherche
 Pokédex National : Mode Recherche
 RESET
 COMMENCER
