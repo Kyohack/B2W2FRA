@@ -1,13 +1,13 @@
-Ｃ－ＧＥＡＲ
-ＩＲ
-Ｗｉｒｅｌｅｓｓ
-ＧａｍｅＳｙｎｃ
-Ｔｒａｄｅ
-Ｂａｔｔｌｅ
-ＦｒｉｅｎｄＣｏｄｅ
-Ｃａｒｄ
-Ｃ－ＧＥＡＲ＞ＩＲ
-Ｃ－ＧＥＡＲ＞ＩＲ＞ＢＡＴＴＬＥ
-Ｃ－ＧＥＡＲ＞ＩＲ＞ＴＲＡＤＥ
-Ｃ－ＧＥＡＲ＞ＧＡＭＥＳＹＮＣ
-Ｃ－ＧＥＡＲ＞ＷＩＲＥＬＥＳＳ
+C－GEAR
+IR
+WSans Fil
+GameSync
+Échanger
+Combat
+Code Ami
+Carte
+C－GEAR>IR
+C－GEAR>IR>COMBAT
+C－GEAR>IR>ÉCHANGER
+C－GEAR>GAMESYNC
+C－GEAR>SANS FIL
