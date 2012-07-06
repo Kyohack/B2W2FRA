@@ -1,7 +1,7 @@
-\xf000Ă\x0001\x0000を　グッズで\xfffeドレスアップ　しましょう！
-ドレスアップは\xfffeこれで　よろしいですか？
-ほかの　さんかしゃの\xfffeドレスアップを　まっています
-\xf000Ċ\x0001\x0000\xfffe\xf000ı\x0001\x0001に　にあう　グッズです
-\xf000ı\x0001\x0000に　にあう　グッズを\xfffeせんとうに　ならびかえました
-グッズの　ならびの　じゅんばんを\xfffeもとに　もどしました
-リストから　グッズを　ひきだして\xfffeポケモンに　つけることが　できます
+Déguisez votre \xf000Ă\x0001\x0000 avec\xfffeles Parures à votre disposition!
+Avez-vous fini de déguiser votre Pokémon?\xfffeLe résultat est-il à votre goût?
+Nous attendons que les autres Dresseurs\xfffeaient fini de déguiser leur Pokémon.
+\xf000Ċ\x0001\x0000.\xfffeC'est une Parure pour \xf000ı\x0001\x0001.
+Les Parures pour \xf000ı\x0001\x0000 ont\xfffeété placées en tête de liste.
+L'ordre des Parures a été\xffferéinitialisé.
+Choisissez une Parure disponible\xfffepour la mettre sur le Pokémon.
