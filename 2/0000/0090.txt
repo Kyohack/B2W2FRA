@@ -649,39 +649,39 @@ Keldeo
 Meloetta
 Genesect
 Oeuf
-ダメタマゴ
-ＵＦＯ
-ハチクマン
-Ｍ．Ｖ
-Ｍ．Ｖ２
-てんそうき
-だいＯＬ
-ひとがた
-かいぶつ
-Ｆ−００
-あくりょう
-しろいかべ
-くろいかべ
-セットＵ１
-セットＵ２
-セットＨ１
-セットＭ１
-セットＭ２
-セットＴ１
-セットＯ１
-セットＯ２
-セットＣ１
-セットＣ２
-セットＧ１
-セットＷ１
-セットＷ２
-セットＲ１
-セットＲ２
-セットＫ１
-ＵＦＯ２
-だいＯＬ２
-Ｆ−００２
-カラテおう
-ドーブル２
+Mauvais Oeuf
+UFO
+Brycen Man
+M. V
+M. V2
+Machine de Transfert
+Scène OL
+Marionnette
+Monstre
+F-00
+Démon
+Mur Blanc
+Mur Noir
+Ensemble U1
+Ensemble U2
+Ensemble H1
+Ensemble M1
+Ensemble M2
+Ensemble T1
+Ensemble O1
+Ensemble O2
+Ensemble C1
+Ensemble C2
+Ensemble G1
+Ensemble W1
+Ensemble W2
+Ensemble R1
+Ensemble R2
+Ensemble K1
+UFO 2
+Scène OL 2
+F-002
+Seinture noire
+Double 2
 Oeuf
 Oeuf
