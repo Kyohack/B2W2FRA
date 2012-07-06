@@ -1,33 +1,33 @@
-Pas de Reponse
+Sans réponse
 Noir2
 Blanc2
-Mâle
-Femelle
-Combat
-Échange
-La Ville
-La Compagne
+Garçon
+Fille
+Combattre
+Échanger
+Ville
+Campagne
 Intelligent
-Athlétique
-Temps
-Argent
-Apparance
-Fortune
-Froid
+Sportif
+Du temps
+De l'argent
+La beauté
+Le cœur
+Classe
 Mignon
-Étrange
+Bizarre
 Gruikui
 Moustillon
 Vipélierre
 Compétition
 Coopération
 -
-Va en passé
-Va en future
+Vers le passé
+vers le future
 Pas besoin
-Famille
-Amis
-Soi
+La famille
+Les amis
+Soi-même
 Gens cool
 Personne intelligente
 Homme Amusant
@@ -37,13 +37,13 @@ Vérification Réalité
 -
 -
 Intéréssant
-Froid
-Bon
-Riche
-Combats
-Colléctant
-L'Histoire
-Pokémon
+L'élégance
+La douceur
+La richesse
+Combattre
+Collectionner
+L'histoire
+Les Pokémon
 Volant
 Devenir transparent
 Arrêter le temps
@@ -56,27 +56,27 @@ Contribuer
 5 - 10 ans
 10 - 15 ans
 15 - ans
-Jouer Dehors
-Achats
-Lecture
-jeux Videos
-Dormir Tard
-Pop
-Rock
-Jazz
-Rap
-Classique
-Nouvelles
-Drama
-Comedie
-Sports
-Dessins Animées
-Action
-Sci-Fi
-Romance
-Suspens
-Comedie
-Horreur
+Je sors
+Du shopping
+Je lis
+Du jeu vidéo
+Je dors
+La pop
+Le rock
+Le jazz
+Le Rap
+Le classique
+Les infos
+Les séries
+L'humour
+Le sport
+L'animation
+L'action
+La S.F.
+La romance
+Le suspens
+Les comédies
+L'horreur
 Action
 Puzzle
 RPG
@@ -89,22 +89,22 @@ Passe-Temps
 Santé
 Devenir Majetueux
 -
-S'Éxercer
-Lecture
-Music
-Filmes
-Voyager
-Cuisinier
-Pêche
-Jeux Videos
-Étudiant
-Employé de Bureau
-Createur
-Travailleur Autonome
-Officiel Publique
-Femme au Foyer
+Le sport
+La lecture
+La musique
+Le cinéma
+Les voyages
+La cuisine
+La pêche
+Le jeu vidéo
+Étudiant(e)
+Salarié(e)
+Graphiste
+Freelance
+Fonctionnaire
+Au foyer
 Artiste
-Entre-Emplois
+Intérimaire
 Tcheren
 Roxie
 Artie
@@ -119,28 +119,28 @@ Marlon
 Normal
 Feu
 Eau
-Électrique
+Électrik
 Plante
 Glace
 Combat
 Poison
 Sol
 Vol
-Psychique
-Incecte
-Rocher
-Phantôme
+Psy
+Insecte
+Roche
+Spectre
 Dragon
-Sombre
-Métal
-0-10 Heures
-10-20 Heures
-20-30 Heures
-30-40 Heures
-40-50 Heures
-50-60 Heures
-60-70 Heures
-70-80 Heures
-80-90 Heures
-90-100 Heures
-100+ Heures
+Ténèbres
+Acier
+De 0 à 10 h
+De 10 à 20 h
+De 20 à 30 h
+De 30 à 40 h
+De 40 à 50 h
+De 50 à 60 h
+De 60 à 70 h
+De 70 à 80 h
+De 80 à 90 h
+De 90 à 100 h
+Plus de 100 h
