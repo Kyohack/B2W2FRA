@@ -1,74 +1,74 @@
-\xf000ȁ\x0001\x0000Ppl.
-Total:\xf000Ȅ\x0001\x0000
-Qui allez vous remercier?
-Allez vous utiliser \xf000đ\x0001\x0001?\xfffe\xf000Ȃ\x0001\x0002 nécessaire/\xf000Ȃ\x0001\x0003 tenu
-Utiliser le \xf000đ\x0001\x0001\xfffethat \xf000Ā\x0001\x0000 activé?
-Pouvoir spécial de pass activé!\xfffeVoulez vous utiliser\xfffe\xf000đ\x0001\x0001?
-\xf000đ\x0001\x0001 utilisé!
-Vous n'avez pas assez d'orbes pass\xfffepour utiliser le pouvoir de pass.\xfffe\xf000Ȃ\x0001\x0002 nécessaire/\xf000Ȃ\x0001\x0003 tenu
-\xf000đ\x0001\x0001Utilisé.\xfffeSecondes restantes: \xf000ȁ\x0001\x0005.
-\xf000đ\x0001\x0001Utilisé.\xfffeTemps restant: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
-dit “\xf000Ĝ\x0001\x0000!"
+\xf000ȁ\x0001\x0000 PERS.
+TOTAL: \xf000Ȅ\x0001\x0000 PERS.
+Qui remercier?
+Utiliser \xf000đ\x0001\x0001?\xfffeOffrisphères requises: \xf000Ȃ\x0001\x0002\xfffeOffrisphères possédées: \xf000Ȃ\x0001\x0003
+Utiliser \xf000đ\x0001\x0001 libérée\xfffepar \xf000Ā\x0001\x0000?
+Une Aura a été libérée!\xfffeUtiliser \xf000đ\x0001\x0001?
+\xf000đ\x0001\x0001 utilisée!
+Vous n'avez pas assez d'Offrisphères\xfffepour libérer une Offri-Aura.\xfffeRequises: \xf000Ȃ\x0001\x0002 / Possédées: \xf000Ȃ\x0001\x0003
+\xf000đ\x0001\x0001 utilisée.\xfffeReste \xf000ȁ\x0001\x0005 s.
+\xf000đ\x0001\x0001 utilisée.\xfffeReste \xf000Ȃ\x0001\x0004 min \xf000ȁ\x0001\x0005 s.
+Vous dites:\xfffe“\xf000Ĝ\x0001\x0000"!
 Son Score
 Total
 \xf000Ȅ\x0001\x0000
 Temps restant
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-EXAMINER
+DÉTAILS
 OUI
 NON
-EXAMINER
+DÉTAILS
 FERMER
-Hiya!
-\xf000Ā\x0001\x0000 est proche.
-\xf000Ā\x0001\x0000 a débuté le combat\xfffeavec un\xf000ā\x0001\x0001 sauvage!s
-\xf000Ā\x0001\x0000 a gagné le combat\xfffeavec le\xf000ā\x0001\x0001 sauvage!
-\xf000Ā\x0001\x0000 a débuté le combat\xfffeavec un Pokémon special!
-\xf000Ā\x0001\x0000 a gagné le combat\xfffeavec le Pokémon special!
-\xf000Ā\x0001\x0000 a débuté le combat avec\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 a gagné le combat avec\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 a débuté le combat\xfffeavec le maître de l'arène!
-\xf000Ā\x0001\x0000 a gagné le combat\xfffeavec le maître de l'arène!
-\xf000Ā\x0001\x0000 a débuté le combat\xfffeavec un dresseur special!
-\xf000Ā\x0001\x0000 a gagné le combat\xfffeavec un dresseur special!
-\xf000Ā\x0001\x0000 a débuté le combat\xfffeavec un dresseur special!
-\xf000Ā\x0001\x0000 a gagné le combat\xfffeavec un dresseur special!
-\xf000Ā\x0001\x0000 a attrapé un\xfffesauvage \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 a attrapé\xfffeune Pokémon special!
-\xf000Ă\x0001\x0002 de\xf000Ā\x0001\x0000 \xfffea pris un niveau!
-\xfffe\xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000 a evolué\xfffeen \xf000ā\x0001\x0001!
+ÇA VA?
+\xf000Ā\x0001\x0000\xfffeest tout près!
+\xf000Ā\x0001\x0000 a commencé un combat\xfffecontre un \xf000ā\x0001\x0001 sauvage!
+\xf000Ā\x0001\x0000 a gagné un combat\xfffecontre un \xf000ā\x0001\x0001 sauvage!
+\xf000Ā\x0001\x0000 a commencé un combat\xfffecontre un Pokémon spécial!
+\xf000Ā\x0001\x0000 a gagné un combat\xfffecontre un Pokémon spécial!
+\xf000Ā\x0001\x0000 a commencé un combat\xfffecontre \xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 a gagné un combat\xfffecontre \xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 a commencé un combat\xfffecontre un Champion d'Arène!
+\xf000Ā\x0001\x0000 a gagné un combat\xfffecontre un Champion d'Arène!
+\xf000Ā\x0001\x0000 a commencé un combat\xfffecontre un Dresseur spécial!
+\xf000Ā\x0001\x0000 a gagné un combat\xfffecontre un Dresseur spécial!
+\xf000Ā\x0001\x0000 a commencé un combat\xfffecontre un Dresseur spécial!
+\xf000Ā\x0001\x0000 a gagné un combat\xfffecontre un Dresseur spécial!
+\xf000Ā\x0001\x0000 a attrapé\xfffeun \xf000ā\x0001\x0001 sauvage!
+\xf000Ā\x0001\x0000 a attrapé\xfffeun Pokémon spécial!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffea gagné un niveau!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffea évolué et est devenu un \xf000ā\x0001\x0001.
 Dummy Message
-\xf000Ā\x0001\x0000 a trouvé\xfffe\xf000ĉ\x0001\x0001!
-Temps de jeu de \xf000Ā\x0001\x0000 \xfffea deppassé \xf000Ȃ\x0001\x0001 heures!
-\xf000Ā\x0001\x0000 a complété le\xfffePokédex!
-\xf000Ā\x0001\x0000 a été remercié\xfffeplus que \xf000Ȃ\x0001\x0001 fois!
-\xf000Ā\x0001\x0000 est dans le domaine\xfffede récéption dans la chambre d'Union.
+\xf000Ā\x0001\x0000 a trouvé \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 a joué plus de \xf000Ȃ\x0001\x0001 heure(s)!
+\xf000Ā\x0001\x0000 a complété son Pokédex!
+Les remerciements à \xf000Ā\x0001\x0000\xfffesont au nombre de \xf000Ȃ\x0001\x0001!
+\xf000Ā\x0001\x0000 est à l'accueil\xfffede la Salle Union.
 \xf000Ā\x0001\x0000 vous a remercié!
-\xf000ā\x0001\x0001 est actuellemnt\xfffeétant distribué!
-le \xf000ĉ\x0001\x0001 est actuellemnt\xfffeétant distribué!
-Une cadeau mystère est\xfffeactuellemnt disponible!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002's attack\xfffewas a critical hit!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 took\xfffea critical hit!
-\xf000Ā\x0001\x0000 escaped\xfffefrom the battle!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas very low HP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas very low PP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas fainted!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas a status condition!
-\xf000Ā\x0001\x0000 used\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ā\x0001\x0000 used\xfffe\xf000ć\x0001\x0001!
-\xf000Ā\x0001\x0000 received\xfffean Egg!
-\xf000ā\x0001\x0001 hatched from\xfffe\xf000Ā\x0001\x0000's Egg!\xfffe
-\xf000Ā\x0001\x0000 is\xfffeshopping.
-\xf000Ā\x0001\x0000 is in a\xfffeBattle Subway challenge.
-\xf000Ā\x0001\x0000 has\xfffe\xf000Ȁ\x0001\x0001 straight wins\xfffein the Battle Subway!
-\xf000Ā\x0001\x0000 won\xfffea trophy in the Battle Subway!
-\xf000Ā\x0001\x0000 challenged\xfffethe Battle Institute.
-\xf000Ā\x0001\x0000 was certified as\xfffe\xf000Ɓ\x0001\x0001 in\xfffethe Battle Institute!
-\xf000Ā\x0001\x0000 got on\xfffethe Ferris wheel.
-\xf000Ā\x0001\x0000 entered\xfffethe Poké Transfer.
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is currently\xfffeparticipating in the Musical contest.
-\xf000Ā\x0001\x0000 used the received\xfffe\xf000đ\x0001\x0001!
-\xf000Ā\x0001\x0000 said\xfffe“\xf000Ĝ\x0001\x0001."
+\xf000ā\x0001\x0001 est en cours\xfffede distribution!
+\xf000ĉ\x0001\x0001 est en cours\xfffede distribution!
+Le Cadeau Mystère est en cours\xfffede distribution!
+Coup critique du \xf000Ă\x0001\x0002\xfffede \xf000Ā\x0001\x0000!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffea reçu un coup critique!
+\xf000Ā\x0001\x0000 a fui!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffen'a plus beaucoup de PV!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffen'a plus beaucoup de PP!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffeest K.O.!
+Le \xf000Ă\x0001\x0002 de \xf000Ā\x0001\x0000\xfffesouffre d'un changement de statut!
+\xf000Ā\x0001\x0000 utilise \xf000ĉ\x0001\x0001.
+\xf000Ā\x0001\x0000 utilise \xf000ć\x0001\x0001.
+\xf000Ā\x0001\x0000 a reçu un Œuf.
+Un \xf000ā\x0001\x0001 est sorti\xfffede l'Œuf de \xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0000 fait ses courses.
+\xf000Ā\x0001\x0000 relève un défi\xfffedans le Métro de Combat.
+\xf000Ā\x0001\x0000 enchaîne les victoires\xfffedans le Métro de Combat!
+\xf000Ā\x0001\x0000 a obtenu un trophée\xfffedu Métro de Combat!
+\xf000Ā\x0001\x0000 a relevé un défi\xfffedu Club des Épreuves.
+\xf000Ā\x0001\x0000 est classé(e)\xfffe\xf000Ɓ\x0001\x0001\xfffeau Club des Épreuves!
+\xf000Ā\x0001\x0000 a fait un tour sur\xfffela grande roue.
+\xf000Ā\x0001\x0000 est entré(e)\xfffeau Poké Fret.\xfffe
+\xf000Ā\x0001\x0000 relève un défi\xfffedu Music-Hall.
+\xf000Ā\x0001\x0000 a utilisé\xfffel'\xf000đ\x0001\x0001!
+\xf000Ā\x0001\x0000 a dit:\xfffe“\xf000Ĝ\x0001\x0001"!
 dummy message
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　さつえいちゅうです
 \xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　かんしょうちゅうです
