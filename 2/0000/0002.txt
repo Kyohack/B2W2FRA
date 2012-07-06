@@ -7,8 +7,8 @@
 Choisissez un Pokémon.
 Sur quel Pokémon l'utiliser?
 Remplacer lequel?
-Combattre en utilisant quel Pokémon?
-Changer quel Poékmon?
+Combattre avec quel Pokémon?
+Échanger quel Pokémon?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -19,34 +19,26 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 PP
-DEPLACER
-♂
-♀
-RESUME
-Vérifier Mouvements
-Ne peut pas combattre
-En combat
-Est prêt
-Partenaire
-Aucun objet tenue
-\xf000Ă\x0001\x0000
-\xf000Ă\x0001\x0000
-Lv.
-\xf000Ȃ\x0001\x0000
-NIVEAU SUIVANT
-\xf000ȅ\x0001\x0000
-\xf000Ć\x0001\x0000
-PV
+ÉCHANGER
+⑭
+⑮
+RÉSUMÉ
+CAPACITÉS
+K.O.
+AU COMBAT
+EN ATTENTE
+PARTENAIRE
+Pas d'objet tenu
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
 ATTAQUE
 \xf000Ȃ\x0001\x0000
-DEFENSE
+DÉFENSE
 \xf000Ȃ\x0001\x0000
-ATQ SPE
+ATQ SPÉ
 \xf000Ȃ\x0001\x0000
-DEF SPE
+DÉF SPÉ
 \xf000Ȃ\x0001\x0000
 VITESSE
 \xf000Ȃ\x0001\x0000
@@ -59,16 +51,16 @@ PP
 POUVOIR
 \xf000Ȃ\x0001\x0000
 ―
-PRECISION
+PRÉCISION
 \xf000Ȃ\x0001\x0000
-CATEGORIE
-PHISICAL
-STATUS
-SPECIALE
+CATÉGORIE
+PHYSIQUE
+STATUT
+SPÉCIALE
 Point(s) de charme
-Oublier
-Annuler
-La CS ne peut être\xfffeoublier maintenant.
+OUBLIER
+RETOUR
+Impossible d'oublier cette\xfffecapacité secrète maintenant.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -84,11 +76,11 @@ La CS ne peut être\xfffeoublier maintenant.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000 \xfffeest deja sur le champ!
-\xf000Ă\x0001\x0000 \xfffen'a plus d'énergie pour combattre!
-\xf000Ă\x0001\x0000 \xfffene peut être changé!
-Une œuf ne peut pas combattre!
-Tu ne peut pas changer le pokemon de votre partenaire par l'un des votre!
+\xf000Ă\x0001\x0000 est\xfffedéjà au combat!
+\xf000Ă\x0001\x0000 n'a plus\xfffed'énergie pour combattre!
+\xf000Ă\x0001\x0000 ne peut pas\xfffeêtre échangé!
+Un Œuf ne se bat pas, voyons!
+Impossible d'échanger un Pokémon de\xfffevotre partenaire avec l'un des vôtres!
 Ça n'aura aucun effet.
 \xf000Ă\x0001\x0000 a été rétabli de\xfffe\xf000Ȃ\x0001\x0001　Point de vie!
 \xf000Ă\x0001\x0000 a été guéri de son\xfffePoison!
@@ -101,8 +93,8 @@ Les PP ont été rétabli.　
 \xf000Ă\x0001\x0000 \xfffesort de sa confusion!
 \xf000Ă\x0001\x0000 \xfffesort de son engouement!
 \xf000Ă\x0001\x0000 \xfffeest réveillé(e)!
-\xf000Ă\x0001\x0000 est déjà\xfffesélectionné
-Redonner quelle mouvement ?
-\xf000ć\x0001\x0001 empêche l'usage de l'ovjet sur\xfffe\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 ne peut être\xfffechangé!
-\xf000Ă\x0001\x0000 est déjà\xfffechangé!
+\xf000Ă\x0001\x0000 est déjà sélectionné.
+Laquelle restaurer?
+La capacité \xf000ć\x0001\x0001 empêche\xfffed'utiliser l'objet sur \xf000Ă\x0001\x0000!
+Impossible de faire revenir \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 est déjà revenu.
