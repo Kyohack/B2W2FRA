@@ -8,13 +8,13 @@ OPTIONS
 
 CHAT
 　
-リタイア
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+QUITTER
+Pokédex selectonné.
+État de Pokémon selectionné.
+Sac selectionné.
+Carte Dresseur selectionné.
+Sauvegarde selectionné.
+Options selectionné.
+Sauvegarde en cours.
+Le jeu a été\xfffesauvegardé avec succés!
+Sauvegarde impossible\xfffealors que vous communiquez.
