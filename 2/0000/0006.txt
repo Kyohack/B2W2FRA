@@ -4,7 +4,7 @@ ENREGISTRER
 DONNER
 VOIR
 CONFIRMER
-COURIR
+MARCHER
 RETOUR
 FERMER
 VOIR
@@ -16,7 +16,7 @@ PRENDRE
 DONNER
 VERIFIER
 RIEN
-DESELECTIONNER
+DÉSENREGISTRER
 ？？？
 ？？？？？
 ／
@@ -50,21 +50,21 @@ Vous ne pouvez pas lui donner\xfffe\xf000ĉ\x0001\x0000 ici!
 Combien de \xfffe\xf000ĉ\x0001\x0000 stoquer?
 Vous avez stoqué \xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
 Vous ne pouvez plus stoquer!
-C'est un objet important\xfffeso vous ne pouvez pas le jeter！
-Combien de \xfffe\xf000ĉ\x0001\x0000(s) jeter?
-\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s) jetés.
-Etes vous sur de vouloir jeter\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001(s)?
-Comme le  Professor Araragi dis... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Il y a un temps et un endroit\xfffepour utilisé ça!
-You can't dismount your bike here!
-Comme le Professor Araragi dit... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Il y a un temps et un endroit\xfffepour utilisé ça!
+C'est un objet important\xfffealors vous ne pouvez pas le jeter！
+En jeter combien?
+Vous jetez \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Voulez-vous jeter\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Conseil du Professeur...\xfffe\xf000Ā\x0001\x0000, chaque chose en son temps!
+Impossible de descendre de\xfffeBicyclette ici.
+Conseil du Professeur...\xfffe\xf000Ā\x0001\x0000, chaque chose en son temps!
 Votre argent:　\xf000Ȅ\x0001\x0000
-CT enclenchée!
-CS enclenchée!
-Elle contient　\xf000ć\x0001\x0000.\xf000븁\x0000Apprendre \xf000ć\x0001\x0000\xfffeà un Pokémon?
-\xf000Ā\x0001\x0000 utilise \xfffe\xf000ĉ\x0001\x0001!
-Tant que l'effet du repousse est actif,\xfffevous ne pouvez pas l'utilisé!
-\xf000Ā\x0001\x0000 a utilisé \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Le Pokémon sauvage seront attiré!
-\xf000Ā\x0001\x0000 a utilisé \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Le Pokémon sauvage seront repoussé!
+CT activée!
+CS activée!
+Elle contient \xf000ć\x0001\x0000.\xf000븁\x0000\xfffeSouhaitez-vous apprendre \xf000ć\x0001\x0000\xfffeà un Pokémon?
+\xf000Ā\x0001\x0000 utilise\xfffe\xf000ĉ\x0001\x0001!
+Le Repousse précédent est\xfffetoujours actif!
+\xf000Ā\x0001\x0000 a utilisé \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Les Pokémon sauvage seront attiré!
+\xf000Ā\x0001\x0000 a utilisé \xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Les Pokémon sauvage seront repoussé!
 La boîte est pleine!
 Poudres:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
@@ -75,23 +75,23 @@ Joue de la  Poke Flute!\xfffeWow! Ca sonne bien!
 Joue de la Poké Flute!
 Le Pokémon a entendu la flute\xfffeet se réveille.
 Bouge
-Vous ne pouvez pas acheter\xfffe\xf000ĉ\x0001\x0000.
-Vendre combien de\xfffe\xf000ĉ\x0001\x0000?
-Je peux payer　¥\xf000Ȇ\x0001\x0000.\xfffeEst-ce OK?
-Vous avez vendu \xf000ĉ\x0001\x0000\xfffeet recevez ¥\xf000Ȇ\x0001\x0001.
+\xf000ĉ\x0001\x0000? Oh, non.\xfffeJe ne peux pas acheter ça.
+\xf000ĉ\x0001\x0000? Combien voulez-vous\xfffeen vendre?
+Je peux vous en donner \xf000Ȇ\x0001\x0000 $.\xfffeÇa vous va?
+Cette vente vous a rapporté \xf000Ȇ\x0001\x0001 $.
 Argent
-¥\xf000Ȇ\x0001\x0000
+\xf000Ȇ\x0001\x0000 $
 x\xf000ȁ\x0001\x0000
-+¥\xf000Ȇ\x0001\x0000
++\xf000Ȇ\x0001\x0000 $
 Oui
 Non
 Vendre
 ×\xf000Ȃ\x0001\x0000
 Retirer
-ＰＰ
-Poudre
-Précision
-Categorie
+PP
+POUVOIR
+PRÉCISION
+CATÉGORIE
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 Seaux:　\xf000ȃ\x0001\x0000
