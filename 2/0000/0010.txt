@@ -1,21 +1,21 @@
-NOM:
-METIER:
-PASSE-TEMPS:
-TEMPS:
-\xf000ļ\x0001\x0000
-\xf000ļ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-DE:
+NOM
+TRAVAIL
+HOBBY
+TEMPS DE JEU
+\xf000Ĩ\x0001\x0000
+\xf000Ĩ\x0001\x0000
+\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
+RÉSIDENCE
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-Nombre de fois remércié:\xfffeNombre de gens passé à coté:
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
+NB DE REMERCIEMENTS REÇUS\xfffeNB DE PERSONNES CROISÉES
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
 \xf000Ȅ\x0001\x0001にん
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-Passant temps:　AM\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Passant temps:　PM\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Combat　\xf000ā\x0001\x0000a\xfffeSauvage
-Combat avec\xfffePokémon spécial
-Combat \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
-Combat Maître d'arène
-Combat avec Dresseur Spécial
-Se déplacer dans \xf000ą\x0001\x0000
+Dresseur croisé à \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001.
+Dresseur croisé à \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001.
+Affronte un \xf000ā\x0001\x0000 sauvage.
+Affronte un Pokémon spécial.
+Affronte \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001.
+Affronte un Champion d'Arène.
+Affronte un Dresseur spécial.
+Parcourt: \xf000ą\x0001\x0000.
