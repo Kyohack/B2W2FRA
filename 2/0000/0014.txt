@@ -1,56 +1,52 @@
-\xf000Ă\x0001\x0000est séléctionné.
+\xf000Ă\x0001\x0000 sélectionné.
 Marquez s'il vous plaît.
-Relâcher ce Pokémon ?
-\xf000Ă\x0001\x0000a été relaché.
-Bye bye,　\xf000Ă\x0001\x0000！
-Il n'y a plus de place dans votre équipe!
-Vous n'avez plus de Pokémon capable de se battre!
-Que voulez vous faire ?
-Aller à quelle boîte ?
+Relâcher ce Pokémon?
+\xf000Ă\x0001\x0000 a été relâché.
+Bye-bye, \xf000Ă\x0001\x0000!
+Votre équipe est au complet!
+C'est votre dernier Pokémon!
+Boîte sélectionnée.
+Aller à quelle Boîte?
 Choisissez un thème.
 Choisissez un fond.
-Continuer la gestion de la boîte?
-Plus de places dans la boîte!
-Votre sac est plein!
-Prends le \xf000ĉ\x0001\x0000
-\xf000ĉ\x0001\x0000 est porté.
-Prendre lequel?
-Le placer dans quelle boîte?
+Continuer la gestion des Boîtes?
+La Boîte est pleine.
+Le Sac est plein.
+Vous avez pris \xf000ĉ\x0001\x0000.
+Le Pokémon tient \xf000ĉ\x0001\x0000.
+Touchez un Pokémon.
+Déposer dans quelle Boîte?
 Aucun objet porté.
 ♂
 ♀
-Prendre \xf000ĉ\x0001\x0000?
-Impossible de prendre les lettres!
-\xf000ĉ\x0001\x0000est sélectionné.
-Jeter \xf000ĉ\x0001\x0000?
-\xf000ĉ\x0001\x0000 est placé dans le sac.
-Peut porter un objet.
-Veuillez retirer la lettre.
-Vous ne pouvez pas relâcher un oeuf!
+\xf000ĉ\x0001\x0000: prendre cet objet?
+Impossible de ranger la Lettre!
+Sélection: \xf000ĉ\x0001\x0000
+Ranger \xf000ĉ\x0001\x0000?
+Vous rangez \xf000ĉ\x0001\x0000 dans le Sac.
+Le Pokémon peut tenir un objet.
+Veuillez enlever la Lettre.
+Œuf impossible à relâcher.
 Vous ne pouvez pas relâcher un Kyurem fusionné!
-\xf000Ă\x0001\x0000est revenu !
-Était-il inquiet pour toi?
-Un Oeuf ne peut pas porter d'objets!
-Touchez la marque!
-DEPOSER PKMN
-RETIRER PKMN
-La boîte est pleine.
-Plus de place dans votre équipe.
-DEPOSER PKMN
-RETIRER PKMN
-DEPLACER PKMN
-DEPLACER OBJET!
-BOITE DE COMBAT
-SELECTIONNER UN PKMN ENDORMI
-La lettre ne peut être retirée!
-Impossible de porter \xf000ĉ\x0001\x0000!
-Il a une lettre!
-Vous n'avez plus de Pokémon capable de se battre！
-Les lettres ne peuvent être déplacées.
-Il ne peut porter de lettre ici.
-Impossible de sélectionner un Oeuf
-\xf000Ă\x0001\x0000sera endormi.\xfffeContinuer？
-Ce Pokémon\xfffen'as pas l'air fatigué pour le moment.
-Sélectionner un autre Pokémon?
-Votre boite de combat est verrouillée.\xfffeVous ne pouvez pas déplacer vos PKMNs.
-Votre boite de combat est verrouillée.\xfffeVous ne pouvez pas prendre/donner des objets.
+\xf000Ă\x0001\x0000 est revenu!
+Il se faisait peut-être du souci...
+Un Œuf ne peut pas tenir un objet.
+Touchez un ou plusieurs symboles!
+DÉPOSER POKÉMON
+RETIRER POKÉMON
+DÉPLACER POKÉMON
+DÉPLACER OBJETS
+BOÎTE COMBAT
+POKÉMON À ENDORMIR
+La Lettre ne peut pas être déplacée!
+Il ne peut pas tenir \xf000ĉ\x0001\x0000.
+Il tient une Lettre!
+C'est votre dernier Pokémon!
+Une Lettre ne peut pas être déplacée!
+Impossible de donner une Lettre ici.
+Impossible avec un Œuf!
+Endormir \xf000Ă\x0001\x0000?
+Ce Pokémon ne semble pas avoir sommeil.
+Continuer la sélection?
+La Boîte Combat est verrouillée.\xfffeImpossible de déplacer les Pokémon.
+La Boîte Combat est verrouillée.\xfffeImpossible de changer les objets tenus.
