@@ -6,18 +6,18 @@ Le nom de ton ami?
 Comment salues-tu un passant?
 Comment remercies-tu un passant?
 Quel est ton message aux passants?
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
-すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
-Entre ton nom s'il te plait.
-Les nombres doivent contenir\xfffeseulement jusqu'à 4 chiffres.
-ゲームシンクＩＤコードが\xfffeまちがっています
+Le nom de cette ville?(Enregistre\xfffele dans Carte de Dresseur.)
+Ton titre?(Cette ville\xfffeest la seul location mentioné.)
+Mon disant?\xfffe(Transmis globalement.)
+Entrez votre môt-de-passe.
+Veuillez entrer votre\xfffeCode ID de Sync du jeu.
+Comment et quand parler?\xfffe(Transmis globalement.)
+Comment vous transmettez\xfffeun message vers les passants?
+Quelle est votre message passant?
+Nom du Pokémon?
+Veuillez entrer votre Nom.
+Nom peut contenir seulement\xfffejusqu'à 4 caractères.
+Le Code ID de Sync du jeu\xfffeest incorrect.
 　
 　
 Meilleures salutations!
@@ -26,4 +26,4 @@ Blanc.
 Noir.
 ♂
 ♀
-Entre s'il z plait
+Veuillez Tapper.
