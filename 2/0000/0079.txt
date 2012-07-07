@@ -1,5 +1,5 @@
-ぼうけん
-せんとう
-おたのしみ
-ちょうせん
-とくべつ
+Aventure
+Début
+S'amuser
+Défi
+Speciale
