@@ -1,203 +1,205 @@
-タイトルメニュー
-ポケモンセンターの　せつめい
-Ｃギアの　せつめい
-メニューに　ついて
-せんとうに　ついて
-ポケモンの　じょうほう
-そのた
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-バトルたいかい
-デジタルせんしゅしょう
-ゲームシンクせってい
-Ｗｉ－Ｆｉせってい
-マイクテスト
-ポケモンセンター
-パソコンで　ポケモンをいれかえる
-ボックスを　せいりする
-バトルボックス
-つうしんこうかんの　はじめかた
-つうしんたいせんの　はじめかた
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-ミラクルシューター
-ユニオンルーム
-Ｗｉ－Ｆｉクラブ
-グローバルターミナル
-ともだちコード
-Ｃギア（シーギア）
-すれちがいログ
-すれちがいちょうさ　とは
-すれちがいちょうさを　うける
-すれちがいちょうさを　はじめる
-すれちがいちょうさの　ほうこく
-ＩＲ(アイアール)つうしん
-ゲームシンク
-ハイリンク
-デルパワー
-デルダマ
-バッグ
-トレーナーカード
-ポケモンずかん
-ポケモンをつかまえるコツ
-タイプとあいしょう
-「ぶつり」「とくしゅ」「へんか」
-ひんし
-どく
-まひ
-ねむり
-こおり
-やけど
-こんらん
-メロメロ
-けいけんち
-しんか
-「せいかく」と　「こせい」
-ポケルス
-ポケモンのタマゴ
-はしる
-ダウジングマシン
-ライブキャスター
-ジムバッジ
-べんりボタン
-メダルラリー
-ポケシフターでポケモンをつれてくる
-ポケシフターでポケモンをつかまえる
-ぼうけんを　はじめたら\xfffeＸボタンで　メニューを　ひらき\xfffe「レポート」を　こまめに　かきましょう。\xfffe\xfffeレポートをかくと　ＤＳの　でんげんを\xfffeきっても　タイトルメニューの\xfffe「つづきから　はじめる」から\xfffeぼうけんの　つづきを　あそべます。
-レポートを　すべてけして　もういちど\xfffeさいしょから　ぼうけんを　はじめなおす\xfffeときは　タイトルがめんで\xfffe\xfffeうえボタン　セレクトボタン　Ｂボタン\xfffe\xfffeの　３つのボタンを\xfffeどうじに　ぜんぶ　おしてください。
-イベントかいじょうなどで　とくべつな\xfffeプレゼントを　つぎの　３つの　ほうほうで\xfffeうけとることが　できます。\xfffe・ワイヤレスつうしんで　うけとる\xfffe・Ｗｉ－Ｆｉつうしんで　うけとる\xfffe・せきがいせんつうしんで　うけとる\xfffe\xfffeイベントごとに　ほうほうが　きめられて\xfffeいますので　ごちゅういください。
-ふしぎな　おくりもので　とくべつな\xfffeポケモンや　どうぐを　もらえる\xfffeふしぎなカードを　じゅしんすると\xfffeポケモンセンターに\xfffeあおい　ぼうしを　かぶった\xfffeはいたついんが　やってきます。\xfffe\xfffeはいたついんに　はなしかけて\xfffeポケモンや　どうぐを　うけとってください。
-ふしぎなカードは　１２まいまで\xfffeもっておくことが　できます。\xfffe\xfffeふしぎなカードが　いっぱいのときに\xfffeさらにカードを　うけとりたいときは\xfffe「カードアルバムを　みる」から\xfffeおくりものを　すでに　うけとったカードを\xfffeけしてください。
-Ｗｉ－Ｆｉや　イベントかいじょうで\xfffeおこなわれる　ポケモンしょうぶの\xfffeたいかいに　さんかします。\xfffe\xfffeバトルたいかいについて　くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを　きく」を\xfffeかくにん　してください。
-ユーザーとうろくの　ほうほうや\xfffeバトルたいかいへの　さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて　くわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいには\xfffeゲームのなかの　パソコンにある\xfffe「バトルボックス」に　とうろくされている\xfffeポケモンが　さんかします。\xfffe\xfffeいちど　とうろくすると　たいかいちゅうは\xfffeバトルボックスを　へんこうできませんので\xfffeとうろくするまえに　じっくりかんがえて\xfffeポケモンを　えらんで　ください。
+Le Menu Principal
+Les Centres Pokémon
+Le C-Gear
+Le Menu
+Les Combats
+Les Pokémon
+Autres
+Continuer
+Nouvelle Partie
+Cadeau Mystère
+Compétitions
+Licence Numérique
+Paramètres Synchro-Jeu
+Paramètres CWF Nintendo
+Test Micro
+Les Centres Pokémon
+Changer de Pokémon avec le PC
+Déposer Pokémon
+La Boîte Combat
+Les Échanges Link
+Les Combats Link
+Les Combats Solo
+Les Combats Duo
+Les Combats Trio
+Les Combats Rotatifs
+Le Shooter-Miracle
+La Salle Union
+Le Club Wi-Fi
+Le Terminal Mondial
+Les Codes Ami
+Le C-Gear
+Le Listing Contact
+Les Enquêtes Rencontres
+Recevoir une Commande d'Enquête
+Réaliser une Enquête
+Faire son Rapport d'Enquête
+La Communication Infrarouge
+La Synchro-Jeu
+Le Heylink
+L'Offri-Aura
+Les Offrisphères
+Le Sac
+La Carte de Dresseur
+Le Pokédex
+Attraper un Pokémon
+Combinaisons de Types
+Différents Genres d'Attaques
+Le K.O.
+L'Empoisonnement
+La Paralysie
+Le Sommeil
+Le Gel
+La Brûlure
+La Confusion
+L'Attirance
+Les Points Exp.
+L'Évolution des Pokémon
+Nature et Caractéristiques
+Le Pokérus
+Oeuf Pokémon
+Courir
+Le Cherch'Objet
+Le Vokit
+Les Badges
+Le Bouton Express
+Rally Vendredi
+Emmener des Pokémon par Poké Fret
+Attraper des Pokémon au Poké Fret
+Lorsque vous commencez votre aventure,\xfffeprenez soin de sauvegarder en ouvrant\xfffele menu avec le bouton X.\xfffe\xfffeAprès avoir sauvegardé, vous pourrez\xfffeéteindre la console, puis reprendre\xfffel'aventure plus tard en choisissant\xfffeCONTINUER depuis le menu principal.
+Pour effacer votre sauvegarde\xfffeet recommencer depuis le début,\xffferendez-vous à l'écran titre et\xfffeappuyez simultanément sur\xfffehaut, SELECT et le bouton B.
+Les cadeaux spéciaux distribués lors des\xfffeévénements peuvent être récupérés\xfffede 3 manières:\xfffe- via la communication sans fil\xfffe- via la connexion Wi-Fi Nintendo\xfffe- via la communication infrarouge\xfffe\xfffeAttention! Chaque événement a son propre\xfffemode d'envoi des cadeaux, défini à l'avance.
+Lorsque vous recevez une Carte Miracle,\xfffeallez parler au livreur au chapeau bleu\xfffedans n'importe quel Centre Pokémon\xfffepour récupérer le Cadeau Mystère\xfffecorrespondant.\xfffe\xfffeLe livreur vous donnera votre cadeau:\xfffeun Pokémon, un objet, etc.
+Vous ne pouvez garder que\xfffe12 Cartes Miracle à la fois.\xfffe\xfffePour en obtenir de nouvelles, il vous\xfffefaudra choisir REGARDER L'ALBUM et\xfffeeffacer celles pour lesquelles vous avez\xfffedéjà récupéré le cadeau correspondant.
+Cette option permet de participer\xfffeà des combats en Compétition Wi-Fi\xfffeou durant des Événements.\xfffe\xfffePour plus d'informations sur les Compétitions,\xfffeveuillez consulter la rubrique INFORMATIONS\xfffedu menu COMPÉTITIONS, que vous trouverez\xfffedans le menu principal.
+Les informations relatives aux Compétitions,\xfffecomme les règles de participation ou les\xfffemodalités d'inscription, sont disponibles\xfffesur le site officiel Pokémon ou sur le site\xfffedu Pokémon Global Link.
+Seuls les Pokémon déposés dans la\xfffeBoîte Combat du PC peuvent participer\xfffeaux Compétitions.\xfffe\xfffeUne fois inscrits à une Compétition,\xfffeles Pokémon de la Boîte ne peuvent\xfffeplus être modifiés ou retirés.\xfffeChoisissez-les donc avec soin.
 バトルたいかいが　おわったあと\xfffeバトルボックスの　ポケモンをとりだすには\xfffeたいかいさんかを　かいじょ　するか\xfffeしゅうりょうする　ひつようが　あります。\xfffe\xfffeくわしくは　インターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん　してください。
-バトルたいかいへの\xfffeとうろくが　かんりょうすると\xfffeデジタルせんしゅしょうを\xfffeかくにん　できるように　なります。\xfffe\xfffeくわしいことは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeかくにん　してください。
-ゲームシンクせっていを　するには\xfffeあらかじめ　「Ｗｉ－Ｆｉせってい」を\xfffeすませておく　ひつようが　あります。\xfffe\xfffeＷｉ－Ｆｉせっていを　すませたあと\xfffeゲームシンクせっていを　えらぶと\xfffeあなただけの　ばんごうである\xfffe「ゲームシンクＩＤコード」が\xfffeはっこうされます。
-ゲームシンクＩＤコードは\xfffeじっさいのパソコンを　つかって\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」で\xfffeユーザーとうろくを　するときに\xfffeひつように　なります。
-なお　ゲームシンクＩＤコードは\xfffeぼうけんの　レポートを　けすと\xfffeいっしょに　きえてしまいます。\xfffe\xfffeゲームシンクＩＤコードが\xfffeかわったばあいは　もういちど\xfffeポケモングローバルリンクで\xfffeとうろくしなおす　ひつようが　あります。
-ニンテンドーＤＳ／ＤＳ　Ｌｉｔｅで\xfffeＷｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeＷｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
-また　「バトルたいかい」や\xfffe「ゲームシンクせってい」など\xfffeポケモングローバルリンクとの　れんどうを\xfffeおこないたいばあいも　あらかじめ\xfffeＷｉ－Ｆｉせっていを　しておく\xfffeひつようが　あります。
-ＤＳほんたいの　マイクが\xfffeただしく　うごいているか\xfffeかくにんすることが　できます。\xfffe\xfffeマイクにむかって　こえをだしたり\xfffeいきを　ふきかけたときに\xfffeうえがめんの　プリンが　はんのうすれば\xfffeマイクは　ただしく　うごいています。
-ポケモンを　かいふくしたり　やくにたつ\xfffeどうぐを　かうことが　できます。\xfffeつかまえた　ポケモンを　いれかえたり\xfffeアララギはかせの　ひょうかをきくための\xfffeパソコンも　ここに　おいてあります。\xfffe\xfffeともだちとの　つうしんを　つかった\xfffeポケモンの　こうかんや　たいせんは\xfffeポケモンセンター　２かいで　おこなえます。
-パソコンを　つかうと\xfffeつれている　ポケモンを　あずけたり\xfffeあずけている　ポケモンを\xfffeつれだすことが　できます。\xfffe\xfffeポケモンを　６ひき　つれているときに\xfffeあたらしく　つかまえた　ポケモンは\xfffeじどうてきに　このパソコンに\xfffeてんそうされます。
+Vous pouvez y visualiser\xfffevotre Licence Numérique dès\xfffeque votre inscription à une\xfffeCompétition a été confirmée.\xfffe\xfffeVous trouverez des informations\xfffecomplémentaires sur le site du\xfffePokémon Global Link.
+Vous devez paramétrer la connexion\xfffeWi-Fi Nintendo avant de pouvoir\xfffeparamétrer la Synchro-Jeu.\xfffe\xfffeLes PARAMÈTRES SYNCHRO-JEU du\xfffemenu vous permettront d'obtenir votre\xfffeID de Synchro-Jeu, qui vous est\xfffestrictement personnel.
+L'ID de Synchro-Jeu vous sera\xfffedemandé au moment de la saisie\xfffede vos informations d'utilisateur\xfffesur le site du Pokémon Global Link,\xfffeauquel vous pourrez accéder à\xfffel'aide d'un ordinateur.
+L'ID de Synchro-Jeu sera effacé si vous\xfffesupprimez votre sauvegarde de jeu.\xfffe\xfffeSi votre ID de Synchro-Jeu devait changer,\xfffevous devriez vous inscrire à nouveau\xfffesur le site du Pokémon Global Link.
+Vous pouvez paramétrer la\xfffeconnexion Wi-Fi Nintendo\xfffede votre Nintendo DS.\xfffe\xfffeElle vous permettra d'échanger\xfffedes Pokémon et de combattre avec\xfffedes Dresseurs du monde entier.
+Notez que vous devrez paramétrer à nouveau\xfffela connexion Wi-Fi Nintendo pour utiliser le\xfffesite du Pokémon Global Link et profiter des\xfffefonctionnalités Compétitions et Synchro-Jeu.
+Vous pouvez y vérifier le bon\xfffefonctionnement du microphone\xfffede votre Nintendo DS.\xfffe\xfffeVous pouvez tester le micro en\xfffesoufflant dessus ou en parlant.\xfffeS'il fonctionne, le Rondoudou de\xfffel'écran supérieur réagira.
+Vous pouvez y soigner vos Pokémon\xfffeou y acheter des objets utiles.\xfffeVous y trouverez également un PC pour\xfffedéposer vos Pokémon et écouter les\xffferemarques du Professeur Keteleeria.\xfffeLes Échanges et Combats Link ont lieu\xfffeà l'étage.
+Le PC vous permet de déposer\xfffeou de récupérer des Pokémon.\xfffe\xfffeLorsque vous avez déjà 6 Pokémon dans\xfffevotre équipe, les Pokémon nouvellement\xfffecapturés sont directement envoyés\xfffevers une Boîte PC.
 パソコンに　あずけている　ポケモンは\xfffe「ボックスを　せいりする」ことで\xfffeすきな　ボックスに　いどう　させたり\xfffeばしょを　いれかえることが　できます。
 いどうさせたい　ポケモンを　タッチし\xfffe「いどうする」を　タッチすると\xfffeみぎがわに　ボックスが　ひょうじされます。\xfffe\xfffeグレーの　やじるしを　じょうげに\xfffeスライドして　いどう　させたい\xfffeボックスを　タッチすると\xfffeポケモンを　タッチした　ボックスに\xfffeいどうさせることが　できます。
 あおいろの　ボタンを　タッチすると\xfffeいれかえモードに　きりかわります。\xfffe\xfffeタッチして　えらんだ　ポケモンを\xfffeいれかえたい　ばしょまで\xfffeスライドさせて　はなしてください。
 きいろの　ボタンを　タッチすると\xfffeふくすういどうモードに　きりかわります。\xfffe\xfffeボックスを　タッチすると\xfffeてんせんが　ひょうじ　されます。\xfffeいどう　させたい　ポケモンを\xfffeかこむことで　てんせんないの　ポケモンを\xfffeまとめて　いどう　させることができます。
-たいせんで　よくつかう　ポケモンを\xfffe１～６ひきまで　とうろくして　おけます。\xfffeともだちと　たいせんするときは\xfffeバトルボックスに　とうろくしたポケモンで\xfffeしょうぶするか　てもちの　ポケモンで\xfffeしょうぶするかを　えらぶことができます。\xfffeバトルボックスに　なにも\xfffeとうろく　していない　ばあいは\xfffeてもちの　ポケモンで　しょうぶを　します。
-ともだちに　つうしんこうかんを\xfffeもうしこむ　ほうほうは\xfffeつぎの　４つが　あります。\xfffe\xfffe・ＩＲつうしんで　はじめる\xfffe・ユニオンルームで　はじめる\xfffe・Ｗｉ－Ｆｉクラブで　はじめる\xfffe・グローバルターミナルで　はじめる
-・ＩＲつうしんで　はじめる\xfffe\xfffeちかくのともだちに　つうしんこうかんを\xfffeもうしこむときは　ＩＲつうしんをつかうと\xfffeすぐに　はじめられて　べんりです。\xfffe\xfffeＣギアの　「ＩＲ」つうしんを　えらび\xfffe「こうかん」を　えらんでください。
-・ユニオンルームで　はじめる\xfffe\xfffeたくさんのともだちと　みんなで\xfffeあそんでいるときは　ユニオンルームに\xfffeあつまって　こうかんを　もうしこめます。\xfffe\xfffeユニオンルームは\xfffeポケモンセンターの　２かいに　あります。
-・Ｗｉ－Ｆｉクラブで　はじめる\xfffe\xfffeともだちが　とおくに　いるときは\xfffeＷｉ－Ｆｉクラブで　こうかんが　できます。\xfffe\xfffeＷｉ－Ｆｉクラブを　りようするには\xfffeおたがいに　Ｗｉ－Ｆｉせっていと\xfffeともだちコードの　こうかんを\xfffeすませておく　ひつようがあります。
-・グローバルターミナルで　はじめる\xfffe\xfffeグローバルターミナルを　つかうと\xfffeせかいじゅうのひとと　ポケモンの\xfffeこうかんが　できます。\xfffeおたがいの　こうかんじょうけんが　あうと\xfffeこうかんが　おこなわれます。
-ともだちに　つうしんたいせんを\xfffeもうしこむ　ほうほうは\xfffeつぎの　４つが　あります。\xfffe\xfffe・ＩＲつうしんで　はじめる\xfffe・ユニオンルームで　はじめる\xfffe・Ｗｉ－Ｆｉクラブで　はじめる\xfffe・グローバルターミナルで　はじめる
-・ＩＲつうしんで　はじめる\xfffe\xfffeちかくのともだちに　つうしんたいせんを\xfffeもうしこむときは　ＩＲつうしんをつかうと\xfffeすぐに　はじめられて　べんりです。\xfffeＣギアの　「ＩＲ」つうしんを　えらび\xfffe「たいせん」を　えらんでください。\xfffeルールは　かならずレベル５０フラットで\xfffeミラクルシューターは　「あり」です。
-・ユニオンルームで　はじめる\xfffe\xfffeたくさんのともだちと　みんなで\xfffeあそんでいるときは　ユニオンルームに\xfffeあつまって　たいせんを　もうしこめます。\xfffe\xfffeユニオンルームは\xfffeポケモンセンターの　２かいに　あります。
-・Ｗｉ－Ｆｉクラブで　はじめる\xfffe\xfffeともだちが　とおくに　いるときは\xfffeＷｉ－Ｆｉクラブで　たいせんが　できます。\xfffe\xfffeＷｉ－Ｆｉクラブを　りようするには\xfffeおたがいに　Ｗｉ－Ｆｉせっていと\xfffeともだちコードの　こうかんを\xfffeすませておく　ひつようがあります。
-・グローバルターミナルで　はじめる\xfffe\xfffeせかいじゅうのひとと\xfffeいろいろなルールで　たいせんをして\xfffeじぶんの　うでを　みがきたいときは\xfffeグローバルターミナルを　つかってください。\xfffe\xfffeグローバルターミナルは\xfffeポケモンセンターの　２かいに　あります。
-ポケモンを　１ひきずつ　だして\xfffeたたかう　しょうぶのことを\xfffeシングルバトル　といいます。\xfffe\xfffeしょうぶの　しゅるいは　シングルバトルを\xfffeふくめて　ぜんぶで　４つあります。\xfffeどのしょうぶでも　わざを　えらぶ　ときに\xfffeＬボタンを　おしながら　Ａボタンを　おすと\xfffeわざの　せつめいを　みることが　できます。
-ポケモンを　２ひきずつ　だして\xfffeたたかう　しょうぶのことを\xfffeダブルバトル　といいます。\xfffe
-ポケモンを　３ひきずつ　だして\xfffeたたかう　しょうぶのことを\xfffeトリプルバトル　といいます。\xfffeトリプルバトルでは　ポケモンの\xfffeいる　ばしょが　あいてから　とおいと\xfffeこうげきを　することができません。\xfffeただし　まんなかに　いる　ポケモンだけは\xfffeあいての　３ひきの　どのポケモンにでも\xfffeこうげきを　することが　できます。
-わざのなかには　あいてからとおくても\xfffeとどくものが　いちぶに　あるようです。\xfffe\xfffeまた　ポケモンが　いる　ばしょは\xfffeいれかえることが　できます。\xfffeひだり　か　みぎの　ポケモンの\xfffeわざを　えらぶがめんで　「いどう」を\xfffeえらぶと　まんなかの　ポケモンと\xfffeばしょを　いれかえることが　できます。
-ローテーションバトルは　シングルバトルが\xfffeしんかした　あたらしい　しょうぶです。\xfffe３ひきずつ　ポケモンを　だします。\xfffe\xfffeこうどうできる　ポケモンは　１かいに\xfffe１ひきだけですが　しょうぶに　でている\xfffe３ひきのうち　どのポケモンが　うごくかを\xfffeじゆうに　えらぶことが　できます。
-うしろのポケモンを　ローテーションで\xfffeまえに　だしたいときは\xfffeわざを　えらぶがめんで\xfffeローテーションの　マークを\xfffeえらんで　ください。\xfffe\xfffeわざを　えらんだ　ポケモンは\xfffeまえに　でたあと　すぐに　こうどうします。
-ミラクルシューターを　「あり」に　すると\xfffeつうしんたいせんの　しょうぶちゅうに\xfffeどうぐを　つかうことが　できます。\xfffeどうぐには　それぞれ　つかうのに\xfffeひつような　ポイントが　きめられています。\xfffeポイントは　ターンがすすむと　ふえます。\xfffeすぐに　どうぐを　つかうか\xfffeためて　きょうりょくな　どうぐを\xfffeつかうかは　じゆうです。
-ユニオンルームでは　ちかくにいる　ひとと\xfffeこうかんや　たいせんなどが　できます。\xfffeポケモンセンター２かいの　ひだりで\xfffeうけつけを　してください。\xfffeルームに　はいったら　はなしたい　ひとの\xfffeまえにたって　Ａボタンを　おしてください。\xfffe\xfffeユニオンルームの　ひだりおくに　いる\xfffeおねえさんから　くわしいことが　きけます。
-ポケモンセンターの　２かいにある\xfffeポケモン Ｗｉ－Ｆｉクラブでは\xfffeともだちてちょうに　とうろくしたひと\xfffeどうしで　つうしんこうかんや　たいせん\xfffeボイスチャット　ライブキャスターを\xfffeたのしむことが　できます。\xfffeともだちを　とうろくする　ほうほうは\xfffe「ともだちコード」の　せつめいを\xfffeごらんください。
-ルームに　はいったら\xfffeつうしんしたい　ともだちの　まえで\xfffeＡボタンを　おしてください。\xfffeつうしんしたいことを　きめて　まっている\xfffeともだちは　ぴょんぴょん　とんでいます。\xfffe\xfffeつうしんで　したいことを　きめている\xfffeときは　おくにある　モニターにむかって\xfffeＡボタンを　おしてください。
-ボイスチャットをつかうと\xfffeでんわのように　とおくのともだちと\xfffeこえで　やりとりすることが　できます。\xfffe\xfffeルームのなかで　Ｘボタンをおすと\xfffeボイスチャットを　するかしないか\xfffeあらかじめ　きめておくことが　できます。
-グローバルターミナル　では\xfffeとおくにいる　みしらぬひとと\xfffeつうしんこうかんや　つうしんたいせんを\xfffeたのしめます。\xfffeポケモンセンター２かいの　みぎで\xfffeうけつけを　してください。
-いちど　Ｗｉ－Ｆｉコネクションに\xfffeせつぞくを　すると　はっこうされる\xfffeあなたこじんの　ばんごうです。\xfffeともだちコードを　おしえあうと\xfffeとおくの　ともだちと\xfffeたいせんや　こうかんが　たのしめます。\xfffeじぶんの　ともだちコードは\xfffeバッグの　たいせつなものの　なかにある\xfffe「ともだちてちょう」で　かくにんできます。
-ともだちコードを　とうろくするほうほうは\xfffeつぎの２しゅるいが　あります。\xfffe\xfffe・バッグの　たいせつなもの　にある\xfffe　ともだちてちょうで　「つかう」をえらび\xfffe　ともだちから　おそわった　コードを\xfffe　ちょくせつ　にゅうりょくする\xfffe・Ｃギアの　ＩＲつうしんを　つかう
-Ｃギアは　ちかくのひとと\xfffeつうしんこうかんや　たいせんをしたり\xfffeハイリンクや　ライブキャスター\xfffeゲームシンクなどを　するときにつかう\xfffeいろいろな　きのうをもった　きかいです。\xfffe\xfffeＣギアの　みぎしたに　ひょうじされた\xfffeでんげんのマークを　タッチすると\xfffeＣギアのでんげんを　オン／オフできます。
-Ｃギアのでんげんが　はいっているとき\xfffeＤＳのむせんは　つねにオンになっています。\xfffe\xfffeひこうきや　びょういんのなか　など\xfffeむせんつうしんを　つかってはいけない\xfffeばしょでは　Ｃギアの　でんげんは\xfffeかならず　オフに　してください。\xfffeまもらないと　ほうりついはんになる\xfffeばあいが　あります。
-Ｃギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeＣギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe？マークを　タッチすると　Ｃギアの\xfffeヘルプを　みることができます。
-Ｃギアの　まんなかに　ひょうじされる\xfffeしかくいマークが　すれちがいログ　です。\xfffeタッチすると　ちかくで　Ｃギアを\xfffeつかっている　ひとがいるか　わかります。\xfffeちかくの　ひとの　ゲームでの　ようすや\xfffeプロフィールが　わかったり\xfffeメッセージの　やりとりなどが　できます。\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
-Ｃギアをつかっている　べつのひとが\xfffeひょうじされているときに\xfffeそのひとを　タッチすると\xfffeプレイじかんや\xfffeどこを　ぼうけんしているのか\xfffeすれちがいちょうさたいの　ランクなどの\xfffeじょうほうを　みることが　できます。
-すれちがいログ　がめんの　したにある\xfffeさんかくマークを　タッチすると\xfffeハイルツリーから　うけとった\xfffeデルパワーを　つかうことが　できます。\xfffe\xfffeデルパワーを　うけとるには\xfffeハイリンクにある　ハイルツリーを\xfffeかくにん　してください。
-ふきだしのマークを　タッチすると\xfffeＣギアを　つかっている　べつのひとに\xfffeメッセージを　おくることが　できます。\xfffe\xfffeおくられたあいてが\xfffeいやなきもちに　なるようなことばや\xfffeなまえや　でんわばんごうのような\xfffeこじんの　たいせつなじょうほうは\xfffeぜったいに　おくらないでください。
-えがおのマークを　タッチすると\xfffeおれいの　メッセージを\xfffeおくることが　できます。\xfffe\xfffeえがおのマークを　タッチしたあと\xfffeおれいを　おくるあいてを\xfffeえらんで　ください。
+Elle vous permet d'enregistrer jusqu'à\xfffe6 Pokémon que vous souhaitez utiliser\xfffesouvent contre d'autres Dresseurs.\xfffe\xfffeLorsque vous combattez avec des amis,\xfffevous pouvez choisir d'utiliser soit les\xfffePokémon de votre équipe, soit ceux de la\xfffeBoîte Combat. Lorsqu'elle est vide, vous ne\xfffepouvez utiliser que ceux de votre équipe.
+Vous pouvez procéder à un échange\xfffeavec vos amis de 4 manières différentes:\xfffe\xfffe- via la communication infrarouge\xfffe- en utilisant la Salle Union\xfffe- en utilisant le Club Wi-Fi\xfffe- en utilisant le Terminal Mondial
+- La communication infrarouge\xfffe\xfffeElle permet d'échanger rapidement\xfffedes Pokémon avec un partenaire.\xfffe\xfffeSélectionnez IR puis ÉCHANGE\xfffedans le menu du C-Gear.
+- La Salle Union\xfffe\xfffeElle permet de se réunir entre amis\xfffeet de procéder à des échanges.\xfffe\xfffeElle se trouve à l'étage\xfffedu Centre Pokémon.
+- Le Club Wi-Fi\xfffe\xfffeIl permet d'échanger à distance\xfffeavec des amis éloignés.\xfffe\xfffeLes participants doivent d'abord\xfffeparamétrer leur connexion Wi-Fi Nintendo\xfffeet échanger leurs codes ami pour l'utiliser.
+- Le Terminal Mondial\xfffe\xfffeIl permet d'échanger des Pokémon\xfffeavec des Dresseurs du monde entier.\xfffeLes échanges sont réalisés dès que les\xfffeparticipants sont tombés d'accord sur\xfffeles conditions.
+Vous pouvez combattre avec vos amis\xfffede 4 manières différentes:\xfffe\xfffe- par communication infrarouge\xfffe- en utilisant la Salle Union\xfffe- en utilisant le Club Wi-Fi\xfffe- en utilisant le Terminal Mondial
+- La communication infrarouge\xfffe\xfffeElle permet de combattre rapidement\xfffeavec un partenaire. Sélectionnez IR\xfffepuis COMBAT dans le menu du C-Gear.\xfffeLes combats utilisent la fonction\xfffeShooter-Miracle, et le niveau des\xfffePokémon est ajusté à 50.
+- La Salle Union\xfffe\xfffeElle permet de se réunir entre amis\xfffeet de faire des combats.\xfffe\xfffeElle se trouve à l'étage\xfffedu Centre Pokémon.
+- Le Club Wi-Fi\xfffe\xfffeIl permet de combattre à distance\xfffeavec des amis éloignés.\xfffe\xfffeLes participants doivent d'abord\xfffeparamétrer leur connexion Wi-Fi Nintendo\xfffeet échanger leurs codes ami pour l'utiliser.
+- Le Terminal Mondial\xfffe\xfffeIl permet de combattre selon différentes\xffferègles avec des Dresseurs du monde entier.\xfffeC'est le lieu idéal pour se perfectionner.\xfffe\xfffeIl se trouve à l'étage\xfffedu Centre Pokémon.
+Le Combat Solo permet aux participants de\xfffecombattre avec un seul Pokémon à la fois.\xfffe\xfffeIl existe 4 types de combat en comptant\xfffele Combat Solo. Dans tous ceux-ci, vous\xfffepouvez obtenir la description d'une capacité\xfffeen la sélectionnant et en appuyant\xfffesimultanément sur les boutons L et A.
+Le Combat Duo permet aux participants\xfffede combattre avec 2 Pokémon à la fois.
+Le Combat Trio permet aux participants\xfffede combattre avec 3 Pokémon à la fois.\xfffe\xfffeDans ce mode, les Pokémon éloignés les uns\xfffedes autres ne peuvent pas s'attaquer.\xfffeCelui se trouvant au milieu peut par\xfffecontre attaquer n'importe lequel des\xfffe3 Pokémon ennemis.
+Certaines capacités peuvent cependant\xfffetoucher des Pokémon éloignés.\xfffe\xfffeIl est également possible de changer la\xfffeposition de chaque Pokémon en touchant\xfffeDÉPLACER sur l'écran tactile pour les\xfffeplacer au milieu, à gauche ou à droite.
+Le Combat Rotatif est un nouveau mode\xfffedérivé du Combat Solo, où 3 Pokémon à la\xfffefois peuvent être utilisés.\xfffe\xfffeUn seul Pokémon peut agir par tour,\xfffemais chacun des 3 peut être librement\xfffechoisi à chaque tour.
+Vous pouvez choisir un Pokémon en\xffferetrait et le mettre en première ligne\xfffeen touchant une des icônes de rotation\xfffesur l'écran tactile.\xfffe\xfffeLe Pokémon sélectionné peut agir dès\xfffequ'il se trouve en première ligne.
+La fonction Shooter-Miracle permet d'utiliser\xfffedes objets pendant un Combat Link.\xfffe\xfffeChaque utilisation nécessite un certain\xfffenombre de points, qui s'accumulent au fil\xfffedes tours. Vous pouvez les utiliser\xfffeimmédiatement ou attendre d'en avoir assez\xfffepour utiliser des objets plus puissants.
+La Salle Union permet d'échanger ou de\xfffecombattre avec des personnes se trouvant\xfffeà proximité. Elle se trouve à l'étage du\xfffeCentre Pokémon, au comptoir de gauche.\xfffeUne fois dans la Salle Union, vous pouvez\xfffecommuniquer avec les autres Dresseurs\xfffeen appuyant sur le bouton A.\xfffeL'hôtesse en haut à gauche est là pour\xfffevous donner de plus amples informations.
+Le Club Wi-Fi, à l'étage du Centre Pokémon,\xfffepermet aux Dresseurs ayant échangé leurs\xfffecodes ami de combattre et d'échanger.\xfffe\xfffeVous pouvez également y utiliser le\xfffeTchat Vocal ainsi que le Vokit.\xfffePour plus de renseignements sur la manière\xfffed'échanger un code ami, veuillez vous\xfffereporter à la rubrique “Les Codes Ami".
+Une fois dans la Salle, placez-vous en face\xfffedu Dresseur avec lequel vous voulez vous\xfffeconnecter et appuyez sur le bouton A.\xfffeCelui-ci va commencer à sauter sur place.\xfffe\xfffePour choisir ce que vous désirez faire avec\xfffelui, dirigez-vous vers l'écran au fond de la\xfffeSalle et appuyez sur le bouton A.
+Le Tchat Vocal permet de communiquer par\xfffela voix avec un partenaire éloigné, à la\xfffemanière d'un téléphone.\xfffe\xfffeVous pouvez activer ou désactiver le\xfffeTchat Vocal en appuyant sur le bouton X\xfffeà l'intérieur de la Salle.
+Le Terminal Mondial permet d'échanger\xfffeet de combattre avec des Dresseurs du\xfffemonde entier.\xfffe\xfffeIl se trouve à l'étage du Centre Pokémon,\xfffeau comptoir de droite.
+Le code ami est un code personnel unique\xfffequi est créé dès votre première utilisation\xfffede la connexion Wi-Fi Nintendo.\xfffeIl permet de combattre et d'échanger avec\xfffedes amis éloignés dont vous connaissez le\xfffecode ami.\xfffeVous trouverez votre code ami dans le\xfffeRegistre Ami, rangé avec les OBJETS RARES.
+Il existe 2 manières d'enregistrer\xfffeun code ami:\xfffe\xfffe- en utilisant le Registre Ami rangé avec les\xfffe  OBJETS RARES du Sac et en tapant alors\xfffe  manuellement le code.\xfffe\xfffe- avec la communication infrarouge du\xfffe  C-Gear.
+Le C-Gear permet de combattre et\xfffed'échanger avec d'autres Dresseurs\xfffeà proximité, mais aussi d'utiliser la\xfffeSynchro-Jeu, le Heylink et le Vokit.\xfffe\xfffeVous pouvez activer ou désactiver\xfffele C-Gear en touchant le symbole\xfffeen bas à droite de l'écran tactile.
+L'activation du C-Gear démarre\xfffeautomatiquement la communication\xfffesans fil de la Nintendo DS.\xfffe\xfffeLe C-Gear doit absolument être désactivé\xfffedans les lieux où la communication sans fil est\xfffeinterdite, comme les hôpitaux et les avions.
+En touchant le symbole en forme de clé\xfffeanglaise situé en bas à droite de l'écran\xfffetactile, vous pouvez personnaliser la\xfffedisposition des éléments du C-Gear.\xfffe\xfffeLe symbole “?" donne accès à une rubrique\xfffed'aide concernant le C-Gear.
+La longue barre en bas de l'écran tactile\xfffecorrespond au Listing Contact. Toucher\xfffecette barre permet de voir les Dresseurs\xfffeutilisant le C-Gear à proximité.\xfffeVous pouvez ensuite obtenir des\xfffeinformations sur ces Dresseurs,\xfffeleur envoyer des messages, et\xffferéciproquement.
+Lorsqu'un autre Dresseur utilisant le\xfffeC-Gear s'affiche à l'écran, il suffit de\xfffetoucher son symbole pour en savoir plus\xfffesur lui, comme son temps de jeu ou le\xfffelieu où il se trouve.
+Vous pouvez utiliser une Offri-Aura reçue\xfffedu Heyrable en touchant le symbole\xfffetriangulaire du Listing Contact.\xfffePour recevoir une Offri-Aura, il vous\xfffesuffit de retourner au Heyrable\xfffeaprès avoir effectué une mission\xfffedans le monde d'un autre Dresseur.
+Vous pouvez envoyer des messages aux\xfffeautres Dresseurs en touchant le symbole\xfffeen forme de bulle du Listing Contact.\xfffe\xfffeCependant, évitez à tout prix d'envoyer\xfffedes messages désagréables ou des\xfffeinformations personnelles, comme\xfffevotre numéro de téléphone.
+Vous pouvez envoyer des remerciements\xfffeen touchant le symbole en forme de visage\xfffedu Listing Contact.\xfffe\xfffeChoisissez ensuite la personne à qui vous\xfffedésirez envoyer vos remerciements.
 メダルマークを　タッチすると\xfffeつうしんあいてが　てにいれた\xfffeメダルの　かずや　とうろく　している\xfffeイチオシメダルを　みることが　できます。
-すれちがいちょうさとは\xfffeすれちがった　ひとが　どんな　このみや\xfffeしゅみをもっていて\xfffeそのにんずうが　どれくらい　いるのかを\xfffeしらべることです。
-すれちがいちょうさは　ヒウンシティの\xfffeすれちがいちょうさたいほんぶで\xfffeちょうさいらいを　うけることで\xfffeはじめることが　できます。
-たいちょうから　ちょうさいらいを\xfffeうけたら　Ｃギアの　ひだりしたに\xfffeひょうじされている\xfffeえんグラフを　タッチして\xfffeちょうさないようを　きめてください。\xfffe\xfffeちょうさちゅうの　ちょうさには\xfffeしるしが　ついています。
-ちょうさないようを　きめた　あと\xfffeＣギアを　オンにしておくだけで\xfffeじゅんびは　かんりょうです。\xfffeおなじように　Ｃギアを　オンに\xfffeしているひとと　すれちがったときに\xfffeじどうで　ちょうさが　おこなわれます。\xfffeＤＳは　とじていても\xfffeぼうけんを　いつもどおり　すすめていても\xfffeちょうさは　じどうで　おこなわれます。
-ヒウンシティにいる　たいちょうに\xfffeほうこくするまえに　まず\xfffeＣギアの　「ちょうさを　みる」で\xfffeちょうさの　かくにんを　しましょう。\xfffeちょうさしおわったことを　かくにんしたら\xfffeヒウンシティの\xfffeすれちがいちょうさたいほんぶに　いって\xfffeたいちょうに　ちょうさけっかを\xfffeほうこくしてください。
-Ｃギアの　「ＩＲ（アイアール）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeちかくのひとに　つうしんこうかんや\xfffeたいせんを　もうしこむことが　できます。\xfffeともだちコードを　こうかんしたり\xfffeつうしんあいてとの　あいしょうを\xfffeチェックすることも　できます。
-おたがいに　おなじ　こうもくを　えらんで\xfffeＤＳカードどうしを　むけあい\xfffeつうしんを　はじめます。\xfffeつうしんが　ただしく　はじまったあとは\xfffeＤＳカードを　むけあう\xfffeひつようは　ありません。
+Les enquêtes permettent de connaître les\xfffegoûts et loisirs des personnes que vous\xfffecroisez et d'obtenir des statistiques.
+Vous pouvez recevoir des\xfffecommandes d'enquête en\xfffepassant au Bureau d'Enquêtes\xfffeRencontres de Volucité.
+Vous pouvez choisir les sujets d'enquête\xfffeà réaliser en appuyant sur le diagramme\xfffecirculaire en bas à gauche du C-Gear une\xfffefois que la requête vous en a été faite.\xfffe\xfffeLes enquêtes en cours sont signalées\xfffepar un symbole.
+Une fois le sujet choisi, il vous suffit\xfffede laisser le C-Gear activé pour réaliser\xfffedes enquêtes. Elles se réalisent\xfffeautomatiquement, même lorsque vous\xfffeêtes en pleine aventure ou si vous\xfffefermez la console.
+Vous pouvez vérifier les résultats\xfffede vos enquêtes grâce au bouton\xfffe“Visualiser l'enquête" du C-Gear.\xfffeCeci fait, allez faire votre rapport\xfffeau Bureau d'Enquêtes Rencontres de\xfffeVolucité, qui attend vos informations\xfffeavec impatience.
+Le symbole IR rouge du C-Gear permet\xfffed'accéder aux échanges et combats avec\xfffedes personnes à proximité. Vous pouvez\xfffeégalement utiliser ce menu pour échanger\xfffevotre code ami ou tester votre compatibilité\xfffeavec vos amis.
+La communication commence lorsque tous\xfffeles participants ont choisi la même activité\xfffeet que les Nintendo DS sont suffisamment\xffferapprochées.\xfffe\xfffeUne fois la communication établie, il n'est\xfffeplus nécessaire de se faire face.
+Le symbole INTERNET bleu du C-Gear\xfffepermet d'utiliser la Synchro-Jeu,\xfffeavec laquelle vous pouvez endormir\xfffeles Pokémon de votre Boîte Combat\xfffeet échanger des données avec les\xfffeDresseurs du monde entier.
+Le symbole INTERNET change de couleur\xfffeselon l'état de votre connexion.\xfffe\xfffeLorsque votre connexion Wi-Fi\xfffeNintendo est paramétrée et qu'un\xfffepoint d'accès est disponible,\xfffel'intérieur du symbole apparaît en vert.
 Ｃギアの　「Ｗｉ－Ｆｉ（ワイファイ）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeゲームシンクが　できます。\xfffe\xfffeゲームシンクとは\xfffeボックスにいる　ポケモンを　ねむらせて\xfffeトレーナーの　レポートを\xfffeおくる　しくみの　ことです。
 Ｃギアの　「Ｗｉ－Ｆｉ」と　かかれた\xfffeまるい　わくは　むせんつうしんの\xfffeじょうきょうによって　いろが　かわります。\xfffe\xfffeつかっている　ＤＳとの\xfffeＷｉ－Ｆｉせっていが　すませてある\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffeみどりいろに　ひかります。
-ニンテンドーゾーンなど　みんなが\xfffeＷｉ－Ｆｉつうしんを　つかえる\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあおいろに　ひかります。
-Ｗｉ－Ｆｉせっていが　すんでいない\xfffeむせんアクセスポイントが\xfffeちかくに　ある　ばあいは\xfffe「Ｗｉ－Ｆｉ」の　まるい　わくは\xfffeあかいろに　ひかります。
-ゲームシンクで　おくられた　レポートは\xfffe「ポケモンドリームワールド」と　よばれる\xfffeポケモンの　ゆめのせかいに　あつまります。\xfffe\xfffeポケモンドリームワールドは\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」のなかに\xfffeあります。
-ポケモンドリームワールドで　あそぶには\xfffeつぎの　じゅんびが　ひつようです。\xfffe\xfffe・Ｗｉ－Ｆｉせってい\xfffe・ゲームシンクせってい\xfffe・おてもとのパソコンを　つかって\xfffe　インターネットこうしきサイト\xfffe　「ポケモングローバルリンク」に\xfffe　ユーザーとうろくを　する
-Ｃギアの\xfffe「ＷＩＲＥＬＥＳＳ（ワイヤレス）」と\xfffeかかれた　まるい　わくを　タッチすると\xfffeイッシュちほうの　まんなかに　ある\xfffeハイリンクと　よばれる　ばしょに\xfffeいくことが　できます。\xfffe\xfffeハイリンクの　まんなかには\xfffeハイルツリーと　よばれる　きがあります。
-ハイルツリーに　むかって\xfffeＡボタンを　おすと　フェスミッションを\xfffeうけることが　できます。\xfffe\xfffeミッションには　さまざまな\xfffeもくひょうが　あります。\xfffeせいげんじかんの　なかで\xfffeどうぐを　さがしたり\xfffeポケモンしょうぶを　します。
-ミッションは　スコアを\xfffeためることで　クリアできます。\xfffeミッションせつめいに　かかれた\xfffeクリアもくひょうを　たっせいしましょう。\xfffe\xfffeスコアが　おおいほど\xfffeミッションを　クリアしたときの\xfffeほうしゅうが　おおくなります。
-フェスミッションは\xfffeちかくに　いる　ひとと　いっしょに\xfffeあそぶことが　できます。\xfffe\xfffeだれかが　フェスミッションを　はじめると\xfffeすれちがいログが　ひかるので\xfffeタッチして　すきな　フェスミッションに\xfffeさんかすることが　できます。
-デルパワーは　ハイリンクに　ある\xfffeハイルツリーから　うけとれる\xfffeふしぎな　ちからのこと　です。\xfffe\xfffeデルパワーは　つかうことで\xfffeけいけんちが　おおく　もらえたり\xfffeポケモンが　つかまえやすくなったりと\xfffeさまざまな　こうかが　あります。\xfffeどうじに　３つまで　うけとれます。
-デルパワーを　つかうには\xfffeハイリンクから　でたあとに\xfffeＣギアの　ちゅうおうに　ある\xfffe「すれちがいログ」を　タッチして\xfffeあらわれた　つぎの　がめんにある\xfffeさんかくマークを　タッチして　ください。\xfffeまた　デルパワーを　つかうには\xfffeきめられた　かずの\xfffeデルダマが　ひつよう　です。
-ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
-デルダマは　デルパワーを　つかうときに\xfffeきまったかずだけ　ひつように　なります。\xfffe\xfffeデルダマは　ハイルツリーから　うける\xfffeフェスミッションを　クリアすることで\xfffeもらうことが　できます。
-■バッグの　きのう\xfffeバッグは　もちものの　しゅるいごとに\xfffeじどうてきに　ふりわけられます。\xfffe\xfffeたいせつなものポケットに　いれている\xfffeどうぐは　なまえの　よこの　しかくい\xfffeマークを　チェックして　とうろくすると\xfffeバッグを　ひらかなくても　Ｙボタンで\xfffeかんたんに　つかうことが　できます。
-したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeＬ／Ｒボタンを　おすと\xfffeページを　きりかえることが　できます。
+Si un point d'accès sans fil\xfffeouvert à tous se trouve à\xfffeproximité, l'intérieur du\xfffesymbole apparaît en bleu.
+Lorsque les paramètres de votre connexion\xfffeWi-Fi Nintendo ou d'un point d'accès n'ont\xfffepas été correctement configurés,\xfffel'intérieur du symbole apparaît en rouge.
+Les données envoyées par la Synchro-Jeu\xfffesont rassemblées dans un monde du rêve\xfffeappelé “Pokémon Dream World".\xfffe\xfffeLe Pokémon Dream World se trouve sur\xfffele site officiel du Pokémon Global Link.
+Pour profiter du Pokémon Dream World,\xfffevous devez tout d'abord:\xfffe\xfffe- paramétrer la connexion Wi-Fi Nintendo\xfffe- paramétrer la Synchro-Jeu\xfffe- vous inscrire sur le site du Pokémon\xfffe  Global Link à l'aide d'un ordinateur.
+Vous pouvez choisir de vous rendre au\xfffeHeylink en touchant le symbole SANS FIL\xfffejaune du C-Gear.\xfffe\xfffeVous trouverez le Heyrable au milieu\xfffede celui-ci.
+Les autres Dresseurs disposent également\xfffed'un Heyrable dans leur propre Heylink.\xfffeVous pouvez recevoir des missions en\xfffeappuyant sur le bouton A en face de l'arbre.\xfffeLes missions sont diverses, allant de la\xfffesimple conversation avec un autre Dresseur\xfffejusqu'aux combats. Chaque mission a par\xfffeailleurs une limite de temps.
+Une fois la mission du Heyrable\xfffed'un autre Dresseur effectuée,\xfffevous retournez à votre propre\xfffeHeyrable.\xfffe\xfffeVous en recevez alors une force\xfffemystérieuse, l'Offri-Aura.
+Plusieurs fonctionnalités ne sont pas\xfffedisponibles dans le Heylink:\xfffe- le menu SAUVER\xfffe- les Objets Rares\xfffe- les capacités utilisables hors combat,\xfffe  telles que les capacités secrètes.\xfffe\xfffeCes fonctionnalités sont aussi indisponibles\xfffedans le monde d'un autre Dresseur.
+Une Offri-Aura est une force mystérieuse\xfffeque vous recevez du Heyrable.\xfffe\xfffeVous pouvez en recevoir en vous rendant\xfffedans le monde d'un autre Dresseur et en\xfffeeffectuant les missions que son Heyrable\xfffevous confiera.
+Une Offri-Aura ne peut pas être utilisée\xfffedans le Heylink ou dans le monde d'un\xfffeautre Dresseur.\xfffe\xfffeSortez du Heylink puis touchez ensuite le\xfffesymbole triangulaire du Listing Contact,\xfffequi se trouve en bas du C-Gear, pour\xfffeutiliser une Offri-Aura.
+Vous devez disposer d'un nombre défini\xfffed'Offrisphères pour utiliser une Offri-Aura.\xfffe\xfffeVous pouvez obtenir des Offrisphères en\xfffeeffectuant les missions que le Heyrable\xfffed'un autre Dresseur vous confiera.
+Les Offrisphères sont nécessaires\xfffepour utiliser une Offri-Aura.\xfffe\xfffeVous pouvez obtenir des Offrisphères en\xfffeeffectuant les missions que le Heyrable\xfffed'un autre Dresseur vous confiera.
+■ FONCTIONS DU SAC\xfffeLes objets sont rangés automatiquement\xfffedans le Sac par catégories.\xfffe\xfffeLes OBJETS RARES peuvent être\xfffeaffectés au bouton express en cochant\xfffela case correspondante, ce qui permet\xfffed'y accéder sans ouvrir le menu.
+Vous pouvez trier automatiquement\xfffevos objets en touchant le symbole\xfffevert sur l'écran tactile, ou en\xfffeappuyant sur START.\xfffe\xfffeSELECT permet de déplacer un objet à\xfffela place que vous voulez dans la liste.\xfffeLes boutons L et R permettent de\xfffefaire défiler la liste plus vite.
 バッグには　「フリースペース」が\xfffeようい　されています。\xfffe\xfffeまず　ポケットの　どうぐを　えらびます。\xfffeつぎに　「フリースペースへ」を\xfffeえらぶことで　すきな　どうぐを\xfffeフリースペースに\xfffeいどう　させることが　できます。
-■もちものの　しゅるい\xfffe・どうぐ\xfffeポケモンに　もたせると　のうりょくや\xfffeわざの　いりょくが　アップする\xfffeどうぐが　あります。\xfffeもたせて　こうかのある　どうぐには\xfffeしるしが　ついているので　\xfffeポケモンに　もたせて\xfffeこうかを　たしかめて　みましょう。
-せんとうちゅうに　つかうと　そのときだけ\xfffeのうりょくや　わざの　いりょくが\xfffeアップする　どうぐも　あります。\xfffe\xfffeいっていのあいだ　こうかが　つづくものや\xfffeポケモンを　いれかえると\xfffeこうかが　きれるものも　あります。
-ポケモンを　つかまえるための　ボールも\xfffeどうぐポケットに　はいっています。\xfffeポケモンの　しんかに　かんけいする\xfffeどうぐも　どこかに　あるようです。\xfffe\xfffeメールは　すきなことばを　くみあわせて\xfffeつくる　てがみの　ことで\xfffeポケモンに　もたせて　こうかんすると　\xfffeともだちに　とどけることが　できます。
-・かいふく\xfffeポケモンの　ＨＰや　ＰＰ\xfffeじょうたいいじょうなどを　かいふくさせる　\xfffeどうぐを　しまっておく　ばしょです。\xfffe\xfffe・わざマシン\xfffeわざマシンや　ひでんマシンを　しまいます。\xfffeわざマシンや　ひでんマシンは\xfffeなんどでも　つかうことができます。
-・きのみ\xfffeポケモンに　つかったり　もたせておくと\xfffeこうかのある　きのみを　しまっておく\xfffeばしょです。\xfffe・たいせつなもの\xfffeたいせつな　どうぐを\xfffeしまっておく　ばしょです。\xfffeべんりボタンに\xfffeとうろくできる　ものも　あります。
-Ｘボタンで　ひらいた　メニューから\xfffeじぶんの　なまえを　えらぶと\xfffeトレーナーカードを\xfffeかくにん　することが　できます。\xfffe\xfffeしたがめんの　ひだりしたに　ある\xfffeマークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
-トレーナーカードは　プレイじかんや\xfffeおこづかいを　かくにんできる　カードです。\xfffeかたがきや　せいかくは　がめんを\xfffeタッチすると　きりかわりますので\xfffeすきなものを　えらんでください。\xfffeしたの　あいさつらんを　タッチすると\xfffeメッセージが　へんしゅう　できます。\xfffeあいている　ところに　すきな　たんごを\xfffeえらんで　かんせいさせて　ください。
-カードの　うらには　タッチペンを　\xfffeつかって　サインを　かくことが　できます。\xfffeペンの　マークや　けしゴムの　マークを\xfffeタッチで　きりかえます。\xfffeプラスの　マークを　タッチすると\xfffeがめんを　かくだい　できます。\xfffeさんかくの　マークを　タッチすると\xfffeサインエリアを　はんぶんに　わけた\xfffeアニメが　さいせい　できます。
+■ LES DIFFÉRENTES CATÉGORIES\xfffe- OBJETS\xfffeCertains objets améliorent les\xfffeperformances des Pokémon.\xfffeLes objets qui ont un effet particulier\xfffelorsqu'ils sont tenus étant marqués\xfffed'un symbole, n'hésitez pas à vérifier\xfffeleur effet.
+Il existe des objets améliorant les\xfffeperformances qui ne peuvent être\xfffeutilisés que lors des combats.\xfffe\xfffeL'effet de certains objets peut avoir une\xfffedurée limitée, ou disparaître lorsque le\xfffePokémon correspondant est retiré du\xfffecombat.
+Les Poké Balls qui permettent d'attraper\xfffeles Pokémon sauvages se trouvent dans la\xfffepoche OBJETS du SAC, tout comme les objets\xffferelatifs à l'évolution des Pokémon.\xfffe\xfffeLes Lettres permettent de composer des\xfffemessages avec les mots de votre choix.\xfffeElles peuvent être tenues et livrées à\xfffeun ami ou à une amie par un Pokémon.
+- MÉDICAMENTS\xfffeRassemble les objets restaurant\xfffedes PV ou des PP ainsi que ceux\xfffesoignant les altérations de statut.\xfffe\xfffe- CT & CS\xfffeRassemble les CT et les CS.\xfffeCelles-ci peuvent être utilisées autant\xfffede fois que vous le souhaitez.
+- BAIES\xfffeRassemble toutes les Baies qui ont\xfffeun effet lorsqu'elles sont données\xfffeà un Pokémon ou tenues par celui-ci.\xfffe\xfffe- OBJETS RARES\xfffeRassemble les objets indispensables à\xfffel'aventure et qui peuvent généralement\xfffeêtre affectés au bouton express.
+La Carte de Dresseur (signalée par votre nom\xfffedans le menu) permet de voir le nombre de\xfffeBadges que vous avez gagnés.\xfffe\xfffeVous pouvez alterner entre les détails\xfffede votre Carte de Dresseur et le nombre\xfffede Badges obtenus en touchant le symbole\xfffeen bas à gauche de l'écran tactile.
+La Carte de Dresseur permet de consulter\xfffedes données telles que le nombre d'heures\xfffejouées ou l'argent dont vous disposez.\xfffeVous pouvez également changer votre\xfffeTitre ou votre Caractère en touchant\xfffele mot correspondant.\xfffeLe cadre blanc en dessous vous permet\xfffede changer votre message d'accroche en\xfffechoisissant les mots qui vous conviennent.
+Le stylet vous permet de signer\xfffele verso de la Carte de Dresseur.\xfffeLes symboles crayon et gomme\xfffepermettent d'écrire et d'effacer.\xfffeLe symbole + permet de zoomer sur l'écran.\xfffeLe symbole triangulaire permet de faire\xfffedéfiler une animation des deux moitiés\xfffede la zone de dessin.
 ぼうけんを　すすめていくと\xfffeトレーナーカードに　メダルマークが\xfffeついか　されます。\xfffe\xfffeメダルマークを　タッチすることで\xfffeせってい　されている　イチオシメダルや\xfffeメダルを　どれだけ　もっているのか\xfffeかくにん　することが　できます。\xfffe
-であった　ポケモンを　じどうてきに\xfffeきろくしていく　ハイテクな　ずかんです。\xfffe\xfffeつかまえたことが　ある　ポケモンは\xfffeせつめいや　せいそくしている　ばしょ\xfffeなきごえや　たかさ　おもさ\xfffeタイプや　あしあとを\xfffeみることが　できます。
-ポケモンずかんは　リストがめんで\xfffe「ＳＴＡＲＴ」を　おすと\xfffeけんさくモードに　なります。\xfffe\xfffeけんさくモードでは\xfffeばんごう　ごじゅうおん　いろ\xfffeかたち　などから　あてはまる\xfffeポケモンを　さがすことが　できます。
+C'est une encyclopédie high-tech\xfffequi enregistre automatiquement\xfffeles Pokémon rencontrés.\xfffe\xfffeIl permet également d'avoir des informations\xfffesur les Pokémon capturés, comme leur cri,\xfffeleur taille, la forme de leurs empreintes ou\xfffeles zones dans lesquelles les trouver.
+Une fonction de recherche y est\xfffeajoutée à un moment de l'aventure.\xfffe\xfffeElle permet d'effectuer une\xffferecherche ciblée en appuyant\xfffesur START pour spécifier ensuite\xfffeles critères de recherche.
 ぼうけんを　すすめていくと\xfffeポケモンずかんに　「せいそくちリスト」が\xfffeついか　されます。\xfffe\xfffeせいそくちリストは　ばしょごとに\xfffeであった　ポケモンを　ひょうじ　します。\xfffeその　ばしょに　くらす　ポケモンを\xfffeすべて　みたり　つかまえると\xfffeスタンプマークが　ついか　されます。
-たいりょくを　へらしてから\xfffeモンスターボールを　つかうと\xfffeつかまえやすく　なります。\xfffe\xfffeポケモンの　わざで\xfffeまひさせたり　ねむらせたりすると\xfffeさらに　つかまえやすく　なります。
-ポケモンや　わざには　タイプがあり\xfffeそのかずは　ぜんぶで　１７しゅるいです。\xfffeタイプごとに　ゆうりなタイプと\xfffeふりなタイプが　あり\xfffeくみあわせで　あいしょうが　きまります。\xfffeたとえば　ほのおタイプの　わざは\xfffeむしや　くさタイプのポケモンには\xfffeゆうりですが　みずや　いわタイプの\xfffeポケモンには　あまり　ききません。
-だすわざの　タイプが　そのわざを　だす\xfffeポケモンのタイプと　おなじばあいは\xfffeわざのいりょくが　いつもより　あがります。\xfffeポケモンが　２つの　タイプを\xfffeもっていると　それぞれの　あいしょうが\xfffeえいきょう　しあいます。\xfffe\xfffeまた　あいしょうに　よっては　わざの\xfffeこうかがない　くみあわせも　あります。
-わざは　「ぶつり」と　「とくしゅ」と\xfffe「へんか」の　３つに　ぶんるいされていて\xfffeマークに　よって\xfffeみわけることが　できます。\xfffe\xfffe・ぶつりわざ\xfffeポケモンの　こうげきと　ぼうぎょの\xfffeすうちに　よって　ダメージが　きまる\xfffeわざの　しゅるいです。
-・とくしゅわざ\xfffeポケモンの　とくこうと　とくぼうの\xfffeすうちに　よって　ダメージが　きまる\xfffeわざの　しゅるいです。\xfffe・へんかわざ\xfffeあいてを　こうげきする　わざではなく\xfffeポケモンの　のうりょくを　あげたり\xfffeじょうたいいじょうに　するなど　ほじょの\xfffeこうかがある　わざの　しゅるいです。
-ポケモンの　ＨＰが０に　なったじょうたい。\xfffeかいふくさせる　までは　せんとうに\xfffeだすことが　できませんが　せんとうちゅう\xfffeいがいで　つかえる　いちぶの　わざは\xfffeひんしでも　つかうことが　できます。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・げんきのかけらを　つかう\xfffe・げんきのかたまりを　つかう
-ポケモンが　どくを　あびたじょうたい。\xfffeせんとうちゅう　じょじょに\xfffeＨＰが　へって　いきます。\xfffeボールにもどったり　せんとうがおわると\xfffeＨＰは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・どくけしや　モモンのみを　つかう
-ポケモンが　まひに　なったじょうたい。\xfffeせんとうちゅう　えらんだ　わざが\xfffeときどき　うまく　だせなくなり\xfffeすばやさも　さがってしまいます。\xfffeまた　せんとうが　おわっても\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・まひなおしや　クラボのみを　つかう
-ポケモンが　ねむっている　じょうたい。\xfffeとくていの　わざ　いがいは\xfffeつかうことが　できなくなります。\xfffeせんとうちゅうに　かいふく　することが\xfffeありますが　ねむったまま　せんとうが\xfffeおわっても　かいふく　しません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・ねむけざましや　カゴのみを　つかう
-ポケモンが　こおりついた　じょうたい。\xfffeほとんどの　わざが　だせなくなります。\xfffeせんとうちゅうに　かいふく　することが\xfffeありますが　こおったまま　せんとうが\xfffeおわっても　かいふく　しません。\xfffe\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・こおりなおしや　ナナシのみを　つかう
-ポケモンが　やけどした　じょうたい。\xfffeせんとうちゅう　じょじょに　ＨＰが\xfffeへっていき　こうげきも　さがります。\xfffeボールにもどったり　せんとうがおわると\xfffeＨＰは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・やけどなおしや　チーゴのみを　つかう
-ポケモンが　こんらんした　じょうたい。\xfffeえらんだ　わざを　ださずに　ときどき\xfffeじぶんを　こうげきして　しまいます。\xfffeせんとうちゅう　しばらくたつか\xfffeせんとうがおわると　しぜんに　なおります。\xfffe\xfffe■なおす　おもな　ほうほう\xfffe・せんとうちゅう　ポケモンを　いれかえる\xfffe・キーのみを　つかう
-せいべつの　ちがう　ポケモンに　\xfffeメロメロに　なった　じょうたい。\xfffeあいての　ポケモンに　みとれて\xfffeえらんだ　わざを\xfffeときどき　だせなく　なります。\xfffeポケモンを　いれかえるか\xfffeあいてを　たおすと　なおります。
-ポケモンは　たたかいに　さんかすると\xfffeけいけんちが　もらえます。\xfffeたくさん　けいけんを　つむと　レベルが\xfffeあがって　どんどん　せいちょうします。\xfffe\xfffeあいての　ポケモンのほうが　つよいと\xfffeもらえる　けいけんちは　おおくなります。\xfffeあいての　ポケモンのほうが　よわいと\xfffeもらえる　けいけんちは　すくなくなります。
-けいけんちは　せんとうにでた\xfffeすべての　ポケモンで　わけあいます。\xfffeよわいポケモンにも　わけたいときは\xfffeよわいポケモンを　さきに　だしたあと\xfffeつよいポケモンに　こうたいする\xfffeテクニックも　あります。\xfffeほかのひとと　こうかんした　ポケモンは\xfffeじぶんで　つかまえた　ポケモンよりも\xfffeもらえる　けいけんちが　おおくなります。
-ポケモンは　しんかすることが　あります。\xfffeしんかすると　すがたかたちが　かわり\xfffeのうりょくも　アップします。\xfffe\xfffeレベルを　あげて　せいちょうさせたり\xfffeしんかにひつような　どうぐを　つかったり\xfffeともだちと　つうしんで　こうかんしたりと\xfffeポケモンごとに　さまざまな\xfffeしんかの　しかたが　あるようです。
-ポケモンが　しんかしている　さいちゅうに\xfffeＢボタンを　おすと　ポケモンが　\xfffeおどろいて　しんかを　やめます。\xfffe\xfffeポケモンに　もたせておくと　\xfffeしんかしなくなる　どうぐも\xfffeどこかに　あるようです。
-おなじ　しゅるいの　ポケモンでも\xfffeせいかくや　こせいは　さまざまです。\xfffeせいちょうにも　ちがいが　でてきます。\xfffe\xfffeポケモンの　つよさをみると　こうげきや\xfffeぼうぎょなどの　のうりょくに\xfffeいろが　ついていることが　あります。\xfffeあかは　その　のうりょくが　あがりやすく\xfffeあおは　あがりにくいことを　あらわします。
-ポケルスとは　ポケモンにくっつく　とても\xfffeめずらしい　せいめいたいの　ことです。\xfffeいちど　ポケルスが　くっついた\xfffeポケモンは　よくそだつ　らしいです。\xfffe\xfffeほかの　ポケモンにも\xfffeうつることが　あるようです。
+Un Pokémon se laissera plus facilement\xfffeconvaincre d'entrer dans une Poké Ball\xfffes'il est d'abord affaibli.\xfffe\xfffeIl sera encore plus facile à convaincre\xfffes'il est en plus paralysé ou endormi.
+Les Pokémon et les capacités se répartissent\xfffeen 17 types. Chaque type est plus ou moins\xfffeefficace face à un autre type, la combinaison\xfffedes deux définissant cette efficacité.\xfffePar exemple, une capacité de type Feu est\xfffetrès efficace face à un Pokémon Insecte ou\xfffePlante, mais n'a presque aucun effet sur\xfffeun Pokémon Eau ou Roche.
+Lorsqu'un Pokémon est de même type\xfffeque la capacité qu'il lance, sa puissance\xfffeest augmentée.\xfffeLorsqu'un Pokémon est de deux types, il\xfffecombine les influences de chaque type.\xfffe\xfffeIl peut arriver que certaines capacités\xfffen'aient aucun effet sur des Pokémon\xfffed'un certain type.
+Il existe trois catégories de capacités:\xfffe“physique", “spéciale" et “statut",\xfffechacune signalée par un symbole différent.\xfffe\xfffe- ATTAQUES PHYSIQUES\xfffeCapacités dont l'efficacité dépend de\xfffel'Attaque et de la Défense des Pokémon.
+- ATTAQUES SPÉCIALES\xfffeCapacités dont l'efficacité dépend de\xfffel'Attaque Spéciale et de la Défense Spéciale\xfffedes Pokémon.\xfffe\xfffe- ATTAQUES DE STATUT\xfffeCapacités qui n'infligent pas de dégâts\xfffemais des altérations de statut ou de stats.
+LORSQUE LES PV D'UN POKÉMON TOMBENT À 0\xfffeCelui-ci ne peut plus participer au combat.\xfffeCertaines capacités peuvent cependant être\xfffeutilisées hors combat même s'il est K.O.\xfffe\xfffeCOMMENT LE SOIGNER?\xfffe- Faites-le soigner au Centre Pokémon\xfffe- Utilisez un Rappel\xfffe- Utilisez un Rappel Max
+LORSQU'UN POKÉMON EST EMPOISONNÉ\xfffeCelui-ci perd des PV progressivement.\xfffeLa perte s'arrête quand le Pokémon est\xffferetiré ou que le combat prend fin, mais\xfffele Pokémon n'est pas soigné pour autant.\xfffe\xfffeCOMMENT LE SOIGNER?\xfffe- Faites-le soigner au Centre Pokémon\xfffe- Utilisez un Antidote ou une Baie Pêcha
+LORSQU'UN POKÉMON EST PARALYSÉ\xfffeCelui-ci peut avoir des difficultés à utiliser\xfffecertaines capacités, et sa Vitesse baisse.\xfffeLa paralysie ne guérit pas après le combat.\xfffe\xfffeCOMMENT LE SOIGNER?\xfffe- Faites-le soigner au Centre Pokémon\xfffe- Utilisez un Anti-Para ou une Baie Ceriz
+LORSQU'UN POKÉMON EST ENDORMI\xfffeCelui-ci ne peut plus utiliser de capacités\xfffeà part certaines capacités bien définies.\xfffeIl peut arriver qu'il se réveille pendant\xfffele combat, mais jamais hors du combat.\xfffe\xfffeCOMMENT LE RÉVEILLER?\xfffe- Faites-le soigner au Centre Pokémon\xfffe- Utilisez un Réveil ou une Baie Maron
+LORSQU'UN POKÉMON EST GELÉ\xfffeCelui-ci ne peut plus utiliser la\xfffeplupart des capacités.\xfffeIl peut arriver qu'il dégèle pendant\xfffele combat, mais jamais hors du combat.\xfffe\xfffeCOMMENT LE DÉGELER?\xfffe- Faites-le soigner au Centre Pokémon\xfffe- Utilisez un Antigel ou une Baie Willia
+LORSQU'UN POKÉMON EST BRÛLÉ\xfffeSes PV baissent petit à petit, tout comme son\xfffeAttaque. Cette perte s'arrête lorsque le\xfffePokémon est retiré du combat et hors combat,\xfffemais le Pokémon n'est pas soigné pour autant.\xfffe\xfffeCOMMENT LE SOIGNER?\xfffe- Faites-le soigner au Centre Pokémon\xfffe- Utilisez un Anti-Brûle ou une Baie Fraive
+LORSQU'UN POKÉMON EST CONFUS\xfffeIl peut arriver qu'il se blesse lui-même\xfffeau lieu d'utiliser ses capacités.\xfffeL'effet s'estompe au bout d'un\xfffecertain temps ou à la fin du combat.\xfffe\xfffeCOMMENT S'EN SORTIR?\xfffe- Retirez le Pokémon du combat\xfffe- Utilisez une Baie Kika
+LORSQU'UN POKÉMON EST AMOUREUX\xfffeCelui-ci manque certaines attaques ou\xfffene peut plus utiliser certaines capacités.\xfffeL'effet disparaît si l'ennemi est vaincu ou\xfffesi le Pokémon est retiré du combat.
+Un Pokémon gagne des points d'expérience,\xfffeou points Exp., lorsqu'il participe à un\xfffecombat. Les points Exp. accumulés\xfffepermettent de gagner des niveaux.\xfffe\xfffeLes points Exp. gagnés sont plus\xfffenombreux si l'ennemi a un niveau\xfffeplus élevé, et inversement.
+Les points Exp. sont partagés entre tous les\xfffePokémon ayant participé au combat. Il peut\xfffeêtre avantageux d'envoyer un Pokémon faible\xfffeau combat puis de le remplacer par un plus\xfffefort pour l'aider à gagner des points Exp.\xfffe\xfffeLes Pokémon obtenus par échange gagnent\xfffeégalement plus de points Exp. que ceux qui\xfffeont été capturés.
+Les Pokémon peuvent évoluer, ce qui les fait\xfffechanger de forme et augmente leurs stats.\xfffe\xfffeCertains Pokémon évoluent selon des règles\xfffespéciales, par exemple après un échange ou\xfffegrâce à un objet.
+Si vous appuyez sur le bouton B pendant\xfffequ'un Pokémon évolue, il sera surpris et\xfffel'évolution s'arrêtera.\xfffe\xfffeIl existe également un objet qui, tenu par\xfffele Pokémon, peut empêcher l'évolution.
+Deux Pokémon de la même espèce peuvent\xfffeavoir une nature et des caractéristiques\xfffedifférentes qui affectent leur développement.\xfffeLes stats des Pokémon s'affichent donc de\xfffedifférentes couleurs dans le menu POKÉMON.\xfffeLa couleur rouge signale une stat facile\xfffeà monter et la couleur bleue signale une\xfffestat difficile à monter.
+Le Pokérus est un organisme extrêmement\xffferare qui se fixe sur les Pokémon et accélère\xfffeleur développement.\xfffe\xfffeIl ne peut les atteindre qu'une seule fois\xfffeet disparaît au bout de quelques jours.\xfffeIl arrive parfois qu'il se transmette\xfffeentre Pokémon.
 ぼうけんの　とちゅうで　であう\xfffeそだてやさんに　ポケモンを\xfffe２ひき　あずけていると　タマゴが\xfffeみつかることが　あります。\xfffe\xfffeタマゴは　げんきな　ポケモンと\xfffeいっしょに　つれあるくことで\xfffeなかから　ポケモンが　あらわれます。
-ランニングシューズを　もらったあとは\xfffeＢボタンを　おしながら　いどうすると\xfffeはしることが　できます。
-ダウジングマシンを　つかいながら\xfffeあるいていると　したがめんが\xfffeはんのうすることが　あります。\xfffeやじるしにむかって　あるいてみましょう。\xfffeかくれた　どうぐの　まうえに　たつと\xfffeがめんの　マークが　てんめつします。\xfffeまうえからは　どうぐが　ひろえません。\xfffeいっぽ　さがって　はんのうしていた\xfffeばしょをむいてから　Ａボタンを　おします。
-ＤＳワイヤレスつうしんや\xfffeＷｉ－Ｆｉつうしんを　つかって\xfffeともだちと　おはなしできる　どうぐです。\xfffe３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeカメラきのうを　つかって　ともだちの\xfffeかおを　みながら　おはなしが　できます。\xfffeライブキャスターで　おはなしするには\xfffeあらかじめ　ともだちコードを　とうろく\xfffeしあっておく　ひつようが　あります。
-■ＤＳワイヤレスつうしんのばあい\xfffeＣギアの　ワイヤレスボタンを　タッチして\xfffeライブキャスターを　えらびます。\xfffeちかくに　ともだちコードを　こうかん\xfffeしている　あいてが　みつかると\xfffeしたがめんに　なまえと　ＩＤばんごうが\xfffeひょうじされますので　おはなしをしたい\xfffeあいてを　えらんで　よびだして　ください。\xfffe３にんまで　どうじに　よびだせます。
-ともだちからの　よびだしが　あると\xfffeＣギアの　ワイヤレスボタンが　ひかり\xfffeよびだしおんが　なります。\xfffeライブキャスターに　ともだちの\xfffeなまえが　ひょうじ　されますので\xfffeタッチして　よびだしを　うけてください。\xfffeよびだしを　うけるまえに\xfffeライブキャスターを　えらぶと\xfffeよびだしを　うけることが　できません。
-■Ｗｉ－Ｆｉクラブのばあい\xfffeＷｉ－Ｆｉクラブの　なかにいる\xfffeメンバーの　ひとりと\xfffeいっしょに　おはなしできます。
-■ライブキャスターの　つかいかた\xfffeしたがめんで　そうさを　おこないます。\xfffeまんなかの　ボタンを　\xfffeタッチしながら　ことばを　はなすと\xfffeつうしんで　あいてに　こえが　とどきます。\xfffe\xfffeひだりの　ゲージを　そうさすると\xfffeこえの　たかさが　かえられます。
+Vous pouvez courir, dès que vous\xfffeavez reçu les Chaussures de Sport,\xfffeen appuyant sur le bouton B.
+Lorsque vous marchez en ayant activé\xfffele Cherch'Objet, il arrive que l'écran tactile\xffferéagisse. Suivez alors la flèche pour trouver\xfffedes objets cachés. Un symbole clignotera\xfffelorsque vous vous trouverez juste sur\xfffel'emplacement d'un objet. Reculez d'un\xfffepas et appuyez sur le bouton A pour\xfffele ramasser.
+L'appareil photo de votre console Nintendo\xfffe3Ds Nintendo DSi ou Nintendo DSi XL permet\xfffed'ajouter l'image aux conversations avec\xfffevos amis. Il vous faut cependant disposer\xfffede leur code ami pour utiliser le Vokit.
+■ VIA LE SANS FIL\xfffeTouchez le symbole SANS FIL de votre\xfffeC-Gear et sélectionnez le Vokit.\xfffeSi des Dresseurs avec qui vous avez échangé\xfffevotre code ami se trouvent à proximité, leur\xfffenom et leur numéro s'afficheront sur\xfffel'écran tactile. Il vous suffit ensuite de\xfffesélectionner de 1 à 3 partenaires pour\xfffeprofiter ensemble du Vokit.
+Le symbole SANS FIL sur le C-Gear\xfffeclignote et la console émet un son\xfffelorsqu'un autre Dresseur vous contacte.\xfffeSon nom s'affiche alors sur le Vokit et\xfffevous pouvez accepter la communication\xfffeen touchant l'écran tactile. Vous ne\xfffepouvez pas recevoir d'appel si votre\xfffeVokit est déjà ouvert.
+■ VIA LE CLUB Wi-Fi\xfffeVous pouvez discuter avec un membre\xfffeà l'intérieur du Club Wi-Fi.
+■ UTILISATION DU VOKIT\xfffeIl se manipule avec l'écran tactile.\xfffeTouchez le bouton au centre pour\xfffeenregistrer un court message.\xfffe\xfffeChangez la vitesse et la hauteur de votre\xfffevoix à l'aide de la jauge à gauche.
 ３ＤＳやＤＳｉ、ＤＳｉＬＬなら\xfffeおたがいの　かおが　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　かおに\xfffeらくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「ＳＯＵＮＤ　ＯＮＬＹ」と\xfffeひょうじされます。
 みぎしたの　ふうせんマークの\xfffeボタンを　おすと　ライブキャスターに\xfffeさんかしている　ひとと　ミニゲームで\xfffeあそぶことが　できます。\xfffe\xfffeおしたボタンにより　それぞれ　ちがう\xfffeゲームを　あそぶことが　できます。
 ミニゲームを　はじめられるのは\xfffeさいしょに　ライブキャスターを　えらんだ\xfffeプレイヤー　だけです。\xfffe\xfffeまた　『ポケットモンスターブラック』\xfffe『ポケットモンスターホワイト』の\xfffeプレイヤーとは　ミニゲームを\xfffeあそぶことは　できません。
-イッシュちほうには　８つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeトレーナーカードがめんの\xfffeひだりしたにある　マークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
-てにいれた　バッジの　かずが　おおいと\xfffeひとから　もらった　ポケモンの　レベルが\xfffeたかくても　あなたの　めいれいを　\xfffeすなおに　きいてくれるように　なります。
-べんりボタンは　よくつかう　きのうや\xfffeどうぐを　つかいたいときに　すぐに\xfffeつかうことができる　べんりなボタンです。\xfffe\xfffeべんりボタンに　とうろくすると\xfffeＹボタンを　おして　すぐにつかえます。
-Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチするか\xfffeＹボタンを　おすと\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックを　つけた　きのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
-たいせつなもの　ポケットに　はいっている\xfffeどうぐの　よこにも\xfffeしかくい　マークが　あります。\xfffe\xfffeカーソルを　あわせて　Ｙボタンを　おすか\xfffeタッチして　チェックしておくと　\xfffeべんりボタンに　とうろくして　おけます。
-べんりボタンには　３４こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeＹボタンを　おして\xfffeチェックを　はずして　ください。\xfffe２つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
+Unys compte 8 Arènes, et chacune\xfffed'entre elles a son Champion.\xfffeLes Badges gagnés symbolisent\xfffevos victoires contre les différents\xfffeChampions. Vous pouvez les visualiser\xfffedans le menu en appuyant sur le bouton X\xfffepuis en touchant la Carte de Dresseur\xfffesignalée par votre nom.
+Plus vous disposez de Badges,\xfffeplus les Pokémon de niveau élevé\xfffeque vous possédez accepteront\xfffede vous obéir.
+Le bouton Y permet d'accéder\xffferapidement à des objets ou fonctions\xfffeque vous utilisez fréquemment.\xfffeIl suffit pour cela de les enregistrer\xfffedepuis votre Sac.
+Il arrive qu'une case à cocher soit\xfffeprésente sur l'écran tactile après\xfffeavoir ouvert le menu avec le bouton X.\xfffeElle sera cochée en rouge si vous\xfffela touchez.\xfffe\xfffeLes objets ou fonctions cochés sont\xfffeenregistrés sur le bouton express.
+Cette case à cocher s'affiche également\xfffeà côté de certains Objets Rares.\xfffe\xfffeLes objets cochés sont enregistrés\xfffesur le bouton express.
+Vous pouvez enregistrer jusqu'à 34 objets\xfffeou fonctions sur le bouton express.\xfffeVous pouvez les désenregistrer en\xfffedécochant la case qui leur est associée.\xfffeDès que vous avez enregistré au moins\xfffe2 objets ou fonctions, vous pouvez en\xfffechoisir l'ordre en appuyant sur SELECT.
 「メダルラリー」は　プレイヤーが　した\xfffeいろんなことを　ひょうかして\xfffeメダルを　プレゼントする　システムです。\xfffe\xfffeてにいれた　メダルは　バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を　えらぶことで\xfffeかくにん　することが　できます。
 メダルは　じょうけんを　みたすと\xfffeポケモンセンターに　あらわれる\xfffe「メダルおやじ」に　はなしかけることで\xfffeてにいれることが　できます。
-ポケットモンスターの\xfffe『ダイヤモンド・パール・プラチナ\xfffe　ハートゴールド・ソウルシルバー』の\xfffeいずれかを　もう１だいの　ＤＳほんたいに\xfffeセットして　でんげんを　いれたあと\xfffeＤＳメニューがめん　の\xfffe「ＤＳダウンロードプレイ」を　えらび\xfffe「ポケシフター」を　えらんでください。
+Une fois le téléchargement terminé,\xfffevous pouvez sélectionner 6 Pokémon\xfffeet les faire glisser dans le cadre de\xfffedroite à l'aide du stylet pour les\xfffeemmener vers Pokémon Version Noire\xfffeou Pokémon Version Blanche.\xfffe\xfffeLes Pokémon emmenés ne pourront plus\xffferevenir dans leur jeu d'origine.
 ダウンロードが　おわったら\xfffe『ポケットモンスターブラック２』　または\xfffe『ポケットモンスターホワイト２』に\xfffeつれていく　ポケモンを　６ひき　きめて\xfffeタッチペンで　みぎがわの　わくに\xfffeスライドしてください。\xfffe\xfffeポケシフターで　つれてきたポケモンを\xfffeもとのソフトに　もどすことは　できません。
-タッチスクリーンを　タッチして\xfffeモンスターボールを　てまえに　ひき\xfffeポケモンに　ねらいを　さだめたら\xfffeモンスターボールを　はなしてください。\xfffe\xfffeくさむらや　きのかげに\xfffeかくれている　ポケモンも　います。
-モンスターボールが　うまく　あたると\xfffeかくれている　ポケモンが　とびでます。\xfffeポケモンに　むかって\xfffeもういちど　モンスターボールを\xfffeとばして　あててください。\xfffe\xfffeきめられた　じかんないに　６ひきすべて\xfffeつかまえて　みてください。
-たまに　ピンクいろの　けむりが\xfffeよこぎることが　あります。\xfffeこれに　モンスターボールを　あてると\xfffeポケモンたちは　ねむります。\xfffe\xfffeねむっているあいだ　ポケモンたちは\xfffeうごかないので　つかまえやすく　なります。
+Touchez l'écran tactile pour tirer une\xfffePoké Ball à vous et la lancer vers un\xfffePokémon.\xfffe\xfffeCertains Pokémon se cachent dans les\xfffetouffes d'herbes ou dans les arbres.
+Si vous avez réussi votre lancer,\xfffeun Pokémon apparaîtra. Faites-lui\xfffealors face et lancez-lui une nouvelle\xfffePoké Ball.\xfffe\xfffeEssayez d'attraper les 6 Pokémon\xfffedans le temps imparti.
+Vous verrez parfois un nuage de fumée\xffferose passer. Touchez-le avec une Poké Ball\xfffepour endormir tous les Pokémon à l'écran.\xfffe\xfffeLes Pokémon endormis ne bougent plus\xfffeet sont donc plus faciles à attraper.
