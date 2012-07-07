@@ -1,6 +1,6 @@
-けってい
-やめる
-なにか　ことばを　いれてください
-メールを　もたせるのを\xfffeやめますか？
-はい
-いいえ
+OK
+RETOUR
+Veuillez finir la Lettre.
+Abandonner?
+OUI
+NON
