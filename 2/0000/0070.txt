@@ -1,17 +1,17 @@
-メールボックス
+BOÎTE AUX LETTRES
 \xf000Ȁ\x0001\x0000
 ／
-やめる
-とじる
-メールを　よむ
-メールを　けす
-もたせる
-やめる
-\xf000Ā\x0001\x0000の\xfffeメールを　どうしますか？
-ないようは　きえて　しまいますが\xfffeよろしいですか？
-ないようを　けしました
-ポケモンに　もたせますか？
-ないようを　けした　メールを\xfffeバッグに　しまいました
-バッグが　いっぱいです……\xfffeメールを　すてました
-はい
-いいえ
+RETOUR
+OK
+LIRE
+EFFACER
+DONNER
+RETOUR
+Que faire avec la Lettre de\xfffe\xf000Ā\x0001\x0000?
+Le message sera perdu.\xfffeContinuer?
+Le message a été effacé.
+Faire tenir la Lettre à un Pokémon?
+La Lettre a été mise dans le Sac\xfffeet son message a été effacé.
+Le Sac est plein.\xfffeLa Lettre a été jetée.
+OUI
+NON
