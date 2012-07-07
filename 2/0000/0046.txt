@@ -1,13 +1,13 @@
-そのまま　おまちください
+Veuillez patienter...
 \xf000Ă\x0001\x0000
-\xf000Ă\x0001\x0001は\xfffe\xf000Ă\x0001\x0002の　タマゴを　もらった！
-おまけエリアに　とまったので\xfffe\xf000ĉ\x0001\x0000を　もらった！
-ざんねん！　バッグが　いっぱいだ……\xfffeきのみを　もらうのを　あきらめた
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-リーダーの　つごうが　つかないので\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしんエラーが　はっせい　しました\xfffeぐるぐるこうかんを　ちゅうし　します
-じかんぎれのため　しめきられました\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんできない　タマゴが　あるので\xfffeぐるぐるこうかんを　ちゅうし　します
+\xf000Ā\x0001\x0001 a obtenu l'Œuf\xfffede \xf000Ā\x0001\x0002!
+L'Œuf s'est arrêté sur une zone\xfffebonus! Vous obtenez \xf000ĉ\x0001\x0000!
+Dommage, le Sac est plein... Vous\xfffene pouvez pas recevoir la Baie.
+Communication en cours...
+Un membre a abandonné. La séance\xfffed'Œuf Surprise va être annulée.
+Le meneur a abandonné. La séance\xfffed'Œuf Surprise va être annulée.
+Erreur de communication. La séance\xfffed'Œuf Surprise va être annulée.
+Le temps est écoulé. La séance\xfffed'Œuf Surprise va être annulée.
+Communication en cours...
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Un des Œufs ne peut être échangé.\xfffeLa séance va être annulée.
