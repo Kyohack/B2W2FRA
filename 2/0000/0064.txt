@@ -10,11 +10,11 @@ Faiblo Ball
 Bis Ball
 Chrono Ball
 Luxe Ball
-Premier Ball
+Honor Ball
 Sombre Ball
 Soin Ball
 Rapide Ball
-MÃ©moire Ball
+Mémoire Ball
 Potion
 Antidote
 Anti-Brûle
@@ -28,23 +28,23 @@ Super Potion
 Total Soin
 Rappel
 Rappel Max
-Eau FraÃ®che
+Eau Fraîche
 Soda Cool
 Limonade
 Lait Meumeu
-PoudrÃ©nergie
-RacinÃ©nergie
-Poudre soin
+Poudrénergie
+Racinénergie
+Poudre Soin
 Herbe Rappel
 Huile
 Huile Max
-Elixir
-Max Elixir
+Élixir
+Max Élixir
 Lava Cookie
 Jus de Baie
-CendredacrÃ©e
+Cendresacrée
 PV Plus
-ProtÃ©ine
+Protéine
 Fer
 Carbone
 Calcium
@@ -52,46 +52,46 @@ Super Bonbon
 PP Plus
 Zinc
 PP Max
-Vieux GÃ¢teau
-DÃ©fense Spec.
+Vieux Gâteau
+Défense Spéc
 Muscle +
 Attaque +
-DÃ©fense +
+Défense +
 Vitesse +
-PrÃ©cision +
-SpÃ©cial +
-Def.SpÃ© +
+Précision +
+Spécial +
+Déf. Spé. +
 Poképoupée
-Fluffy Tail
-Flûte bleu
-Flûte jaune
-Flûterouge
-Flûtenoire
+Queue Skitty
+Flûte Bleue
+Flûte Jaune
+Flûte Rouge
+Flûte Noire
 Flûteblanche
-Shoal Salt
+Sel Tréfonds
 Co. Tréfonds
-Tresson Rouge
+Tesson Rouge
 Tesson Bleu
 Tesson Jaune
-Tesson Verte
-Super Repousse
+Tesson Vert
+Superepousse
 Max Repousse
 Corde Sortie
 Repousse
-Pierre Soleil
+Pierresoleil
 Pierre Lune
 Pierre Feu
-Pierre Foudre
+Pierrefoudre
 Pierre Eau
-Pierre Plante
+Pierreplante
 Petit Champi
-Grand Champi
+Gros Champi
 Perle
-Grande perle
-Pouss. Étoile
+Grande Perle
+Pouss.Étoile
 Morc. Étoile
 Pépite
-Écaillecoeur
+Écaillecœur
 Miel
 Fertipousse
 Fertihumide
@@ -99,12 +99,12 @@ Fertistable
 Fertiglu
 Foss. Racine
 Foss. Griffe
-Foss. Nautile
-Foss. Dôme
+Nautile
+Fossile Dôme
 Vieil Ambre
 Foss. Armure
 Foss. Crâne
-Masse Os
+Os Rare
 Pierre Éclat
 Pierre Nuit
 Pierre Aube
@@ -132,87 +132,87 @@ Module Cryo
 ???
 ???
 ???
-Chococoeurs
+Chococœur
 Orbe Adamant
 Orbe Perlé
 Lettre Salut
 Lettre Fan
 Lettre Invit
 Lettre Merci
-Lettre Demande
+Let. Demande
 Lettre Avis
-Lettre Réponse
-Lettre Pont S
-Lettre Pont D
-Lettre Pont T
-Lettre Pont V
-Lettre Pont M
+Let. Réponse
+Lettre PontS
+Lettre PontY
+Lettre PontF
+Lettre PontH
+Lettre PontI
 Baie Ceriz
-Baie marron
-Baie pecha
-Baie Fraive 
-Baie Willia 
-Baie Mepo 
-Baie Oran 
-Baie Kika 
-Baie Prine 
-Baie Sitrus 
-Baie Figuy 
-Baie Wiki 
-Baie Mago 
-Baie Gowav 
-Baie Papaya 
-Baie Framby 
-Baie Remu 
-Baie Nanab 
-Baie Repoi 
-Baie Nanana 
-Baie Grena 
-Baie Alga 
-Baie Qualot 
-Baie Lonme 
-Baie Resin 
-Baie Tamato 
-Baie Siam 
-Baie Mangou 
-Baie Rabuta 
-Baie Tronci 
-Baie Kiwan 
-Baie Palma 
-Baie Stekpa 
-Baie Durin 
-Baie Myrte 
-Baie Chocco 
-Baie Pocpoc 
-Baie Parma 
-Baie Ratam 
-Baie Nanone 
-BaiePomroz 
-Baie Kébia 
-Baie Jouca 
-Baie Cobaba 
-Baie Yapap 
-Baie Panga 
-Baie Charti 
-Baie Sédra 
-Baie Fraigo 
-Baie Lampou 
-Baie Babiri 
-Baie Zalis 
-Baie Lichii 
-Baie Lingan 
-Baie Sailak 
-Baie Pitaye 
-Baie Abriko 
-Baie Lansat 
-Baie Frista 
-Baie Enigma 
-Baie Micle 
-Baie Chérim 
-Baie Jaboca 
-Baie Pommo 
+Baie Maron
+Baie Pêcha
+Baie Fraive
+Baie Willia
+Baie Mepo
+Baie Oran
+Baie Kika
+Baie Prine
+Baie Sitrus
+Baie Figuy
+Baie Wiki
+Baie Mago
+Baie Gowav
+Baie Papaya
+Baie Framby
+Baie Remu
+Baie Nanab
+Baie Repoi
+Baie Nanana
+Baie Grena
+Baie Alga
+Baie Qualot
+Baie Lonme
+Baie Résin
+Baie Tamato
+Baie Siam
+Baie Mangou
+Baie Rabuta
+Baie Tronci
+Baie Kiwan
+Baie Palma
+Baie Stekpa
+Baie Durin
+Baie Myrte
+Baie Chocco
+Baie Pocpoc
+Baie Parma
+Baie Ratam
+Baie Nanone
+Baie Pomroz
+Baie Kébia
+Baie Jouca
+Baie Cobaba
+Baie Yapap
+Baie Panga
+Baie Charti
+Baie Sédra
+Baie Fraigo
+Baie Lampou
+Baie Babiri
+Baie Zalis
+Baie Lichii
+Baie Lingan
+Baie Sailak
+Baie Pitaye
+Baie Abriko
+Baie Lansat
+Baie Frista
+Baie Enigma
+Baie Micle
+Baie Chérim
+Baie Jaboca
+Baie Pommo
 Poudreclaire
-HerbeBlanche
+Herbeblanche
 Brac. Macho
 Multi Exp
 Vive Griffe
@@ -220,420 +220,420 @@ Grelot Zen
 Herbe Mental
 Band. Choix
 Roche Royale
-Cuillertordu
+Poudre Arg.
 Pièce Rune
 Rune Purif.
-Rosée âme
-Dent Ocean
-Écaillocean
-Boule fumée
-Pierre Staseし
-きあいのハチマキ
-しあわせタマゴ
-ピントレンズ
-メタルコート
-たべのこし
-りゅうのウロコ
-でんきだま
-やわらかいすな
-かたいいし
-きせきのタネ
-くろいメガネ
-くろおび
-じしゃく
-しんぴのしずく
-するどいくちばし
-どくバリ
-とけないこおり
-のろいのおふだ
-まがったスプーン
-もくたん
-りゅうのキバ
-シルクのスカーフ
-アップグレード
-かいがらのすず
-うしおのおこう
-のんきのおこう
-ラッキーパンチ
-メタルパウダー
-ふといホネ
-ながねぎ
-あかいバンダナ
-あおいバンダナ
-ピンクのバンダナ
-みどりのバンダナ
-きいろのバンダナ
-こうかくレンズ
-ちからのハチマキ
-ものしりメガネ
-たつじんのおび
-ひかりのねんど
-いのちのたま
-パワフルハーブ
-どくどくだま
-かえんだま
-スピードパウダー
-きあいのタスキ
-フォーカスレンズ
-メトロノーム
-くろいてっきゅう
-こうこうのしっぽ
-あかいいと
-くろいヘドロ
-つめたいいわ
-さらさらいわ
-あついいわ
-しめったいわ
-ねばりのかぎづめ
-こだわりスカーフ
-くっつきバリ
-パワーリスト
-パワーベルト
-パワーレンズ
-パワーバンド
-パワーアンクル
-パワーウエイト
-きれいなぬけがら
-おおきなねっこ
-こだわりメガネ
-ひのたまプレート
-しずくプレート
-いかずちプレート
-みどりのプレート
-つららのプレート
-こぶしのプレート
-もうどくプレート
-だいちのプレート
-あおぞらプレート
-ふしぎのプレート
-たまむしプレート
-がんせきプレート
-もののけプレート
-りゅうのプレート
-こわもてプレート
-こうてつプレート
-あやしいおこう
-がんせきおこう
-まんぷくおこう
-さざなみのおこう
-おはなのおこう
-こううんのおこう
-きよめのおこう
-プロテクター
-エレキブースター
-マグマブースター
-あやしいパッチ
-れいかいのぬの
-するどいツメ
-するどいキバ
-わざマシン０１
-わざマシン０２
-わざマシン０３
-わざマシン０４
-わざマシン０５
-わざマシン０６
-わざマシン０７
-わざマシン０８
-わざマシン０９
-わざマシン１０
-わざマシン１１
-わざマシン１２
-わざマシン１３
-わざマシン１４
-わざマシン１５
-わざマシン１６
-わざマシン１７
-わざマシン１８
-わざマシン１９
-わざマシン２０
-わざマシン２１
-わざマシン２２
-わざマシン２３
-わざマシン２４
-わざマシン２５
-わざマシン２６
-わざマシン２７
-わざマシン２８
-わざマシン２９
-わざマシン３０
-わざマシン３１
-わざマシン３２
-わざマシン３３
-わざマシン３４
-わざマシン３５
-わざマシン３６
-わざマシン３７
-わざマシン３８
-わざマシン３９
-わざマシン４０
-わざマシン４１
-わざマシン４２
-わざマシン４３
-わざマシン４４
-わざマシン４５
-わざマシン４６
-わざマシン４７
-わざマシン４８
-わざマシン４９
-わざマシン５０
-わざマシン５１
-わざマシン５２
-わざマシン５３
-わざマシン５４
-わざマシン５５
-わざマシン５６
-わざマシン５７
-わざマシン５８
-わざマシン５９
-わざマシン６０
-わざマシン６１
-わざマシン６２
-わざマシン６３
-わざマシン６４
-わざマシン６５
-わざマシン６６
-わざマシン６７
-わざマシン６８
-わざマシン６９
-わざマシン７０
-わざマシン７１
-わざマシン７２
-わざマシン７３
-わざマシン７４
-わざマシン７５
-わざマシン７６
-わざマシン７７
-わざマシン７８
-わざマシン７９
-わざマシン８０
-わざマシン８１
-わざマシン８２
-わざマシン８３
-わざマシン８４
-わざマシン８５
-わざマシン８６
-わざマシン８７
-わざマシン８８
-わざマシン８９
-わざマシン９０
-わざマシン９１
-わざマシン９２
-ひでんマシン０１
-ひでんマシン０２
-ひでんマシン０３
-ひでんマシン０４
-ひでんマシン０５
-ひでんマシン０６
-？？？
-？？？
-たんけんセット
-たからぶくろ
-ルールブック
-ポケトレ
-ポイントカード
-ぼうけんノート
-シールいれ
-アクセサリーいれ
-シールぶくろ
-ともだちてちょう
-はつでんしょキー
-こだいのおまもり
-ギンガだんのカギ
-あかいくさり
-タウンマップ
-バトルサーチャー
-コインケース
-ボロのつりざお
-いいつりざお
-すごいつりざお
-コダックじょうろ
-ポフィンケース
-じてんしゃ
-ルームキー
-オーキドのてがみ
-みかづきのはね
-メンバーズカード
-てんかいのふえ
-ふねのチケット
-コンテストパス
-かざんのおきいし
-おとどけもの
-ひきかえけん１
-ひきかえけん２
-ひきかえけん３
-そうこのカギ
-ひでんのくすり
-バトルレコーダー
-グラシデアのはな
-ひみつのカギ
-ぼんぐりケース
-アンノーンノート
-きのみプランター
-ダウジングマシン
-ブルーカード
-おいしいシッポ
-とうめいなスズ
-カードキー
-ちかのかぎ
-ゼニガメじょうろ
-あかいウロコ
-おとしもの
-リニアパス
-きかいのぶひん
-ぎんいろのはね
-にじいろのはね
-ふしぎなタマゴ
-あかぼんぐり
-あおぼんぐり
-きぼんぐり
-みどぼんぐり
-ももぼんぐり
-しろぼんぐり
-くろぼんぐり
-スピードボール
-レベルボール
-ルアーボール
-ヘビーボール
-ラブラブボール
-フレンドボール
-ムーンボール
-コンペボール
-パークボール
-フォトアルバム
-ＧＢプレイヤー
-うみなりのスズ
-いかりまんじゅう
-データカード０１
-データカード０２
-データカード０３
-データカード０４
-データカード０５
-データカード０６
-データカード０７
-データカード０８
-データカード０９
-データカード１０
-データカード１１
-データカード１２
-データカード１３
-データカード１４
-データカード１５
-データカード１６
-データカード１７
-データカード１８
-データカード１９
-データカード２０
-データカード２１
-データカード２２
-データカード２３
-データカード２４
-データカード２５
-データカード２６
-データカード２７
-もえぎいろのたま
-ロックカプセル
-べにいろのたま
-あいいろのたま
-なぞのすいしょう
-きれいなウロコ
-しんかのきせき
-かるいし
-ゴツゴツメット
-ふうせん
-レッドカード
-ねらいのまと
-しめつけバンド
-きゅうこん
-じゅうでんち
-だっしゅつボタン
-ほのおのジュエル
-みずのジュエル
-でんきのジュエル
-くさのジュエル
-こおりのジュエル
-かくとうジュエル
-どくのジュエル
-じめんのジュエル
-ひこうのジュエル
-エスパージュエル
-むしのジュエル
-いわのジュエル
-ゴーストジュエル
-ドラゴンジュエル
-あくのジュエル
-はがねのジュエル
-ノーマルジュエル
-たいりょくのハネ
-きんりょくのハネ
-ていこうのハネ
-ちりょくのハネ
-せいしんのハネ
-しゅんぱつのハネ
-きれいなハネ
-ふたのカセキ
-はねのカセキ
-リバティチケット
-デルダマ
-ドリームボール
-ポケじゃらし
-グッズケース
-ドラゴンのホネ
-かおるキノコ
-でかいきんのたま
-おだんごしんじゅ
-すいせいのかけら
-こだいのどうか
-こだいのぎんか
-こだいのきんか
-こだいのツボ
-こだいのうでわ
-こだいのせきぞう
-こだいのおうかん
-ヒウンアイス
-クリティカット２
-スピーダー２
-ＳＰアップ２
-ＳＰガード２
-ディフェンダー２
-プラスパワー２
-ヨクアタール２
-スピーダー３
-ＳＰアップ３
-ＳＰガード３
-ディフェンダー３
-プラスパワー３
-ヨクアタール３
-スピーダー６
-ＳＰアップ６
-ＳＰガード６
-ディフェンダー６
-プラスパワー６
-ヨクアタール６
-スキルコール
-アイテムドロップ
-アイテムコール
-フラットコール
-クリティカット３
-ライトストーン
-ダークストーン
-わざマシン９３
-わざマシン９４
-わざマシン９５
-ライブキャスター
-ゴッドストーン
-はいたつぶつ１
-はいたつぶつ２
-はいたつぶつ３
-ライブキャスター
-メダルボックス
-いでんしのくさび
-いでんしのくさび
-きょかしょう
-まるいおまもり
-ひかるおまもり
-プラズマカード
-よごれたハンカチ
-アクロママシーン
-わすれもの
-わすれもの
-うつしかがみ
+Rosée Âme
+Dent Océan
+Écailleocéan
+Boule Fumée
+Pierre Stase
+Bandeau
+Œuf Chance
+Lentilscope
+Peau Métal
+Restes
+Écailledraco
+Ballelumière
+Sable Doux
+Pierre Dure
+Grain Miracl
+Lunet.Noires
+Ceint.Noire
+Aimant
+Eau Mystique
+Bec Pointu
+Pic Venin
+Glacéternel
+Rune Sort
+Cuillertordu
+Charbon
+Croc Dragon
+Mouch. Soie
+Améliorator
+Grelot Coque
+Encens Mer
+Encens Doux
+Poing Chance
+Poudre Métal
+Masse Os
+Bâton
+Foul. Rouge
+Foul. Bleu
+Foul. Rose
+Foul. Vert
+Foul. Jaune
+Loupe
+Band. Muscle
+Lunet. Sages
+Ceinture Pro
+Lumargile
+Orbe Vie
+Herbe Pouv.
+Orbe Toxique
+Orbe Flamme
+Poudre Vite
+Ceint. Force
+Lentil. Zoom
+Métronome
+Balle Fer
+Ralentiqueue
+Nœud Destin
+Boue Noire
+Roche Glace
+Roche Lisse
+Roche Chaude
+Roche Humide
+Accro Griffe
+Mouch. Choix
+Piquants
+Poign. Pouv.
+Ceint. Pouv.
+Lent. Pouv.
+Band. Pouv.
+Chaîne Pouv.
+Poids Pouv.
+Carapace Mue
+Grosseracine
+Lunet. Choix
+Plaque Flam
+Plaque Hydro
+Plaque Volt
+Plaque Herbe
+Plaque Glace
+Plaque Poing
+Plaque Toxic
+Plaque Terre
+Plaque Ciel
+Plaquesprit
+Plaquinsect
+Plaque Roc
+Plaque Fantô
+Plaque Draco
+Plaque Ombre
+Plaque Fer
+Bizar.Encens
+Encens Roc
+Encens Plein
+Encens Vague
+Encens Fleur
+Encens Veine
+Encens Pur
+Protecteur
+Électiriseur
+Magmariseur
+CD Douteux
+Tissu Fauche
+Grif. Rasoir
+Croc Rasoir
+CT01
+CT02
+CT03
+CT04
+CT05
+CT06
+CT07
+CT08
+CT09
+CT10
+CT11
+CT12
+CT13
+CT14
+CT15
+CT16
+CT17
+CT18
+CT19
+CT20
+CT21
+CT22
+CT23
+CT24
+CT25
+CT26
+CT27
+CT28
+CT29
+CT30
+CT31
+CT32
+CT33
+CT34
+CT35
+CT36
+CT37
+CT38
+CT39
+CT40
+CT41
+CT42
+CT43
+CT44
+CT45
+CT46
+CT47
+CT48
+CT49
+CT50
+CT51
+CT52
+CT53
+CT54
+CT55
+CT56
+CT57
+CT58
+CT59
+CT60
+CT61
+CT62
+CT63
+CT64
+CT65
+CT66
+CT67
+CT68
+CT69
+CT70
+CT71
+CT72
+CT73
+CT74
+CT75
+CT76
+CT77
+CT78
+CT79
+CT80
+CT81
+CT82
+CT83
+CT84
+CT85
+CT86
+CT87
+CT88
+CT89
+CT90
+CT91
+CT92
+CS01
+CS02
+CS03
+CS04
+CS05
+CS06
+???
+???
+Explorakit
+Sac Butin
+Livre Règles
+Poké Radar
+Carte Points
+Journal
+Boîte Sceaux
+Coffret Mode
+Sac Sceaux
+Registre Ami
+Clé Centrale
+Vieux Grigri
+Clé Galaxie
+Chaîne Rouge
+Carte
+Cherche VS
+Boîte Jetons
+Canne
+Super Canne
+Méga Canne
+Kwakarrosoir
+Boîte Poffin
+Bicyclette
+Clé Chambre
+Lettre Chen
+Lun'Aile
+Carte Membre
+Flûte Azur
+Passe Bateau
+Passeconcour
+Pierre Magma
+Colis
+Bon 1
+Bon 2
+Bon 3
+Clé Stockage
+Potionsecret
+Magnéto VS
+Gracidée
+Clé Secrète
+Bte Noigrume
+Carnet Zarbi
+Plante-Baies
+Cherch'Objet
+Carte Bleue
+Queueramolos
+Glas Transp.
+Carte Magn.
+Clé Sous-Sol
+Carapuce à O
+Écaillerouge
+Objet perdu
+Passe Train
+Partie Mach.
+Argent'Aile
+Arcenci'Aile
+Œuf Mystère
+Noigrume Rge
+Noigrume Blu
+Noigrume Jne
+Noigrume Ver
+Noigrume Ros
+Noigrume Blc
+Noigrume Noi
+Speed Ball
+Niveau Ball
+Appât Ball
+Masse Ball
+Love Ball
+Copain Ball
+Lune Ball
+Compét'Ball
+Parc Ball
+Album Photo
+Lecteur GB
+Glas Tempête
+Bonbon Rage
+Carte Mémo01
+Carte Mémo02
+Carte Mémo03
+Carte Mémo04
+Carte Mémo05
+Carte Mémo06
+Carte Mémo07
+Carte Mémo08
+Carte Mémo09
+Carte Mémo10
+Carte Mémo11
+Carte Mémo12
+Carte Mémo13
+Carte Mémo14
+Carte Mémo15
+Carte Mémo16
+Carte Mémo17
+Carte Mémo18
+Carte Mémo19
+Carte Mémo20
+Carte Mémo21
+Carte Mémo22
+Carte Mémo23
+Carte Mémo24
+Carte Mémo25
+Carte Mémo26
+Carte Mémo27
+Orbe Vert
+Poké Écrin
+Orbe Rouge
+Orbe Bleu
+Mystécristal
+Bel'Écaille
+Évoluroc
+Pierrallégée
+Casque Brut
+Ballon
+Carton Rouge
+Pt de Mire
+B. Étreinte
+Bulbe
+Pile
+Bouton Fuite
+Joyau Feu
+Joyau Eau
+Joyau Électr
+Joyau Plante
+Joyau Glace
+Joyau Combat
+Joyau Poison
+Joyau Sol
+Joyau Vol
+Joyau Psy
+Joyau Insect
+Joyau Roche
+Joyau Spectr
+Joyau Dragon
+Joyau Ténèbr
+Joyau Acier
+Joyau Normal
+Aile Santé
+Aile Force
+Aile Armure
+Aile Esprit
+Aile Mental
+Aile Sprint
+Jolie Aile
+Foss. Plaque
+Foss. Plume
+Pass Liberté
+Offrisphère
+Rêve Ball
+Poképlumet
+Boîte Parure
+Crâne Dragon
+Champi Suave
+Maxi Pépite
+Perle Triple
+Morc. Comète
+Vieux Sou
+Vieil Écu
+Vieux Ducat
+Vieux Vase
+Vieux Bijou
+Vieux Santon
+Vieux Tortil
+Glace Volute
+Muscle 2
+Vitesse 2
+Atq. Spé. 2
+Déf. Spé. 2
+Défense 2
+Attaque 2
+Précision 2
+Vitesse 3
+Atq. Spé. 3
+Déf. Spé. 3
+Défense 3
+Attaque 3
+Précision 3
+Vitesse 6
+Atq. Spé. 6
+Déf. Spé. 6
+Défense 6
+Attaque 6
+Précision 6
+Appel CapSpé
+Jette Objet
+Appel Objet
+Réamorçage
+Muscle 3
+Galet Blanc
+Galet Noir
+CT93
+CT94
+CT95
+Vokit
+???
+Courrier 1
+Courrier 2
+Courrier 3
+Vokit
+Boîte à médailles
+Épingle de lien DNA
+Épingle de lien DNA
+License
+Charme Rond
+Charm Éclatant
+Carte Plasma
+Mouchoire Sale
+Appareil Acroma
+Objet Oublié 1
+Objet Oublié 2
+Mirroir Reflétant
