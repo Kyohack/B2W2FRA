@@ -1,47 +1,47 @@
-たいせん
-こうかん
-もどる
-ふたりで　たいせん
-４にんで　たいせん
-シングルバトル
-ダブルバトル
-トリプルバトル
-たいせん　あいてと\xfffeせきがいせんつうしんを　してください
-パートナーとなる　あいてと\xfffeせきがいせんつうしんを　してください
-リーダーに　なりました！
-たいせん　あいての　リーダーと\xfffeせきがいせんつうしんを　してください
-しばらく　おまちください
-ともだちコード
-フィーリング\xfffeチェック
-ちゅうだんしますか？
-こうかんする　あいてと\xfffeせきがいせんつうしんを　してください
-ポケモンこうかん
-てもち
-こうかんしますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
-こうかんしました
-しばらく　おまちください
-あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-はい
-いいえ
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんを　かいしします\xfffeしばらく　おまちください
-たいせんを　かいしします\xfffeしばらく　おまちください
-ローテーションバトル
-ともだちコードの　こうかん　あいてと\xfffeせきがいせんつうしんを　してください
-ともだちリストが　いっぱいです\xfffeともだちを　とうろく　できません
-\xf000봂\x0000とうろくにんずう\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-けってい
-この　にんずうで　よろしいですか？
-さんかする　メンバー　ぜんいんと\xfffeせきがいせんつうしんを　してください
-えんもくを　きめた　リーダーと\xfffeせきがいせんつうしんを　してください
-\xf000Ȁ\x0001\x0000にんと　つうしんちゅう\xfffe　けっていで　すすむ
-バトルボックスで　たたかう
-てもちで　たたかう
-ともだちリストに\xfffeとうろく　しました！
-ともだちリストを\xfffeこうしん　しました！
-こうかんには　てもちの　ポケモンが\xfffe２ひき　いじょう　ひつようです
-すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000\xfffeレポートが　かけません！\xf000븁\x0000\xfffeくわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000\xfffeごらんください
-いっしょに　あそぶ　ともだちと\xfffeせきがいせんつうしんを　してください
+COMBAT
+ÉCHANGE
+RETOUR
+COMBAT 2 DRESSEURS
+COMBAT 4 DRESSEURS
+COMBAT SOLO
+COMBAT DUO
+COMBAT TRIO
+Veuillez démarrer la communication\xfffeinfrarouge avec votre adversaire.
+Veuillez démarrer la communication\xfffeinfrarouge avec votre partenaire.
+Devenir Leader!
+Veuillez démarrer la communication\xfffeinfrarouge avec le meneur adverse.
+Veuillez patienter.
+CODE AMI
+TEST DE\xfffeCOMPATIBILITÉ
+Voulez-vous arrêter?
+Veuillez démarrer la communication\xfffeinfrarouge pour procéder à l'échange.
+Échange Pokémon
+Objet Tenu
+Voulez vous échanger?
+N. \xf000Ȃ\x0001\x0000
+Fermer le Link?
+Échangé.
+Veuillez patienter.
+Les activités choisies ne\xfffecorrespondent pas. Retour au menu.
+Voulez-vous sauvegarder la partie?
+OUI
+NON
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Début de l'échange...\xfffeVeuillez patienter.
+Début du combat...\xfffeVeuillez patienter.
+COMBAT ROTATIF
+Veuillez démarrer la communication\xfffeinfrarouge avec votre ami(e).
+Le Registre Ami est plein. Vous ne pouvez\xfffepas enregistrer un nouveau code ami.
+\xf000봂\x0000AMIS ENREGISTRÉS\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+CONTINUER
+Ce groupe vous convient-il?
+Veuillez démarrer la communication\xfffeinfrarouge avec tous les membres.
+Veuillez démarrer la communication\xfffeinfrarouge avec le meneur du numéro.
+Communication avec \xf000Ȁ\x0001\x0000 personne(s).\xfffeValidez votre choix.
+UTILISER LA BOÎTE COMBAT
+UTILISER L'ÉQUIPE
+Code ami enregistré dans le Registre Ami.
+Registre Ami mis à jour.
+Vous devez posséder au moins deux\xfffePokémon pour faire un échange!
+Une autre partie est déjà sauvegardée.\xfffeSauvegarde impossible.\xf000븁\x0000\xfffeVeuillez vous référer au mode d'emploi\xfffepour plus d'informations.\xf000븁\x0000\xfffeAppuyez sur haut, SELECT et le\xfffebouton B à l'écran titre pour effacer\xf000븀\x0000\xfffela sauvegarde actuelle.
+Veuillez démarrer la communication\xfffeinfrarouge avec votre partenaire.
