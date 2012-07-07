@@ -1,21 +1,21 @@
 \xf000Ā\x0001\x0000
-ＩＤ\xf000Ȅ\x0001\x0000
-メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
-この　メンバーで　よろしいですか？
-ぐるぐるこうかんを\xfffeちゅうし　しますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-つごうが　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeぐるぐるこうかんを　ちゅうし　します
-そのまま　おまちください\xfffeＢボタン：やめる
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-ぐるぐるこうかんを　やめますか？
-それでは　ぐるぐるこうかんを\xfffeちゅうし　します
-レコードを　まぜています\xfffeでんげんを　きらないで　ください！
-ぐるぐるこうかんが　おわりました！\xfffeユニオンルームへ　いどうします
-リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
-\xf000Ā\x0001\x0000さんが　かえりました
-リーダーの　\xf000Ă\x0001\x0000さんが\xfffeぬけたので　かいさん　します
-ぐるぐるこうかん　ぼしゅうちゅう！
-ぐるぐるこうかんちゅう！
-はい
-いいえ
+Nº \xf000Ȅ\x0001\x0000
+Lorsque tous les joueurs sont prêts...\xfffeBouton A: Confirmer   Bouton B: Annuler
+Ce groupe vous convient-il?
+Annuler la séance d'Œuf Surprise?
+La séance d'Œuf Surprise va\xfffeêtre annulée.
+Un membre a abandonné.
+Il n'y a aucun membre.\xfffeL'échange de données va être annulé.
+Veuillez patienter...\xfffeBouton B: Annuler
+Un membre a abandonné. La séance\xfffed'Œuf Surprise va être annulée.
+Annuler la séance d'Œuf Surprise?
+La séance d'Œuf Surprise va\xfffeêtre annulée.
+Echangement de records.\xfffeNe pas eteindre la console!
+Échange de données terminé!\xfffeRetour à la Salle Union.
+Si le meneur se désiste, le groupe sera\xfffedissous. Continuer?
+\xf000Ā\x0001\x0000 est parti(e).
+\xf000Ā\x0001\x0000, le meneur, a quitté la\xfffeséance. Le groupe va être dissous.
+Œuf Surprise - Séance ouverte!
+Œuf Surprise - Séance ouverte!
+OUI
+NON
