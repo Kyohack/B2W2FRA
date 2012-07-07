@@ -1,12 +1,11 @@
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-せきがいせんつうしんに　しっぱい\xfffeメニューに　もどります
-せきがいせんつうしんが　\xfffeつながりました！
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
-やめる
-フィーリングチェック
-シーンが　ずれました\xfffeさきへ　すすみます
+Démarrez la communication infrarouge avec\xfffevotre partenaire de test.
+La communication infrarouge a échoué\xffferetour eu menu.
+La communication infrarouge est établie!
+Démarrez la communication infrarouge avec\xfffevotre partenaire de test.
+Test de Compatibilité en cours.\xfffeVeuillez ne pas éloigner les consoles.
+Touchez l'écran tactile pour commencer\xfffele test!
+Début du test!
+Classement
+RETOUR
+ANNULER
+TEST DE COMPATIBILITÉ
