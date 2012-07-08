@@ -1,2 +1,2 @@
-つうしんエラーが　はっせいしました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
+Erreur de communication.
+Erreur de communication.\xfffeVeuillez éteindre la console.
