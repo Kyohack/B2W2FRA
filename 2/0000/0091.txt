@@ -1,30 +1,30 @@
-ロードしています\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-ポケシフター　きどうちゅう……\xfffeまもなく　はじまります
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-もういちど　ポケシフターで\xfffeあそびますか？
-ポケシフターを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-もう１つの　ＤＳに\xfffeボックスの　あきが　たりません\xf000븁\x0000
-ポケシフターで　つかまえられる\xfffeポケモンが\xfffeボックスに　６ひき　いません\xf000븁\x0000
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븁\x0000
-つれてきた　ポケモンは\xfffeもう　もとの　ばしょには\xf000븁\x0000\xfffeもどれませんが\xfffeほんとうに　よろしいですか？
-ポケモンを　もとのちほうに\xfffeかえしました\xf000븁\x0000
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-はい
-いいえ
-Ｌｖ．\xf000Ȃ\x0001\x0000
-タマゴは　ポケシフターで\xfffeつかまえることが　できません
-ひでんわざを　おぼえている　ポケモンは\xfffeポケシフターで　つかまえられません
-このポケモンは　ポケシフターで\xfffeつかまえられません
-この６ひきで　よろしいですか？
-オウ！\xf000븁\x0000\xfffeこの　ギザみみピチューは\xfffeもとの　ばしょに\xf000븀\x0000\xfffeステイさせたほうが　よさそうだ！\xf000븁\x0000\xfffeこのピチューは　ときわたりで\xfffeやってきた　ポケモンらしいね\xf000븁\x0000\xfffeみたところ　この　ピチューは\xfffeセレビィと　いっしょに　ながい　じかん\xf000븀\x0000\xfffeわたってきた　えいきょうが　からだに\xf000븀\x0000\xfffeのこってる　みたいだ\xf000븁\x0000\xfffeつれてくるのは　デンジャラス！\xfffeベリー　デンジャラスッ！\xf000븁\x0000\xfffeもとの　ばしょに　いるほうが\xfffeピチューに　とっても　ベストだろう！
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-ポケシフターを　しゅうりょうしますか？
-ポケモンを　６ひき　えらんで\xfffeタッチペンをつかって　みぎのわくに\xfffeスライドさせて　ください
-じかんないに　ポケモンを\xfffeぜんぶ　つかまえろ！
+Lecture des données en cours.\xfffeVeuillez patienter...
+Aucun jeu compatible n'a été\xfffetrouvé. Éteignez la console,\xfffeinsérez une autre carte DS\xfffeet relancez le Poké Fret.\xf000븁\x0000
+Lancement du Poké Fret...\xfffeDébut imminent.
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Sauvegarde terminée.\xf000븂\x0001<
+Voulez-vous rejouer\xfffeau Poké Fret?
+Arrêt du Poké Fret.\xfffeÉteignez votre console.
+Il n'y a pas assez de places libres\xfffedans les boîtes de l'autre console.\xf000븁\x0000
+Les boîtes ne contiennent\xfffepas 6 Pokémon utilisables\xfffeavec le Poké Fret.\xf000븁\x0000
+La lecture des données a échoué.\xf000븁\x0000
+La connexion avec l'autre\xfffeNintendo DS a échoué.\xf000븁\x0000
+Sauvegarde impossible.\xf000븁\x0000
+Les Pokémon emmenés ne pourront plus\xffferevenir dans leur jeu d'origine.\xf000븀\x0000\xfffeVoulez-vous continuer?
+Les Pokémon sont repartis\xfffedans leur région d'origine.\xf000븁\x0000
+La lecture des données a échoué.\xfffeSoit il n'y a pas de fichier de\xfffesauvegarde, soit les données\xfffesont corrompues.\xf000븁\x0000
+Le jeu inséré dans l'autre Nintendo\xfffeDS n'est pas compatible. Éteignez la\xfffeconsole, insérez une autre carte DS\xfffeet relancez le Poké Fret.\xf000븁\x0000
+OUI
+NON
+N. \xf000Ȃ\x0001\x0000
+Il est impossible d'attraper des Œufs\xfffeavec le Poké Fret.
+Il est impossible d'attraper des Pokémon\xfffeayant appris des capacités secrètes.
+Il est impossible d'attraper ce\xfffePokémon avec le Poké Fret.
+Confirmez-vous cette sélection?
+Oh!\xf000븁\x0000\xfffeIl vaudrait mieux laisser ce Pichu Troizépi\xfffelà où il est!\xf000븁\x0000\xfffeOn dirait que ce Pokémon a traversé\xfffeune faille temporelle.\xf000븁\x0000\xfffeOn voit bien que son corps porte les\xfffemarques de son long voyage avec Celebi.\xf000븁\x0000\xfffeIl serait dangereux de l'emmener\xfffepar Poké Fret! Très dangereux!\xf000븁\x0000\xfffeIl sera bien plus heureux si on le\xfffelaisse là où il est!
+Les objets portés seront rapatriés\xfffedans le Sac. Valider?
+Le Sac est plein. Les objets en surplus\xfffedisparaîtront. Valider?
+Sortir du Poké Fret?
+Choisissez 6 Pokémon et faites-les glisser\xfffedans le cadre de droite avec le stylet.
+Attrapez tous les Pokémon\xfffedans le temps imparti!
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
