@@ -1,11 +1,11 @@
-Ton nom?
-Surnom de \xf000ā\x0001\x0000?
-Boite de nom?
-Le nom de ton rival?
-Le nom de ton ami?
-Comment salues-tu un passant?
-Comment remercies-tu un passant?
-Quel est ton message aux passants?
+Votre nom?
+Le surnom de \xf000ā\x0001\x0000?
+Le nom de la Boîte?
+Le nom de votre rival(e)?
+Le nom de votre ami(e)?
+Votre salut aux personnes croisées?
+Votre remerciement aux personnes croisées?
+Votre message aux personnes croisées?
 Le nom de cette ville?(Enregistre\xfffele dans Carte de Dresseur.)
 Ton titre?(Cette ville\xfffeest la seul location mentioné.)
 Mon disant?\xfffe(Transmis globalement.)
@@ -15,8 +15,8 @@ Comment et quand parler?\xfffe(Transmis globalement.)
 Comment vous transmettez\xfffeun message vers les passants?
 Quelle est votre message passant?
 Nom du Pokémon?
-Veuillez entrer votre Nom.
-Nom peut contenir seulement\xfffejusqu'à 4 caractères.
+Entrez votre nom!
+Vous ne pouvez entrer que 4 chiffres.
 Le Code ID de Sync du jeu\xfffeest incorrect.
 　
 　
