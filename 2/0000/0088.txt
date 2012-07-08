@@ -1,10 +1,10 @@
-はなしかけています
-……だれかが　はなしかけてきました
-……　……　……どうやら\xfffeとりこみちゅうの　ようだ
-しばらくおまちください……
-あいてとの　かいわが　きれました
-あいてに　さきを　こされました
-つうしんが　きれました
+Vous entamez la conversation.
+Quelqu'un vous parle.
+On dirait que cette personne est occupée.
+Attendez un instant...
+La conversation a été interrompue.
+On a réussi à vous prendre de vitesse.
+La communication a été interrompue.
 ー
 ー
 ー
@@ -17,16 +17,16 @@
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+\xf000Ā\x0001\x0000: Salut!\xfffeÊtes vous occupé?
+\xf000Ā\x0001\x0000: Salut!\xfffeÊtes vous occupé?
 ー
 \xf000봂\x0000\xf000Ā\x0001\x0000が　ミッションたっせい！\xf000븂\x0001Z
-\xf000봂\x0000ミッションしっぱい
-デルダマを　\xf000ȁ\x0001\x0000こ　てにいれた！\xf000븂\x0001Z
-\xf000봂\x0000ミッションたっせい！
-ミッションが　はじまるまで\xfffeしばらく　おまちください
+\xf000봂\x0000ÉCHEC DE LA MISSION
+Vous avez obtenu:\xfffe\xf000ȁ\x0001\x0000 Offrisphère(s)\xf000븂\x0001Z
+\xf000봂\x0000MISSION ACCOMPLIE
+Veuillez patienter,\xfffela mission va commencer.
 \xf000봂\x0000ミッション　スタート！
-どうやら　ハイリンクから\xfffe\xf000Ā\x0001\x0000が\xf000븀\x0000\xfffeたすけに　きてくれたようだ\xf000븁\x0000\xfffe……おや？\xf000븁\x0000\xfffeたすけにきた　\xf000Ā\x0001\x0000が\xfffeどうぐを　おいていった\xf000븁\x0000
+On dirait que \xf000Ā\x0001\x0000 a surgi\xfffedu Heylink pour vous aider...\xf000븁\x0000\xfffeOh?\xfffe\xf000Ā\x0001\x0000 a laissé un objet!\xf000븁\x0000
 ー
 ー
 ー
@@ -46,38 +46,38 @@
 \xf000봂\x0000ミッション　たっせい！\xf000븂\x0001Z
 \xf000봂\x0000ミッション　しっぱい……\xf000븂\x0001Z
 デルダマを　\xf000ȁ\x0001\x0000こ　てにいれた！\xf000븂\x0001Z
-しあわせが　あつまり　ハイリンクの\xfffe◇ブラックＬｖが　\xf000Ȃ\x0001\x0000あがった！\xf000븂\x0001Z
-しあわせが　あつまり　ハイリンクの\xfffe◆ホワイトＬｖが　\xf000Ȃ\x0001\x0000あがった！\xf000븂\x0001Z
-キューン　キューン！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000
-ギャァーーアアス！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000
-……　……　……！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000
+Le bonheur s'accumule dans le Heylink:\xfffe◇　Le niveau de noir a augmenté de \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Le bonheur s'accumule dans le Heylink:\xfffe◆　Le niveau de blanc a augmenté de \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Mii, mii!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000
+Grrr!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000
+... ... ...!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000
 ー
 ー
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『へへ！\xfffeつかまえた！\xf000븁\x0000\xfffeそれにしても　こんなところに\xfffeポケモンがいるなんて　めずらしいなぁ\xf000븀\x0000\xfffe……あれ？\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　ハイルツリーから\xfffeもらった　\xf000Ĝ\x0001\x0002を\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000に　つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『よーし！\xfffeつかまえたー！\xf000븁\x0000\xfffeそれにしても　こんなところに\xfffeポケモンがいるなんて　めずらしいなぁ\xf000븀\x0000\xfffe……あれ？\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　ハイルツリーから\xfffeもらった　\xf000Ĝ\x0001\x0002を\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000に　つかった！\xf000븁\x0000
-キューン　キューン！\xf000븁\x0000\xfffeなんだか　かまってもらいたい　みたい
-フーー！　フーー！\xf000븁\x0000\xfffeなんだか　かまってもらいたい　みたい
-ギャオ！　ギャオー！\xf000븁\x0000\xfffeなんだか　かまってもらいたい　みたい
+\xf000Ā\x0001\x0000: Hé hé!\xfffeJe t'ai eu!\xf000븁\x0000\xfffeMais qu'est-ce que ce Pokémon fait là?!\xfffeOh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Hé hé!\xfffeJe t'ai eu!\xf000븁\x0000\xfffeMais qu'est-ce que ce Pokémon fait là?!\xfffeOh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000!\xf000븁\x0000
+Mii, mii!\xf000븁\x0000\xfffeOn dirait qu'il voudrait que vous\xfffevous occupiez de lui!
+Grrr!\xf000븁\x0000\xfffeOn dirait qu'il voudrait que vous\xfffevous occupiez de lui!
+... ... ...!\xf000븁\x0000\xfffeOn dirait qu'il voudrait que vous\xfffevous occupiez de lui!
 ー
 ー
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『ん　なんだい？\xfffeかまって　ほしいのかな？
-\xf000Ā\x0001\x0000『わー！　めずらしい！\xf000븁\x0000\xfffeどうしたのかな？\xfffeかまって　ほしいのかな？
-キュイーン！
-ギャオーー！　ギャオーーー！
-……　……！！
+\xf000Ā\x0001\x0000: Mmh?\xfffeTu veux que je m'occupe de toi?
+\xf000Ā\x0001\x0000: Ça alors! Qu'est-ce qu'il y a?\xfffeTu veux que je m'occupe de toi?
+Miiiiii!
+Grrr, grrr!
+... ... ...!!!
 ー
 ー
 ー
 ー
 ー
-……　……　……\xfffe……　……　……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『わー！\xfffeこっこれは　すごいパワーだ！\xf000븁\x0000\xfffeありがとう！\xfffeすごく　たすかるよ！\xf000븁\x0000
-……　……　……\xfffe……　……　……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『わー！\xfffeこっこれは　すごいパワーだ！\xf000븁\x0000\xfffeありがとう！\xfffeすごく　たすかるよ！\xf000븁\x0000
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel super pouvoir!\xfffeÇa va bien m'aider, merci beaucoup!\xf000븁\x0000
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel chouette pouvoir!\xfffeÇa va m'être très utile, merci bien!\xf000븁\x0000
 キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
@@ -96,70 +96,23 @@
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『いけ！\xfffeそこだ！　がんばれ！\xf000븁\x0000\xfffe……　……　……どうやら\xfffeたいせんちゅうの　ようだ
-\xf000Ā\x0001\x0000『いけ！\xfffeそこよ！　がんばれ！\xf000븁\x0000\xfffe……　……　……どうやら\xfffeたいせんちゅうの　ようだ
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux y arriver!\xf000븁\x0000\xfffe... ... ... On dirait que le Dresseur\xfffeest en plein combat.
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux le faire!\xf000븁\x0000\xfffe... ... ... On dirait que le Dresseur\xfffeest en plein combat.
 ー
 ー
 ー
 ー
 ー
-キュン！？\xfffeキューン！？\xf000븀\x0000\xfffeなんだか　とりこみちゅう　みたい
-ギャオ！？\xfffeギャオギャオ！？\xf000븀\x0000\xfffeなんだか　とりこみちゅう　みたい
-……！？\xfffe……　……！？\xf000븀\x0000\xfffeなんだか　とりこみちゅう　みたい
-\xf000Ā\x0001\x0000『……\xfffe……　……\xf000븀\x0000\xfffeとりこみちゅうの　ようだ
-\xf000Ā\x0001\x0000『……\xfffe……　……\xf000븀\x0000\xfffeとりこみちゅうの　ようだ
-キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
-キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
-ー
-ー
-ー
-ー
-ー
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『……\xfffe……　……　……は！\xf000븁\x0000\xfffeい　いま\xfffeぼく　ねてたね……\xf000븁\x0000\xfffeそうだ！\xfffeすぐに　でかけなくちゃ！\xf000븀\x0000\xfffeおこして　くれて　ありがとうね！\xf000븀\x0000\xfffeおれいに　これ　あげるよ\xf000븁\x0000
-\xf000Ā\x0001\x0000『……\xfffe……　……　……は！\xf000븁\x0000\xfffeい　いま\xfffeわたし　ねてたわ……\xf000븁\x0000\xfffeそうだ！\xfffeすぐに　でかけなくちゃ！\xf000븀\x0000\xfffeおこして　くれて　ありがとう！\xf000븀\x0000\xfffeおれいに　これ　あげるね\xf000븁\x0000
-キューン　キューン！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　ポケモンから\xfffe\xf000Ĝ\x0001\x0002を　もらった！\xf000븁\x0000
-ギャァーーアアス！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　ポケモンから\xfffe\xf000Ĝ\x0001\x0002を　もらった！\xf000븁\x0000
-……　……　……！\xf000븁\x0000\xfffe……おや？\xfffeやってきた　ポケモンが\xf000븀\x0000\xfffeとつぜん　ひかりだした！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　ポケモンから\xfffe\xf000Ĝ\x0001\x0002を　もらった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeぼうけんの　たすけに\xfffeなればと　おもって\xf000븁\x0000\xfffeハイリンク　から\xfffeこれを　もって　きたんだ\xf000븀\x0000\xfffeうけとってよ！\xf000븁\x0000\xfffe……\xf000Ā\x0001\x0000が\xfffeとつぜん　ひかりだした！\xf000븁\x0000
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeぼうけんの　たすけに\xfffeなればと　おもって\xf000븁\x0000\xfffeハイリンク　から\xfffeこれを　もって　きたよ\xf000븀\x0000\xfffeうけとって！\xf000븁\x0000\xfffe……\xf000Ā\x0001\x0000が\xfffeとつぜん　ひかりだした！\xf000븁\x0000
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeポケモンや　みんなの　おかげで\xfffeたびも　じゅんちょうだぜ！\xf000븁\x0000\xfffe……え？\xfffeぼくに　なにか　くれるの？\xf000븁\x0000
-ありがとう！\xfffeたすかるよ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　ハイルツリーから\xfffeもらった　\xf000Ĝ\x0001\x0002を\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000に　つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『こんにちは！\xfffeあなたも　たびのとちゅう？\xf000븁\x0000\xfffeポケモンや　みんなの　おかげで\xfffeわたしの　たびは　じゅんちょうよ！\xf000븁\x0000\xfffe……え？\xfffeわたしに　なにか　くれるの？\xf000븁\x0000
-ありがとう！\xfffeたすかるよ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　ハイルツリーから\xfffeもらった　\xf000Ĝ\x0001\x0002を\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000に　つかった！\xf000븁\x0000
-キュン！？\xfffeキューン！？\xf000븁\x0000\xfffeいきなり　はなしかけられて\xfffeビックリしてるみたい
-ギャ！？\xfffeギャオオ！？\xf000븁\x0000\xfffeいきなり　はなしかけられて\xfffeビックリしてるみたい
-……！？\xfffe……　……！？\xf000븁\x0000\xfffeいきなり　はなしかけられて\xfffeビックリしてるみたい
-\xf000Ā\x0001\x0000『あ！\xfffeこんにちは！\xf000븁\x0000\xfffeハイリンクから　あなたに\xfffeあいにきたよ！\xf000븁\x0000\xfffeあなたのために　よういしてきた\xfffeものが　あるので\xf000븀\x0000\xfffeちょっと　まっててください\xf000븁\x0000\xfffeあとで　わたしから\xfffeはなしかけますので！
-\xf000Ā\x0001\x0000『あ！\xfffeこんにちは！\xf000븁\x0000\xfffeハイリンクから　あなたに\xfffeあいにきたよ！\xf000븁\x0000\xfffeあなたのために　よういしてきた\xfffeものが　あるので\xf000븀\x0000\xfffeちょっと　まっててください\xf000븁\x0000\xfffeあとで　わたしから\xfffeはなしかけますので！
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븀\x0000\xfffeきみも　たびの　とちゅうかな？\xf000븁\x0000\xfffeはなしたいことが　あったら\xfffeきがるに　こえを　かけてくれよ！
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븀\x0000\xfffeあなたも　たびの　とちゅう？\xf000븁\x0000\xfffeはなしたいことが　あったら\xfffeきがるに　こえを　かけてね！
-キュイーン！
-ギャオーー！　ギャオーーー！
-……　……！！
-\xf000Ā\x0001\x0000『このパワーが　すこしでも\xfffeたびのやくにたてば　うれしいよ！\xf000븀\x0000\xfffeじゃあ　また！
-\xf000Ā\x0001\x0000『このパワーが　すこしでも\xfffeたびのやくにたてば　うれしいな！\xf000븀\x0000\xfffeじゃあ　また！
-ー
-ー
-ー
-……　……　……\xfffe……　……　……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『わー！\xfffeこっこれは　すごいパワーだ！\xf000븁\x0000\xfffeありがとう！\xfffeすごく　たすかるよ！\xf000븁\x0000
-……　……　……\xfffe……　……　……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『わー！\xfffeこっこれは　すごいパワーだ！\xf000븁\x0000\xfffeありがとう！\xfffeすごく　たすかるよ！\xf000븁\x0000
+Mii?\xfffeMii?!\xf000븀\x0000\xfffeOn dirait qu'il est occupé.
+Grr?\xfffeGrr?!\xf000븀\x0000\xfffeOn dirait qu'il est occupé.
+... ... ...?!\xfffe... ... ... ... ... ...?!\xf000븀\x0000\xfffeOn dirait qu'il est occupé.
+\xf000Ā\x0001\x0000: ... ...\xfffe... ... ... ... ... ... ...\xf000븀\x0000\xfffeOn dirait que cette personne est occupée.
+\xf000Ā\x0001\x0000: ... ...\xfffe... ... ... ... ... ... ...\xf000븀\x0000\xfffeOn dirait que cette personne est occupée.
+Miii!\xfffeMiii!\xf000븀\x0000\xfffeQuelle motivation!
+Grrr!\xfffeGrrrrrr!\xf000븀\x0000\xfffeQuelle motivation!
+...!\xfffe... ... ...!\xf000븀\x0000\xfffeQuelle motivation!
+\xf000Ā\x0001\x0000: Alors, ça roule?
+\xf000Ā\x0001\x0000: Hi hi! Tout va bien?
 キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 ……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
@@ -168,61 +121,48 @@
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
-\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しないか？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかおうぜ！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しない？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかいましょう！
+ー
+ー
+\xf000Ā\x0001\x0000: ... ... ...\xfffe... ... ... ... ... ... ... Oh!\xf000븁\x0000\xfffeJe... Je dormais, non?\xfffeVite, faut que j'y aille!\xf000븁\x0000\xfffeMerci de m'avoir réveillé.\xfffeTiens, prends ça pour te remercier!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ... ... ...\xfffe... ... ... ... ... ... ... Oh!\xf000븁\x0000\xfffeJe... Je dormais, c'est ça?\xfffeVite, il faut que j'y aille!\xf000븁\x0000\xfffeMerci de m'avoir réveillée.\xfffeTiens, prends ça en remerciement!\xf000븁\x0000
+Mii, mii!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a reçu une \xf000Ĝ\x0001\x0002\xfffedu Pokémon!\xf000븁\x0000
+Grrr!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a reçu une \xf000Ĝ\x0001\x0002\xfffedu Pokémon!\xf000븁\x0000
+... ... ...!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a reçu une \xf000Ĝ\x0001\x0002\xfffedu Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJ'espère que je ne t'ai pas fait peur!\xf000븀\x0000\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJe viens t'apporter ça, j'espère que ça\xfffepourra t'être utile.\xf000븁\x0000\xfffe... \xf000Ā\x0001\x0000 se met soudain à briller!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJ'espère que je ne t'ai pas fait peur!\xf000븀\x0000\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJe viens t'apporter ça, j'espère que ça\xfffepourra t'être utile.\xf000븁\x0000\xfffe... \xf000Ā\x0001\x0000 se met soudain à briller!\xf000븁\x0000
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまってて！
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまっててね！
+\xf000Ā\x0001\x0000: Salut!\xf000븁\x0000\xfffeGrâce aux Pokémon et à tous mes amis,\xfffemon voyage se passe super bien!\xf000븁\x0000\xfffe... Oh?\xfffeTu as quelque chose pour moi?\xf000븁\x0000
+Merci, c'est sympa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Bonjour!\xfffeToi aussi, tu es en voyage?\xf000븁\x0000\xfffeGrâce aux Pokémon et à tous mes amis,\xfffemon voyage se passe bien!\xf000븁\x0000\xfffe... Oh?\xfffeTu viens m'apporter quelque chose?\xf000븁\x0000
+Merci, c'est gentil!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000.\xf000븁\x0000
+Mii?\xfffeMii?!\xf000븁\x0000\xfffeIl a l'air surpris.
+Grr?\xfffeGrr?!\xf000븁\x0000\xfffeIl a l'air surpris.
+... ... ...?!\xfffe... ... ... ... ... ...?!\xf000븁\x0000\xfffeIl a l'air surpris.
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJ'ai quelque chose pour toi,\xfffeattends juste quelques secondes,\xf000븀\x0000\xfffeje viens te parler dès que je suis prêt!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJ'ai quelque chose pour toi,\xfffeattends juste quelques secondes,\xf000븀\x0000\xfffeje viens te parler dès que je suis prête!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しないか？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかおうぜ！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffe……いきなり　だけど\xfffeたいせん　しない？\xf000븁\x0000\xfffeたいりょくも　かいふくさせて\xfffeレベル　\xf000Ȃ\x0001\x0001フラット\xf000븀\x0000\xfffeてもち　２ひきで　たたかいましょう！
+\xf000Ā\x0001\x0000: Salut!\xfffeToi aussi, t'es en voyage?\xf000븁\x0000\xfffeN'hésite pas à m'aborder si tu as\xfffequelque chose à me dire!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeToi aussi, tu es en voyage?\xf000븁\x0000\xfffeN'hésite pas à m'aborder si tu as\xfffequelque chose à me dire!
+Miiiiii!
+Grrr, grrr!
+... ... ...!
+\xf000Ā\x0001\x0000: J'espère que ce pouvoir\xfffete sera utile! Allez, à bientôt!
+\xf000Ā\x0001\x0000: J'espère que ce pouvoir\xfffete servira! Allez, à bientôt!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまってて！
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeん？\xfffeてもち　２ひき　レベル　\xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000\xfffeたいせん　したいの？　ちょっとまっててね！
-ー
-ー
-ー
-よし！\xfffeじゃあ　いくぞ！
-よし！\xfffeじゃあ　いくよ！
-ー
-ー
-ー
-よし！\xfffeじゃあ　いくぞ！
-よし！\xfffeじゃあ　いくよ！
-ー
-ー
-ー
-ふー！\xfffeいいたたかい　だったぜ！\xf000븁\x0000\xfffeいきなり　だったけど\xfffeつきあってくれて　ありがとうな！\xf000븀\x0000\xfffeじゃあ　またな！
-ふー！\xfffeいいたたかい　だった！\xf000븁\x0000\xfffeいきなり　だったけど\xfffeつきあってくれて　ありがとうね！\xf000븀\x0000\xfffeじゃあ　また！
-ー
-ー
-ー
-ふー！\xfffeいいたたかい　だったぜ！\xf000븁\x0000\xfffeきみと　たたかえて\xfffeおもしろかったぜ！\xf000븀\x0000\xfffeじゃあ　またな！
-ふー！\xfffeいいたたかい　だった！\xf000븁\x0000\xfffeきみと　たたかえて\xfffeおもしろかったよ！\xf000븀\x0000\xfffeじゃあ　また！
-ー
-ー
-ー
-そっか！　わかったぜ！\xfffeまたこんど　たたかおうな！
-そっか！　わかったよ！\xfffeまたこんど　たたかおうね！
-ー
-ー
-ー
-ごめん！　いまちょっと\xfffeじゅんびが　できてないんだ……\xf000븁\x0000\xfffeまたこんど　じゅんびが　できたら\xfffeたたかおうぜ！
-ごめん！　いまちょっと\xfffeじゅんびが　できてないの……\xf000븁\x0000\xfffeまたこんど　じゅんびが　できたら\xfffeたたかおうね！
-ー
-ー
-ー
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel super pouvoir!\xfffeÇa va bien m'aider, merci beaucoup!\xf000븁\x0000
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel chouette pouvoir!\xfffeÇa va m'être très utile, merci bien!\xf000븁\x0000
+キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
+ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
+……！\xfffe……　……！\xf000븀\x0000\xfffeあいては　やるきいっぱいだ！
 \xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
 \xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
 ー
@@ -233,43 +173,53 @@
 ー
 ー
 ー
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
 ー
 ー
 ー
-ー
-ー
-\xf000Ā\x0001\x0000『いけっ　そこだ！\xfffeがんばれ！　……\xf000븁\x0000\xfffeお！　ありがたい！\xfffeたすけてくれるのか！？\xf000븁\x0000\xfffe「せんとう　ＨＰかいふくパワー」を\xfffe\xf000Ā\x0001\x0000の　ポケモンに　つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『いけっ　そこよ！\xfffeがんばって！　……\xf000븁\x0000\xfffeわ！　ありがとう！\xfffeたすけてくれるの！？\xf000븁\x0000\xfffe「せんとう　ＨＰかいふくパワー」を\xfffe\xf000Ā\x0001\x0000の　ポケモンに　つかった！\xf000븁\x0000
-ー
+\xf000Ā\x0001\x0000: Salut!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
+\xf000Ā\x0001\x0000: Bonjour!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
 ー
 ー
 ー
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
 ー
 ー
 ー
-ー
-……　……　……\xfffe……　……　……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000の　ポケモンは\xfffeたいりょくが　かいふくした！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『おお！\xfffeありがとうな　たすかったぜ！
-……　……　……\xfffe……　……　……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000の　ポケモンは\xfffeたいりょくが　かいふくした！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『やった！\xfffeありがとうね　たすかったよ！
-ー
-ー
-ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeもし　あぶなくなったら\xfffeすぐ　たすけにいきます！\xf000븁\x0000\xfffe……おっと！\xfffeだれかが　わたしを　よんでいる！\xf000븀\x0000\xfffeそれじゃあ　また！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeもし　あぶなくなったら\xfffeすぐに　たすけにいきますね！\xf000븁\x0000\xfffe……やや！\xfffeだれかが　わたしを　よんでるわ！\xf000븀\x0000\xfffeそれじゃあ　また！
+\xf000Ā\x0001\x0000: Salut!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
+\xf000Ā\x0001\x0000: Bonjour!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『やあ！\xfffeこんにちは！\xf000븁\x0000\xfffeちかくに　いてくれると\xfffeなんだか　たのもしいぜ！\xf000븁\x0000\xfffe……あれ？\xfffeどこか　いっちゃうの？\xf000븁\x0000\xfffeなんだか　たいへんそうだね！\xfffeまた　どこかで！
-\xf000Ā\x0001\x0000『えへへ！\xfffeこんにちは！\xf000븁\x0000\xfffeちかくに　いてくれると\xfffeなんだが　ほっとするね！\xf000븁\x0000\xfffe……あれ？\xfffeもう　どこか　いっちゃうの？\xf000븁\x0000\xfffeなんだか　たいへんそうですね\xfffeまた　あいましょう！
+OK!\xfffeC'est parti!
+Je suis prête!\xfffeC'est parti!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeもし　あぶなくなったら\xfffeすぐに　たすけにいきます！\xf000븁\x0000\xfffeぜひ　あんしんして　ポケモンと\xfffeたたかって　ください！
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeもし　あぶなくなったら\xfffeすぐに　たすけにいきますね！\xf000븁\x0000\xfffeぜひ　あんしんして　ポケモンと\xfffeたたかって　くださいませ！
+OK!\xfffeC'est parti!
+Je suis prête!\xfffeC'est parti!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『あ！\xfffeこんにちは！\xf000븁\x0000\xfffeちかくに　いてくれると\xfffeなんだか　たのもしいぜ！
-\xf000Ā\x0001\x0000『えへへ！\xfffeこんにちは！\xf000븁\x0000\xfffeちかくに　いてくれると\xfffeなんだが　ほっとするね！
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à la prochaine!
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à une prochaine fois!
+ー
+ー
+ー
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à la prochaine!
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à une prochaine fois!
+ー
+ー
+ー
+Ah bon?\xfffeOK, une prochaine fois alors!
+Ah bon?\xfffeD'accord, une prochaine fois alors!
+ー
+ー
+ー
+Désolé, je suis pas prêt...\xfffeUne autre fois, d'accord?
+Désolée, je ne suis pas prête...\xfffeUne autre fois, d'accord?
 ー
 ー
 ー
@@ -280,88 +230,138 @@
 ー
 \xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
 \xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
-キュン！\xfffeキューン！\xf000븀\x0000\xfffeなにかを　さがしてるみたい
-ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeなにかを　さがしてるみたい
-……！\xfffe……　……！\xf000븀\x0000\xfffeなにかを　さがしてるみたい
-\xf000Ā\x0001\x0000『うわあ！\xfffeみつかっちゃった！\xf000븀\x0000\xfffeに　にげろ！
-\xf000Ā\x0001\x0000『うわあ！\xfffeみつかっちゃった！\xf000븀\x0000\xfffeに　にげろ！
-キュン！\xfffeキューン！\xf000븀\x0000\xfffeポケモンを　つかまえた！\xf000븁\x0000\xfffe……びっくりしたのか\xfffeにげだして　しまった
-ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいてを　つかまえた！\xf000븁\x0000\xfffe……びっくりしたのか\xfffeにげだして　しまった
-……！\xfffe……　……！\xf000븀\x0000\xfffeあいてを　つかまえた！\xf000븁\x0000\xfffe……びっくりしたのか\xfffeにげだして　しまった
-\xf000Ā\x0001\x0000『ん？\xfffeこんなところに　ポケモンが！\xf000븀\x0000\xfffeめずらしいなぁ！\xf000븀\x0000\xfffeなんか　さがしてるの？
-\xf000Ā\x0001\x0000『わ？\xfffeこんなところに　ポケモン！\xf000븀\x0000\xfffeめずらしいなぁ！\xf000븀\x0000\xfffeなんか　さがしてるのかな？
-キュン！\xfffeキューン！\xf000븀\x0000\xfffeポケモンを　つかまえた！\xf000븁\x0000\xfffe……びっくりしたのか\xfffeにげだして　しまった
-ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeポケモンを　つかまえた！\xf000븁\x0000\xfffe……びっくりしたのか\xfffeにげだして　しまった
-……！\xfffe……　……！\xf000븀\x0000\xfffeポケモンを　つかまえた！\xf000븁\x0000\xfffe……びっくりしたのか\xfffeにげだして　しまった
-\xf000Ā\x0001\x0000『うわあ！\xfffeつかまっちゃった！\xf000븀\x0000\xfffeに　にげろ！
-\xf000Ā\x0001\x0000『うわあ！\xfffeつかまっちゃった！\xf000븀\x0000\xfffeに　にげろ！
-キュン！\xfffeキューン！\xf000븀\x0000\xfffeあいてに　つかまってしまった！
-ギャオ！\xfffeギャオギャオ！\xf000븀\x0000\xfffeあいてに　つかまってしまった！
-……！\xfffe……　……！\xf000븀\x0000\xfffeあいてに　つかまってしまった！
-\xf000Ā\x0001\x0000『あはは！\xfffeつかまえちゃったぜ！\xf000븀\x0000\xfffeあ！　にげないでよ！
-\xf000Ā\x0001\x0000『えへへ！\xfffeつかまえちゃった！\xf000븀\x0000\xfffeあ！　にげないで！
 ー
 ー
 ー
 ー
 ー
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
-もくてきちに　たどりついた！\xf000븁\x0000\xfffe……　……　……\xfffe……ガサガサッ！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeもってきた　\xf000ĉ\x0001\x0001を\xf000븀\x0000\xfffeみつけたひとが　びっくりするように\xf000븀\x0000\xfffeメモと　いっしょに　かくした！
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeさて！　とつぜんですが\xfffeたびのとちゅうの　ブレイクタイム！\xf000븁\x0000\xfffe……ただいま　ですね\xfffeフレンドリィショップ　キャンペーンで\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001を！\xf000븀\x0000\xfffeなんと！\xf000븁\x0000
-とくべつかかく　\xf000Ȅ\x0001\x0002円で！\xfffeはんばい　しております！\xf000븁\x0000\xfffeこんな　チャンス\xfffeめったに　ありません！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0001を\xfffe\xf000Ȅ\x0001\x0002円で　いかがでしょうか？
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで　びっくりした？\xf000븀\x0000\xfffeハイリンクから　あいにきたよ\xf000븁\x0000\xfffeさて！　とつぜんですが\xfffeたびのとちゅうの　ブレイクタイム！\xf000븁\x0000\xfffeいま　フレンドリィショップ\xfffeキャンペーンを　やってて　ですね\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001を！\xf000븀\x0000\xfffeなんとー！\xf000븁\x0000
-とくべつかかく　\xf000Ȅ\x0001\x0002円で！\xfffeはんばい　しております！\xf000븁\x0000\xfffeこんな　チャンス\xfffeめったに　ありませんよ！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0001を\xfffe\xf000Ȅ\x0001\x0002円で　いかがでしょうか？
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux y arriver!\xf000븁\x0000\xfffe... Oh, tu veux me donner un coup de main?\xfffeC'est sympa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 bénéficie d'une Aura\xfffeRécup' PV pour son Pokémon.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux le faire!\xf000븁\x0000\xfffe... Oh, tu veux m'aider?\xfffeMerci!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 bénéficie d'une Aura\xfffeRécup' PV pour son Pokémon.\xf000븁\x0000
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xf000븁\x0000\xfffeえ！？　なに？\xfffe\xf000ĉ\x0001\x0001を　\xf000Ȅ\x0001\x0002円で\xf000븀\x0000\xfffeうってくれるの？\xf000븁\x0000\xfffeどうしようかな？\xfffeうーん……
-\xf000Ā\x0001\x0000『こんにちは！\xf000븁\x0000\xfffeえ！？　なに？\xfffe\xf000ĉ\x0001\x0001を　\xf000Ȅ\x0001\x0002円で\xf000븀\x0000\xfffeうってくれるの？\xf000븁\x0000\xfffeどうしよう？\xfffeうーん……
 ー
 ー
 ー
-ありがとうございます！　では\xfffe\xf000ĉ\x0001\x0001を　おわたしします！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003は　\xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
-ありがとうございます！　では\xfffe\xf000ĉ\x0001\x0001を　おわたしします！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003は　\xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
+ー
+ー
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 voit son Pokémon\xffferegagner son énergie.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oh, merci!\xfffeC'est super sympa!
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 voit son Pokémon\xffferegagner son énergie.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oh, merci!\xfffeC'est vraiment gentil!
 ー
 ー
 ー
-きめた！\xfffe\xf000ĉ\x0001\x0001を　１つください！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『おおー！\xfffeなんだか　とくしちゃったぜ！\xf000븀\x0000\xfffeありがとうな！
-よーし！\xfffe\xf000ĉ\x0001\x0001を　１つください！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『やったー！\xfffeなんだか　とくしちゃった　きぶん！\xf000븀\x0000\xfffeありがとうね！
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai\xf000븀\x0000\xfffete donner un coup de main!\xf000븁\x0000\xfffe... Oh!\xfffeQuelqu'un m'appelle!\xf000븀\x0000\xfffeÀ la prochaine!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai t'aider!\xf000븁\x0000\xfffe... Oh!\xfffeQuelqu'un m'appelle...\xf000븀\x0000\xfffeAlors à bientôt!
 ー
 ー
 ー
-そうですか！\xfffeわかりました！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
-そうですか！\xfffeわかりました！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
+\xf000Ā\x0001\x0000: Salut!\xfffeC'est bien de savoir qu'on peut\xf000븀\x0000\xfffecompter sur quelqu'un!\xf000븁\x0000\xfffe... Hein?\xfffeTu pars déjà?\xf000븁\x0000\xfffeTu m'as l'air d'avoir beaucoup à faire!\xfffeAlors à bientôt!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeC'est rassurant de savoir qu'on peut\xf000븀\x0000\xfffecompter sur quelqu'un!\xf000븁\x0000\xfffe... Quoi?\xfffeTu pars déjà?\xf000븁\x0000\xfffeTu m'as l'air d'avoir beaucoup à faire!\xfffeAlors à bientôt!
 ー
 ー
 ー
-うーん……\xfffeやっぱり　かうのは　やめようかな？\xf000븁\x0000\xfffeごめんね　またこんど\xfffeいいものがあったら　おしえてくれよ！
-えーと……\xfffeやっぱり　かうのは　やめとこうかな？\xf000븁\x0000\xfffeごめんなさい　またこんど\xfffeいいものがあったら　おしえてね！
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai\xf000븀\x0000\xfffete donner un coup de main!\xf000븁\x0000\xfffeTu peux te lancer sans crainte\xfffedans les combats de Pokémon!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai t'aider!\xf000븁\x0000\xfffeTu peux combattre sans crainte\xfffeavec tes Pokémon!
 ー
 ー
 ー
-……あれ？\xfffeおかねが　たりないみたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
-……あれれ？\xfffeおかねが　たりないみたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
+\xf000Ā\x0001\x0000: Salut!\xf000븁\x0000\xfffeC'est bien de savoir qu'on peut\xfffecompter sur quelqu'un!
+\xf000Ā\x0001\x0000: Bonjour!\xf000븁\x0000\xfffeC'est rassurant de savoir qu'on peut\xfffecompter sur quelqu'un!
 ー
 ー
 ー
-あ！　ごめん……\xfffeいま　かおうと　おもったんだけど\xf000븀\x0000\xfffeおかねが　たりなかった……\xf000븁\x0000\xfffeこんど　かうから\xfffeまた　きてくれよ！
-あ！　ごめんなさい……\xfffeいま　かおうと　おもったんだけど\xf000븀\x0000\xfffeおかねが　たりなかったよ……\xf000븁\x0000\xfffeまたこんど　かうので\xfffeぜったいに　きてください！
+\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
+\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
 ー
 ー
 ー
-……あれ？\xfffeバッグが　いっぱい　みたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
-……あれれ？\xfffeおかねが　たりないみたいですね\xf000븀\x0000\xfffeまた　こんど　ということで！\xf000븁\x0000\xfffeそれではまた　たびのどこかで\xfffeおあいしましょう！
+\xf000Ā\x0001\x0000『やあ！\xfffeがんばってるかい？
+\xf000Ā\x0001\x0000『えへへ！\xfffeがんばってる？
+Mii!\xfffeMiii!\xf000븀\x0000\xfffeOn dirait qu'il cherche quelque chose.
+Grr!\xfffeGrrr!\xf000븀\x0000\xfffeOn dirait qu'il cherche quelque chose.
+...!\xfffe... ... ...!\xf000븀\x0000\xfffeOn dirait qu'il cherche quelque chose.
+\xf000Ā\x0001\x0000: Oups! Je suis repéré!\xfffeVite, il est temps de s'enfuir!
+\xf000Ā\x0001\x0000: Oups! Je suis repérée!\xfffeVite, il est temps de s'enfuir!
+Mii!\xfffeMiii!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+Grr!\xfffeGrrr!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+... ... ...!\xfffe... ... ... ... ... ...!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+\xf000Ā\x0001\x0000: Qu'est-ce que ce Pokémon\xfffefait là? C'est bizarre...\xf000븀\x0000\xfffeIl cherche quelque chose?
+\xf000Ā\x0001\x0000: Qu'est-ce que ce Pokémon\xfffefait là? C'est étrange...\xf000븀\x0000\xfffeIl cherche quelque chose?
+Mii!\xfffeMiii!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+Grr!\xfffeGrrr!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+...!\xfffe... ... ...!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+\xf000Ā\x0001\x0000: Oups! Je suis repéré!\xfffeVite, il est temps de s'enfuir!
+\xf000Ā\x0001\x0000: Oups! Je suis repérée!\xfffeVite, il est temps de s'enfuir!
+Mii!\xfffeMiii!\xf000븀\x0000\xfffeVous vous êtes fait attraper!
+Grr!\xfffeGrrr!\xf000븀\x0000\xfffeVous vous êtes fait attraper!
+... ... ...!\xfffe... ... ... ... ... ...!\xf000븀\x0000\xfffeVous vous êtes fait attraper!
+\xf000Ā\x0001\x0000: Ha ha ha,\xfffetu t'es fait avoir!\xf000븀\x0000\xfffeEh! Ne t'enfuis pas!
+\xf000Ā\x0001\x0000: Hi hi hi,\xfffetu t'es fait avoir!\xf000븀\x0000\xfffeEh! Ne t'enfuis pas!
 ー
 ー
 ー
-あ！　ごめん……\xfffeいま　かおうと　おもったんだけど\xf000븀\x0000\xfffeもう　バッグが　いっぱいだった……\xf000븁\x0000\xfffeまたこんど　べつのものを\xfffeうりにきてくれよ！
-あ！　ごめんなさい……\xfffeいま　かおうと　おもったんだけど\xf000븀\x0000\xfffeもう　バッグが　いっぱいだったよ……\xf000븁\x0000\xfffeもっと　いいものが　あったら\xfffeこんどこそ　かいたいです！
+ー
+ー
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+ー
+ー
+ー
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븀\x0000\xfffeJe viens du Heylink.\xf000븁\x0000\xfffeBon, il est temps de faire une petite pause\xfffedans ton voyage, tu ne crois pas?\xf000븁\x0000\xfffe... Figure-toi qu'en ce moment, il y a une\xfffepromo inouïe dans les Boutiques Pokémon!\xf000븁\x0000\xfffeJe te propose l'objet \xf000ĉ\x0001\x0001\xfffepour la somme ridicule de...\xf000븁\x0000
+... \xf000Ȅ\x0001\x0002 $! Tarif spécial!\xfffeNe laisse pas passer une chance pareille!\xf000븁\x0000\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $! Ça te dit?
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븀\x0000\xfffeJe viens du Heylink.\xf000븁\x0000\xfffeBon, il est temps de faire une petite pause\xfffedans ton voyage, tu ne crois pas?\xf000븁\x0000\xfffe... Figure-toi qu'en ce moment, il y a une\xfffepromo inouïe dans les Boutiques Pokémon!\xf000븁\x0000\xfffeJe te propose l'objet \xf000ĉ\x0001\x0001\xfffepour la somme ridicule de...\xf000븁\x0000
+... \xf000Ȅ\x0001\x0002 $! Tarif spécial!\xfffeNe laisse pas passer une chance pareille!\xf000븁\x0000\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $! Ça te dit?
+ー
+ー
+ー
+\xf000Ā\x0001\x0000: Salut!\xf000븁\x0000\xfffeHein? Quoi?!\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $?\xf000븁\x0000\xfffeMmh... Laisse-moi réfléchir...\xfffe
+\xf000Ā\x0001\x0000: Bonjour!\xf000븁\x0000\xfffeOh? C'est vrai?!\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $?\xf000븁\x0000\xfffeMmh... Laisse-moi réfléchir un peu...
+ー
+ー
+ー
+Merci! Tu ne le regretteras pas!\xfffeVoilà l'objet: 1 magnifique \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeAlors, à bientôt!
+Merci! Tu ne le regretteras pas!\xfffeVoici l'objet: 1 magnifique \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeAlors, à bientôt!
+ー
+ー
+ー
+C'est décidé!\xfffeDonne-moi 1 \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh, ça c'est une affaire!\xfffeMerci bien!
+C'est décidé!\xfffeDonne-moi 1 \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Eh bien, quelle bonne affaire!\xfffeMerci beaucoup!
+ー
+ー
+ー
+Ah bon?\xfffeD'accord... À une prochaine fois, alors!
+Ah bon?\xfffeD'accord... À une prochaine fois, alors!
+ー
+ー
+ー
+Mmh...\xfffeNon, ça ne m'intéresse pas, finalement.\xf000븁\x0000\xfffeDésolé!\xfffe... Peut-être une prochaine fois!
+Mmh...\xfffeNon, ça ne m'intéresse pas, finalement.\xf000븁\x0000\xfffeDésolée!\xfffe... Peut-être une prochaine fois!
+ー
+ー
+ー
+... Oups!\xfffeOn dirait que t'as pas assez d'argent!\xf000븁\x0000\xfffeTant pis, ce sera pour une prochaine fois.\xfffeAllez, à bientôt!
+... Oups!\xfffeOn dirait que tu n'as pas assez d'argent!\xf000븁\x0000\xfffeTant pis, ce sera pour une prochaine fois.\xfffeAllez, à bientôt!
+ー
+ー
+ー
+Ah... Désolé!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais j'ai pas assez de sous!\xf000븁\x0000\xfffeJe te l'achète la prochaine fois, promis!\xfffeÀ bientôt!
+Ah... Désolée!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais je suis à court d'argent!\xf000븁\x0000\xfffeJe te l'achète la prochaine fois, promis!\xfffeÀ très bientôt!
+ー
+ー
+ー
+Oups!\xfffeOn dirait que ton Sac est plein!\xf000븁\x0000\xfffeOn fera affaire une prochaine fois.\xfffeÀ bientôt!
+Oups!\xfffeOn dirait que ton Sac est plein!\xf000븁\x0000\xfffeOn fera affaire une prochaine fois.\xfffeÀ bientôt!
+ー
+ー
+ー
+Ah... Désolé!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais mon Sac est plein!\xf000븁\x0000\xfffeJe t'achète quelque chose la prochaine\xfffefois, promis! À bientôt!
+Ah... Désolée!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais mon Sac est plein!\xf000븁\x0000\xfffeJe t'achète quelque chose la prochaine\xfffefois, promis! À bientôt!
 ー
 ー
 ー
