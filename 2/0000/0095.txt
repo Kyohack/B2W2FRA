@@ -1,11 +1,11 @@
-グループにはいる
-リーダーになる
-やめる
-はじめる
-もどる
-１：\xf000Ā\x0001\x0000
-２：\xf000Ā\x0001\x0000
-３：\xf000Ā\x0001\x0000
-４：\xf000Ā\x0001\x0000
-リーダーになるか　グループにはいるか\xfffeえらんでください
-メンバーが　そろったら\xfffeはじめるを　せんたく　してください
+JOINDRE
+DEVENIR LEADER
+QUITTER
+COMMENCER
+RETOUR
+1:\xf000Ā\x0001\x0000
+2:\xf000Ā\x0001\x0000
+3:\xf000Ā\x0001\x0000
+4:\xf000Ā\x0001\x0000
+Veuiller décider qui est le\xfffeleader. Le reste des joueurs doivent\xfffeselectionner "JOINDRE".
+Quand tous les membres sont près,\xfffeappuiez sur "COMMENCER" pour commencer.
