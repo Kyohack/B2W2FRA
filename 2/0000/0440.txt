@@ -1,6 +1,6 @@
 Oui
 Non
-oublier
-Gardez déplacement
+Oublier
+Gardez les anciennes capacités
 Renoncer à \xf000ć\x0001\x0000!
 Ne pas renoncer à \xf000ć\x0001\x0000!
