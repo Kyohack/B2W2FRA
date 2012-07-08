@@ -1,9 +1,9 @@
-いま　おぼえている　ことばを\xfffeわすれますが　よいですか？
-Ａボタンを　おしてから\xfffeマイクに　しゃべって　ください！\xf000븁\x0000
-\xf000Ă\x0001\x0000が　ことばを　おぼえた！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　ことばを\xfffeおぼえられなかった　みたいだ！\xf000븁\x0000
-やりなおしますか？
-まわりの　ようすが　きになって\xfffeしゅうちゅうできない　みたいだ…
-マイクの　じゅんびちゅう……
-はい
-いいえ
+Il oubliera l'expression qu'il connaît\xfffeactuellement. D'accord?
+Appuyez sur le bouton A,\xfffepuis parlez dans le micro.\xf000븁\x0000
+\xf000Ă\x0001\x0000 a appris une nouvelle\xfffeexpression!\xf000븁\x0000
+\xf000Ă\x0001\x0000 n'a pas réussi à\xfffeapprendre une nouvelle expression.\xf000븁\x0000
+Avez-vous réessayer?
+It seems it can not focus around the state to a tree…
+Réglage du micro en cours...
+OUI
+NON
