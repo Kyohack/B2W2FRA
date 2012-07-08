@@ -1,3 +1,3 @@
-マイクテスト
-ほんたいの　マイクに　むかって\xfffeこえを　だしてください\xfffeただしく　うごいていれば\xfffeポケモンが　うたい　はじめます
-\xf000봂\x0000もどる
+TEST MICRO
+Penchez-vous vers le microphone\xfffeet dites quelque chose.\xfffeSi tout fonctionne comme il faut,\xfffele Pokémon se mettra à chanter.
+\xf000봂\x0000RETOUR
