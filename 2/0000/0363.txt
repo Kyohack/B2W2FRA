@@ -1,11 +1,11 @@
-もじモードを　えらんでください
-おとこのこ？　おんなのこ？
-つうしんきのう　を　オンにしますか？
-ちゅうい！
-このゲームを　さいだいげんに　たのしむ\xfffeためには　むせんつうしんきのうを\xfffeオンに　してください\xfffeひこうきや　びょういんなど\xfffeむせんつうしんきのうを　きんしに　している\xfffeばしょでは　オフに　してください\xfffeゲームちゅうの　せっていがめんでも\xfffeへんこう　することが　できます　
-ひらがなモード
-漢字モード
-おとこのこ
-おんなのこ
-はい
-いいえ
+Veuillez choisir un langage.
+Etes-vous un garçon ou une fille?
+Activer le C-Gear?
+Attention!
+Vous profitez du jeu au maximum\xfffequand les communications sans-fil sont\xfffeactivées.\xfffeDans les lieux où le sans-fil est interdit\xfffecomme les avions ou les hôpitaux,\xfffeveuillez désactiver votre wireless.\xfffeVous pouvez aussi changer ce paramètre\xfffeen utilisant le C-Gear pendant le jeu.
+Version Française
+Version Japonaise
+Garçon
+Fille
+OUI
+NON
