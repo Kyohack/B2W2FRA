@@ -1,1159 +1,1159 @@
-\xf000Ă\x0001\x0000 est\xfffeK.O. !
-\xf000Ă\x0001\x0000 sauvage est\xfffeK.O. !
-\xf000Ă\x0001\x0000 ennemi est\xfffeK.O. !
-\xf000Ă\x0001\x0000 n'est plus\xfffeK.O. !
-\xf000Ă\x0001\x0000 sauvagen'est\xfffeplus K.O. !
-\xf000Ă\x0001\x0000 ennemi n'est\xfffeplus K.O. !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 sauvage !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 ennemi !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 et \xfffe\xf000Ă\x0001\x0001 !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 et \xfffe\xf000Ă\x0001\x0001 sauvages !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 et \xfffe\xf000Ă\x0001\x0001 ennemis !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 ,　\xfffe\xf000Ă\x0001\x0001 et \xfffe\xf000Ă\x0001\x0002 !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 ,　\xfffe\xf000Ă\x0001\x0001 et \xfffe\xf000Ă\x0001\x0002 sauvages !
-C'est super efficace\xfffesur \xf000Ă\x0001\x0000 ,　\xfffe\xf000Ă\x0001\x0001 et \xfffe\xf000Ă\x0001\x0002 ennemis !
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 sauvage...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 ennemi...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 et \xfffe\xf000Ă\x0001\x0001...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 et \xfffe\xf000Ă\x0001\x0001 sauvages...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 et \xfffe\xf000Ă\x0001\x0001 ennemis...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 ,　\xfffe\xf000Ă\x0001\x0001 et \xfffe\xf000Ă\x0001\x0002...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 ,　\xfffe\xf000Ă\x0001\x0001 et \xfffe\xf000Ă\x0001\x0002 sauvages...
-Ce n'est pas très efficace\xfffesur \xf000Ă\x0001\x0000 ,　\xfffe\xf000Ă\x0001\x0001 et \xfffe\xf000Ă\x0001\x0002 ennemis...
-Ca n'a aucun effet sur\xfffe\xf000Ă\x0001\x0000...
-Ca n'a aucun effet sur\xfffe\xf000Ă\x0001\x0000 sauvage...
-Ca n'a aucun effet sur\xfffe\xf000Ă\x0001\x0000 ennemi...
-L'Attaque de \xf000Ă\x0001\x0000\xfffe augmente !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage augmente !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi augmente !
-La Défense de \xf000Ă\x0001\x0000\xfffe augmente !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage augmente !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi augmente !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 augmente !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffeaugmente !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffeaugmente !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 augmente !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffeaugmente !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffeaugmente !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe augmente !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage augmente !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi augmente !
-La Précision de \xf000Ă\x0001\x0000\xfffe augmente !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage augmente !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi augmente !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe augmente !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage augmente !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi augmente !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe augmente un peu !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage augmente un peu !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi augmente un peu !
-La Défense de \xf000Ă\x0001\x0000\xfffe augmente un peu !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage augmente un peu !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi augmente un peu !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 augmente \xfffeun peu !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffeaugmente un peu !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffeaugmente un peu !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 augmente \xfffeun peu !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffeaugmente un peu !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffeaugmente un peu !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe augmente un peu !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage augmente un peu !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi augmente un peu !
-La Précision de \xf000Ă\x0001\x0000\xfffe augmente un peu !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage augmente un peu !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi augmente un peu !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe augmente un peu !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage augmente un peu !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi augmente un peu !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe augmente beaucoup !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage augmente beaucoup !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi augmente beaucoup !
-La Défense de \xf000Ă\x0001\x0000\xfffe augmente beaucoup !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage augmente beaucoup !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi augmente beaucoup !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 augmente \xfffebeaucoup !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 augmente \xfffebeaucoup !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe augmente beaucoup !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage augmente beaucoup !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi augmente beaucoup !
-La Précision de \xf000Ă\x0001\x0000\xfffe augmente beaucoup !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage augmente beaucoup !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi augmente beaucoup !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe augmente beaucoup !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage augmente beaucoup !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi augmente beaucoup !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe baisse !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage baisse !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi baisse !
-La Défense de \xf000Ă\x0001\x0000\xfffe baisse !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage baisse !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi baisse !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 baisse !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffebaisse !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffebaisse !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 baisse !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffebaisse !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffebaisse !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe baisse !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage baisse !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi baisse !
-La Précision de \xf000Ă\x0001\x0000\xfffe baisse !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage baisse !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi baisse !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe baisse !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage baisse !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi baisse !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe baisse un peu !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage baisse un peu !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi baisse un peu !
-La Défense de \xf000Ă\x0001\x0000\xfffe baisse un peu !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage baisse un peu !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi baisse un peu !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 baisse \xfffeun peu !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffebaisse un peu !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffebaisse un peu !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 baisse \xfffeun peu !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffebaisse un peu !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffebaisse un peu !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe baisse un peu !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage baisse un peu !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi baisse un peu !
-La Précision de \xf000Ă\x0001\x0000\xfffe baisse un peu !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage baisse un peu !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi baisse un peu !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe baisse un peu !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage baisse un peu !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi baisse un peu !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe baisse beaucoup !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage baisse beaucoup !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi baisse beaucoup !
-La Défense de \xf000Ă\x0001\x0000\xfffe baisse beaucoup !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage baisse beaucoup !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi baisse beaucoup !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 baisse \xfffebeaucoup !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 baisse \xfffebeaucoup !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe baisse beaucoup !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage baisse beaucoup !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi baisse beaucoup !
-La Précision de \xf000Ă\x0001\x0000\xfffe baisse beaucoup !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage baisse beaucoup !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi baisse beaucoup !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe baisse beaucoup !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage baisse beaucoup !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi baisse beaucoup !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe n'ira pas plus haut !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus haut !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus haut !
-La Défense de \xf000Ă\x0001\x0000\xfffe n'ira pas plus haut !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus haut !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus haut !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000\xfffen'ira pas plus haut !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffen'ira pas plus haut !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffen'ira pas plus haut !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000\xfffen'ira pas plus haut !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffen'ira pas plus haut !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffen'ira pas plus haut !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe n'ira pas plus haut !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus haut !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus haut !
-La Précision de \xf000Ă\x0001\x0000\xfffe n'ira pas plus haut !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus haut !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus haut !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe n'ira pas plus haut !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus haut !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus haut !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe n'ira pas plus bas !
-L'Attaque de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus bas !
-L'attaque de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus bas !
-La Défense de \xf000Ă\x0001\x0000\xfffe n'ira pas plus bas !
-La Défense de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus bas !
-La Défense de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus bas !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000\xfffen'ira pas plus bas !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffen'ira pas plus bas !
-L'Attaque Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffen'ira pas plus bas !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000\xfffen'ira pas plus bas !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 sauvage\xfffen'ira pas plus bas !
-La Défense Spéciale de \xfffe\xf000Ă\x0001\x0000 ennemi\xfffen'ira pas plus bas !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe n'ira pas plus bas !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus bas !
-La Vitesse de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus bas !
-La Précision de \xf000Ă\x0001\x0000\xfffe n'ira pas plus bas !
-La Précision de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus bas !
-La Précision de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus bas !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe n'ira pas plus bas !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe sauvage n'ira pas plus bas !
-L'Esquive de \xf000Ă\x0001\x0000\xfffe ennemi n'ira pas plus bas !
-\xf000Ă\x0001\x0000の\xfffeのうりょくへんかが　もとにもどった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeのうりょくへんかが　もとにもどった！
-あいての　\xf000Ă\x0001\x0000の\xfffeのうりょくへんかが　もとにもどった！
-\xf000Ă\x0001\x0000の\xfffeのうりょくは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeのうりょくは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeのうりょくは　さがらない！
-\xf000Ă\x0001\x0000の\xfffeこうげきは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeこうげきは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeこうげきは　さがらない！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeぼうぎょは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeぼうぎょは　さがらない！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつは　さがらない！
-やせいの　\xf000Ă\x0001\x0000の\xfffeめいちゅうりつは　さがらない！
-あいての　\xf000Ă\x0001\x0000の\xfffeめいちゅうりつは　さがらない！
-\xf000Ă\x0001\x0000には\xfffeこうかが　ない　ようだ…
-やせいの　\xf000Ă\x0001\x0000には\xfffeこうかが　ない　ようだ…
-あいての　\xf000Ă\x0001\x0000には\xfffeこうかが　ない　ようだ…
-\xf000Ă\x0001\x0000には\xfffeあたらなかった！
-やせいの　\xf000Ă\x0001\x0000には\xfffeあたらなかった！
-あいての　\xf000Ă\x0001\x0000には\xfffeあたらなかった！
-\xf000Ă\x0001\x0000には\xfffeぜんぜん　きいてない！
-やせいの　\xf000Ă\x0001\x0000には\xfffeぜんぜん　きいてない！
-あいての　\xf000Ă\x0001\x0000には\xfffeぜんぜん　きいてない！
-\xf000Ă\x0001\x0000への　ダメージを\xfffe\xf000ĉ\x0001\x0001が　よわめた！
-やせいの　\xf000Ă\x0001\x0000への　ダメージを\xfffe\xf000ĉ\x0001\x0001が　よわめた！
-あいての　\xf000Ă\x0001\x0000への　ダメージを\xfffe\xf000ĉ\x0001\x0001が　よわめた！
-\xf000Ă\x0001\x0000の\xfffeすがたが　へんかした！
-やせいの　\xf000Ă\x0001\x0000の\xfffeすがたが　へんかした！
-あいての　\xf000Ă\x0001\x0000の\xfffeすがたが　へんかした！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　おとした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　おとした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　おとした！
-\xf000Ă\x0001\x0000の\xfffeステータスが　もとに　もどった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeステータスが　もとに　もどった！
-あいての　\xf000Ă\x0001\x0000の\xfffeステータスが　もとに　もどった！
-\xf000Ă\x0001\x0000は\xfffeまんなかに　いどうした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeまんなかに　いどうした！
-あいての　\xf000Ă\x0001\x0000は\xfffeまんなかに　いどうした！
-\xf000Ă\x0001\x0000は\xfffeどくを　あびた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeどくを　あびた！
-あいての　\xf000Ă\x0001\x0000は\xfffeどくを　あびた！
-\xf000Ă\x0001\x0000は\xfffeもうどくを　あびた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeもうどくを　あびた！
-あいての　\xf000Ă\x0001\x0000は\xfffeもうどくを　あびた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeもうどくを　あびた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeもうどくを　あびた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeもうどくを　あびた！
-\xf000Ă\x0001\x0000は\xfffeどくの　ダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeどくの　ダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeどくの　ダメージを　うけた！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれいさっぱり　なくなった！
-やせいの　\xf000Ă\x0001\x0000の　どくは\xfffeきれいさっぱり　なくなった！
-あいての　\xf000Ă\x0001\x0000の　どくは\xfffeきれいさっぱり　なくなった！
-\xf000Ă\x0001\x0000は　すでに\xfffeどくを　あびている
-やせいの　\xf000Ă\x0001\x0000は　すでに\xfffeどくを　あびている
-あいての　\xf000Ă\x0001\x0000は　すでに\xfffeどくを　あびている
-\xf000Ă\x0001\x0000は\xfffeどくに　ならない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeどくに　ならない！
-あいての　\xf000Ă\x0001\x0000は\xfffeどくに　ならない！
-\xf000Ă\x0001\x0000は\xfffeやけどを　おった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやけどを　おった！
-あいての　\xf000Ă\x0001\x0000は\xfffeやけどを　おった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　やけどを　おった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　やけどを　おった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　やけどを　おった！
-\xf000Ă\x0001\x0000は\xfffeやけどの　ダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやけどの　ダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeやけどの　ダメージを　うけた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-あいての　\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000は　すでに\xfffeやけどを　おっている
-やせいの　\xf000Ă\x0001\x0000は　すでに\xfffeやけどを　おっている
-あいての　\xf000Ă\x0001\x0000は　すでに\xfffeやけどを　おっている
-\xf000Ă\x0001\x0000は\xfffeやけどに　ならない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやけどに　ならない！
-あいての　\xf000Ă\x0001\x0000は\xfffeやけどに　ならない！
-\xf000Ă\x0001\x0000は　まひして\xfffeわざが　でにくくなった！
-やせいの　\xf000Ă\x0001\x0000は　まひして\xfffeわざが　でにくくなった！
-あいての　\xf000Ă\x0001\x0000は　まひして\xfffeわざが　でにくくなった！
-\xf000Ă\x0001\x0000は\xfffeからだが　しびれて　うごけない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeからだが　しびれて　うごけない！
-あいての　\xf000Ă\x0001\x0000は\xfffeからだが　しびれて　うごけない！
-\xf000Ă\x0001\x0000の\xfffeしびれが　とれた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeしびれが　とれた！
-あいての　\xf000Ă\x0001\x0000の\xfffeしびれが　とれた！
-\xf000Ă\x0001\x0000は\xfffeすでに　まひしている
-やせいの　\xf000Ă\x0001\x0000は\xfffeすでに　まひしている
-あいての　\xf000Ă\x0001\x0000は\xfffeすでに　まひしている
-\xf000Ă\x0001\x0000は\xfffeまひに　ならない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeまひに　ならない！
-あいての　\xf000Ă\x0001\x0000は\xfffeまひに　ならない！
-\xf000Ă\x0001\x0000は\xfffeこおりついた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこおりついた！
-あいての　\xf000Ă\x0001\x0000は\xfffeこおりついた！
-\xf000Ă\x0001\x0000は\xfffeこおってしまって　うごけない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこおってしまって　うごけない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこおってしまって　うごけない！
-\xf000Ă\x0001\x0000の\xfffeこおりが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeこおりが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffeこおりが　とけた！
-\xf000Ă\x0001\x0000は\xfffeすでに　こおっている
-やせいの　\xf000Ă\x0001\x0000は\xfffeすでに　こおっている
-あいての　\xf000Ă\x0001\x0000は\xfffeすでに　こおっている
-\xf000Ă\x0001\x0000は\xfffeこおらない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこおらない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこおらない！
-\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001で　こおりが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001で　こおりが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001で　こおりが　とけた！
-\xf000Ă\x0001\x0000は\xfffeねむってしまった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeねむってしまった！
-あいての　\xf000Ă\x0001\x0000は\xfffeねむってしまった！
-\xf000Ă\x0001\x0000は\xfffeぐうぐう　ねむっている
-やせいの　\xf000Ă\x0001\x0000は\xfffeぐうぐう　ねむっている
-あいての　\xf000Ă\x0001\x0000は\xfffeぐうぐう　ねむっている
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
-やせいの　\xf000Ă\x0001\x0000は\xfffeめを　さました！
-あいての　\xf000Ă\x0001\x0000は\xfffeめを　さました！
-\xf000Ă\x0001\x0000は\xfffeすでに　ねむっている
-やせいの　\xf000Ă\x0001\x0000は\xfffeすでに　ねむっている
-あいての　\xf000Ă\x0001\x0000は\xfffeすでに　ねむっている
-\xf000Ă\x0001\x0000は\xfffeねむらない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeねむらない！
-あいての　\xf000Ă\x0001\x0000は\xfffeねむらない！
-\xf000Ă\x0001\x0000は\xfffeあくむを　みはじめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeあくむを　みはじめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあくむを　みはじめた！
-\xf000Ă\x0001\x0000は\xfffeあくむに　うなされている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeあくむに　うなされている！
-あいての　\xf000Ă\x0001\x0000は\xfffeあくむに　うなされている！
-\xf000Ă\x0001\x0000は\xfffeメロメロに　なった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeメロメロに　なった！
-あいての　\xf000Ă\x0001\x0000は\xfffeメロメロに　なった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeメロメロに　なった！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeメロメロに　なった！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeメロメロに　なった！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　メロメロだ！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　メロメロだ！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　メロメロだ！
-\xf000Ă\x0001\x0000は\xfffeメロメロで　わざが　だせなかった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeメロメロで　わざが　だせなかった！
-あいての　\xf000Ă\x0001\x0000は\xfffeメロメロで　わざが　だせなかった！
-\xf000Ă\x0001\x0000は\xfffeメロメロじょうたいが　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeメロメロじょうたいが　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffeメロメロじょうたいが　なおった！
-\xf000Ă\x0001\x0000は\xfffeじょうたいが　もとに　もどった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじょうたいが　もとに　もどった！
-あいての　\xf000Ă\x0001\x0000は\xfffeじょうたいが　もとに　もどった！
-\xf000Ă\x0001\x0000は\xfffeこんらん　した！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこんらん　した！
-あいての　\xf000Ă\x0001\x0000は\xfffeこんらん　した！
-\xf000Ă\x0001\x0000は\xfffeこんらん　している！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこんらん　している！
-あいての　\xf000Ă\x0001\x0000は\xfffeこんらん　している！
-\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-やせいの　\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-あいての　\xf000Ă\x0001\x0000は　すでに\xfffeこんらん　している
-\xf000Ă\x0001\x0000は\xfffeこんらん　しない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこんらん　しない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこんらん　しない！
-\xf000Ă\x0001\x0000は\xfffeつかれはてて　こんらん　した！
-やせいの　\xf000Ă\x0001\x0000は\xfffeつかれはてて　こんらん　した！
-あいての　\xf000Ă\x0001\x0000は\xfffeつかれはてて　こんらん　した！
-\xf000Ă\x0001\x0000は\xfffeひるんで　わざが　だせない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeひるんで　わざが　だせない！
-あいての　\xf000Ă\x0001\x0000は\xfffeひるんで　わざが　だせない！
-\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-やせいの　\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-あいての　\xf000Ă\x0001\x0000は　しゅうちゅうが\xfffeとぎれて　わざが　だせない！
-\xf000Ă\x0001\x0000の\xfffeしょうたいを　みやぶった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeしょうたいを　みやぶった！
-あいての　\xf000Ă\x0001\x0000の\xfffeしょうたいを　みやぶった！
-\xf000Ă\x0001\x0000 est blessé\xfffepar \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage est\xfffeblessé par \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi est\xfffeblessé par \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 est libéré\xfffede \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage est\xfffelibéré de \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi est\xfffelibéré de \xf000ć\x0001\x0001
-\xf000Ă\x0001\x0000 se blesse\xfffeen frappant!
-\xf000Ă\x0001\x0000 sauvage\xfffese blesse en frappant!
-\xf000Ă\x0001\x0000 ennemi\xfffese blesse en frappant!
-Il calque \xf000Ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000!
-Il calque \xf000Ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000 sauvage!
-Il calque \xf000Ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000 ennemi!
-Coup critique sur\xfffe\xf000Ă\x0001\x0000!
-Coup critique sur\xfffe\xf000Ă\x0001\x0000 sauvage!
-Coup critique sur\xfffe\xf000Ă\x0001\x0000 ennemi!
-Les PV de  \xf000Ă\x0001\x0000\xfffesont restaurés!
-Les PV de  \xf000Ă\x0001\x0000\xfffesauvage sont restaurés!
-Les PV de  \xf000Ă\x0001\x0000\xfffeennemi sont restaurés!
-\xf000ć\x0001\x0001 rend des\xfffePP à \xf000Ă\x0001\x0000!
-\xf000ć\x0001\x0001 rend des\xfffePP à \xf000Ă\x0001\x0000 sauvage!
-\xf000ć\x0001\x0001 rend des\xfffePP à \xf000Ă\x0001\x0000 ennemi!
-\xf000Ă\x0001\x0000 retrouve\xfffetous ses PP!
-\xf000Ă\x0001\x0000 sauvage\xffferetrouve tous ses PP!
-\xf000Ă\x0001\x0000 ennemi\xffferetrouve tous ses PP!
-\xf000Ă\x0001\x0000 est frappé\xfffepar Tempêtesable!
-\xf000Ă\x0001\x0000 sauvage est frappé\xfffepar Tempêtesable!
-\xf000Ă\x0001\x0000 ennemi est frappé\xfffepar Tempêtesable!
-\xf000Ă\x0001\x0000 est frappé\xfffepar Grêle!
-\xf000Ă\x0001\x0000 sauvage est frappé\xfffepar Grêle!
-\xf000Ă\x0001\x0000 ennemi est frappé\xfffepar Grêle!
+\xf000Ă\x0001\x0000 est K.O.!
+Le \xf000Ă\x0001\x0000 sauvage est K.O.!
+Le \xf000Ă\x0001\x0000 ennemi est K.O.!
+\xf000Ă\x0001\x0000 n'est plus K.O.!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus K.O.!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus K.O.!
+C'est super efficace sur \xf000Ă\x0001\x0000!
+C'est super efficace sur le\xfffe\xf000Ă\x0001\x0000 sauvage!
+C'est super efficace sur le\xfffe\xf000Ă\x0001\x0000 ennemi!
+C'est super efficace sur \xf000Ă\x0001\x0000\xfffeet \xf000Ă\x0001\x0001!
+C'est super efficace sur les \xf000Ă\x0001\x0000\xfffeet \xf000Ă\x0001\x0001 sauvages!
+C'est super efficace sur les \xf000Ă\x0001\x0000\xfffeet \xf000Ă\x0001\x0001 ennemis!
+C'est super efficace sur \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 et \xf000Ă\x0001\x0002!
+C'est super efficace sur les \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 et \xf000Ă\x0001\x0002 sauvages!
+C'est super efficace sur les \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 et \xf000Ă\x0001\x0002 ennemis!
+Ce n'est pas très efficace sur\xfffe\xf000Ă\x0001\x0000...
+Ce n'est pas très efficace sur le\xfffe\xf000Ă\x0001\x0000 sauvage...
+Ce n'est pas très efficace sur le\xfffe\xf000Ă\x0001\x0000 ennemi...
+Ce n'est pas très efficace sur \xf000Ă\x0001\x0000\xfffeni sur \xf000Ă\x0001\x0001...
+Ce n'est pas très efficace sur \xf000Ă\x0001\x0000\xfffeni sur \xf000Ă\x0001\x0001...
+Ce n'est pas très efficace sur \xf000Ă\x0001\x0000\xfffeni sur \xf000Ă\x0001\x0001...
+Ce n'est pas très efficace sur \xf000Ă\x0001\x0000\xfffeni sur \xf000Ă\x0001\x0001, ni sur \xf000Ă\x0001\x0002...
+Ce n'est pas très efficace sur \xf000Ă\x0001\x0000\xfffeni sur \xf000Ă\x0001\x0001, ni sur \xf000Ă\x0001\x0002...
+Ce n'est pas très efficace sur \xf000Ă\x0001\x0000\xfffeni sur \xf000Ă\x0001\x0001, ni sur \xf000Ă\x0001\x0002...
+Mais cela échoue sur \xf000Ă\x0001\x0000!
+Mais cela échoue sur le \xf000Ă\x0001\x0000 sauvage!
+Mais cela échoue sur le \xf000Ă\x0001\x0000 ennemi!
+L'Attaque de \xf000Ă\x0001\x0000\xfffeaugmente!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente!
+La Défense de \xf000Ă\x0001\x0000\xfffeaugmente!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000\xfffeaugmente!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente!
+La Défense Spéciale de \xf000Ă\x0001\x0000\xfffeaugmente!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente!
+La Vitesse de \xf000Ă\x0001\x0000 augmente!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage augmente!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi augmente!
+La Précision de \xf000Ă\x0001\x0000 augmente!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente!
+L'Esquive de \xf000Ă\x0001\x0000 augmente!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage augmente!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi augmente!
+L'Attaque de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+La Défense de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+La Défense Spéciale de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+La Vitesse de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+La Précision de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+L'Esquive de \xf000Ă\x0001\x0000\xfffeaugmente beaucoup!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente beaucoup!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente beaucoup!
+L'Attaque de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+La Défense de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+La Défense Spéciale de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+La Vitesse de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+La Précision de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+L'Esquive de \xf000Ă\x0001\x0000\xfffeaugmente énormément!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente énormément!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente énormément!
+L'Attaque de \xf000Ă\x0001\x0000 baisse!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage baisse!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi baisse!
+La Défense de \xf000Ă\x0001\x0000 baisse!
+La Défense du \xf000Ă\x0001\x0000 sauvage baisse!
+La Défense du \xf000Ă\x0001\x0000 ennemi baisse!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000 baisse!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffebaisse!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffebaisse!
+La Défense Spéciale de \xf000Ă\x0001\x0000 baisse!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffebaisse!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffebaisse!
+La Vitesse de \xf000Ă\x0001\x0000 baisse!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage baisse!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi baisse!
+La Précision de \xf000Ă\x0001\x0000 baisse!
+La Précision du \xf000Ă\x0001\x0000 sauvage baisse!
+La Précision du \xf000Ă\x0001\x0000 ennemi baisse!
+L'Esquive de \xf000Ă\x0001\x0000 baisse!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage baisse!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi baisse!
+L'Attaque de \xf000Ă\x0001\x0000 baisse beaucoup!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+La Défense de \xf000Ă\x0001\x0000 baisse beaucoup!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000 baisse\xfffebeaucoup!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+La Défense Spéciale de \xf000Ă\x0001\x0000 baisse\xfffebeaucoup!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+La Vitesse de \xf000Ă\x0001\x0000 baisse beaucoup!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+La Précision de \xf000Ă\x0001\x0000 baisse beaucoup!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+L'Esquive de \xf000Ă\x0001\x0000 baisse beaucoup!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage\xfffebaisse beaucoup!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi\xfffebaisse beaucoup!
+L'Attaque de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+La Défense de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+La Défense Spéciale de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+La Vitesse de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+La Précision de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+L'Esquive de \xf000Ă\x0001\x0000 baisse\xfffeénormément!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage\xfffebaisse énormément!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi\xfffebaisse énormément!
+L'Attaque de \xf000Ă\x0001\x0000 ne peut plus\xfffeaugmenter!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+La Défense de \xf000Ă\x0001\x0000 ne peut plus\xfffeaugmenter!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000\xfffene peut plus augmenter!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+La Défense Spéciale de \xf000Ă\x0001\x0000\xfffene peut plus augmenter!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+La Vitesse de \xf000Ă\x0001\x0000 ne peut plus\xfffeaugmenter!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+La Précision de \xf000Ă\x0001\x0000 ne peut plus\xfffeaugmenter!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+L'Esquive de \xf000Ă\x0001\x0000 ne peut plus\xfffeaugmenter!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus augmenter!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus augmenter!
+L'Attaque de \xf000Ă\x0001\x0000 ne peut plus\xfffebaisser!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+La Défense de \xf000Ă\x0001\x0000 ne peut plus\xfffebaisser!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+L'Attaque Spéciale de \xf000Ă\x0001\x0000\xfffene peut plus baisser!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+L'Attaque Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+La Défense Spéciale de \xf000Ă\x0001\x0000\xfffene peut plus baisser!
+La Défense Spéciale du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+La Défense Spéciale du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+La Vitesse de \xf000Ă\x0001\x0000 ne peut plus\xfffebaisser!
+La Vitesse du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+La Vitesse du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+La Précision de \xf000Ă\x0001\x0000 ne peut plus\xfffebaisser!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+L'Esquive de \xf000Ă\x0001\x0000 ne peut plus\xfffebaisser!
+L'Esquive du \xf000Ă\x0001\x0000 sauvage\xfffene peut plus baisser!
+L'Esquive du \xf000Ă\x0001\x0000 ennemi\xfffene peut plus baisser!
+Les stats de \xf000Ă\x0001\x0000\xfffesont revenues à la normale!
+Les stats du \xf000Ă\x0001\x0000 sauvage\xfffesont revenues à la normale!
+Les stats du \xf000Ă\x0001\x0000 ennemi\xfffesont revenues à la normale!
+Les stats de \xf000Ă\x0001\x0000 ne baissent pas!
+Les stats du \xf000Ă\x0001\x0000 sauvage\xfffene baissent pas!
+Les stats du \xf000Ă\x0001\x0000 ennemi\xfffene baissent pas!
+L'Attaque de \xf000Ă\x0001\x0000 ne baisse pas!
+L'Attaque du \xf000Ă\x0001\x0000 sauvage\xfffene baisse pas!
+L'Attaque du \xf000Ă\x0001\x0000 ennemi\xfffene baisse pas!
+La Défense de \xf000Ă\x0001\x0000 ne baisse pas!
+La Défense du \xf000Ă\x0001\x0000 sauvage\xfffene baisse pas!
+La Défense du \xf000Ă\x0001\x0000 ennemi\xfffene baisse pas!
+La Précision de \xf000Ă\x0001\x0000 ne baisse pas!
+La Précision du \xf000Ă\x0001\x0000 sauvage\xfffene baisse pas!
+La Précision du \xf000Ă\x0001\x0000 ennemi\xfffene baisse pas!
+Ça n'affecte pas \xf000Ă\x0001\x0000...
+Ça n'affecte pas le \xf000Ă\x0001\x0000 sauvage...
+Ça n'affecte pas le \xf000Ă\x0001\x0000 ennemi...
+\xf000Ă\x0001\x0000 évite l'attaque!
+Le \xf000Ă\x0001\x0000 sauvage évite l'attaque!
+Le \xf000Ă\x0001\x0000 ennemi évite l'attaque!
+\xf000Ă\x0001\x0000 n'est pas affecté!
+Le \xf000Ă\x0001\x0000 sauvage n'est pas affecté!
+Le \xf000Ă\x0001\x0000 ennemi n'est pas affecté!
+\xf000ĉ\x0001\x0001 réduit les dégâts infligés\xfffeà \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 réduit les dégâts infligés\xfffeau \xf000Ă\x0001\x0000 sauvage!
+\xf000ĉ\x0001\x0001 réduit les dégâts infligés\xfffeau \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 se transforme!
+Le \xf000Ă\x0001\x0000 sauvage se transforme!
+Le \xf000Ă\x0001\x0000 ennemi se transforme!
+\xf000Ă\x0001\x0000 a laissé tomber ceci:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage a laissé tomber ceci:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi a laissé tomber ceci:\xfffe\xf000ĉ\x0001\x0001!
+Les changements de stats de \xf000Ă\x0001\x0000\xfffeont tous été annulés!
+Les changements de stats du \xf000Ă\x0001\x0000\xfffesauvage ont tous été annulés!
+Les changements de stats du \xf000Ă\x0001\x0000\xfffeennemi ont tous été annulés!
+\xf000Ă\x0001\x0000 s'est déplacé au milieu!
+Le \xf000Ă\x0001\x0000 sauvage s'est déplacé\xfffeau milieu!
+Le \xf000Ă\x0001\x0000 ennemi s'est déplacé\xfffeau milieu!
+\xf000Ă\x0001\x0000 est empoisonné!
+Le \xf000Ă\x0001\x0000 sauvage est empoisonné!
+Le \xf000Ă\x0001\x0000 ennemi est empoisonné!
+\xf000Ă\x0001\x0000 est gravement empoisonné!
+Le \xf000Ă\x0001\x0000 sauvage est gravement\xfffeempoisonné!
+Le \xf000Ă\x0001\x0000 ennemi est gravement\xfffeempoisonné!
+\xf000Ă\x0001\x0000 est gravement empoisonné\xfffepar l'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est gravement\xfffeempoisonné par l'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est gravement\xfffeempoisonné par l'objet \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 souffre du poison!
+Le \xf000Ă\x0001\x0000 sauvage souffre du poison!
+Le \xf000Ă\x0001\x0000 ennemi souffre du poison!
+\xf000Ă\x0001\x0000 n'est plus empoisonné!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus\xfffeempoisonné!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus\xfffeempoisonné!
+\xf000Ă\x0001\x0000 est déjà empoisonné.
+Le \xf000Ă\x0001\x0000 sauvage est déjà empoisonné.
+Le \xf000Ă\x0001\x0000 ennemi est déjà empoisonné.
+\xf000Ă\x0001\x0000 ne peut pas être empoisonné!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas être\xfffeempoisonné!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas être\xfffeempoisonné!
+\xf000Ă\x0001\x0000 est brûlé!
+Le \xf000Ă\x0001\x0000 sauvage est brûlé!
+Le \xf000Ă\x0001\x0000 ennemi est brûlé!
+\xf000Ă\x0001\x0000 est brûlé par\xfffel'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est brûlé\xfffepar l'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est brûlé\xfffepar l'objet \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 souffre de sa brûlure!
+Le \xf000Ă\x0001\x0000 sauvage souffre de\xfffesa brûlure!
+Le \xf000Ă\x0001\x0000 ennemi souffre de\xfffesa brûlure!
+\xf000Ă\x0001\x0000 n'est plus brûlé!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus brûlé!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus brûlé!
+\xf000Ă\x0001\x0000 est déjà brûlé.
+Le \xf000Ă\x0001\x0000 sauvage est déjà brûlé.
+Le \xf000Ă\x0001\x0000 ennemi est déjà brûlé.
+\xf000Ă\x0001\x0000 ne peut pas être brûlé!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas être\xfffebrûlé!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas être\xfffebrûlé!
+\xf000Ă\x0001\x0000 est paralysé!\xfffeIl aura du mal à attaquer!
+Le \xf000Ă\x0001\x0000 sauvage est paralysé!\xfffeIl aura du mal à attaquer!
+Le \xf000Ă\x0001\x0000 ennemi est paralysé!\xfffeIl aura du mal à attaquer!
+\xf000Ă\x0001\x0000 est paralysé!\xfffeIl n'a pas pu attaquer!
+Le \xf000Ă\x0001\x0000 sauvage est paralysé!\xfffeIl n'a pas pu attaquer!
+Le \xf000Ă\x0001\x0000 ennemi est paralysé!\xfffeIl n'a pas pu attaquer!
+\xf000Ă\x0001\x0000 n'est plus paralysé!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus paralysé!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus paralysé!
+\xf000Ă\x0001\x0000 est déjà paralysé.
+Le \xf000Ă\x0001\x0000 sauvage est déjà paralysé.
+Le \xf000Ă\x0001\x0000 ennemi est déjà paralysé.
+\xf000Ă\x0001\x0000 ne peut pas être paralysé!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas être\xfffeparalysé!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas être\xfffeparalysé!
+\xf000Ă\x0001\x0000 est gelé!
+Le \xf000Ă\x0001\x0000 sauvage est gelé!
+Le \xf000Ă\x0001\x0000 ennemi est gelé!
+\xf000Ă\x0001\x0000 est gelé!\xfffeIl ne peut plus attaquer!
+Le \xf000Ă\x0001\x0000 sauvage est gelé!\xfffeIl ne peut plus attaquer!
+Le \xf000Ă\x0001\x0000 ennemi est gelé!\xfffeIl ne peut plus attaquer!
+\xf000Ă\x0001\x0000 n'est plus gelé!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus gelé!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus gelé!
+\xf000Ă\x0001\x0000 est déjà gelé.
+Le \xf000Ă\x0001\x0000 sauvage est déjà gelé.
+Le \xf000Ă\x0001\x0000 ennemi est déjà gelé.
+\xf000Ă\x0001\x0000 ne peut pas être gelé!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas être\xfffegelé!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas être\xfffegelé!
+La glace a fondu grâce à \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000!
+La glace a fondu grâce à \xf000ć\x0001\x0001\xfffedu \xf000Ă\x0001\x0000 sauvage!
+La glace a fondu grâce à \xf000ć\x0001\x0001\xfffedu \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 s'est endormi!
+Le \xf000Ă\x0001\x0000 sauvage s'est endormi!
+Le \xf000Ă\x0001\x0000 ennemi s'est endormi!
+\xf000Ă\x0001\x0000 dort profondément.
+Le \xf000Ă\x0001\x0000 sauvage dort profondément.
+Le \xf000Ă\x0001\x0000 ennemi dort profondément.
+\xf000Ă\x0001\x0000 se réveille!
+Le \xf000Ă\x0001\x0000 sauvage se réveille!
+Le \xf000Ă\x0001\x0000 ennemi se réveille!
+\xf000Ă\x0001\x0000 dort déjà.
+Le \xf000Ă\x0001\x0000 sauvage dort déjà.
+Le \xf000Ă\x0001\x0000 ennemi dort déjà.
+\xf000Ă\x0001\x0000 ne s'endort pas!
+Le \xf000Ă\x0001\x0000 sauvage ne s'endort pas!
+Le \xf000Ă\x0001\x0000 ennemi ne s'endort pas!
+\xf000Ă\x0001\x0000 commence un cauchemar!
+Le \xf000Ă\x0001\x0000 sauvage commence un\xfffecauchemar!
+Le \xf000Ă\x0001\x0000 ennemi commence un\xfffecauchemar!
+\xf000Ă\x0001\x0000 est prisonnier d'un cauchemar!
+Le \xf000Ă\x0001\x0000 sauvage est prisonnier\xfffed'un cauchemar!
+Le \xf000Ă\x0001\x0000 ennemi est prisonnier\xfffed'un cauchemar!
+\xf000Ă\x0001\x0000 est amoureux!
+Le \xf000Ă\x0001\x0000 sauvage est amoureux!
+Le \xf000Ă\x0001\x0000 ennemi est amoureux!
+\xf000ĉ\x0001\x0001 rend \xf000Ă\x0001\x0000 amoureux!
+\xf000ĉ\x0001\x0001 rend le \xf000Ă\x0001\x0000 sauvage\xfffeamoureux!
+\xf000ĉ\x0001\x0001 rend le \xf000Ă\x0001\x0000 ennemi\xfffeamoureux!
+\xf000Ă\x0001\x0000 est amoureux\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est amoureux\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est amoureux\xfffede \xf000Ă\x0001\x0001!
+L'amour empêche \xf000Ă\x0001\x0000 d'agir!
+L'amour empêche le \xf000Ă\x0001\x0000 sauvage\xfffed'agir!
+L'amour empêche le \xf000Ă\x0001\x0000 ennemi\xfffed'agir!
+\xf000Ă\x0001\x0000 n'est plus amoureux!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus amoureux!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus amoureux!
+\xf000Ă\x0001\x0000 est redevenu normal!
+Le \xf000Ă\x0001\x0000 sauvage est redevenu normal!
+Le \xf000Ă\x0001\x0000 ennemi est redevenu normal!
+Cela rend \xf000Ă\x0001\x0000 confus!
+Cela rend le \xf000Ă\x0001\x0000 sauvage confus!
+Cela rend le \xf000Ă\x0001\x0000 ennemi confus!
+\xf000Ă\x0001\x0000 est confus!
+Le \xf000Ă\x0001\x0000 sauvage est confus!
+Le \xf000Ă\x0001\x0000 ennemi est confus!
+\xf000Ă\x0001\x0000 n'est plus confus!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus confus!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus confus!
+\xf000Ă\x0001\x0000 est déjà confus!
+Le \xf000Ă\x0001\x0000 sauvage est déjà confus!
+Le \xf000Ă\x0001\x0000 ennemi est déjà confus!
+\xf000Ă\x0001\x0000 ne peut pas être rendu confus!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas être\xffferendu confus!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas être\xffferendu confus!
+La fatigue rend \xf000Ă\x0001\x0000 confus!
+La fatigue rend le \xf000Ă\x0001\x0000 sauvage\xfffeconfus!
+La fatigue rend le \xf000Ă\x0001\x0000 ennemi\xfffeconfus!
+\xf000Ă\x0001\x0000 a la trouille!\xfffeIl ne peut plus attaquer!
+Le \xf000Ă\x0001\x0000 sauvage a la trouille!\xfffeIl ne peut plus attaquer!
+Le \xf000Ă\x0001\x0000 ennemi a la trouille!\xfffeIl ne peut plus attaquer!
+\xf000Ă\x0001\x0000 n'est plus concentré.\xfffeIl ne peut plus attaquer!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus\xfffeconcentré. Il ne peut plus attaquer!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus\xfffeconcentré. Il ne peut plus attaquer!
+\xf000Ă\x0001\x0000 est identifié!
+Le \xf000Ă\x0001\x0000 sauvage est identifié!
+Le \xf000Ă\x0001\x0000 ennemi est identifié!
+\xf000Ă\x0001\x0000 est blessé par\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est blessé par\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est blessé par\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 est libéré de\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est libéré de\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est libéré de\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 est blessé par\xfffele contrecoup!
+Le \xf000Ă\x0001\x0000 sauvage est blessé par\xfffele contrecoup!
+Le \xf000Ă\x0001\x0000 ennemi est blessé par\xfffele contrecoup!
+La capacité spéciale \xf000Ć\x0001\x0001 de\xfffe\xf000Ă\x0001\x0000 a été calquée!
+La capacité spéciale \xf000Ć\x0001\x0001 du\xfffe\xf000Ă\x0001\x0000 sauvage a été calquée!
+La capacité spéciale \xf000Ć\x0001\x0001 du\xfffe\xf000Ă\x0001\x0000 ennemi a été calquée!
+Coup critique infligé à \xf000Ă\x0001\x0000!
+Coup critique infligé au \xf000Ă\x0001\x0000 sauvage!
+Coup critique infligé au \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 récupère des PV!
+Le \xf000Ă\x0001\x0000 sauvage récupère des PV!
+Le \xf000Ă\x0001\x0000 ennemi récupère des PV!
+\xf000Ă\x0001\x0000 récupère\xfffeles PP de \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage récupère\xfffeles PP de \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi récupère\xfffeles PP de \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 récupère des PP!
+Le \xf000Ă\x0001\x0000 sauvage récupère des PP!
+Le \xf000Ă\x0001\x0000 ennemi récupère des PP!
+La tempête de sable inflige des dégâts\xfffeà \xf000Ă\x0001\x0000!
+La tempête de sable inflige des dégâts\xfffeau \xf000Ă\x0001\x0000 sauvage!
+La tempête de sable inflige des dégâts\xfffeau \xf000Ă\x0001\x0000 ennemi!
+La tempête de grêle inflige des dégâts\xfffeà \xf000Ă\x0001\x0000!
+La tempête de grêle inflige des dégâts\xfffeau \xf000Ă\x0001\x0000 sauvage!
+La tempête de grêle inflige des dégâts\xfffeau \xf000Ă\x0001\x0000 ennemi!
 \xf000Ă\x0001\x0000 est blessé!
-\xf000Ă\x0001\x0000 sauvage\xfffeest blessé!
-\xf000Ă\x0001\x0000 ennemi\xfffeest blessé!
-\xf000Ă\x0001\x0000 apprend\xfffe\xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage apprend\xfffe\xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi apprend\xfffe\xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 flotte avec\xfffeson ballon!
-\xf000Ă\x0001\x0000 sauvage flotte\xfffeavec son ballon!
-\xf000Ă\x0001\x0000 ennemi flotte\xfffeavec son ballon!
-Le ballon de \xf000Ă\x0001\x0000\xfffeexplose!
-Le ballon de \xf000Ă\x0001\x0000\xfffesauvage explose!
-Le ballon de \xf000Ă\x0001\x0000\xfffeennemi explose!
-\xf000Ă\x0001\x0000 rentre\xfffeavec Bouton Fuite!
-\xf000Ă\x0001\x0000 sauvage rentre\xfffeavec Bouton Fuite
-\xf000Ă\x0001\x0000 ennemi rentre\xfffeavec Bouton Fuite
-\xf000Ă\x0001\x0000 tend Carton\xfffeRouge vers \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 tend Carton\xfffeRouge vers \xf000Ă\x0001\x0001\xfffesauvage!
-\xf000Ă\x0001\x0000 tend Carton\xfffeRouge vers \xf000Ă\x0001\x0001\xfffeennemi!
-\xf000Ă\x0001\x0000 sauvage tend Carton\xfffeRouge vers\xfffe\xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage tend Carton\xfffeRouge vers\xfffe\xf000Ă\x0001\x0001\xfffesauvage!
-\xf000Ă\x0001\x0000 ennemi　tend Carton\xfffeRouge vers\xfffe\xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi tend Carton\xfffeRouge vers\xfffe\xf000Ă\x0001\x0001\xfffeennemi!
-\xf000Ă\x0001\x0000 est blessé\xfffepar Casque Brut!
-\xf000Ă\x0001\x0000 sauvage est blessé\xfffepar Casque Brut!
-\xf000Ă\x0001\x0000 ennemi est blessé\xfffepar Casque Brut!
-La puissance du feu de\xfffe\xf000Ă\x0001\x0000 augmente!
-La puissance du feu de\xfffe\xf000Ă\x0001\x0000 sauvage augmente!
-La puissance du feu de\xfffe\xf000Ă\x0001\x0000 ennemi augmente!
-\xf000Ă\x0001\x0000 est blessé!
-\xf000Ă\x0001\x0000 sauvage est blessé!
-\xf000Ă\x0001\x0000 ennemi est blessé!
-Il est alerté du \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000!
-Il est alerté du \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000 sauvage!
-Il est alerté du \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000 ennemi!
-\xf000Ă\x0001\x0000 a peur!
-\xf000Ă\x0001\x0000 sauvage a peur!
-\xf000Ă\x0001\x0000 ennemi a peur!
-\xf000Ă\x0001\x0000 fouille sa\xfffecible et trouve\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage fouille\xfffesa cible et trouve\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi fouille\xfffesa cible et trouve\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est blessé!
+Le \xf000Ă\x0001\x0000 ennemi est blessé!
+\xf000Ă\x0001\x0000 prend la capacité\xfffespéciale \xf000Ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage prend la capacité\xfffespéciale \xf000Ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi prend la capacité\xfffespéciale \xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 flotte grâce à son Ballon!
+Le \xf000Ă\x0001\x0000 sauvage flotte grâce à\xfffeson Ballon!
+Le \xf000Ă\x0001\x0000 ennemi flotte grâce à\xfffeson Ballon!
+Le Ballon de \xf000Ă\x0001\x0000 a éclaté!
+Le Ballon du \xf000Ă\x0001\x0000 sauvage a éclaté!
+Le Ballon du \xf000Ă\x0001\x0000 ennemi a éclaté!
+\xf000Ă\x0001\x0000 se retire grâce au Bouton Fuite!
+Le \xf000Ă\x0001\x0000 sauvage se retire\xfffegrâce au Bouton Fuite!
+Le \xf000Ă\x0001\x0000 ennemi se retire\xfffegrâce au Bouton Fuite!
+\xf000Ă\x0001\x0000 a mis un Carton Rouge\xfffeà \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 a mis un Carton Rouge\xfffeau \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 a mis un Carton Rouge\xfffeau \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage a mis un Carton\xfffeRouge à \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage a mis un Carton\xfffeRouge au \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi a mis un Carton Rouge\xfffeau \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi a mis un Carton Rouge\xfffeau \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 est blessé par le Casque Brut!
+Le \xf000Ă\x0001\x0000 sauvage est blessé par\xfffele Casque Brut!
+Le \xf000Ă\x0001\x0000 ennemi est blessé par\xfffele Casque Brut!
+\xf000Ă\x0001\x0000 augmente sa puissance de feu!
+Le \xf000Ă\x0001\x0000 sauvage augmente sa\xfffepuissance de feu!
+Le \xf000Ă\x0001\x0000 ennemi augmente sa\xfffepuissance de feu!
+\xf000Ă\x0001\x0000 s'est blessé en attaquant!
+Le \xf000Ă\x0001\x0000 sauvage s'est blessé\xfffeen attaquant!
+Le \xf000Ă\x0001\x0000 ennemi s'est blessé\xfffeen attaquant!
+\xf000Ă\x0001\x0000 a deviné \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage\xfffea deviné \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi\xfffea deviné \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 est tout tremblant!
+Le \xf000Ă\x0001\x0000 sauvage est tout tremblant!
+Le \xf000Ă\x0001\x0000 ennemi est tout tremblant!
+\xf000Ă\x0001\x0000 a décelé l'objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage a décelé l'objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi a décelé l'objet:\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000 brise le moule!
-\xf000Ă\x0001\x0000 sauvage\xfffebrise le moule!
-\xf000Ă\x0001\x0000 ennemi\xfffebrise le moule!
+Le \xf000Ă\x0001\x0000 sauvage brise le moule!
+Le \xf000Ă\x0001\x0000 ennemi brise le moule!
 \xf000Ă\x0001\x0000 paresse!
-\xf000Ă\x0001\x0000 sauvage paresse!
-\xf000Ă\x0001\x0000 ennemi paresse!
-\xf000Ă\x0001\x0000 prend l'attaque!
-\xf000Ă\x0001\x0000 sauvage\xfffeprend l'attaque!
-\xf000Ă\x0001\x0000 ennemi\xfffeprend l'attaque!
-\xf000Ă\x0001\x0000 reste éveillé!
-\xf000Ă\x0001\x0000 sauvage\xfffereste éveillé!
-\xf000Ă\x0001\x0000 ennemi\xfffereste éveillé!
-\xf000Ă\x0001\x0000 s'ancre\xfffe au sol!
-\xf000Ă\x0001\x0000 sauvage s'ancre\xfffe au sol!
-\xf000Ă\x0001\x0000 ennemi s'ancre\xfffe au sol!
-\xf000Ă\x0001\x0000 aspire le\xfffesuintement!
-\xf000Ă\x0001\x0000 sauvage aspire\xfffele suintement!
-\xf000Ă\x0001\x0000 ennemi aspire\xfffele suintement!
-Il vole \xf000ĉ\x0001\x0001\xfffede \xf000Ă\x0001\x0000!
-Il vole \xf000ĉ\x0001\x0001\xfffede \xf000Ă\x0001\x0000 sauvage!
-Il vole \xf000ĉ\x0001\x0001\xfffede \xf000Ă\x0001\x0000 ennemi!
-\xf000Ă\x0001\x0000 prend Momie!
-\xf000Ă\x0001\x0000 sauvage\xfffeprend Momie!
-\xf000Ă\x0001\x0000 ennemi\xfffeprend Momie!
-Il rebondit de \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000!
-Il rebondit de \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000 sauvage!
-Il rebondit de \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000 ennemi!
-\xf000Ă\x0001\x0000 évite l'attaque\xfffegrâce à son allié!
-\xf000Ă\x0001\x0000 sauvage évite l'attaque\xfffegrâce à son allié!
-\xf000Ă\x0001\x0000 ennemi évite l'attaque\xfffegrâce à son allié!
-Ca empoisonne \xf000Ă\x0001\x0000!
-Ca empoisonne \xf000Ă\x0001\x0000\xfffesauvage!
-Ca empoisonne \xf000Ă\x0001\x0000\xfffeennemi!
-\xf000Ă\x0001\x0000 récolte\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage\xffferécolte \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi\xffferécolte \xf000ĉ\x0001\x0001!
-Illusion de \xf000Ă\x0001\x0000\xfffes'estompe!
-Illusion de \xf000Ă\x0001\x0000\xfffesauvage s'estompe!
-Illusion de \xf000Ă\x0001\x0000\xfffeennemi s'estompe!
-\xf000Ă\x0001\x0000\xfffemaximise son attaque!
-\xf000Ă\x0001\x0000 sauvage\xfffemaximise son attaque!
-\xf000Ă\x0001\x0000 ennemi\xfffemaximise son attaque!
-\xf000Ă\x0001\x0000 est\xfffetourmenté!
-\xf000Ă\x0001\x0000 sauvage est\xfffetourmenté!
-\xf000Ă\x0001\x0000 ennemi est\xfffetourmenté!
-\xf000Ă\x0001\x0000 exerce\xfffePression!
-\xf000Ă\x0001\x0000 sauvage\xfffeexerce Pression!
-\xf000Ă\x0001\x0000 ennemi\xfffeexerce Pression!
-\xf000Ă\x0001\x0000 trouve\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 sauvage\xfffetrouve \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 ennemi\xfffetrouve \xf000ĉ\x0001\x0001!
-L'objet de \xf000Ă\x0001\x0000\xfffene peut être volé!
-L'objet de \xf000Ă\x0001\x0000\xfffesauvage ne peut être volé!
-L'objet de \xf000Ă\x0001\x0000\xfffeennemi ne peut être volé!
-\xf000Ă\x0001\x0000 ne peut\xfffeobtenir ca!
-\xf000Ă\x0001\x0000 sauvage ne peut\xfffeobtenir ca!
-\xf000Ă\x0001\x0000 ennemi ne peut\xfffeobtenir ca!
-\xf000Ă\x0001\x0000は\xfffeちょうしを　とりもどした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeちょうしを　とりもどした！
-あいての　\xf000Ă\x0001\x0000は\xfffeちょうしを　とりもどした！
-\xf000Ă\x0001\x0000は\xfffeはじける　オーラを　はなっている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeはじける　オーラを　はなっている！
-あいての　\xf000Ă\x0001\x0000は\xfffeはじける　オーラを　はなっている！
-\xf000Ă\x0001\x0000は\xfffeもえさかる　オーラを　はなっている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeもえさかる　オーラを　はなっている！
-あいての　\xf000Ă\x0001\x0000は\xfffeもえさかる　オーラを　はなっている！
-\xf000Ă\x0001\x0000は\xfffeおたがいの　とくせいを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeおたがいの　とくせいを　いれかえた！
-あいての　\xf000Ă\x0001\x0000は\xfffeおたがいの　とくせいを　いれかえた！
-\xf000Ă\x0001\x0000は\xfffeこらえる　たいせいに　はいった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこらえる　たいせいに　はいった！
-あいての　\xf000Ă\x0001\x0000は\xfffeこらえる　たいせいに　はいった！
-\xf000Ă\x0001\x0000は\xfffeこうげきを　こらえた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこうげきを　こらえた！
-あいての　\xf000Ă\x0001\x0000は\xfffeこうげきを　こらえた！
-\xf000Ă\x0001\x0000は\xfffeまもりの　たいせいに　はいった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeまもりの　たいせいに　はいった！
-あいての　\xf000Ă\x0001\x0000は\xfffeまもりの　たいせいに　はいった！
-\xf000Ă\x0001\x0000の\xfffeまもりを　うちやぶった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeまもりを　うちやぶった！
-あいての　\xf000Ă\x0001\x0000の\xfffeまもりを　うちやぶった！
-\xf000Ă\x0001\x0000は\xfffeこうげきから　みを　まもった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこうげきから　みを　まもった！
-あいての　\xf000Ă\x0001\x0000は\xfffeこうげきから　みを　まもった！
-\xf000Ă\x0001\x0000は\xfffeフェイントに　ひっかかった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeフェイントに　ひっかかった！
-あいての　\xf000Ă\x0001\x0000は\xfffeフェイントに　ひっかかった！
-\xf000Ă\x0001\x0000は\xfffeそらたかく　とびあがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeそらたかく　とびあがった！
-あいての　\xf000Ă\x0001\x0000は\xfffeそらたかく　とびあがった！
-\xf000Ă\x0001\x0000の\xfffeいかりのボルテージが　あがっていく！
-やせいの　\xf000Ă\x0001\x0000の\xfffeいかりのボルテージが　あがっていく！
-あいての　\xf000Ă\x0001\x0000の\xfffeいかりのボルテージが　あがっていく！
-\xf000Ă\x0001\x0000は\xfffeすいちゅうに　みをひそめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeすいちゅうに　みをひそめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeすいちゅうに　みをひそめた！
-\xf000Ă\x0001\x0000は\xfffeじめんに　もぐった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじめんに　もぐった！
-あいての　\xf000Ă\x0001\x0000は\xfffeじめんに　もぐった！
-\xf000Ă\x0001\x0000のすがたが\xfffeいっしゅんにして　きえた！
-やせいの　\xf000Ă\x0001\x0000のすがたが\xfffeいっしゅんにして　きえた！
-あいての　\xf000Ă\x0001\x0000のすがたが\xfffeいっしゅんにして　きえた！
-\xf000Ă\x0001\x0000は\xfffeたかく　とびはねた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeたかく　とびはねた！
-あいての　\xf000Ă\x0001\x0000は\xfffeたかく　とびはねた！
-\xf000Ă\x0001\x0000の　まわりで\xfffeくうきが　うずをまく！
-やせいの　\xf000Ă\x0001\x0000の　まわりで\xfffeくうきが　うずをまく！
-あいての　\xf000Ă\x0001\x0000の　まわりで\xfffeくうきが　うずをまく！
-\xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-やせいの　\xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-あいての　\xf000Ă\x0001\x0000を\xfffeはげしい　ひかりが　つつむ！
-\xf000Ă\x0001\x0000は\xfffeひかりを　きゅうしゅうした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeひかりを　きゅうしゅうした！
-あいての　\xf000Ă\x0001\x0000は\xfffeひかりを　きゅうしゅうした！
-\xf000Ă\x0001\x0000は\xfffeくびを　ひっこめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeくびを　ひっこめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeくびを　ひっこめた！
-\xf000Ă\x0001\x0000は\xfffeアンコールをうけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeアンコールをうけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeアンコールをうけた！
-\xf000Ă\x0001\x0000の\xfffeアンコールじょうたいが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeアンコールじょうたいが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffeアンコールじょうたいが　とけた！
-\xf000Ă\x0001\x0000の\xfffeとくせいが　きかなくなった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeとくせいが　きかなくなった！
-あいての　\xf000Ă\x0001\x0000の\xfffeとくせいが　きかなくなった！
-\xf000Ă\x0001\x0000は\xfffeちょうはつに　のってしまった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeちょうはつに　のってしまった！
-あいての　\xf000Ă\x0001\x0000は\xfffeちょうはつに　のってしまった！
-\xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-やせいの　\xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-あいての　\xf000Ă\x0001\x0000は　ちょうはつ\xfffeされて　\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000は\xfffeちょうはつの　こうかが　とけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeちょうはつの　こうかが　とけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeちょうはつの　こうかが　とけた！
-\xf000Ă\x0001\x0000は\xfffeいちゃもんを　つけられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeいちゃもんを　つけられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeいちゃもんを　つけられた！
-\xf000Ă\x0001\x0000は\xfffeいちゃもんを　つけられたので\xf000븀\x0000\xfffeつづけて　おなじ　わざが　だせない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeいちゃもんを　つけられたので\xf000븀\x0000\xfffeつづけて　おなじ　わざが　だせない！
-あいての　\xf000Ă\x0001\x0000は\xfffeいちゃもんを　つけられたので\xf000븀\x0000\xfffeつづけて　おなじ　わざが　だせない！
-\xf000Ă\x0001\x0000の\xfffeいちゃもんの　こうかが　きれた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeいちゃもんの　こうかが　きれた！
-あいての　\xf000Ă\x0001\x0000の\xfffeいちゃもんの　こうかが　きれた！
-\xf000Ă\x0001\x0000は\xfffeあいての　わざを　ふういんした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeあいての　わざを　ふういんした！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　わざを　ふういんした！
-\xf000Ă\x0001\x0000は\xfffeふういんで\xf000븀\x0000\xfffe\xf000ć\x0001\x0001が　だせない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeふういんで\xf000븀\x0000\xfffe\xf000ć\x0001\x0001が　だせない！
-あいての　\xf000Ă\x0001\x0000は\xfffeふういんで\xf000븀\x0000\xfffe\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001を　ふうじこめた！
-\xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-やせいの　\xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-あいての　\xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000の\xfffeかなしばりが　とけた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeかなしばりが　とけた！
-あいての　\xf000Ă\x0001\x0000の\xfffeかなしばりが　とけた！
-\xf000Ă\x0001\x0000は\xfffeみずのリングを　まとった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeみずのリングを　まとった！
-あいての　\xf000Ă\x0001\x0000は\xfffeみずのリングを　まとった！
-\xf000Ă\x0001\x0000は\xfffeみずのリングで　たいりょくを　かいふく！
-やせいの　\xf000Ă\x0001\x0000は\xfffeみずのリングで　たいりょくを　かいふく！
-あいての　\xf000Ă\x0001\x0000は\xfffeみずのリングで　たいりょくを　かいふく！
-\xf000Ă\x0001\x0000に\xfffeたねを　うえつけた！
-やせいの　\xf000Ă\x0001\x0000に\xfffeたねを　うえつけた！
-あいての　\xf000Ă\x0001\x0000に\xfffeたねを　うえつけた！
-やどりぎが　\xf000Ă\x0001\x0000の\xfffeたいりょくを　うばう！
-やどりぎが　やせいの　\xf000Ă\x0001\x0000の\xfffeたいりょくを　うばう！
-やどりぎが　あいての　\xf000Ă\x0001\x0000の\xfffeたいりょくを　うばう！
-\xf000Ă\x0001\x0000は\xfffeたいりょくを　けずって　パワーぜんかい！
-やせいの　\xf000Ă\x0001\x0000は\xfffeたいりょくを　けずって　パワーぜんかい！
-あいての　\xf000Ă\x0001\x0000は\xfffeたいりょくを　けずって　パワーぜんかい！
-\xf000Ă\x0001\x0000は\xfffeしゅうちゅうりょくを　たかめている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeしゅうちゅうりょくを　たかめている！
-あいての　\xf000Ă\x0001\x0000は\xfffeしゅうちゅうりょくを　たかめている！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　やせいの　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　あいての　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-やせいの　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffe\xf000Ć\x0001\x0002を　コピーした！
-あいての　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000Ć\x0001\x0002を　コピーした！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffe\xf000Ć\x0001\x0002を　コピーした！
-\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-やせいの　\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-あいての　\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　しようとしている！
-\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-やせいの　\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-あいての　\xf000Ă\x0001\x0000は　あいてを\xfffeみちづれに　した！
-\xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-やせいの　\xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-あいての　\xf000Ă\x0001\x0000は　あいてに\xfffeおんねんを　かけようとしている！
-\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001は\xf000븀\x0000\xfffeおんねんで　ＰＰが０になった！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001は\xf000븀\x0000\xfffeおんねんで　ＰＰが０になった！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001は\xf000븀\x0000\xfffeおんねんで　ＰＰが０になった！
-\xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-やせいの　\xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-あいての　\xf000Ă\x0001\x0000は　ねむって\xfffeげんきに　なった！
-\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000ć\x0001\x0001を　\xf000Ȁ\x0001\x0002けずった！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に　へんしんした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　へんしんした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に　へんしんした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に　へんしんした！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に　へんしんした！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001に\xfffeねらいを　さだめた！
-\xf000Ă\x0001\x0000は　やせいの\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた！
-\xf000Ă\x0001\x0000は　あいての\xf000Ă\x0001\x0001に　\xfffeねらいを　さだめた！
-やせいの　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001に\xfffeねらいを　さだめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeねらいを　さだめた！
-あいての　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001に\xfffeねらいを　さだめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeねらいを　さだめた！
-\xf000Ă\x0001\x0000は\xfffeでんじりょくで　うかびあがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeでんじりょくで　うかびあがった！
-あいての　\xf000Ă\x0001\x0000は\xfffeでんじりょくで　うかびあがった！
-\xf000Ă\x0001\x0000は\xfffeでんじりょくが　なくなった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeでんじりょくが　なくなった！
-あいての　\xf000Ă\x0001\x0000は\xfffeでんじりょくが　なくなった！
-\xf000Ă\x0001\x0000は\xfffeじゅうでんを　はじめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじゅうでんを　はじめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeじゅうでんを　はじめた！
-\xf000Ă\x0001\x0000の\xfffeねむけを　さそった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeねむけを　さそった！
-あいての　\xf000Ă\x0001\x0000の\xfffeねむけを　さそった！
-\xf000Ă\x0001\x0000は\xfffeちゅうもくの　まとになった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeちゅうもくの　まとになった！
-あいての　\xf000Ă\x0001\x0000は\xfffeちゅうもくの　まとになった！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-あいての　\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeのうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげきと　とくこうの\xf000븀\x0000\xfffeのうりょくへんかを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげきと　とくこうの\xf000븀\x0000\xfffeのうりょくへんかを　いれかえた！
-あいての　\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeこうげきと　とくこうの\xf000븀\x0000\xfffeのうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょと　とくぼうの\xf000븀\x0000\xfffeのうりょくへんかを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょと　とくぼうの\xf000븀\x0000\xfffeのうりょくへんかを　いれかえた！
-あいての　\xf000Ă\x0001\x0000は　あいてとじぶんの\xfffeぼうぎょと　とくぼうの\xf000븀\x0000\xfffeのうりょくへんかを　いれかえた！
-\xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-あいての　\xf000Ă\x0001\x0000は　おたがいの\xfffeどうぐを　いれかえた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　てにいれた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おぼえた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おぼえた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おぼえた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　スケッチした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　スケッチした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　スケッチした！
-\xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-やせいの　\xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-あいての　\xf000Ă\x0001\x0000は　しんぴてきな\xfffeつきの　ひかりに　つつまれた！
-いやしのねがいが\xfffe\xf000Ă\x0001\x0000に　とどいた！
-いやしのねがいが\xfffeやせいの　\xf000Ă\x0001\x0000に　とどいた！
-いやしのねがいが\xfffeあいての　\xf000Ă\x0001\x0000に　とどいた！
-\xf000Ă\x0001\x0000の\xfffeねがいごとが　かなった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeねがいごとが　かなった！
-あいての　\xf000Ă\x0001\x0000の\xfffeねがいごとが　かなった！
-\xf000Ă\x0001\x0000は\xfffeさわぎだした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeさわぎだした！
-あいての　\xf000Ă\x0001\x0000は\xfffeさわぎだした！
-\xf000Ă\x0001\x0000は\xfffeさわがしくて　めが　さめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeさわがしくて　めが　さめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeさわがしくて　めが　さめた！
-しかし　\xf000Ă\x0001\x0000は\xfffeさわがしくて　ねむれない！
-しかし　やせいの　\xf000Ă\x0001\x0000は\xfffeさわがしくて　ねむれない！
-しかし　あいての　\xf000Ă\x0001\x0000は\xfffeさわがしくて　ねむれない！
-しかし　\xf000Ă\x0001\x0000は\xfffeさわいでいて　ねむれない！
-しかし　やせいの　\xf000Ă\x0001\x0000は\xfffeさわいでいて　ねむれない！
-しかし　あいての　\xf000Ă\x0001\x0000は\xfffeさわいでいて　ねむれない！
-\xf000Ă\x0001\x0000は\xfffeさわいでいる！
-やせいの　\xf000Ă\x0001\x0000は\xfffeさわいでいる！
-あいての　\xf000Ă\x0001\x0000は\xfffeさわいでいる！
-\xf000Ă\x0001\x0000は\xfffeおとなしくなった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeおとなしくなった！
-あいての　\xf000Ă\x0001\x0000は\xfffeおとなしくなった！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ȁ\x0001\x0001つ　たくわえた！
-\xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-やせいの　\xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-あいての　\xf000Ă\x0001\x0000が\xfffeたくわえていた　こうかが　きれた！
-\xf000Ă\x0001\x0000には\xfffeどうぐが　つかえなくなった！
-やせいの　\xf000Ă\x0001\x0000には\xfffeどうぐが　つかえなくなった！
-あいての　\xf000Ă\x0001\x0000には\xfffeどうぐが　つかえなくなった！
-\xf000Ă\x0001\x0000に\xfffeどうぐが　つかえるようになった！
-やせいの　\xf000Ă\x0001\x0000に\xfffeどうぐが　つかえるようになった！
-あいての　\xf000Ă\x0001\x0000に\xfffeどうぐが　つかえるようになった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　ひろってきた！
-\xf000Ă\x0001\x0000は　ねを　はった！
-やせいの　\xf000Ă\x0001\x0000は　ねを　はった！
-あいての　\xf000Ă\x0001\x0000は　ねを　はった！
-\xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-やせいの　\xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-あいての　\xf000Ă\x0001\x0000は　ねから\xfffeようぶんを　すいとった！
-\xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-やせいの　\xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-あいての　\xf000Ă\x0001\x0000は　ねをはって\xfffeうごかない！
-\xf000Ă\x0001\x0000は　がまんしている
-やせいの　\xf000Ă\x0001\x0000は　がまんしている
-あいての　\xf000Ă\x0001\x0000は　がまんしている
-\xf000Ă\x0001\x0000の\xfffeがまんが　とかれた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeがまんが　とかれた！
-あいての　\xf000Ă\x0001\x0000の\xfffeがまんが　とかれた！
-\xf000Ă\x0001\x0000は\xfffeあいての　でかたを　うかがっている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeあいての　でかたを　うかがっている！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　でかたを　うかがっている！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は　やせいの　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は　あいての　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-やせいの　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffeわざを　よこどりした！
-あいての　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffeわざを　よこどりした！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffeわざを　よこどりした！
-\xf000Ă\x0001\x0000は\xfffeマジックコートに　つつまれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeマジックコートに　つつまれた！
-あいての　\xf000Ă\x0001\x0000は\xfffeマジックコートに　つつまれた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　はねかえした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　はねかえした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　はねかえした！
-\xf000Ă\x0001\x0000は\xfffeせんとうから　りだつした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeせんとうから　りだつした！
-あいての　\xf000Ă\x0001\x0000は\xfffeせんとうから　りだつした！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ā\x0001\x0001のもとへ　もどっていく！
-\xf000Ă\x0001\x0000は\xfffeこうげきと　ぼうぎょを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこうげきと　ぼうぎょを　いれかえた！
-あいての　\xf000Ă\x0001\x0000は\xfffeこうげきと　ぼうぎょを　いれかえた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　うばって　たべた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　なげつけた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　ふきとばした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　ふきとばした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　ふきとばした！
-\xf000Ă\x0001\x0000の\xfffeみがわりが　あらわれた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeみがわりが　あらわれた！
-あいての　\xf000Ă\x0001\x0000の\xfffeみがわりが　あらわれた！
-しかし　\xf000Ă\x0001\x0000の\xfffeみがわりは　すでに　でていた
-しかし　やせいの　\xf000Ă\x0001\x0000の\xfffeみがわりは　すでに　でていた
-しかし　あいての　\xf000Ă\x0001\x0000の\xfffeみがわりは　すでに　でていた
-\xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-やせいの　\xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-あいての　\xf000Ă\x0001\x0000に　かわって\xfffeみがわりが　こうげきを　うけた！
-\xf000Ă\x0001\x0000の\xfffeみがわりは　きえてしまった…
-やせいの　\xf000Ă\x0001\x0000の\xfffeみがわりは　きえてしまった…
-あいての　\xf000Ă\x0001\x0000の\xfffeみがわりは　きえてしまった…
-\xf000Ă\x0001\x0000は\xfffeワイドガードで　まもられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeワイドガードで　まもられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeワイドガードで　まもられた！
-\xf000Ă\x0001\x0000は\xfffeファストガードで　まもられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeファストガードで　まもられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeファストガードで　まもられた！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeしめつけられた！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001に\xf000븀\x0000\xfffeまきつかれた！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の　からに\xf000븀\x0000\xfffeはさまれた！
-\xf000Ă\x0001\x0000は\xfffeうずの　なかに　とじこめられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeうずの　なかに　とじこめられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeうずの　なかに　とじこめられた！
-\xf000Ă\x0001\x0000は\xfffeほのおの　うずに　とじこめられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeほのおの　うずに　とじこめられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeほのおの　うずに　とじこめられた！
-\xf000Ă\x0001\x0000は\xfffeマグマの　うずに　とじこめられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeマグマの　うずに　とじこめられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeマグマの　うずに　とじこめられた！
-\xf000Ă\x0001\x0000は\xfffeすなじごくに　とらわれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeすなじごくに　とらわれた！
-あいての　\xf000Ă\x0001\x0000は\xfffeすなじごくに　とらわれた！
-\xf000Ă\x0001\x0000は\xfffeだすことのできる　わざが　ない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeだすことのできる　わざが　ない！
-あいての　\xf000Ă\x0001\x0000は\xfffeだすことのできる　わざが　ない！
-\xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-やせいの　\xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-あいての　\xf000Ă\x0001\x0000は　\xfffeしんぴのベールに　まもられている！
-\xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-やせいの　\xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-あいての　\xf000Ă\x0001\x0000は　\xfffeしろいきりに　まもられている！
-\xf000Ă\x0001\x0000は\xfffeせんとうに　ひきずりだされた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeせんとうに　ひきずりだされた！
-あいての　\xf000Ă\x0001\x0000は\xfffeせんとうに　ひきずりだされた！
-\xf000Ă\x0001\x0000は\xfffeこうげきの　はんどうで　うごけない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこうげきの　はんどうで　うごけない！
-あいての　\xf000Ă\x0001\x0000は\xfffeこうげきの　はんどうで　うごけない！
-\xf000Ă\x0001\x0000は\xfffeまきびしの　ダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeまきびしの　ダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeまきびしの　ダメージを　うけた！
-\xf000Ă\x0001\x0000に\xfffeとがった　いわが　くいこんだ！
-やせいの　\xf000Ă\x0001\x0000に\xfffeとがった　いわが　くいこんだ！
-あいての　\xf000Ă\x0001\x0000に\xfffeとがった　いわが　くいこんだ！
-\xf000Ă\x0001\x0000は\xfffeじくうを　ゆがめた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじくうを　ゆがめた！
-あいての　\xf000Ă\x0001\x0000は\xfffeじくうを　ゆがめた！
-\xf000Ă\x0001\x0000の\xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-やせいの　\xf000Ă\x0001\x0000の\xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-あいての　\xf000Ă\x0001\x0000の\xfffeほろびのカウントが　\xf000Ȁ\x0001\x0001になった！
-\xf000Ă\x0001\x0000は\xfffeつめたい　ひかりに　つつまれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeつめたい　ひかりに　つつまれた！
-あいての　\xf000Ă\x0001\x0000は\xfffeつめたい　ひかりに　つつまれた！
-\xf000Ă\x0001\x0000は\xfffeこごえる　くうきに　つつまれた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeこごえる　くうきに　つつまれた！
-あいての　\xf000Ă\x0001\x0000は\xfffeこごえる　くうきに　つつまれた！
-\xf000Ă\x0001\x0000の\xfffe\xf000Ć\x0001\x0001　で　にげられない！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000Ć\x0001\x0001　で　にげられない！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000Ć\x0001\x0001　で　にげられない！
-\xf000Ă\x0001\x0000は\xfffeもう　にげられない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeもう　にげられない！
-あいての　\xf000Ă\x0001\x0000は\xfffeもう　にげられない！
-\xf000Ă\x0001\x0000は\xfffeにげられない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeにげられない！
-あいての　\xf000Ă\x0001\x0000は\xfffeにげられない！
+Le \xf000Ă\x0001\x0000 sauvage paresse!
+Le \xf000Ă\x0001\x0000 ennemi paresse!
+\xf000Ă\x0001\x0000 attire les coups sur lui!
+Le \xf000Ă\x0001\x0000 sauvage attire les coups\xfffesur lui!
+Le \xf000Ă\x0001\x0000 ennemi attire les coups\xfffesur lui!
+\xf000Ă\x0001\x0000 ne s'endort pas!
+Le \xf000Ă\x0001\x0000 sauvage ne s'endort pas!
+Le \xf000Ă\x0001\x0000 ennemi ne s'endort pas!
+\xf000Ă\x0001\x0000 s'accroche avec sa Ventouse!
+Le \xf000Ă\x0001\x0000 sauvage s'accroche avec\xfffesa Ventouse!
+Le \xf000Ă\x0001\x0000 ennemi s'accroche avec\xfffesa Ventouse!
+\xf000Ă\x0001\x0000 aspire le Suintement!
+Le \xf000Ă\x0001\x0000 sauvage aspire\xfffele Suintement!
+Le \xf000Ă\x0001\x0000 ennemi aspire\xfffele Suintement!
+\xf000Ă\x0001\x0000 s'est fait voler l'objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage s'est fait voler\xfffel'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi s'est fait voler\xfffel'objet: \xf000ĉ\x0001\x0001!
+La capacité spéciale de \xf000Ă\x0001\x0000\xfffeest changée en Momie!
+La capacité spéciale du \xf000Ă\x0001\x0000 sauvage\xfffeest changée en Momie!
+La capacité spéciale du \xf000Ă\x0001\x0000 ennemi\xfffeest changée en Momie!
+\xf000Ă\x0001\x0000 a renvoyé \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage a\xffferenvoyé \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi a\xffferenvoyé \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 ne peut pas être attaqué\xfffepar ses alliés!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas être\xfffeattaqué par ses alliés!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas être\xfffeattaqué par ses alliés!
+\xf000Ă\x0001\x0000 est aspergé de poison!
+Le \xf000Ă\x0001\x0000 sauvage est aspergé de\xfffepoison!
+Le \xf000Ă\x0001\x0000 ennemi est aspergé de\xfffepoison!
+\xf000Ă\x0001\x0000 a récolté l'objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage a récolté l'objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi a récolté l'objet:\xfffe\xf000ĉ\x0001\x0001!
+L'Illusion de \xf000Ă\x0001\x0000 se brise!
+L'Illusion du \xf000Ă\x0001\x0000 sauvage se brise!
+L'Illusion du \xf000Ă\x0001\x0000 ennemi se brise!
+\xf000Ă\x0001\x0000 monte son Attaque au maximum!
+Le \xf000Ă\x0001\x0000 sauvage monte son Attaque\xfffeau maximum!
+Le \xf000Ă\x0001\x0000 ennemi monte son Attaque\xfffeau maximum!
+\xf000Ă\x0001\x0000 a le sommeil agité!
+Le \xf000Ă\x0001\x0000 sauvage a le sommeil agité!
+Le \xf000Ă\x0001\x0000 ennemi a le sommeil agité!
+\xf000Ă\x0001\x0000 augmente la pression!
+Le \xf000Ă\x0001\x0000 sauvage augmente\xfffela pression!
+Le \xf000Ă\x0001\x0000 ennemi augmente la pression!
+\xf000Ă\x0001\x0000 trouve un objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage trouve un objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi trouve un objet:\xfffe\xf000ĉ\x0001\x0001!
+L'objet de \xf000Ă\x0001\x0000 ne peut pas\xfffeêtre volé!
+L'objet du \xf000Ă\x0001\x0000 sauvage ne peut pas\xfffeêtre volé!
+L'objet du \xf000Ă\x0001\x0000 ennemi ne peut pas\xfffeêtre volé!
+\xf000Ă\x0001\x0000 n'arrive pas à se motiver!
+Le \xf000Ă\x0001\x0000 sauvage n'arrive pas\xfffeà se motiver!
+Le \xf000Ă\x0001\x0000 ennemi n'arrive pas\xfffeà se motiver!
+\xf000Ă\x0001\x0000 arrive enfin à\xfffes'y mettre sérieusement!
+Le \xf000Ă\x0001\x0000 sauvage arrive enfin à\xfffes'y mettre sérieusement!
+Le \xf000Ă\x0001\x0000 ennemi arrive enfin à\xfffes'y mettre sérieusement!
+\xf000Ă\x0001\x0000 dégage une aura\xfffeélectrique instable!
+Le \xf000Ă\x0001\x0000 sauvage dégage une aura\xfffeélectrique instable!
+Le \xf000Ă\x0001\x0000 ennemi dégage une aura\xfffeélectrique instable!
+\xf000Ă\x0001\x0000 dégage une aura\xfffede flammes incandescentes!
+Le \xf000Ă\x0001\x0000 sauvage dégage une aura\xfffede flammes incandescentes!
+Le \xf000Ă\x0001\x0000 ennemi dégage une aura\xfffede flammes incandescentes!
+\xf000Ă\x0001\x0000 et sa cible échangent\xfffeleurs capacités spéciales!
+Le \xf000Ă\x0001\x0000 sauvage et sa cible\xfffeéchangent leurs capacités spéciales!
+Le \xf000Ă\x0001\x0000 ennemi et sa cible échangent\xfffeleurs capacités spéciales!
+\xf000Ă\x0001\x0000 se prépare à encaisser\xfffeles coups!
+Le \xf000Ă\x0001\x0000 sauvage se prépare\xfffeà encaisser les coups!
+Le \xf000Ă\x0001\x0000 ennemi se prépare\xfffeà encaisser les coups!
+\xf000Ă\x0001\x0000 encaisse les coups!
+Le \xf000Ă\x0001\x0000 sauvage encaisse les coups!
+Le \xf000Ă\x0001\x0000 ennemi encaisse les coups!
+\xf000Ă\x0001\x0000 est prêt à se protéger!
+Le \xf000Ă\x0001\x0000 sauvage est prêt à\xfffese protéger!
+Le \xf000Ă\x0001\x0000 ennemi est prêt à\xfffese protéger!
+Ça transperce la protection de\xfffe\xf000Ă\x0001\x0000!
+Ça transperce la protection du\xfffe\xf000Ă\x0001\x0000 sauvage!
+Ça transperce la protection du\xfffe\xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 se protège!
+Le \xf000Ă\x0001\x0000 sauvage se protège!
+Le \xf000Ă\x0001\x0000 ennemi se protège!
+\xf000Ă\x0001\x0000 succombe à la Ruse!
+Le \xf000Ă\x0001\x0000 sauvage succombe à la Ruse!
+Le \xf000Ă\x0001\x0000 ennemi succombe à la Ruse!
+\xf000Ă\x0001\x0000 s'envole!
+Le \xf000Ă\x0001\x0000 sauvage s'envole!
+Le \xf000Ă\x0001\x0000 ennemi s'envole!
+La Frénésie de \xf000Ă\x0001\x0000 augmente!
+La Frénésie du \xf000Ă\x0001\x0000 sauvage\xfffeaugmente!
+La Frénésie du \xf000Ă\x0001\x0000 ennemi\xfffeaugmente!
+\xf000Ă\x0001\x0000 se cache sous l'eau!
+Le \xf000Ă\x0001\x0000 sauvage se cache sous l'eau!
+Le \xf000Ă\x0001\x0000 ennemi se cache sous l'eau!
+\xf000Ă\x0001\x0000 se cache dans le sol!
+Le \xf000Ă\x0001\x0000 sauvage se cache dans le sol!
+Le \xf000Ă\x0001\x0000 ennemi se cache dans le sol!
+\xf000Ă\x0001\x0000 a disparu instantanément!
+Le \xf000Ă\x0001\x0000 sauvage a disparu\xfffeinstantanément!
+Le \xf000Ă\x0001\x0000 ennemi a disparu\xfffeinstantanément!
+\xf000Ă\x0001\x0000 se propulse dans les airs!
+Le \xf000Ă\x0001\x0000 sauvage se propulse\xfffedans les airs!
+Le \xf000Ă\x0001\x0000 ennemi se propulse\xfffedans les airs!
+\xf000Ă\x0001\x0000 déclenche un cyclone!
+Le \xf000Ă\x0001\x0000 sauvage déclenche un\xfffecyclone!
+Le \xf000Ă\x0001\x0000 ennemi déclenche un\xfffecyclone!
+\xf000Ă\x0001\x0000 est entouré d'une\xfffelumière intense!
+Le \xf000Ă\x0001\x0000 sauvage est entouré\xfffed'une lumière intense!
+Le \xf000Ă\x0001\x0000 ennemi est entouré\xfffed'une lumière intense!
+\xf000Ă\x0001\x0000 absorbe la lumière!
+Le \xf000Ă\x0001\x0000 sauvage absorbe la lumière!
+Le \xf000Ă\x0001\x0000 ennemi absorbe la lumière!
+\xf000Ă\x0001\x0000 baisse la tête!
+Le \xf000Ă\x0001\x0000 sauvage baisse la tête!
+Le \xf000Ă\x0001\x0000 ennemi baisse la tête!
+\xf000Ă\x0001\x0000! Encore une fois!
+\xf000Ă\x0001\x0000 sauvage! Encore une fois!
+\xf000Ă\x0001\x0000 ennemi! Encore une fois!
+\xf000Ă\x0001\x0000 n'a plus à répéter\xfffela même capacité!
+Le \xf000Ă\x0001\x0000 sauvage n'a plus à répéter\xfffela même capacité!
+Le \xf000Ă\x0001\x0000 ennemi n'a plus à répéter\xfffela même capacité!
+La capacité spéciale de \xf000Ă\x0001\x0000\xfffene fait plus effet!
+La capacité spéciale du \xf000Ă\x0001\x0000 sauvage\xfffene fait plus effet!
+La capacité spéciale du \xf000Ă\x0001\x0000 ennemi\xfffene fait plus effet!
+\xf000Ă\x0001\x0000 répond à la Provoc!
+Le \xf000Ă\x0001\x0000 sauvage répond à la Provoc!
+Le \xf000Ă\x0001\x0000 ennemi répond à la Provoc!
+\xf000Ă\x0001\x0000 ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 après Provoc!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 après Provoc!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 après Provoc!
+\xf000Ă\x0001\x0000 a oublié la Provoc!
+Le \xf000Ă\x0001\x0000 sauvage a oublié la Provoc!
+Le \xf000Ă\x0001\x0000 ennemi a oublié la Provoc!
+\xf000Ă\x0001\x0000 est tourmenté!
+Le \xf000Ă\x0001\x0000 sauvage est tourmenté!
+Le \xf000Ă\x0001\x0000 ennemi est tourmenté!
+Tourmenté, \xf000Ă\x0001\x0000 ne peut pas utiliser\xfffeune capacité deux fois de suite!
+Tourmenté, le \xf000Ă\x0001\x0000 sauvage ne peut\xfffepas utiliser une capacité deux fois de suite!
+Tourmenté, le \xf000Ă\x0001\x0000 ennemi ne peut\xfffepas utiliser une capacité deux fois de suite!
+Les tourments de \xf000Ă\x0001\x0000 sont apaisés!
+Les tourments du \xf000Ă\x0001\x0000 sauvage\xfffesont apaisés!
+Les tourments du \xf000Ă\x0001\x0000 ennemi\xfffesont apaisés!
+\xf000Ă\x0001\x0000 bloque les capacités\xfffeen commun avec l'adversaire!
+Le \xf000Ă\x0001\x0000 sauvage bloque les\xfffecapacités en commun avec l'adversaire!
+Le \xf000Ă\x0001\x0000 ennemi bloque les\xfffecapacités en commun avec l'adversaire!
+\xf000Ă\x0001\x0000 ne peut pas utiliser\xfffela capacité bloquée \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas\xfffeutiliser la capacité bloquée \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas\xfffeutiliser la capacité bloquée \xf000ć\x0001\x0001!
+La capacité \xf000ć\x0001\x0001 de \xf000Ă\x0001\x0000\xfffeest mise sous Entrave!
+La capacité \xf000ć\x0001\x0001 du \xf000Ă\x0001\x0000\xfffesauvage est mise sous Entrave!
+La capacité \xf000ć\x0001\x0001 du \xf000Ă\x0001\x0000\xfffeennemi est mise sous Entrave!
+Il y a une Entrave sur \xf000ć\x0001\x0001\xfffede \xf000Ă\x0001\x0000!
+Il y a une Entrave sur \xf000ć\x0001\x0001\xfffedu \xf000Ă\x0001\x0000 sauvage!
+Il y a une Entrave sur \xf000ć\x0001\x0001\xfffedu \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 n'est plus sous Entrave!
+Le \xf000Ă\x0001\x0000 sauvage n'est plus\xfffesous Entrave!
+Le \xf000Ă\x0001\x0000 ennemi n'est plus\xfffesous Entrave!
+\xf000Ă\x0001\x0000 s'entoure d'un\xfffevoile d'eau!
+Le \xf000Ă\x0001\x0000 sauvage s'entoure d'un\xfffevoile d'eau!
+Le \xf000Ă\x0001\x0000 ennemi s'entoure d'un\xfffevoile d'eau!
+Le voile d'eau restaure les PV\xfffede \xf000Ă\x0001\x0000!
+Le voile d'eau restaure les PV\xfffedu \xf000Ă\x0001\x0000 sauvage!
+Le voile d'eau restaure les PV\xfffedu \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 est infecté!
+Le \xf000Ă\x0001\x0000 sauvage est infecté!
+Le \xf000Ă\x0001\x0000 ennemi est infecté!
+Vampigraine draine l'énergie de\xfffe\xf000Ă\x0001\x0000!
+Vampigraine draine l'énergie du\xfffe\xf000Ă\x0001\x0000 sauvage!
+Vampigraine draine l'énergie du\xfffe\xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 sacrifie ses PV et monte\xfffeson Attaque au maximum!
+Le \xf000Ă\x0001\x0000 sauvage sacrifie ses PV\xfffeet monte son Attaque au maximum!
+Le \xf000Ă\x0001\x0000 ennemi sacrifie ses PV\xfffeet monte son Attaque au maximum!
+\xf000Ă\x0001\x0000 se concentre davantage!
+Le \xf000Ă\x0001\x0000 sauvage se concentre\xfffedavantage!
+Le \xf000Ă\x0001\x0000 ennemi se concentre\xfffedavantage!
+\xf000Ă\x0001\x0000 copie \xf000Ć\x0001\x0002\xfffede \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 copie \xf000Ć\x0001\x0002\xfffedu \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 copie \xf000Ć\x0001\x0002\xfffedu \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage copie \xf000Ć\x0001\x0002\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage copie \xf000Ć\x0001\x0002\xfffedu \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi copie \xf000Ć\x0001\x0002\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi copie \xf000Ć\x0001\x0002\xfffedu \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 veut emmener son ennemi au\xfffetapis!
+Le \xf000Ă\x0001\x0000 sauvage veut emmener son\xfffeennemi au tapis!
+Le \xf000Ă\x0001\x0000 ennemi veut emmener son\xfffeennemi au tapis!
+\xf000Ă\x0001\x0000 emmène son adversaire au tapis!
+Le \xf000Ă\x0001\x0000 sauvage emmène son\xfffeadversaire au tapis!
+Le \xf000Ă\x0001\x0000 ennemi emmène son adversaire\xfffeau tapis!
+\xf000Ă\x0001\x0000 veut que son adversaire\xfffesubisse sa Rancune!
+Le \xf000Ă\x0001\x0000 sauvage veut que son\xfffeadversaire subisse sa Rancune!
+Le \xf000Ă\x0001\x0000 ennemi veut que son\xfffeadversaire subisse sa Rancune!
+\xf000ć\x0001\x0001 de \xf000Ă\x0001\x0000 perd ses PP\xfffeà cause de la Rancune!
+\xf000ć\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage perd\xfffeses PP à cause de la Rancune!
+\xf000ć\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi perd\xfffeses PP à cause de la Rancune!
+\xf000Ă\x0001\x0000 se sent mieux en dormant!
+Le \xf000Ă\x0001\x0000 sauvage se sent mieux\xfffeen dormant!
+Le \xf000Ă\x0001\x0000 ennemi se sent mieux\xfffeen dormant!
+Les PP de \xf000ć\x0001\x0001 de \xf000Ă\x0001\x0000\xfffebaissent de \xf000Ȁ\x0001\x0002!
+Les PP de \xf000ć\x0001\x0001 du \xf000Ă\x0001\x0000\xfffesauvage baissent de \xf000Ȁ\x0001\x0002!
+Les PP de \xf000ć\x0001\x0001 du \xf000Ă\x0001\x0000\xfffeennemi baissent de \xf000Ȁ\x0001\x0002!
+\xf000Ă\x0001\x0000 prend l'apparence\xfffede \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 prend l'apparence\xfffedu \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 prend l'apparence\xfffedu \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage prend l'apparence\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage prend l'apparence\xfffedu \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi prend l'apparence\xfffedu \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi prend l'apparence\xfffedu \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 vise \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 vise le \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 vise le \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage vise \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage vise le \xf000Ă\x0001\x0001\xfffesauvage!
+Le \xf000Ă\x0001\x0000 ennemi vise \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi vise le \xf000Ă\x0001\x0001\xfffeennemi!
+\xf000Ă\x0001\x0000 lévite sur un champ magnétique!
+Le \xf000Ă\x0001\x0000 sauvage lévite sur un champ\xfffemagnétique!
+Le \xf000Ă\x0001\x0000 ennemi lévite sur un champ\xfffemagnétique!
+Le magnétisme de \xf000Ă\x0001\x0000 se dissipe!
+Le magnétisme du \xf000Ă\x0001\x0000 sauvage\xfffese dissipe!
+Le magnétisme du \xf000Ă\x0001\x0000 ennemi\xfffese dissipe!
+\xf000Ă\x0001\x0000 se met à charger son énergie!
+Le \xf000Ă\x0001\x0000 sauvage se met à charger\xfffeson énergie!
+Le \xf000Ă\x0001\x0000 ennemi se met à charger\xfffeson énergie!
+Ça rend \xf000Ă\x0001\x0000 somnolent!
+Ça rend le \xf000Ă\x0001\x0000 sauvage somnolent!
+Ça rend le \xf000Ă\x0001\x0000 ennemi somnolent!
+\xf000Ă\x0001\x0000 devient le centre\xfffed'attention!
+Le \xf000Ă\x0001\x0000 sauvage devient le centre\xfffed'attention!
+Le \xf000Ă\x0001\x0000 ennemi devient le centre\xfffed'attention!
+\xf000Ă\x0001\x0000 échange les changements\xfffede stats avec sa cible!
+Le \xf000Ă\x0001\x0000 sauvage échange les\xfffechangements de stats avec sa cible!
+Le \xf000Ă\x0001\x0000 ennemi échange les\xfffechangements de stats avec sa cible!
+\xf000Ă\x0001\x0000 échange tous les changements\xfffede son Attaque et de son Attaque Spéciale\xf000븀\x0000\xfffeavec sa cible!
+Le \xf000Ă\x0001\x0000 sauvage échange tous les\xfffechangements de son Attaque et de son\xf000븀\x0000\xfffeAttaque Spéciale avec sa cible!
+Le \xf000Ă\x0001\x0000 ennemi échange tous les\xfffechangements de son Attaque et de son\xf000븀\x0000\xfffeAttaque Spéciale avec sa cible!
+\xf000Ă\x0001\x0000 échange tous les changements\xfffede sa Défense et de sa Défense Spéciale\xf000븀\x0000\xfffeavec sa cible!
+Le \xf000Ă\x0001\x0000 sauvage échange tous les\xfffechangements de sa Défense et de sa\xf000븀\x0000\xfffeDéfense Spéciale avec sa cible!
+Le \xf000Ă\x0001\x0000 ennemi échange tous les\xfffechangements de sa Défense et de sa\xf000븀\x0000\xfffeDéfense Spéciale avec sa cible!
+\xf000Ă\x0001\x0000 échange son objet avec celui\xfffede sa cible!
+Le \xf000Ă\x0001\x0000 sauvage échange son objet\xfffeavec celui de sa cible!
+Le \xf000Ă\x0001\x0000 ennemi échange son objet\xfffeavec celui de sa cible!
+\xf000Ă\x0001\x0000 obtient: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage obtient:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi obtient:\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 apprend \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage apprend\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi apprend\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 gribouille \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage gribouille\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi gribouille\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 est baigné par des rayons\xfffede lune!
+Le \xf000Ă\x0001\x0000 sauvage est baigné\xfffepar des rayons de lune!
+Le \xf000Ă\x0001\x0000 ennemi est baigné\xfffepar des rayons de lune!
+Le Vœu Soin est exaucé et profite\xfffeà \xf000Ă\x0001\x0000!
+Le Vœu Soin est exaucé et profite\xfffeau \xf000Ă\x0001\x0000 sauvage!
+Le Vœu Soin est exaucé et profite\xfffeau \xf000Ă\x0001\x0000 ennemi!
+Le Vœu de \xf000Ă\x0001\x0000 se réalise!
+Le Vœu du \xf000Ă\x0001\x0000 sauvage se réalise!
+Le Vœu du \xf000Ă\x0001\x0000 ennemi se réalise!
+\xf000Ă\x0001\x0000 provoque un Brouhaha!
+Le \xf000Ă\x0001\x0000 sauvage provoque\xfffeun Brouhaha!
+Le \xf000Ă\x0001\x0000 ennemi provoque\xfffeun Brouhaha!
+\xf000Ă\x0001\x0000 est réveillé par le Brouhaha!
+Le \xf000Ă\x0001\x0000 sauvage est réveillé par\xfffele Brouhaha!
+Le \xf000Ă\x0001\x0000 ennemi est réveillé par\xfffele Brouhaha!
+Mais le Brouhaha tient \xf000Ă\x0001\x0000 éveillé!
+Mais le Brouhaha tient le \xf000Ă\x0001\x0000\xfffesauvage éveillé!
+Mais le Brouhaha tient le \xf000Ă\x0001\x0000 ennemi\xfffeéveillé!
+Mais son Brouhaha empêche \xf000Ă\x0001\x0000 de\xfffedormir!
+Mais son Brouhaha empêche le \xf000Ă\x0001\x0000\xfffesauvage de dormir!
+Mais son Brouhaha empêche le \xf000Ă\x0001\x0000\xfffeennemi de dormir!
+\xf000Ă\x0001\x0000 continue son Brouhaha!
+Le \xf000Ă\x0001\x0000 sauvage continue\xfffeson Brouhaha!
+Le \xf000Ă\x0001\x0000 ennemi continue\xfffeson Brouhaha!
+\xf000Ă\x0001\x0000 se calme.
+Le \xf000Ă\x0001\x0000 sauvage se calme.
+Le \xf000Ă\x0001\x0000 ennemi se calme.
+\xf000Ă\x0001\x0000 utilise Stockage \xf000Ȁ\x0001\x0001 fois!
+Le \xf000Ă\x0001\x0000 sauvage utilise Stockage\xfffe\xf000Ȁ\x0001\x0001 fois!
+Le \xf000Ă\x0001\x0000 ennemi utilise Stockage\xfffe\xf000Ȁ\x0001\x0001 fois!
+Les effets accumulés par \xf000Ă\x0001\x0000\xfffese dissipent!
+Les effets accumulés par le \xf000Ă\x0001\x0000\xfffesauvage se dissipent!
+Les effets accumulés par le \xf000Ă\x0001\x0000\xfffeennemi se dissipent!
+\xf000Ă\x0001\x0000 ne peut plus utiliser d'objets!
+Le \xf000Ă\x0001\x0000 sauvage ne peut plus\xfffeutiliser d'objets!
+Le \xf000Ă\x0001\x0000 ennemi ne peut plus\xfffeutiliser d'objets!
+\xf000Ă\x0001\x0000 peut de nouveau utiliser des\xfffeobjets!
+Le \xf000Ă\x0001\x0000 sauvage peut de nouveau\xfffeutiliser des objets!
+Le \xf000Ă\x0001\x0000 ennemi peut de nouveau\xfffeutiliser des objets!
+\xf000Ă\x0001\x0000 ramasse l'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage ramasse l'objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi ramasse l'objet:\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 plante ses racines!
+Le \xf000Ă\x0001\x0000 sauvage plante\xfffeses racines!
+Le \xf000Ă\x0001\x0000 ennemi plante\xfffeses racines!
+\xf000Ă\x0001\x0000 absorbe des nutriments avec\xfffeses racines!
+Le \xf000Ă\x0001\x0000 sauvage absorbe des\xfffenutriments avec ses racines!
+Le \xf000Ă\x0001\x0000 ennemi absorbe des\xfffenutriments avec ses racines!
+\xf000Ă\x0001\x0000 s'accroche avec ses racines!
+Le \xf000Ă\x0001\x0000 sauvage s'accroche avec ses\xffferacines!
+Le \xf000Ă\x0001\x0000 ennemi s'accroche avec ses\xffferacines!
+\xf000Ă\x0001\x0000 se concentre!
+Le \xf000Ă\x0001\x0000 sauvage se concentre!
+Le \xf000Ă\x0001\x0000 ennemi se concentre!
+\xf000Ă\x0001\x0000 envoie la sauce!
+Le \xf000Ă\x0001\x0000 sauvage envoie la sauce!
+Le \xf000Ă\x0001\x0000 ennemi envoie la sauce!
+\xf000Ă\x0001\x0000 attend que son ennemi agisse!
+Le \xf000Ă\x0001\x0000 sauvage attend que son\xfffeennemi agisse!
+Le \xf000Ă\x0001\x0000 ennemi attend que son ennemi\xfffeagisse!
+\xf000Ă\x0001\x0000 saisit la capacité\xfffede \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 saisit la capacité\xfffedu \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 saisit la capacité\xfffedu \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage saisit la capacité\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage saisit la capacité\xfffedu \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi saisit la capacité\xfffede \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi saisit la capacité\xfffedu \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 s'entoure du Reflet Magik!
+Le \xf000Ă\x0001\x0000 sauvage s'entoure du\xfffeReflet Magik!
+Le \xf000Ă\x0001\x0000 ennemi s'entoure du\xfffeReflet Magik!
+\xf000Ă\x0001\x0000 repousse \xf000ć\x0001\x0001!\xfffeRetour à l'envoyeur!
+Le \xf000Ă\x0001\x0000 sauvage repousse\xfffe\xf000ć\x0001\x0001! Retour à l'envoyeur!
+Le \xf000Ă\x0001\x0000 ennemi repousse\xfffe\xf000ć\x0001\x0001! Retour à l'envoyeur!
+\xf000Ă\x0001\x0000 s'enfuit!
+Le \xf000Ă\x0001\x0000 sauvage s'enfuit!
+Le \xf000Ă\x0001\x0000 ennemi s'enfuit!
+\xf000Ă\x0001\x0000 revient vers \xf000Ā\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage revient vers\xfffe\xf000Ā\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi revient vers\xfffe\xf000Ā\x0001\x0001!
+\xf000Ă\x0001\x0000 échange son Attaque et\xfffesa Défense!
+Le \xf000Ă\x0001\x0000 sauvage échange son Attaque\xfffeet sa Défense!
+Le \xf000Ă\x0001\x0000 ennemi échange son Attaque\xfffeet sa Défense!
+\xf000Ă\x0001\x0000 vole et mange l'objet\xfffe\xf000ĉ\x0001\x0001 de la cible!
+Le \xf000Ă\x0001\x0000 sauvage vole et mange\xfffel'objet \xf000ĉ\x0001\x0001 de la cible!
+Le \xf000Ă\x0001\x0000 ennemi vole et mange\xfffel'objet \xf000ĉ\x0001\x0001 de la cible!
+\xf000Ă\x0001\x0000 lance son objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage lance son objet:\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi lance son objet:\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 repousse \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage repousse\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi repousse\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 crée un clone!
+Le \xf000Ă\x0001\x0000 sauvage crée un clone!
+Le \xf000Ă\x0001\x0000 ennemi crée un clone!
+\xf000Ă\x0001\x0000 a déjà un clone!
+Le \xf000Ă\x0001\x0000 sauvage a déjà un clone!
+Le \xf000Ă\x0001\x0000 ennemi a déjà un clone!
+Le clone prend les dégâts pour \xf000Ă\x0001\x0000!
+Le clone prend les dégâts pour le\xfffe\xf000Ă\x0001\x0000 sauvage!
+Le clone prend les dégâts pour le\xfffe\xf000Ă\x0001\x0000 ennemi!
+Le clone de \xf000Ă\x0001\x0000 disparaît...
+Le clone du \xf000Ă\x0001\x0000 sauvage disparaît...
+Le clone du \xf000Ă\x0001\x0000 ennemi disparaît...
+\xf000Ă\x0001\x0000 est protégé par Garde Large!
+Le \xf000Ă\x0001\x0000 sauvage est protégé\xfffepar Garde Large!
+Le \xf000Ă\x0001\x0000 ennemi est protégé\xfffepar Garde Large!
+\xf000Ă\x0001\x0000 est protégé par Prévention!
+Le \xf000Ă\x0001\x0000 sauvage est protégé\xfffepar Prévention!
+Le \xf000Ă\x0001\x0000 ennemi est protégé\xfffepar Prévention!
+\xf000Ă\x0001\x0000 est pris dans l'étreinte\xfffede \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 est pris dans l'étreinte\xfffedu \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 est pris dans l'étreinte\xfffedu \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage est pris dans\xfffel'étreinte de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est pris dans\xfffel'étreinte du \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi est pris dans\xfffel'étreinte de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est pris dans\xfffel'étreinte du \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 est ligoté par \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 est ligoté par\xfffele \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 est ligoté par\xfffele \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage est ligoté\xfffepar \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est ligoté par\xfffele \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi est ligoté\xfffepar \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est ligoté\xfffepar le \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 est pris dans le Claquoir\xfffede \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 est pris dans le Claquoir\xfffedu \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 est pris dans le Claquoir\xfffedu \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage est pris dans\xfffele Claquoir de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est pris dans\xfffele Claquoir du \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi est pris dans\xfffele Claquoir de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est pris dans\xfffele Claquoir du \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 est piégé dans le tourbillon!
+Le \xf000Ă\x0001\x0000 sauvage est piégé dans le\xfffetourbillon!
+Le \xf000Ă\x0001\x0000 ennemi est piégé dans le\xfffetourbillon!
+\xf000Ă\x0001\x0000 est piégé dans un tourbillon\xfffede feu!
+Le \xf000Ă\x0001\x0000 sauvage est piégé dans un\xfffetourbillon de feu!
+Le \xf000Ă\x0001\x0000 ennemi est piégé dans un\xfffetourbillon de feu!
+\xf000Ă\x0001\x0000 est piégé dans un tourbillon\xfffede magma!
+Le \xf000Ă\x0001\x0000 sauvage est piégé dans un\xfffetourbillon de magma!
+Le \xf000Ă\x0001\x0000 ennemi est piégé dans un\xfffetourbillon de magma!
+\xf000Ă\x0001\x0000 est piégé par le Tourbi-Sable!
+Le \xf000Ă\x0001\x0000 sauvage est piégé par\xfffele Tourbi-Sable!
+Le \xf000Ă\x0001\x0000 ennemi est piégé par\xfffele Tourbi-Sable!
+\xf000Ă\x0001\x0000 n'a plus de capacités!
+Le \xf000Ă\x0001\x0000 sauvage n'a plus\xfffede capacités!
+Le \xf000Ă\x0001\x0000 ennemi n'a plus\xfffede capacités!
+L'équipe de \xf000Ă\x0001\x0000 est protégée par\xfffeRune Protect!
+L'équipe du \xf000Ă\x0001\x0000 sauvage est\xfffeprotégée par Rune Protect!
+L'équipe du \xf000Ă\x0001\x0000 ennemi est\xfffeprotégée par Rune Protect!
+\xf000Ă\x0001\x0000 est protégé par la Brume!
+Le \xf000Ă\x0001\x0000 sauvage est protégé par\xfffela Brume!
+Le \xf000Ă\x0001\x0000 ennemi est protégé par\xfffela Brume!
+\xf000Ă\x0001\x0000 est traîné de force au combat!
+Le \xf000Ă\x0001\x0000 sauvage est traîné de\xfffeforce au combat!
+Le \xf000Ă\x0001\x0000 ennemi est traîné de\xfffeforce au combat!
+Le contrecoup empêche \xf000Ă\x0001\x0000\xfffede bouger!
+Le contrecoup empêche le \xf000Ă\x0001\x0000\xfffesauvage de bouger!
+Le contrecoup empêche le \xf000Ă\x0001\x0000\xfffeennemi de bouger!
+\xf000Ă\x0001\x0000 est blessé par les Picots!
+Le \xf000Ă\x0001\x0000 sauvage est blessé par\xfffeles Picots!
+Le \xf000Ă\x0001\x0000 ennemi est blessé par\xfffeles Picots!
+Des pierres pointues transpercent\xfffe\xf000Ă\x0001\x0000!
+Des pierres pointues transpercent\xfffele \xf000Ă\x0001\x0000 sauvage!
+Des pierres pointues transpercent\xfffele \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 fausse les dimensions!
+Le \xf000Ă\x0001\x0000 sauvage fausse les\xfffedimensions!
+Le \xf000Ă\x0001\x0000 ennemi fausse les\xfffedimensions!
+Le compte à rebours du Requiem de\xfffe\xf000Ă\x0001\x0000 descend à \xf000Ȁ\x0001\x0001!
+Le compte à rebours du Requiem du\xfffe\xf000Ă\x0001\x0000 sauvage descend à \xf000Ȁ\x0001\x0001!
+Le compte à rebours du Requiem du\xfffe\xf000Ă\x0001\x0000 ennemi descend à \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000 est baigné par une lumière\xfffeblafarde!
+Le \xf000Ă\x0001\x0000 sauvage est baigné par une\xfffelumière blafarde!
+Le \xf000Ă\x0001\x0000 ennemi est baigné par une\xfffelumière blafarde!
+\xf000Ă\x0001\x0000 est entouré d'un air glacial!
+Le \xf000Ă\x0001\x0000 sauvage est entouré d'un air\xfffeglacial!
+Le \xf000Ă\x0001\x0000 ennemi est entouré d'un air\xfffeglacial!
+\xf000Ă\x0001\x0000 empêche la fuite\xfffeavec \xf000Ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage empêche la fuite\xfffeavec \xf000Ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi empêche la fuite\xfffeavec \xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 ne peut plus s'échapper!
+Le \xf000Ă\x0001\x0000 sauvage ne peut plus\xfffes'échapper!
+Le \xf000Ă\x0001\x0000 ennemi ne peut plus\xfffes'échapper!
+\xf000Ă\x0001\x0000 ne peut pas s'échapper!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas\xfffes'échapper!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas\xfffes'échapper!
 \xf000Ă\x0001\x0000の　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
 やせいの　\xf000Ă\x0001\x0000の　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
 あいての　\xf000Ă\x0001\x0000の　\xfffe\xf000Ć\x0001\x0001　で\xfffeいれかえることが　できない！
-\xf000Ă\x0001\x0000は\xfffeかいふくどうさを　ふうじられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeかいふくどうさを　ふうじられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeかいふくどうさを　ふうじられた！
-\xf000Ă\x0001\x0000の\xfffeかいふくふうじの　こうかが　きれた！
-やせいの　\xf000Ă\x0001\x0000の\xfffeかいふくふうじの　こうかが　きれた！
-あいての　\xf000Ă\x0001\x0000の\xfffeかいふくふうじの　こうかが　きれた！
-\xf000Ă\x0001\x0000は\xfffeかいふくふうじで　かいふく　できない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeかいふくふうじで　かいふく　できない！
-あいての　\xf000Ă\x0001\x0000は\xfffeかいふくふうじで　かいふく　できない！
-\xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-やせいの　\xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-あいての　\xf000Ă\x0001\x0000は　かいふくふうじで\xfffe\xf000ć\x0001\x0001が　だせない！
-しかし　\xf000Ă\x0001\x0000は\xfffeたいりょくが　まんたんだ！
-しかし　やせいの　\xf000Ă\x0001\x0000は\xfffeたいりょくが　まんたんだ！
-しかし　あいての　\xf000Ă\x0001\x0000は\xfffeたいりょくが　まんたんだ！
-\xf000Ă\x0001\x0000は\xfffe\xf000ă\x0001\x0001タイプに　なった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ă\x0001\x0001タイプに　なった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ă\x0001\x0001タイプに　なった！
-\xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-やせいの　\xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-あいての　\xf000Ă\x0001\x0000から\xfffeたいりょくを　すいとった！
-いきおいあまって　\xf000Ă\x0001\x0000は\xfffeじめんに　ぶつかった！
-いきおいあまって　やせいの　\xf000Ă\x0001\x0000は\xfffeじめんに　ぶつかった！
-いきおいあまって　あいての　\xf000Ă\x0001\x0000は\xfffeじめんに　ぶつかった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　つかえない！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　つかえない！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　つかえない！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeたいりょくを　かいふくした！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffe\xf000ć\x0001\x0002のＰＰを　かいふくした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffe\xf000ć\x0001\x0002のＰＰを　かいふくした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffe\xf000ć\x0001\x0002のＰＰを　かいふくした！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で すこし　かいふく
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeどく　が　なおった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeまひ　が　なおった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめを　さました！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめを　さました！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめを　さました！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこおりじょうたいが　なおった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこんらんが　なおった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeメロメロじょうたいが　なおった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　ぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　ぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　ぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeこうげきが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeぼうぎょが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくこうが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeとくぼうが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeすばやさが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeめいちゅうりつが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　ぐぐーんと　あがった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　ぐぐーんと　あがった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で\xf000븀\x0000\xfffeかいひりつが　ぐぐーんと　あがった！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000\xfffeはりきりだした！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000\xfffeはりきりだした！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかって\xf000븀\x0000\xfffeはりきりだした！
-\xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-やせいの　\xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-あいての　\xf000Ă\x0001\x0000は　もっていた\xfffe\xf000ĉ\x0001\x0001を　つかって　にげた！
-\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001で　もちこたえた！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeステータスを　もとに　もどした！
-\xf000Ă\x0001\x0000は\xfffeいのちが　すこし　けずられた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeいのちが　すこし　けずられた！
-あいての　\xf000Ă\x0001\x0000は\xfffeいのちが　すこし　けずられた！
-…しかし　\xf000Ă\x0001\x0000は\xfffeこのばに　いなかった！
-…しかし　やせいの　\xf000Ă\x0001\x0000は\xfffeこのばに　いなかった！
-…しかし　あいての　\xf000Ă\x0001\x0000は\xfffeこのばに　いなかった！
-…しかし　\xf000Ă\x0001\x0000は\xfffeつかえる　どうぐを　もっていなかった！
-…しかし　やせいの　\xf000Ă\x0001\x0000は\xfffeつかえる　どうぐを　もっていなかった！
-…しかし　あいての　\xf000Ă\x0001\x0000は\xfffeつかえる　どうぐを　もっていなかった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeちからが　みなぎった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeこうどうが　はやくなった！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000\xfffeあたりやすくなった！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000\xfffeあたりやすくなった！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeつぎに　くりだす　わざが\xf000븀\x0000\xfffeあたりやすくなった！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000\xfffeダメージを　うけた！
-\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-やせいの　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-あいての　\xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001で\xfffeダメージを　うけた！
-\xf000Ă\x0001\x0000は\xfffeはりきっている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeはりきっている！
-あいての　\xf000Ă\x0001\x0000は\xfffeはりきっている！
-\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-やせいの　\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-あいての　\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001を\xfffeてだすけする　たいせいに　はいった！
-\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-やせいの　\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-あいての　\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001の\xfffeのうりょく　へんかを　コピーした！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は　やせいの　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は　あいての　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-やせいの　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-あいての　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001の\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001の\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　はたきおとした！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うばいとった！
-\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffe\xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffeやせいの　\xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffeあいての　\xf000Ă\x0001\x0001に　のろいを　かけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffe\xf000Ă\x0001\x0001に　のろいを　かけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffeやせいの　\xf000Ă\x0001\x0001に　のろいを　かけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffe\xf000Ă\x0001\x0001に　のろいを　かけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeじぶんの　たいりょくを　けずって\xf000븀\x0000\xfffeあいての　\xf000Ă\x0001\x0001に　のろいを　かけた！
-\xf000Ă\x0001\x0000は\xfffeのろわれている！
-やせいの　\xf000Ă\x0001\x0000は\xfffeのろわれている！
-あいての　\xf000Ă\x0001\x0000は\xfffeのろわれている！
-\xf000Ă\x0001\x0000は\xfffeみらいに　こうげきを　よちした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeみらいに　こうげきを　よちした！
-あいての　\xf000Ă\x0001\x0000は\xfffeみらいに　こうげきを　よちした！
-\xf000Ă\x0001\x0000は\xfffeはめつのねがいを　みらいに　たくした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeはめつのねがいを　みらいに　たくした！
-あいての　\xf000Ă\x0001\x0000は\xfffeはめつのねがいを　みらいに　たくした！
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　こうげきを　うけた！
-\xf000Ă\x0001\x0000は\xfffeじゅうりょくの　えいきょうで\xf000븀\x0000\xfffeくうちゅうに　いられなくなった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじゅうりょくの　えいきょうで\xf000븀\x0000\xfffeくうちゅうに　いられなくなった！
-あいての　\xf000Ă\x0001\x0000は\xfffeじゅうりょくの　えいきょうで\xf000븀\x0000\xfffeくうちゅうに　いられなくなった！
-\xf000Ă\x0001\x0000は\xfffeじゅうりょくが　つよくて\xf000븀\x0000\xfffe\xf000ć\x0001\x0001が　だせない！
-やせいの　\xf000Ă\x0001\x0000は\xfffeじゅうりょくが　つよくて\xf000븀\x0000\xfffe\xf000ć\x0001\x0001が　だせない！
-あいての　\xf000Ă\x0001\x0000は\xfffeじゅうりょくが　つよくて\xf000븀\x0000\xfffe\xf000ć\x0001\x0001が　だせない！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001と\xf000븀\x0000\xfffeおなじタイプになった！
-\xf000Ă\x0001\x0000は\xfffeおたがいのパワーを　シェアした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeおたがいのパワーを　シェアした！
-あいての　\xf000Ă\x0001\x0000は\xfffeおたがいのパワーを　シェアした！
-\xf000Ă\x0001\x0000は\xfffeおたがいのガードを　シェアした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeおたがいのガードを　シェアした！
-あいての　\xf000Ă\x0001\x0000は\xfffeおたがいのガードを　シェアした！
-\xf000Ă\x0001\x0000は\xfffeみがるになった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeみがるになった！
-あいての　\xf000Ă\x0001\x0000は\xfffeみがるになった！
-\xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-やせいの　\xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-あいての　\xf000Ă\x0001\x0000にも\xfffeひばなが　ふりかかった！
-\xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-やせいの　\xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-あいての　\xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001は　やけてなくなった！
-\xf000Ă\x0001\x0000は \xf000Ă\x0001\x0001から\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001から\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002を　うけとった！
-\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は　やせいの　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は　あいての　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-やせいの　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001を\xf000븀\x0000\xfffeじょうくうに　つれさった！
-あいての　\xf000Ă\x0001\x0000は　\xf000Ă\x0001\x0001を\xfffeじょうくうに　つれさった！
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001を\xf000븀\x0000\xfffeじょうくうに　つれさった！
-\xf000Ă\x0001\x0000は\xfffeフリーフォールから　かいほうされた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeフリーフォールから　かいほうされた！
-あいての　\xf000Ă\x0001\x0000は\xfffeフリーフォールから　かいほうされた！
-\xf000Ă\x0001\x0000は\xfffeうちおとされて　じめんに　おちた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeうちおとされて　じめんに　おちた！
-あいての　\xf000Ă\x0001\x0000は\xfffeうちおとされて　じめんに　おちた！
-\xf000Ă\x0001\x0000の\xfffeじゅんばんを　さきおくりした！
-やせいの　\xf000Ă\x0001\x0000の\xfffeじゅんばんを　さきおくりした！
-あいての　\xf000Ă\x0001\x0000の\xfffeじゅんばんを　さきおくりした！
-\xf000Ă\x0001\x0000は\xfffeおことばに　あまえることにした！
-やせいの　\xf000Ă\x0001\x0000は\xfffeおことばに　あまえることにした！
-あいての　\xf000Ă\x0001\x0000は\xfffeおことばに　あまえることにした！
-\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-やせいの　\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-あいての　\xf000Ă\x0001\x0000と\xfffe\xf000Ă\x0001\x0001は　ばしょを　いれかえた！
-\xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-やせいの　\xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-あいての　\xf000Ă\x0001\x0000を\xfffeちゅうに　うかせた！
-\xf000Ă\x0001\x0000は\xfffeテレキネシスから　かいほうされた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeテレキネシスから　かいほうされた！
-あいての　\xf000Ă\x0001\x0000は\xfffeテレキネシスから　かいほうされた！
-\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001を　まっている…
-\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001を　まっている…
-\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001を　まっている…
-やせいの　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001を　まっている…
-やせいの　\xf000Ă\x0001\x0000は\xfffeやせいの　\xf000Ă\x0001\x0001を　まっている…
-あいての　\xf000Ă\x0001\x0000は\xfffe\xf000Ă\x0001\x0001を　まっている…
-あいての　\xf000Ă\x0001\x0000は\xfffeあいての　\xf000Ă\x0001\x0001を　まっている…
-\xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-やせいの　\xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-あいての　\xf000Ă\x0001\x0000と\xfffeいきが　ピッタリだ！
-\xf000Ă\x0001\x0000は\xfffeひのうみの　ダメージをうけた！
-やせいの　\xf000Ă\x0001\x0000は\xfffeひのうみの　ダメージをうけた！
-あいての　\xf000Ă\x0001\x0000は\xfffeひのうみの　ダメージをうけた！
+\xf000Ă\x0001\x0000 ne peut pas guérir!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas guérir!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas guérir!
+\xf000Ă\x0001\x0000 peut à nouveau guérir!
+Le \xf000Ă\x0001\x0000 sauvage peut à nouveau\xfffeguérir!
+Le \xf000Ă\x0001\x0000 ennemi peut à nouveau guérir!
+\xf000Ă\x0001\x0000 ne peut pas guérir à cause\xfffed'Anti-Soin!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas guérir\xfffeà cause d'Anti-Soin!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas guérir\xfffeà cause d'Anti-Soin!
+\xf000Ă\x0001\x0000 ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 à cause d'Anti-Soin!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 à cause d'Anti-Soin!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 à cause d'Anti-Soin!
+Les PV de \xf000Ă\x0001\x0000 sont au maximum!
+Les PV du \xf000Ă\x0001\x0000 sauvage sont\xfffeau maximum!
+Les PV du \xf000Ă\x0001\x0000 ennemi sont\xfffeau maximum!
+\xf000Ă\x0001\x0000 prend le type \xf000ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage prend le\xfffetype \xf000ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi prend le\xfffetype \xf000ă\x0001\x0001!
+L'énergie de \xf000Ă\x0001\x0000 est drainée!
+L'énergie du \xf000Ă\x0001\x0000 sauvage\xfffeest drainée!
+L'énergie du \xf000Ă\x0001\x0000 ennemi\xfffeest drainée!
+\xf000Ă\x0001\x0000 s'écrase au sol!
+Le \xf000Ă\x0001\x0000 sauvage s'écrase au sol!
+Le \xf000Ă\x0001\x0000 ennemi s'écrase au sol!
+Impossible pour \xf000Ă\x0001\x0000 d'utiliser la\xfffecapacité \xf000ć\x0001\x0001!
+Impossible pour le \xf000Ă\x0001\x0000 sauvage\xfffed'utiliser la capacité \xf000ć\x0001\x0001!
+Impossible pour le \xf000Ă\x0001\x0000 ennemi\xfffed'utiliser la capacité \xf000ć\x0001\x0001!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 restaure\xfffeson énergie!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xffferestaure son énergie!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xffferestaure son énergie!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 restaure\xfffeles PP de \xf000ć\x0001\x0002!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xffferestaure les PP de \xf000ć\x0001\x0002!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xffferestaure les PP de \xf000ć\x0001\x0002!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 restaure\xfffeun peu ses PV!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xffferestaure un peu ses PV!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xffferestaure un peu ses PV!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 le guérit de\xfffeson empoisonnement!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage le\xfffeguérit de son empoisonnement!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi le\xfffeguérit de son empoisonnement!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 le sort de sa\xfffeparalysie!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage le\xfffesort de sa paralysie!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi le\xfffesort de sa paralysie!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 le réveille!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xfffele réveille!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xfffele réveille!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 le dégèle!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xfffele dégèle!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xfffele dégèle!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 le guérit de sa\xfffebrûlure!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xfffele guérit de sa brûlure!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xfffele guérit de sa brûlure!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 le tire de sa\xfffeconfusion!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage le tire\xfffede sa confusion!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi le tire\xfffede sa confusion!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait faner son\xfffeamour!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffefaner son amour!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffefaner son amour!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffeson Attaque!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter son Attaque!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter son Attaque!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffesa Défense!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter sa Défense!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter sa Défense!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffeson Attaque Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffesa Défense Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffesa Vitesse!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffesa Précision!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter sa Précision!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter sa Précision!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait augmenter\xfffeson Esquive!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeaugmenter son Esquive!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeaugmenter son Esquive!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter son Attaque!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter son Attaque!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffebeaucoup augmenter son Attaque!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter sa Défense!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter sa Défense!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffebeaucoup augmenter sa Défense!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffebeaucoup augmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffebeaucoup augmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xfffefait beaucoup augmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter sa Précision!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter sa Précision!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffebeaucoup augmenter sa Précision!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait beaucoup\xfffeaugmenter son Esquive!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffebeaucoup augmenter son Esquive!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffebeaucoup augmenter son Esquive!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter son Attaque!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter son Attaque!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter son Attaque!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter sa Défense!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter sa Défense!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter sa Défense!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter son Attaque Spéciale!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter sa Défense Spéciale!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter sa Vitesse!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter sa Précision!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter sa Précision!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter sa Précision!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 fait énormément\xfffeaugmenter son Esquive!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage fait\xfffeénormément augmenter son Esquive!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi fait\xfffeénormément augmenter son Esquive!
+\xf000Ă\x0001\x0000 est plein d'énergie grâce\xfffeà l'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est plein d'énergie\xfffegrâce à l'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est plein d'énergie\xfffegrâce à l'objet: \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 fuit en utilisant l'objet\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage fuit en utilisant\xfffel'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi fuit en utilisant\xfffel'objet \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 tient bon grâce à l'objet\xfffe\xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage tient bon grâce\xfffeà l'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi tient bon grâce\xfffeà l'objet \xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 restaure ses\xfffestats!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xffferestaure ses stats!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xffferestaure ses stats!
+\xf000Ă\x0001\x0000 perd quelques PV!
+Le \xf000Ă\x0001\x0000 sauvage perd quelques PV!
+Le \xf000Ă\x0001\x0000 ennemi perd quelques PV!
+... Mais \xf000Ă\x0001\x0000 n'était plus là!
+... Mais le \xf000Ă\x0001\x0000 sauvage n'était plus\xfffelà!
+... Mais le \xf000Ă\x0001\x0000 ennemi n'était plus\xfffelà!
+... Mais \xf000Ă\x0001\x0000 n'avait plus d'objet!
+... Mais le \xf000Ă\x0001\x0000 sauvage n'avait plus\xfffed'objet!
+... Mais le \xf000Ă\x0001\x0000 ennemi n'avait plus\xfffed'objet!
+\xf000Ă\x0001\x0000 est complètement chargé grâce\xfffeà l'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est complètement\xfffechargé grâce à l'objet \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est complètement\xfffechargé grâce à l'objet \xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 lui permet\xfffed'agir en premier!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xfffelui permet d'agir en premier!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xfffelui permet d'agir en premier!
+\xf000Ă\x0001\x0000 augmente la Précision\xfffede sa prochaine capacité avec\xf000븀\x0000\xfffel'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage augmente\xfffela Précision de sa prochaine capacité\xf000븀\x0000\xfffeavec l'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi augmente\xfffela Précision de sa prochaine capacité\xf000븀\x0000\xfffeavec l'objet: \xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001 blesse\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 sauvage\xfffeblesse \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 ennemi\xfffeblesse \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001 blesse\xfffele \xf000Ă\x0001\x0000 sauvage!
+\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 sauvage\xfffeblesse le \xf000Ă\x0001\x0000 sauvage!
+\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001 blesse\xfffele \xf000Ă\x0001\x0000 ennemi!
+\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 ennemi\xfffeblesse le \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 est blessé\xfffepar l'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est blessé\xfffepar l'objet: \xf000ĉ\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi est blessé\xfffepar l'objet: \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 se gonfle!
+Le \xf000Ă\x0001\x0000 sauvage se gonfle!
+Le \xf000Ă\x0001\x0000 ennemi se gonfle!
+\xf000Ă\x0001\x0000 est prêt à aider\xfffe\xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage est prêt à aider\xfffele \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi est prêt à aider\xfffele \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 copie les changements\xfffede stats de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage copie les\xfffechangements de stats de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi copie les\xfffechangements de stats de \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi fait tomber l'objet\xfffe\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 vole l'objet \xf000ĉ\x0001\x0002\xfffeà \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 vole l'objet \xf000ĉ\x0001\x0002\xfffeau \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 vole l'objet \xf000ĉ\x0001\x0002\xfffeau \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage vole l'objet\xfffe\xf000ĉ\x0001\x0002 à \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage vole l'objet\xfffe\xf000ĉ\x0001\x0002 au \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi vole l'objet\xfffe\xf000ĉ\x0001\x0002 à \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi vole l'objet\xfffe\xf000ĉ\x0001\x0002 au \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 sacrifie ses PV et lance une\xfffeMalédiction à \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 sacrifie ses PV et lance une\xfffeMalédiction au \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 sacrifie ses PV et lance une\xfffeMalédiction au \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage sacrifie ses PV et\xfffelance une Malédiction à \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage sacrifie ses PV\xfffeet lance une Malédiction au\xf000븀\x0000\xfffe\xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi sacrifie ses PV et\xfffelance une Malédiction à \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi sacrifie ses PV et\xfffelance une Malédiction au \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 est touché par la Malédiction!
+Le \xf000Ă\x0001\x0000 sauvage est touché par\xfffela Malédiction!
+Le \xf000Ă\x0001\x0000 ennemi est touché par\xfffela Malédiction!
+\xf000Ă\x0001\x0000 prévoit une attaque!
+Le \xf000Ă\x0001\x0000 sauvage prévoit une attaque!
+Le \xf000Ă\x0001\x0000 ennemi prévoit une attaque!
+\xf000Ă\x0001\x0000 souhaite le déclenchement\xfffede Carnareket!
+Le \xf000Ă\x0001\x0000 sauvage souhaite\xfffele déclenchement de Carnareket!
+Le \xf000Ă\x0001\x0000 ennemi souhaite\xfffele déclenchement de Carnareket!
+\xf000Ă\x0001\x0000 reçoit l'attaque \xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage reçoit l'attaque\xfffe\xf000ć\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi reçoit l'attaque\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 ne peut pas rester en l'air\xfffeà cause de la Gravité!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas rester\xfffeen l'air à cause de la Gravité!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas rester\xfffeen l'air à cause de la Gravité!
+\xf000Ă\x0001\x0000 ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 à cause de la Gravité!
+Le \xf000Ă\x0001\x0000 sauvage ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 à cause de la Gravité!
+Le \xf000Ă\x0001\x0000 ennemi ne peut pas utiliser\xfffe\xf000ć\x0001\x0001 à cause de la Gravité!
+\xf000Ă\x0001\x0000 a pris le même type\xfffeque \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 a pris le même type que\xfffele \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 a pris le même type que\xfffele \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage a pris le même type\xfffeque \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage a pris le même type\xfffeque le \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi a pris le même type\xfffeque \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi a pris le même type\xfffeque le \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 partage ses forces avec sa\xfffecible!
+Le \xf000Ă\x0001\x0000 sauvage partage ses forces\xfffeavec sa cible!
+Le \xf000Ă\x0001\x0000 ennemi partage ses forces\xfffeavec sa cible!
+\xf000Ă\x0001\x0000 partage sa garde avec\xfffesa cible!
+Le \xf000Ă\x0001\x0000 sauvage partage sa garde\xfffeavec sa cible!
+Le \xf000Ă\x0001\x0000 ennemi partage sa garde\xfffeavec sa cible!
+\xf000Ă\x0001\x0000 est devenu très vif!
+Le \xf000Ă\x0001\x0000 sauvage est devenu\xfffetrès vif!
+Le \xf000Ă\x0001\x0000 ennemi est devenu\xfffetrès vif!
+\xf000Ă\x0001\x0000 est arrosé d'une gerbe\xfffed'étincelles!
+Le \xf000Ă\x0001\x0000 sauvage est arrosé d'une\xfffegerbe d'étincelles!
+Le \xf000Ă\x0001\x0000 ennemi est arrosé d'une\xfffegerbe d'étincelles!
+\xf000ĉ\x0001\x0001 de \xf000Ă\x0001\x0000 se fait\xfffedétruire par le feu!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 sauvage\xfffese fait détruire par le feu!
+\xf000ĉ\x0001\x0001 du \xf000Ă\x0001\x0000 ennemi\xfffese fait détruire par le feu!
+\xf000Ă\x0001\x0000 obtient l'objet \xf000ĉ\x0001\x0002\xfffede \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 obtient l'objet \xf000ĉ\x0001\x0002\xfffedu \xf000Ă\x0001\x0001 sauvage!
+\xf000Ă\x0001\x0000 obtient l'objet \xf000ĉ\x0001\x0002\xfffedu \xf000Ă\x0001\x0001 ennemi!
+Le \xf000Ă\x0001\x0000 sauvage obtient l'objet\xfffe\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 sauvage obtient l'objet\xfffe\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 sauvage!
+Le \xf000Ă\x0001\x0000 ennemi obtient l'objet\xfffe\xf000ĉ\x0001\x0002 de \xf000Ă\x0001\x0001!
+Le \xf000Ă\x0001\x0000 ennemi obtient l'objet\xfffe\xf000ĉ\x0001\x0002 du \xf000Ă\x0001\x0001 ennemi!
+\xf000Ă\x0001\x0000 emporte \xf000Ă\x0001\x0001\xfffehaut dans le ciel!
+\xf000Ă\x0001\x0000 emporte le \xf000Ă\x0001\x0001 sauvage\xfffehaut dans le ciel!
+\xf000Ă\x0001\x0000 emporte le \xf000Ă\x0001\x0001 ennemi\xfffehaut dans le ciel!
+Le \xf000Ă\x0001\x0000 sauvage emporte \xf000Ă\x0001\x0001\xfffehaut dans le ciel!
+Le \xf000Ă\x0001\x0000 sauvage emporte le\xfffe\xf000Ă\x0001\x0001 sauvage haut dans le ciel!
+Le \xf000Ă\x0001\x0000 ennemi emporte \xf000Ă\x0001\x0001\xfffehaut dans le ciel!
+Le \xf000Ă\x0001\x0000 ennemi emporte le\xfffe\xf000Ă\x0001\x0001 ennemi haut dans le ciel!
+\xf000Ă\x0001\x0000 est lâché en Chute Libre!
+Le \xf000Ă\x0001\x0000 sauvage est lâché en\xfffeChute Libre!
+Le \xf000Ă\x0001\x0000 ennemi est lâché en\xfffeChute Libre!
+Touché par Anti-Air, \xf000Ă\x0001\x0000 s'écrase\xfffeau sol!
+Touché par Anti-Air, le \xf000Ă\x0001\x0000 sauvage\xfffes'écrase au sol!
+Touché par Anti-Air, le \xf000Ă\x0001\x0000 ennemi\xfffes'écrase au sol!
+\xf000Ă\x0001\x0000 doit retourner à la queue!
+Le \xf000Ă\x0001\x0000 sauvage doit retourner\xfffeà la queue!
+Le \xf000Ă\x0001\x0000 ennemi doit retourner\xfffeà la queue!
+\xf000Ă\x0001\x0000 accepte avec joie!
+Le \xf000Ă\x0001\x0000 sauvage accepte avec joie!
+Le \xf000Ă\x0001\x0000 ennemi accepte avec joie!
+\xf000Ă\x0001\x0000 et \xf000Ă\x0001\x0001 échangent leur\xfffeplace!
+Les \xf000Ă\x0001\x0000 et \xf000Ă\x0001\x0001 sauvages\xfffeéchangent leur place!
+Les \xf000Ă\x0001\x0000 et \xf000Ă\x0001\x0001 ennemis\xfffeéchangent leur place!
+Ça fait léviter \xf000Ă\x0001\x0000!
+Ça fait léviter le \xf000Ă\x0001\x0000 sauvage!
+Ça fait léviter le \xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 est libéré de Lévikinésie!
+Le \xf000Ă\x0001\x0000 sauvage est libéré de\xfffeLévikinésie!
+Le \xf000Ă\x0001\x0000 ennemi est libéré de\xfffeLévikinésie!
+\xf000Ă\x0001\x0000 attend \xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 attend le \xf000Ă\x0001\x0001 sauvage...
+\xf000Ă\x0001\x0000 attend le \xf000Ă\x0001\x0001 ennemi...
+Le \xf000Ă\x0001\x0000 sauvage attend\xfffe\xf000Ă\x0001\x0001...
+Le \xf000Ă\x0001\x0000 sauvage attend le\xfffe\xf000Ă\x0001\x0001 sauvage...
+Le \xf000Ă\x0001\x0000 ennemi attend \xf000Ă\x0001\x0001...
+Le \xf000Ă\x0001\x0000 ennemi attend le \xf000Ă\x0001\x0001\xfffeennemi...
+Il est parfaitement synchro avec\xfffe\xf000Ă\x0001\x0000!
+Il est parfaitement synchro avec le\xfffe\xf000Ă\x0001\x0000 sauvage!
+Il est parfaitement synchro avec le\xfffe\xf000Ă\x0001\x0000 ennemi!
+\xf000Ă\x0001\x0000 est plongé dans un\xfffeocéan de feu!
+Le \xf000Ă\x0001\x0000 sauvage est plongé dans un\xfffeocéan de feu!
+Le \xf000Ă\x0001\x0000 ennemi est plongé dans un\xfffeocéan de feu!
