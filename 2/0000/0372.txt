@@ -1,9 +1,8 @@
-たいりょく
-こうげき
-ぼうぎょ
-すばやさ
-とくこう
-とくぼう
-めいちゅうりつ
-かいひりつ
-さいだいＨＰ
+PV
+Attaque
+Défense
+Vitesse
+Atq Spé
+Déf Spé
+Précision
+PV Max
