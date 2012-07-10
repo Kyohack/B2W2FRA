@@ -1,19 +1,19 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-チャンピオンズトーナメント
-ダウンロードトーナメント
-ホドモエトーナメント
-イッシュリーダーズトーナメント
-カントーリーダーズトーナメント
-ジョウトリーダーズトーナメント
-ホウエンリーダーズトーナメント
-シンオウリーダーズトーナメント
-ワールドリーダーズトーナメント
-レンタルトーナメント
-レンタルマスタートーナメント
-ミックストーナメント
-ミックスマスタートーナメント
-タイプエキスパートトーナメント
-？？？？？
+COMBAT SOLO
+COMBAT DUO
+COMBAT TRIPLE
+COMBAT ROTATION
+TOURNOI DES CHAMPIONS
+TÉLÉCHARGER TOURNOI
+TOURNOI DE PORT YONEUVE
+TOURNOI D'UNYS
+TOURNOI DE KANTO
+TOURNOI DE JOHTO
+TOURNOI DE HOENN
+TOURNOI DE SINNOH
+TOURNOI MONDIAL
+TOUNOI LOCATION
+TOURNOI LOCATION MAITRE
+TOURNOI MIX
+TOURNOI MIX MAITRE
+TOURNOI EXPERT DES TYPES
+?????
