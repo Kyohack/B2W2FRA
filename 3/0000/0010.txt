@@ -1,113 +1,112 @@
-テスト
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　シングルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　ダブルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　マルチトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　Ｗｉ－Ｆｉトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　スーパーシングルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeシングルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　スーパーダブルトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeダブルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちらでは　スーパーマルチトレインの\xfffeじょうしゃを　ごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeマルチトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
+TEST
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Solo.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Duo.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Multi.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Wi-Fi.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Solo.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Solo.\xf000븁\x0000\xfffeToutefois, seuls les Dresseurs ayant\xfffedéjà fait leurs preuves dans le\xf000븀\x0000\xfffeTrain Solo seront acceptés.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Duo.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Duo.\xf000븁\x0000\xfffeToutefois, seuls les Dresseurs ayant\xfffedéjà fait leurs preuves dans le\xf000븀\x0000\xfffeTrain Duo seront acceptés.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Multi.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Multi.\xf000븁\x0000\xfffeToutefois, seuls les Dresseurs ayant\xfffedéjà fait leurs preuves dans le\xf000븀\x0000\xfffeTrain Multi seront acceptés.\xf000븁\x0000
 test
-げんざい　\xf000Ā\x0001\x0000さまは\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
-シングルトレインでは　ポケモン\xfffe３ひきで　バトルを　おこないます\xf000븁\x0000\xfffeポケモンは　３ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべてちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７にんの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-みごと　７にんを　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-ダブルトレインでは　ポケモン\xfffe４ひきで　バトルを　おこないます\xf000븁\x0000\xfffeポケモンは　４ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべてちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７にんの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-みごと　７にんを　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-マルチトレインでは　トレーナー\xfffeふたりで　ポケモンを　２ひきずつ\xf000븀\x0000\xfffeもちより　きょうりょくして\xf000븀\x0000\xfffeマルチバトルで　たたかいます\xf000븁\x0000\xfffeポケモンは　４ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeひとりのポケモン　２ひきに　おなじ\xfffeどうぐを　もたせることは　できません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７くみの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-みごと　７くみ　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-Ｗｉ－Ｆｉトレインでは　ポケモン\xfffe３ひきで　バトルを　おこないます\xf000븁\x0000\xfffeポケモンは　３ひき　すべて\xfffeちがう　ポケモンで　なくてはならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべてちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　このしせつでは　ポケモンは\xfffeすべて　レベル５０の　ポケモン\xf000븀\x0000\xfffeとなって　たたかうことに　なります\xf000븁\x0000\xfffeたたかいのば　となる　れっしゃは\xfffe７りょう　へんせいと　なっており\xf000븁\x0000\xfffe７にんの　トレーナーと\xfffeたたかうことに　なります\xf000븁\x0000
-たいせんあいては　Ｗｉ－Ｆｉから\xfffeぜんこくの　つわものが　やってきます\xf000븁\x0000\xfffeみごと　７にんを　たおせたら\xfffeえきに　とうちゃくし　バトルポイントを\xf000븀\x0000\xfffeかくとく　することが　できますので\xf000븀\x0000\xfffeがんばって　ください！\xf000븁\x0000\xfffeそして　もしかすると　あなたが\xfffeそのれっしゃに　とうじょう\xf000븀\x0000\xfffeできるかも　しれません！\xf000븁\x0000\xfffeまた　Ｗｉ－Ｆｉトレインでは\xfffeランクシステムを　さいようしています\xf000븁\x0000\xfffeかちつづけると　あなたの　ランクは\xfffeあがり　まけていくと　さがります\xf000븁\x0000\xfffeかちつづけて　より　つよい　あいてと\xfffeたたかって　ください\xf000븁\x0000\xfffeなお　とちゅうで　ちょうせんを\xfffeちゅうだん　したい　ばあいは\xf000븀\x0000\xfffeしっかりと　レポートを　かいて\xf000븀\x0000\xfffeおわらせないと　ちょうせんが\xf000븀\x0000\xfffeむこうに　なるので　じゅうぶんに\xf000븀\x0000\xfffeちゅうい　してください！\xf000븁\x0000
-シングルトレインに\xfffeじょうしゃ　しますか
-ダブルトレインに\xfffeじょうしゃ　しますか
-マルチトレインに\xfffeじょうしゃ　しますか
-Ｗｉ－Ｆｉトレインに\xfffeじょうしゃ　しますか
-スーパーシングルトレインに\xfffeじょうしゃ　しますか
-スーパーダブルトレインに\xfffeじょうしゃ　しますか
-スーパーマルチトレインに\xfffeじょうしゃ　しますか
+\xf000Ā\x0001\x0000, vous en êtes pour l'instant\xfffeà \xf000ȃ\x0001\x0001 victoires d'affilée.\xf000븁\x0000
+Dans le Train Solo, les combats\xfffese jouent avec 3 Pokémon.\xf000븁\x0000\xfffeCes 3 Pokémon ainsi que les objets qu'ils\xfffeportent doivent impérativement être\xf000븀\x0000\xfffedifférents les uns des autres.\xf000븁\x0000\xfffeDe plus, ils seront ajustés au niveau 50\xfffepour la durée de ces combats.\xf000븁\x0000\xfffeLe train est constitué de 7 wagons, vous\xfffeaurez donc à affronter 7 Dresseurs.\xf000븁\x0000
+Une fois vos 7 adversaires vaincus, vous\xfffeobtiendrez des Points de Combat\xf000븀\x0000\xfffedans la gare d'arrivée.\xf000븁\x0000\xfffeSi vous voulez interrompre le défi\xfffedu Métro de Combat, choisissez\xf000븀\x0000\xfffe"FAIRE UNE PAUSE", ou bien\xf000븀\x0000\xfffevotre essai sera invalide!\xf000븁\x0000
+Dans le Train Duo, les combats\xfffese jouent avec 4 Pokémon.\xf000븁\x0000\xfffeCes 4 Pokémon ainsi que les objets qu'ils\xfffeportent doivent impérativement être\xf000븀\x0000\xfffedifférents les uns des autres.\xf000븁\x0000\xfffeDe plus, ils seront ajustés au niveau 50\xfffepour la durée de ces combats.\xf000븁\x0000\xfffeLe train est constitué de 7 wagons, vous\xfffeaurez donc à affronter 7 Dresseurs.\xf000븁\x0000
+Une fois vos 7 adversaires vaincus, vous\xfffeobtiendrez des Points de Combat\xf000븀\x0000\xfffedans la gare d'arrivée.\xf000븁\x0000\xfffeSi vous voulez interrompre le défi\xfffedu Métro de Combat, choisissez\xf000븀\x0000\xfffe"FAIRE UNE PAUSE", ou bien\xf000븀\x0000\xfffevotre essai sera invalide!\xf000븁\x0000
+Dans le Train Multi, les combats\xfffese jouent avec 4 Pokémon:\xf000븀\x0000\xfffe2 parmi les vôtres et 2 parmi\xf000븀\x0000\xfffeceux de votre partenaire.\xf000븁\x0000\xfffeCes 4 Pokémon ainsi que les objets qu'ils\xfffeportent doivent impérativement être\xf000븀\x0000\xfffedifférents les uns des autres.\xf000븁\x0000\xfffeDe plus, ils seront ajustés au niveau 50\xfffepour la durée de ces combats.\xf000븁\x0000\xfffeLe train est constitué de 7 wagons, vous\xfffeaurez donc à combattre 7 fois.\xf000븁\x0000
+Une fois les 7 combats remportés, vous\xfffeobtiendrez des Points de Combat\xf000븀\x0000\xfffedans la gare d'arrivée.\xf000븁\x0000\xfffeSi vous voulez interrompre le défi\xfffedu Métro de Combat, choisissez\xf000븀\x0000\xfffe"FAIRE UNE PAUSE", ou bien\xf000븀\x0000\xfffevotre essai sera invalide!\xf000븁\x0000
+Dans le Train Wi-Fi, les combats\xfffese jouent avec 3 Pokémon.\xf000븁\x0000\xfffeCes 3 Pokémon ainsi que les objets qu'ils\xfffeportent doivent impérativement être\xf000븀\x0000\xfffedifférents les uns des autres.\xf000븁\x0000\xfffeDe plus, ils seront ajustés au niveau 50\xfffepour la durée de ces combats.\xf000븁\x0000\xfffeLe train est constitué de 7 wagons, vous\xfffeaurez donc à affronter 7 Dresseurs.\xf000븁\x0000
+Vos adversaires se connectent via la\xfffeCWF Nintendo, et ils peuvent donc\xf000븀\x0000\xfffevenir de tous les pays.\xf000븁\x0000\xfffeUne fois vos 7 adversaires vaincus, vous\xfffeobtiendrez des Points de Combat\xf000븀\x0000\xfffedans la gare d'arrivée.\xf000븁\x0000\xfffeEt qui sait, vous pourrez peut-être\xfffeobtenir une place attitrée sur ce train!\xf000븁\x0000\xfffeDans le Train Wi-Fi, le jeu introduit\xfffeun système de rangs.\xf000븁\x0000\xfffeLes Dresseurs accumulant les victoires\xfffeverront leur rang s'améliorer.\xf000븁\x0000\xfffeEn revanche, ceux qui accumulent les\xfffedéfaites perdront des rangs.\xf000븁\x0000\xfffePour atteindre plus rapidement les\xfffepremières places, gagnez contre\xf000븀\x0000\xfffedes Dresseurs mieux classés!\xf000븁\x0000\xfffeSi vous voulez interrompre le défi\xfffedu Métro de Combat, choisissez\xf000븀\x0000\xfffe"FAIRE UNE PAUSE", ou bien\xf000븀\x0000\xfffevotre essai sera invalide!\xf000븁\x0000
+Souhaitez-vous monter à bord\xfffedu Train Solo?
+Souhaitez-vous monter à bord\xfffedu Train Duo?
+Souhaitez-vous monter à bord\xfffedu Train Multi?
+Souhaitez-vous monter à bord\xfffedu Train Wi-Fi?
+Souhaitez-vous monter à bord\xfffedu Train Super Solo?
+Souhaitez-vous monter à bord\xfffedu Train Super Duo?
+Souhaitez-vous monter à bord\xfffedu Train Super Multi?
 test
-おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してください
-test
-それでは　さんかする　ポケモンを\xfffeえらんで　ください\xf000븁\x0000
-それでは　シングルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　ダブルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　マルチトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　Ｗｉ－Ｆｉトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000\xfffeじゅんびは　よろしいですか？
-それでは　スーパーシングルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　スーパーダブルトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　スーパーマルチトレインへ\xfffeごじょうしゃ　ください！\xf000븁\x0000
-レポートを　かいて\xfffeいったん　ちゅうだん　しますか？
-おまちしておりました\xf000븁\x0000\xfffeバトルサブウェイへの　チャレンジを\xfffeさいかい　しますか？
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-それでは　ちゅうだんした　ところまで\xfffeごあんない　いたします\xf000븁\x0000
-おつかれさまでした！\xf000븁\x0000\xfffeつづきを　チャレンジする　ばあいは\xfffeまた　おこし　ください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-おきゃくさま！\xf000븁\x0000\xfffeぜんかい　ちゃんと　レポートを　かいて\xfffeしゅうりょう　しませんでしたね？\xf000븁\x0000\xfffeもうしわけ　ありませんが　そのばあい\xfffeちょうせんは　むこうと　なります\xf000븁\x0000
-それでは　またの　ごりようを\xfffeおまちして　おります！
-じょうしゃする
-せつめいをきく
-やめる
-れきだいのきろく
-まえのトレイン
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
-バトルボックス
-やめる
-つうしんで　おともだちと\xfffeいっしょに　ちょうせん　しますか？
-\xf000Ā\x0001\x0000さまの　げんざいの　ランクは\xfffe\xf000ȁ\x0001\x0001　です\xf000븁\x0000
-おまちしておりました！\xf000븁\x0000\xfffeぜんかいの　せいせきを\xfffeＷｉ－Ｆｉコネクションに\xf000븀\x0000\xfffeおくって　いませんが\xf000븀\x0000\xfffeこれから　おくりますか？
-せいせきを　Ｗｉ－Ｆｉコネクションに\xfffeおくりました！\xf000븁\x0000
-ランク\xf000ȁ\x0001\x0000　トレインナンバー\xf000Ȃ\x0001\x0001の\xfffeれきだいの　きろくを　うけとりました\xf000븁\x0000\xfffeおもてに　せっちされた\xfffeせいせきモニターで\xf000븀\x0000\xfffeごかくにん　ください\xf000븁\x0000
-ふたりの　うち　ひとりが\xfffeリーダーになる　を　えらび\xf000븁\x0000\xfffeもう　ひとりは　グループにはいる　を\xfffeえらんでください
-おともだちと　おなじ\xfffe\xf000ā\x0001\x0000を　えらんで　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
-おともだちと　おなじ　\xf000ā\x0001\x0000や\xfffe\xf000ā\x0001\x0001を　えらんで　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
-おともだちと　えらんだ\xfffeトレインが　ちがって　います！\xf000븁\x0000\xfffeおともだちと　そうだん　してから\xfffeまた　おこし　ください\xf000븁\x0000
-やあ　ひさしぶり！\xfffeキョウヘイだよ　おぼえてる？\xf000븁\x0000\xfffeきみ　マルチトレインに\xfffeちょうせんするの　はじめて　だろ？\xf000븁\x0000\xfffeマルチトレインに　ちょうせんするには\xfffeパートナーが　ひつようなんだ\xf000븁\x0000
-あら！\xfffeメイだけど　おぼえてる？\xf000븁\x0000\xfffeあなた　マルチトレインに\xfffeちょうせんするの　はじめて　だよね？\xf000븁\x0000\xfffeマルチトレインに　ちょうせんするには\xfffeパートナーが　ひつようなのよ\xf000븁\x0000
-こんにちは！　\xf000Ā\x0001\x0000ちゃん！\xfffeまた　あったね！\xf000븁\x0000
-こんにちは！　\xf000Ā\x0001\x0000くん！\xfffeまた　あったわね！\xf000븁\x0000
-あれ　きょうは　ひとり？\xf000븁\x0000\xfffeだったら　じぶんと\xfffeコンビを　くもうよ！\xf000븁\x0000\xfffeよし！　どんな　ポケモンを\xfffeさんか　させようか？
-あら　ひとり　なの？\xf000븁\x0000\xfffeよかったら　あたしと\xfffeコンビを　くんでほしいな！\xf000븁\x0000\xfffeね！　じゃあ　あたしは　どんな\xfffeポケモンを　さんか　させようかな？
-こうげきじゅうし
-ぼうぎょじゅうし
-バランスじゅうし
-りょうかい！　それじゃあ\xfffeこうげきじゅうしで　いくよ！\xf000븁\x0000
-りょうかい！　それじゃあ\xfffeぼうぎょじゅうしで　いくよ！\xf000븁\x0000
-りょうかい！　それじゃあ\xfffeバランスじゅうしで　いくよ！\xf000븁\x0000
-うん！　こうげきじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
-うん！　ぼうぎょじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
-うん！　バランスじゅうし　ね！\xfffeさいこうの　ペアに　なろうね！！\xf000븁\x0000
-あっ　そうか！\xfffeじゅんびが　できていないのか\xf000븁\x0000
-あっ　そうか！\xfffeじゅんびが　できていないのね\xf000븁\x0000
-リーダーになる
-グループにはいる
-ＤＳワイヤレスつうしん　を\xfffeかいし　しますか？
-つうしんの　せつだんに\xfffeしっぱい　しました
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-ざんねんながら　こんかい　ランクが\xfffe\xf000ȁ\x0001\x0000に　さがって　しまいました……\xf000븁\x0000
-せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000\xfffeどちらに　されますか？
-せきがいせんつうしん
-ＤＳワイヤレスつうしん
-せきがいせんつうしん　および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000\xfffeかいし　しますか？
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeシングルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeダブルトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeマルチトレインを　かちぬいた\xf000븀\x0000\xfffeかたのみ　じょうしゃを\xf000븀\x0000\xfffeごあんない　しております\xf000븁\x0000
-たのしかったね！\xfffeまた　いっしょに　たたかおうよ！\xf000븁\x0000
-たのしかったね！\xfffeまた　いっしょに　たたかおうね！\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーシングルトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーダブルトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　スーパーマルチトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-バトルサブウェイに　ようこそ！\xf000븁\x0000\xfffeこちら　Ｗｉ－Ｆｉトレインは\xfffeただいま　じゅんびちゅうです\xf000븁\x0000
-こんかいの　せいせきを　Ｗｉ－Ｆｉ\xfffeコネクションに　おくりますか？
-つうしん　たいきちゅう
-ぼくは　どんな　ポケモンを\xfffeさんか　させればいい？
-わたしは　どんな　ポケモンを\xfffeさんか　させればいい？
-げんざい　\xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
-げんざい　\xf000Ā\x0001\x0000さまは\xfffeともだちとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000
-げんざい　\xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ　が\xf000븀\x0000\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう　です\xf000븁\x0000\xfffeともだちとマルチ　が\xfffe\xf000ȃ\x0001\x0002れんしょうちゅう　です\xf000븁\x0000
+おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してくださいtest
+Veuillez choisir les Pokémon\xfffeque vous voulez inscrire.\xf000븁\x0000
+Bien! Veuillez monter à bord du train!\xf000븁\x0000
+Bien! Veuillez monter à bord du train!\xf000븁\x0000
+Bien! Veuillez monter à bord du train!\xf000븁\x0000
+Bien! Veuillez monter à bord du train!\xf000븁\x0000\xfffeVous sentez-vous d'attaque?
+Bien! Veuillez monter à bord du train!\xf000븁\x0000
+Bien! Veuillez monter à bord du train!\xf000븁\x0000
+Bien! Veuillez monter à bord du train!\xf000븁\x0000
+Voulez-vous sauvegarder et\xfffeinterrompre votre progression?
+J'espère que vous n'avez pas\xfffetrop attendu!\xf000븁\x0000\xfffeSouhaitez-vous reprendre votre\xfffeprogression dans le Métro de Combat?
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Bien! Vous pouvez désormais reprendre\xfffeau point où vous aviez arrêté.\xf000븁\x0000
+Bien joué!\xf000븁\x0000\xfffeRevenez quand vous voudrez\xfffepour tenter d'aller plus loin.\xf000븁\x0000
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Je regrette.\xf000븁\x0000\xfffeVous n'avez pas sauvegardé avant\xfffel'interruption de votre dernier défi.\xf000븁\x0000\xfffePar conséquent, nous sommes obligés de\xfffel'invalider purement et simplement.\xf000븁\x0000
+Nous espérons vous revoir\xfffeune prochaine fois!
+Monter
+Infos
+Retour
+Records
+Précédent
+Voulez-vous utiliser les Pokémon de votre\xfffeéquipe ou ceux de votre Boîte Combat?
+Équipe
+Boîte Combat
+Retour
+Voulez-vous relever le défi\xfffeavec un ou une partenaire?
+\xf000Ā\x0001\x0000, vous êtes actuellement\xfffeau rang \xf000ȁ\x0001\x0001.\xf000븁\x0000
+C'est un plaisir de vous revoir!\xf000븁\x0000\xfffeVos précédents résultats n'ont pas\xfffeété envoyés via la CWF Nintendo.\xf000븁\x0000\xfffeVoulez-vous les envoyer maintenant?
+Vos résultats ont été envoyés\xfffevia la CWF Nintendo!\xf000븁\x0000
+Nous avons reçu les records du\xfffeTrain numéro \xf000Ȃ\x0001\x0001 de rang \xf000ȁ\x0001\x0000.\xf000븁\x0000\xfffeVous pouvez les consulter sur l'Écran\xfffedes Performances à la gare centrale.\xf000븁\x0000
+Veuillez décider qui de vous deux\xfffesera le meneur.\xf000븁\x0000\xfffeL'autre devra choisir “Joindre l'équipe".
+Vous avez choisi \xf000ā\x0001\x0000, le même\xfffePokémon que votre partenaire!\xf000븁\x0000\xfffeVeuillez choisir des Pokémon différents.\xf000븁\x0000
+Vous avez choisi les Pokémon\xfffe\xf000ā\x0001\x0000 et \xf000ā\x0001\x0001,\xf000븀\x0000\xfffeexactement comme votre partenaire!\xf000븁\x0000\xfffeMettez-vous d'accord, puis revenez!\xf000븁\x0000
+Vous avez choisi un train différent\xfffede celui de votre partenaire!\xf000븁\x0000\xfffeMettez-vous d'accord, puis revenez!\xf000븁\x0000
+Salut! Je m'appelle Ludwig.\xf000븁\x0000\xfffeToi, c'est la première fois que tu\xffferelèves le défi de ce train, non?\xf000븁\x0000\xfffeIl faut un partenaire pour monter,\xfffeen fait, tu peux pas venir seule.\xf000븁\x0000
+Salut! Je m'appelle Ludvina.\xf000븁\x0000\xfffeC'est la première fois que tu relèves\xfffele défi de ce train, j'ai juste?\xf000븁\x0000\xfffeIl faut un partenaire pour monter,\xfffeen fait, tu peux pas venir tout seul.\xf000븁\x0000
+Eh, salut \xf000Ā\x0001\x0000!\xfffeAlors poupée, ça roule?\xf000븁\x0000
+Ah tiens, salut \xf000Ā\x0001\x0000!\xfffeContente de te revoir!\xf000븁\x0000
+Dis-moi, tu serais pas venue toute seule\xfffeaujourd'hui, par hasard?\xf000븁\x0000\xfffeAlors viens, faisons équipe, hé hé!\xfffeBonne idée, n'est-ce pas?\xf000븁\x0000\xfffeEt donc, tu veux que mes Pokémon\xfffesoient plutôt comment?
+Tu n'as pas de partenaire aujourd'hui?\xf000븁\x0000\xfffeAlors viens, formons une équipe ensemble!\xfffeMais non, ne me remercie pas!\xf000븁\x0000\xfffeEt donc, tu veux que mes Pokémon\xfffesoient plutôt comment?
+Offensifs
+Défensifs
+Équilibrés
+OK, donc plutôt des bourrins!\xfffePas de problème, on y va!\xf000븁\x0000
+OK, donc plutôt des tanks!\xfffePas de problème, on y va!\xf000븁\x0000
+OK, ils doivent servir à tout, alors?\xfffePas de problème, on y va!\xf000븁\x0000
+Je vois, des forts en attaque, alors!\xfffeAucun problème, on peut y aller!\xf000븁\x0000
+Je vois, des forts en défense, alors!\xfffeAucun problème, on peut y aller!\xf000븁\x0000
+Je vois, des bons en tout, alors!\xfffeAucun problème, on peut y aller!\xf000븁\x0000
+Quoi? Tu veux pas faire équipe avec moi?\xf000븁\x0000\xfffe... Ben... Ben, alors, salut...\xf000븁\x0000
+Quoi? Tu ne veux pas de moi\xfffedans ton équipe?\xf000븁\x0000\xfffeBen débrouille-toi, alors, salut!\xf000븁\x0000
+Devenir meneur
+Joindre l'équipe
+Voulez-vous démarrer la communication\xfffesans fil DS?
+Déconnexion échouée
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Malheureusement, votre rang\xffferetombe à \xf000ȁ\x0001\x0000... \xf000븁\x0000
+Quel moyen de communication\xfffedésirez-vous utiliser?\xf000븁\x0000\xfffeLa communication infrarouge ou bien\xfffela communication sans fil DS?
+Communication infrarouge
+Communication sans fil DS
+Voulez-vous démarrer la\xfffecommunication infrarouge et\xf000븀\x0000\xfffela communication sans fil DS?
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Solo.\xf000븁\x0000\xfffeToutefois, seuls les Dresseurs ayant\xfffedéjà fait leurs preuves dans le\xf000븀\x0000\xfffeTrain Solo seront acceptés.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Duo.\xf000븁\x0000\xfffeToutefois, seuls les Dresseurs ayant\xfffedéjà fait leurs preuves dans le\xf000븀\x0000\xfffeTrain Duo seront acceptés.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeJe suis ici pour vous expliquer comment\xfffecombattre dans le Train Super Multi.\xf000븁\x0000\xfffeToutefois, seuls les Dresseurs ayant\xfffedéjà fait leurs preuves dans le\xf000븀\x0000\xfffeTrain Multi seront acceptés.\xf000븁\x0000
+Ha ha, on s'est bien amusés!\xfffeIl faudra remettre ça!\xf000븁\x0000
+Hé hé, on s'est bien amusés!\xfffeIl faudra refaire ça un jour!\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeLe Train Super Solo est en préparation.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeLe Train Super Duo est en préparation.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeLe Train Super Multi est en préparation.\xf000븁\x0000
+Bienvenue au Métro de Combat!\xf000븁\x0000\xfffeLe Train Wi-Fi est en préparation.\xf000븁\x0000
+Voulez-vous envoyer ces résultats\xfffevia la CWF Nintendo?
+En attente de communication...
+Tu veux les voir plutôt en quoi,\xfffemes Pokémon?
+Quel genre de Pokémon dois-je choisir?
+\xf000Ā\x0001\x0000, vous en êtes en ce moment\xfffeà \xf000ȃ\x0001\x0001 victoires d'affilée\xf000븀\x0000\xfffeen mode Multi.\xf000븁\x0000
+\xf000Ā\x0001\x0000, vous en êtes en ce moment\xfffeà \xf000ȃ\x0001\x0001 victoires d'affilée en\xf000븀\x0000\xfffemode Multi avec un partenaire.\xf000븁\x0000
+\xf000Ā\x0001\x0000, vous en êtes en ce moment\xfffeà \xf000ȃ\x0001\x0001 victoires d'affilée\xf000븀\x0000\xfffeen mode Multi.\xf000븁\x0000\xfffeEt à \xf000ȃ\x0001\x0002 victoires d'affilée en\xfffemode Multi avec un partenaire.\xf000븁\x0000
 NO DATA
-カナワタウンいき　でんしゃに\xfffeじょうしゃ　しますか？
-まもなく　はっしゃ　いたします\xfffeごじょうしゃ　ください！\xf000븁\x0000
-それでは　またの　ごりようを\xfffeおまちして　おります！
-それでは　またの　ごりようを\xfffeおまちして　おります！\xf000븁\x0000
+Souhaitez-vous monter à bord du train\xfffeen direction de Rotombourg?
+Veuillez monter à bord, le train va\xfffebientôt partir!\xf000븁\x0000
+Eh bien, à une prochaine fois peut-être!
+N'hésitez pas à revenir nous voir.\xf000븁\x0000
