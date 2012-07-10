@@ -19,10 +19,10 @@
 の　\xf000Ȁ\x0001\x0000かしょ　ですね！\xf000븁\x0000\xfffeでは　めぐって　めぐって\xfffeヒウンラリー！　レッツ　ゴー！
 なんと！　のこり　０！\xfffe……ということは\xf000븁\x0000\xfffeヒウンラリー　せいは！\xfffeおめでとう　ございます！\xf000븁\x0000\xfffeこれは　ささやかな　ものですが\xfffeきねんひんに　どうぞ！\xf000븁\x0000
 ヒウンシティを　あいする\xfffeひとを　ふやすための　ラリー！\xf000븁\x0000\xfffeですから　さいしょに　きまえよく\xfffeじてんしゃも　プレゼント　したのです\xf000븁\x0000\xfffeこれからも　ヒウンシティを\xfffeあいして　くださいね！\xf000븁\x0000\xfffeヒウン　ヒウン　ヒウンシティ♪\xfffeヒヤ　ウィー　ゴー♪
-ヒウンシティ\xfffeヒウンは　そらとぶくも　めでたいくも
-このさき　ヒウンストリート\xfffeうみがわ　ゆうらんせん　のりば
-このさき　モードストリート\xfffeうみがわ　プライムピア
-このさき　スリムストリート\xfffeうみがわ　ユナイテッドピア
-このさき　ポケモンジム\xfffeうみがわ　リバティピア
-すれちがい　ちょうさたい　ほんぶ\xfffe……ひとはあるくから　すれちがう
-バトルカンパニー\xfffeうでじまんの　トレーナー　ようこそ！
+Volucité\xfffeGratte-ciels et gens pressés
+Vers: Rue Volute\xfffeCôté mer: Embarcadère paquebot
+Vers: Rue Vogue\xfffeCôté mer: Quai Prime
+Vers: Rue Étroite\xfffeCôté mer: Quai Union
+Vers: Arène\xfffeCôté mer: Quai Liberté
+Bureau d'Enquêtes Rencontres\xfffeQuand marcher rime avec rencontrer!
+Baston SARL\xfffeDresseurs de talent bienvenus!
