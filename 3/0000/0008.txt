@@ -1,26 +1,26 @@
-ようこそ……\xfffeブラックシティへ！\xf000븁\x0000\xfffeここは　ゆめと　よくぼう　そして\xfffe……よくぼうの　まちさ\xf000븁\x0000\xfffeそして　おれは\xfffeそんな　よくぼう　うずまく\xf000븀\x0000\xfffeブラックシティの　ボスなのさ
-おまえの\xfffeよくぼうも　たいしたもんだ\xf000븁\x0000\xfffeしってるんだぜ\xf000븁\x0000\xfffeちょうしよく\xfffeくろのまてんろうを　のぼってるんだろ\xf000븁\x0000\xfffeいいんだぜ……\xf000븁\x0000\xfffeおれは　よくぼう　あふれる　ヤツは\xfffeしょうじきだから　すき　なんだよ
-くろのまてんろうの　バンジロウに\xfffeおまえ……\xf000븁\x0000\xfffeブラックシティで　おまえらのように\xfffeすごい　やつが　いると\xf000븀\x0000\xfffeおれの　そんざいが　かすんでしまう\xf000븁\x0000\xfffeいいや！\xf000븁\x0000\xfffeおれの　よくぼうは\xfffeとどまることを　しらねえ……\xf000븁\x0000\xfffeそうよ！　おれさまこそが\xfffeブラックシティの　ボスだぜ！
-ねだんが　たかいから\xfffeかちが　ある……\xf000븁\x0000\xfffeそんな　おもいこみだと　そんをする！\xfffeだまされないため　かしこくなる！！
-もっと　かせぐために\xfffeもっともっと　えらくなるぜ！
-おかねで　なんでも\xfffeてにはいるとは　かぎらない\xf000븁\x0000\xfffeだが　たいていの　ものは\xfffeおかねで　てにはいるんだよ
-みんなと　おなじなら\xfffeまんぞく！　って　ダメよ\xf000븁\x0000\xfffeそんなの　かんがえてないだけ！\xfffeわるい　おとなに　だまされちゃうよ
-うーん　もっと　かねになる\xfffeいい　しごとは　ないか！？\xf000븁\x0000\xfffeだって　そうだろ？\xf000븁\x0000\xfffeおなじ　しごとを　するなら\xfffeたくさん　おかねを　もらいたいよ！
-この　ポケモン\xfffeうったら　いくらに　なるのか？\xf000븁\x0000\xfffeん？　ねだん　だって\xfffeこいつの　かちを　あらわしてるぜ
-ほしいものが　すべてある\xfffeおかねさえ　あれば！　あれば！！\xf000븀\x0000\xfffeそうよ！　ほんきで　かせぐわよ！
-ひとは　のぞむものを　てにいれるため\xfffeぶんめいを　はったつ　させてきたのか
-しょうばいはんじょう！\xf000븁\x0000\xfffeブラックシティの　めいてんと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-しょうばいはんじょう！\xf000븁\x0000\xfffeブラックシティの　めいてんと\xfffeいえば　このおみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-せんきゃくばんらい！\xf000븁\x0000\xfffeブラックシティの　ほんけと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-せんきゃくばんらい！\xf000븁\x0000\xfffeブラックシティの　ほんけと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
+...\xfffeBienvenue dans la Ville Noire...\xf000븁\x0000\xfffeLa cité du rêve... et du désir...\xfffeOui, du désir...\xf000븁\x0000\xfffeJe suis le patron de cette ville.\xfffeJe mène la danse dans cette spirale\xf000븀\x0000\xfffede convoitise.\xf000븁\x0000
+Cette ville attire les rêveurs, tous ces\xfffepauvres gens prêts à en découdre.\xf000븁\x0000\xfffe... Dehors, tu vas les rencontrer, ces\xfffeidéalistes, et ces rapaces.\xf000븀\x0000\xfffeRemets-en \xf000Ȅ\x0001\x0000 à leur place!\xf000븁\x0000\xfffeToi aussi, tes rêves... tes désirs...\xfffedeviendront réalité...\xf000븁\x0000
+Des envieux et des carriéristes, t'en as\xffferemis combien à leur place? \xf000Ȅ\x0001\x0001?\xf000븁\x0000\xfffeBah!\xfffeFaut continuer!
+Oh!\xfffeDéjà \xf000Ȅ\x0001\x0000 types remis à leur place?\xf000븁\x0000\xfffeTon ambition est sans limites...\xfffeÇa me remue les bretelles!\xf000븁\x0000\xfffeTu me plais!\xfffeJe vais réaliser tes rêves!\xf000븁\x0000
+\xf000Ā\x0001\x0002 reçoit \xf000Ȅ\x0001\x0003 $!
+Allez, distribue encore des gnons!\xfffeEncore \xf000Ȅ\x0001\x0004, et c'est bon!\xf000븁\x0000\xfffeEt ensuite, ta rapacité pourra\xfffeêtre satisfaite... Hé hé hé!
+T'as pas ton pareil!\xf000븁\x0000\xfffeOn pourrait te surnommer\xfffe“Le Boss de la Ville Noire"!\xf000븁\x0000\xfffeT'as le cœur plus noir que cette ville!
+Si ça coûte la peau des fesses,\xfffec'est que c'est bien!\xf000븀\x0000\xfffeJe veux ça. Et ça aussi!!!
+Je veux du pouvoir...\xfffeet plus d'argent!!!
+Avec de l'argent, on peut tout acheter\xfffedans cette ville, TOUT!
+On trouve tout dans cette ville.\xfffeTout et n'importe quoi!
+J'aimerais un meilleur travail, avec\xfffesurtout un meilleur salaire!
+Combien je pourrais revendre\xfffece Pokémon?
+Il y a tout ce que je veux ici...\xfffeSi seulement j'avais le cash pour...
+Le pouvoir de la civilisation\xfffeest sans limites.\xf000븁\x0000\xfffeTout ce que les gens veulent finit\xfffepar être produit.
+Combat Rotatif contre moi!\xfffeEt que ça saute!
+Il faut 3 Pokémon par personne!\xf000븁\x0000\xfffeC'est un nouveau genre de combat,\xfffele Combat Rotatif. C'est trendy!
+T'as la trouille?
+Le Combat Rotatif,\xfffeça m'démange!
+J'ai obtenu un trio de Pokémon\xfffepar hasard en venant ici.\xf000븁\x0000\xfffeJe veux les essayer. On se fait\xfffeun Combat Rotatif?
+Le Combat Rotatif, ça nécessite\xfffe3 Pokémon!\xf000븀\x0000\xfffeIl faut que tu en aies 3, hein!
+Tu as peur de ma chance, hein?
+Aujourd'hui, la chance n'était pas\xfffeavec moi...
 また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
 はくりたばい！\xf000븁\x0000\xfffeブラックシティの　がんそと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
@@ -37,5 +37,5 @@
 おいおい！\xfffeおかねが　たりないぞ！
 また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-かう
-いらない
+Acheter
+Non merci!
