@@ -1,112 +1,112 @@
-なまえ
-　
-せいかく
-ずかん
-おこづかい
-ＩＤＮｏ．
-プレイじかん
-ぼうけんを　はじめたとき
-はじめての　でんどういり
-つうしん　かいすう
-つうしん　たいせん
-つうしん　たいせん　かち
-つうしん　たいせん　まけ
-つうしん　こうかん
-とびだしてきた　ポケモンの　かず
-トレーナーと　めが　あった　かいすう
-すれちがった　にんずう
-フィーリングチェック
-つかえる　デルパワー
-ミュージカル　さんか　かいすう
-ポケシフター　ハイスコア
-バトルけんてい　ハイスコア
-フェスミッション　クリアすう
-ポケウッド　さつえい　かいすう
-ＰＷＴ　ゆうしょう　かいすう
-\xf000Ĺ\x0001\x0007に
-あんないした　ひとの　かず
-：
-－－－－年 －－月 －－日 －－時 －－分
+NOM
+
+CARACTÈRE
+POKÉDEX
+ARGENT
+N° ID
+TEMPS DE JEU
+DÉBUT DE L'AVENTURE
+PANTHÉON N° 1
+CONNEXIONS
+COMBATS EN LINK
+VICTOIRES EN LINK
+DÉFAITES EN LINK
+ÉCHANGES EN LINK
+POKÉMON RENCONTRÉS
+DRESSEURS AFFRONTÉS
+PERSONNES CROISÉES
+TEST DE COMPATIBILITÉ
+OFFRI-AURAS
+PARTICIPATION AU MUSIC-HALL
+RECORD POKÉ FRET
+RECORD TEST COMBAT
+MISSIONS FES
+PARTICIPATION AU POKEWOOD
+PARTICIPATION AU PWT
+\xf000Ĺ\x0001\x0007
+FILMS DIRIGÉS
+:
+-- --, ---- --:--
 ーー：ーー
-もどる
-タッチで　めくる
-サインを　かく
-トレーナーカードに\xfffeサインを　かきますか？
-いま　かかれている　サインは\xfffeきえますが　よろしいですか？
-がんばりや
-さみしがり
-ゆうかん
-いじっぱり
-やんちゃ
-ずぶとい
-すなお
-のんき
-わんぱく
-のうてんき
-おくびょう
-せっかち
-まじめ
-ようき
-むじゃき
-ひかえめ
-おっとり
-れいせい
-てれや
-うっかりや
-おだやか
-おとなしい
-なまいき
-しんちょう
-きまぐれ
+Supprimer
+Touchez la Carte pour tourner.
+Signer la Carte
+Voulez-vous signer\xfffevotre Carte Dresseur?
+Votre signature actuelle sera effacée.\xfffeContinuer?
+Hardi
+Solo
+Brave
+Rigide
+Mauvais
+Assuré
+Docile
+Relax
+Malin
+Lâche
+Timide
+Pressé
+Sérieux
+Jovial
+Naïf
+Modeste
+Doux
+Discret
+Pudique
+Foufou
+Calme
+Gentil
+Malpoli
+Prudent
+Bizarre
 \xf000Ȅ\x0001\x0000
-\xf000Ȇ\x0001\x0000円
-\xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日
-\xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日 \xf000ȁ\x0001\x0003時 \xf000ȁ\x0001\x0004分
-\xf000Ȃ\x0001\x0000ひき
-ヒオウギシティ　ジムリーダー\xfffeチェレン
-しんりを　もとめる　もの
-みんなの　ゆめは　それぞれ　ちがう\xfffeきみは　きみが　したいことを　さがせ
-タチワキシティ　ジムリーダー\xfffeホミカ
-ポイズンライフ　ポイズンライブ！
-ともだちのため　ポケモンのため\xfffeノー！　というのも　やさしさでしょ！
-ヒウンシティ　ジムリーダー\xfffeアーティ
-モスト　インセクト　アーティスト
-あー　そーだねー　キミ\xfffeむしポケモン　つかいなよ
-ライモンシティ　ジムリーダー\xfffeカミツレ
-シャイニング　ビューティ
-あなたじしんが　まぶしければ\xfffeしぜんと　まわりも　かがやくわ！
-ホドモエシティ　ジムリーダー\xfffeヤーコン
-アンダーグラウンド　ボス
-じぶんを　だますなよ！\xfffeしょうじきに　いきるのが　いちばんだ
-フキヨセシティ　ジムリーダー\xfffeフウロ
-おおぞらの　ぶっとびガール
-そらを　みあげるのは　あこがれ！\xfffeとぶには　プラス　こうどう　だよ！
-ソウリュウシティ　ジムリーダー\xfffeシャガ
-スパルタン　メイヤー
-まっすぐな　こころの　トレーナーよ\xfffeしなやかで　あれ！　しなやかで！
-セイガイハシティ　ジムリーダー\xfffeシズイ
-うみよりも　うみな　おとこ！
-じんせいを　あらなみに　たとえるのも\xfffeちんぷだが　おはん　ながされるなよ！
-ベーシックバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル２０までの\xfffeポケモンが　いうことをきいてくれる
+$\xf000Ȇ\x0001\x0000
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000   \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
+\xf000Ȃ\x0001\x0000
+Champion de Pavonnay:\xfffeTcheren
+Chercheur de vérité
+Chaque personne a un rêve.\xfffeSi tu le désires, le tien se produira.
+Championne d'Ondes-sur-Mer:\xfffeStrykna
+Poison Life, Poison Live!
+C'est pour tous mes amis, humains\xfffeou Pokémon! Soyez heureux!
+Champion de Volucité:\xfffeArtie
+Artiste et combattant entomologiste!
+Oui, toi aussi, ressens l'inspiration!\xfffeGoûte à la beauté des Pokémon Insecte!
+Champion de Méanville:\xfffeInézia
+Sa beauté est éblouissante!
+Épanouis-toi, et brille de mille feux\xfffepour ceux qui t'entourent!
+Champion de Port Yoneuve:\xfffeBardane
+Le patron des (bas) fonds!
+Faut vivre à fond avec ses pokémon,\xfffej'te l'dis!
+Champion de Parsemille:\xfffeCarolina
+L'acrobate des cieux
+Tout le monde a le sourire quand\xfffetu regardes depuis le ciel!
+Champion de Janusia:\xfffeWatson
+Le maire spartiate
+jeune Dresseur, au coeur si pur...\xfffecontinue à croître en force!
+Champion de Seigaiha City:\xfffeAmana
+L'homme de la mer
+Conduire une vague est un moyen de\xffferester en forme et actif!
+Badge Basique\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 20.
 
-トキシックバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル３０までの\xfffeポケモンが　いうことをきいてくれる
+Badge Toxique\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 30.
 
-ビートルバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル４０までの\xfffeポケモンが　いうことをきいてくれる
+Badge Élytre\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 40.
 
-ボルトバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル５０までの\xfffeポケモンが　いうことをきいてくれる
+Badge Volt\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 50.
 
-クエイクバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル６０までの\xfffeポケモンが　いうことをきいてくれる
+Badge Sismique\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 60.
 
-ジェットバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル７０までの\xfffeポケモンが　いうことをきいてくれる
+Badge Jet\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 70.
 
-レジェンドバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　レベル８０までの\xfffeポケモンが　いうことをきいてくれる
+Badge Mythe\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 80.
 
-ウェーブバッジ\xfffe\xf000ȃ\x0001\x0000年\xf000ȁ\x0001\x0001月\xf000ȁ\x0001\x0002日　かくとく
-ひとからもらった　すべての\xfffeポケモンが　いうことをきいてくれる
+Badge Vague\xfffeObtenu: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Permet de se faire obéir\xfffede n'importe quel Pokémon.
