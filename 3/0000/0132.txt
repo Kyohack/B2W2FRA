@@ -1,26 +1,26 @@
-でんせつの　ポケモン　レシラムは\xfffeえいゆうに　ちしきを　あたえ\xf000븀\x0000\xfffeてきには　ひばしらで　はむかう\xf000븁\x0000\xfffeその　えいゆうと　ポケモンの\xfffeおやこの　ような　すがたは\xf000븀\x0000\xfffeたしかに　こうごうしかったわね……！
-でんせつの　ポケモン　ゼクロムは\xfffeえいゆうに　ちしきを　あたえ\xf000븀\x0000\xfffeてきには　いなびかりで　はむかう\xf000븁\x0000\xfffeその　えいゆうと　ポケモンの\xfffeおやこの　ような　すがたは\xf000븀\x0000\xfffeたしかに　こうごうしかったわね……！
-かぜや　ゆきに　さらされても\xfffeかわらず　そびえる　とう……\xf000븁\x0000\xfffeその　そんざいは　ひとに\xfffeゆめや　りそうを　わすれるな！\xf000븀\x0000\xfffeそう　つたえているのかも……
-でんせつの　ポケモンは\xfffeしんじつを　もとめる　えいゆうを\xf000븀\x0000\xfffeたすけ　くにを　つくる……\xf000븁\x0000\xfffeそして　にくたいが　ほろぶと\xfffeライトストーンと　なり　あらたな\xf000븀\x0000\xfffeえいゆうの　たんじょうを　まつ……\xf000븁\x0000\xfffeちいさいときに　きいた　あの　はなし\xfffeほんとう　だったんだね
-でんせつの　ポケモンは\xfffeりそうを　もとめる　えいゆうを\xf000븀\x0000\xfffeたすけ　くにを　つくる……\xf000븁\x0000\xfffeそして　にくたいが　ほろぶと\xfffeダークストーンと　なり　あらたな\xf000븀\x0000\xfffeえいゆうの　たんじょうを　まつ……\xf000븁\x0000\xfffeちいさいときに　きいた　あの　はなし\xfffeほんとう　だったんだね
-ハチクさまはね　わかいころから\xfffeこおりポケモンに　かこまれ\xf000븀\x0000\xfffeぶどうの　しゅぎょうを　なさってた\xf000븁\x0000\xfffeその　けいけんを　いかして\xfffeアクションスターに　なられたのさ！
-しんじつ！　りそう！\xfffe２ひきの　ドラゴン！
-ひとつが　わかれ♪\xfffeせかいは　ひろがる♪
-くさびで　まざって\xfffeくさびで　わかれて
-しんじつ　りそう\xfffeともに　てをとり　あゆめ♪
-しっちを　あるけば　ビックリした\xfffeやせいの　ポケモンが　でてくるよ！
-しっちが　こおって　ツルツル……\xfffeしっちの　ポケモン　げんきかな？
-おまえ　か\xfffeよかったな\xf000븁\x0000\xfffeゲーチスさまは\xfffeもう　なにも　なされない……\xf000븁\x0000\xfffeいや　ただしくは\xfffeもう　なにも　できない……\xf000븁\x0000\xfffeだから　おまえを　ゆるさない\xfffeわたしたちと　たたかえ！
-わたしたちと　たたかえ！
-おまえに　かつ！　それこそが\xfffeあのかたの　うしなわれた　こころを\xf000븀\x0000\xfffeとりもどす　たったひとつの　すべ！\xf000븁\x0000
+Reshiram, le Pokémon légendaire,\xfffea accordé sa sagesse au héros,\xf000븁\x0000\xfffeet déchaîné ses flammes contre ceux\xfffequi se dressaient sur leur chemin.\xf000븁\x0000\xfffeLes gens, frappés de stupeur et de\xffferespect pour ce fier héros et\xf000븀\x0000\xfffeson Pokémon, se sont unis\xf000븀\x0000\xfffeet ont fondé un pays... Unys.\xf000븁\x0000\xfffeEnfin, c'est ce que dit la légende!
+Zekrom, le Pokémon légendaire,\xfffea accordé sa sagesse au héros,\xf000븁\x0000\xfffeet déchaîné sa foudre contre ceux\xfffequi se dressaient sur leur chemin.\xf000븁\x0000\xfffeLes gens, frappés de stupeur et de\xffferespect pour ce fier héros et\xf000븀\x0000\xfffeson Pokémon, se sont unis\xf000븀\x0000\xfffeet ont fondé un pays... Unys.\xf000븁\x0000\xfffeEnfin, c'est ce que dit la légende!
+Cette tour reste immuable, qu'il vente ou\xfffequ'il neige...\xf000븁\x0000\xfffeSon existence même semble vouloir\xfffeexprimer quelque chose...
+Le Pokémon de la légende est venu au\xfffesecours du héros en quête de la Réalité.\xf000븁\x0000\xfffePuis il s'est détaché de son enveloppe\xfffecharnelle, pour devenir le Galet Blanc.\xf000븁\x0000\xfffeDepuis, il attend la naissance\xfffed'un nouveau héros...\xf000븁\x0000\xfffeC'est une vieille légende qu'on me\xffferacontait quand j'étais petit.
+Le Pokémon de la légende est venu au\xfffesecours du héros en quête de l'Idéal.\xf000븁\x0000\xfffePuis il s'est détaché de son enveloppe\xfffecharnelle, pour devenir le Galet Noir.\xf000븁\x0000\xfffeDepuis, il attend la naissance\xfffed'un nouveau héros...\xf000븁\x0000\xfffeC'est une vieille légende qu'on me\xffferacontait quand j'étais petit.
+Le Champion Zhu ne manque pas\xfffede sang-froid, oh que non!\xf000븁\x0000\xfffeCertains l'appellent même “la machine\xfffede combat"!
+La danse, la danse!\xfffeLa danse des deux Dragons!
+Ils tournicotent! Nous tournicotons! ♪\xfffeTrois petits tours et puis s'en vont! ♪
+On tourne, on tourne!\xfffeEt on se mélange!
+Le soleil voulait rencontrer la lune! ♪\xfffeMais il s'est passé une infortune! ♪
+J'ai eu peur! En marchant dans le\xfffemarécage, un Pokémon sauvage a jailli!
+Le marécage a gelé et est tout glissant.\xfffeJe me demande comment vont les Pokémon.
+Vous ne ferez plus rien\xfffeà notre Ghetis...\xf000븁\x0000\xfffePlus rien ne va...\xf000븁\x0000\xfffeCombattez avec nous pour\xfffenous pardonner!
+Combattez avec nous!
+C'est vous! それこそが\xfffeあのかたの　うしなわれた　こころを\xf000븀\x0000\xfffeとりもどす　たったひとつの　すべ！\xf000븁\x0000
 つづいて　わたしが……\xf000븁\x0000\xfffeとおもったが　トリプルバトルが\xfffeできるだけの　ポケモンが　いないな\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
-……どうする\xfffeつづけて　たたかうか？
-ゲーチスさまのために　たたかうこと！\xf000븁\x0000\xfffeそれだけが　いま\xfffeわたしが　いきている　あかし\xf000븁\x0000
-そうか……\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
-つづいて　わたしが……\xf000븁\x0000\xfffeとおもったが　ローテーションで\xfffeたたかえるほど　ポケモンが　いないな\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
-……どうする\xfffeつづけて　たたかうか？
-われら　ダークトリニティは\xfffeいままでも　いまも　これからも\xf000븀\x0000\xfffeゲーチスさまの　ちゅうじつな　ぶか！\xf000븁\x0000
-そうか……\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
-セッカシティ\xfffeそらに　きらめく　ゆきのはな
-すべての　ポケモンを　あいする\xfffeポケモンだいすきクラブ
-セッカシティ\xfffeポケモンジム　あとち
+...continuer les\xfffecombats?
+Nous combattons pour Maître Ghetis!\xf000븁\x0000\xfffeC'est notre but!\xf000븁\x0000
+Je vois...\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
+J'ai suivi...\xf000븁\x0000\xfffeとおもったが　ローテーションで\xfffeたたかえるほど　ポケモンが　いないな\xf000븁\x0000\xfffeまた　きせつが　かわったとき\xfffeあいて　してやる\xf000븁\x0000
+...continuer les\xfffecombats?
+Le Trio des Ombres jure fidelité\xfffeen tant que loyaux serviteurs de\xf000븀\x0000\xfffeGhetis! Pour toujours!\xf000븁\x0000
+Je vois...\xf000븁\x0000\xfffeL'amour fleurira à nouveau\xfffeau fil des saisons.\xf000븁\x0000
+Flocombe\xfffeVal dormant aux fleurs de givre
+Fan Club Pokémon\xfffeNous aimons TOUS les Pokémon!
+Flocombe\xfffeUne ancienne Arène Pokémon.
