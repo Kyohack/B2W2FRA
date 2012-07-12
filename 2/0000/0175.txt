@@ -1,20 +1,20 @@
-どうも！\xfffe\xf000Ĝ\x0001\x0000　です
-はじめまして！\xfffe\xf000Ĝ\x0001\x0000　だいすき　です！
-\xf000Ĝ\x0001\x0000　は\xfffeすき　ですか？
-おえかき　しようよ！\xfffe\xf000Ĝ\x0001\x0000　を　かきたいな
-たいせん　しようよ！\xfffe\xf000Ĝ\x0001\x0000　で　たたかうよ！
-\xf000Ĝ\x0001\x0000　トレーナー　です\xfffeたいせん　してください！
-おしゃべり　しようよ！\xfffe\xf000Ĝ\x0001\x0000　はなしが　いいな
-こうかん　してください！\xfffe\xf000Ĝ\x0001\x0000　が　ほしい！
-こうかん　してください！\xfffe\xf000Ĝ\x0001\x0000　を　あげます！
-\xf000Ĝ\x0001\x0000　こうかん　しよう\xfffeヒントは　\xf000Ĝ\x0001\x0001　！
-いっしょに\xfffe\xf000Ĝ\x0001\x0000　しませんか？
-\xf000Ĝ\x0001\x0000　を　\xfffeしたい　ひと　いる？
-\xf000Ĝ\x0001\x0000　と\xfffe\xf000Ĝ\x0001\x0001　したい！
-\xf000Ĝ\x0001\x0000　で\xfffe\xf000Ĝ\x0001\x0001　へ　いこう！
-オーケー　です！
-\xf000Ĝ\x0001\x0000\xfffeわかりました！
-\xf000Ĝ\x0001\x0000\xfffeちょっと　まってね
-\xf000Ĝ\x0001\x0000　は\xfffeしたく　ないです……
-ありがとう！\xfffeまた　\xf000Ĝ\x0001\x0000　しようね！
-さようなら！\xfffe\xf000Ĝ\x0001\x0000
+Bonjour,\xfffemoi c'est \xf000Ĝ\x0001\x0000!
+Quelle joie de te rencontrer!\xfffeJ'aime \xf000Ĝ\x0001\x0000!
+Tu aimes \xf000Ĝ\x0001\x0000?
+Et si on dessinait? Je veux dessiner\xfffe\xf000Ĝ\x0001\x0000!
+Faisons un combat!\xfffeJe combats avec \xf000Ĝ\x0001\x0000!
+Je suis un Dresseur\xfffe\xf000Ĝ\x0001\x0000! On fait un combat?
+Tu veux discuter? J'aimerais\xfffeparler de \xf000Ĝ\x0001\x0000.
+On fait un échange?\xfffeJe veux un \xf000Ĝ\x0001\x0000!
+On fait un échange?\xfffeJe propose un \xf000Ĝ\x0001\x0000!
+Échangeons ça: \xf000Ĝ\x0001\x0000.\xfffeUn indice: \xf000Ĝ\x0001\x0001!
+Tu ne veux pas qu'on fasse ça:\xfffe\xf000Ĝ\x0001\x0000?
+Quelqu'un veut\xfffe\xf000Ĝ\x0001\x0000?
+Je voudrais \xf000Ĝ\x0001\x0000\xfffeavec \xf000Ĝ\x0001\x0001!
+Allons ici: \xf000Ĝ\x0001\x0000\xfffeavec \xf000Ĝ\x0001\x0001!
+OK!
+\xf000Ĝ\x0001\x0000... Très bien.
+\xf000Ĝ\x0001\x0000,\xfffeattends un instant.
+Je ne veux pas\xfffe\xf000Ĝ\x0001\x0000.
+Merci! On refera ça:\xfffe\xf000Ĝ\x0001\x0000, une prochaine fois!
+Au revoir!\xfffe\xf000Ĝ\x0001\x0000!
