@@ -1,6 +1,6 @@
-レベル５０
-せいげんなし
-スタンダード
-ランダムマッチ
-バトルサブウェイ
-フラット
+Niveau 50
+Pas de limite
+Standard
+Match Aléatoire
+Combat Métro
+Plat
