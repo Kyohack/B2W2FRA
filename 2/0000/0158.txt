@@ -1,15 +1,15 @@
-ポケモン
-ステータス
-わざ
-トレーナー
-ユニオン
-あいさつ
-ひと
-せいかつ
-きもち
-ピクチャー
-ようご
-つうしん
-こえ
-？？？
-もどる
+POKÉMON
+STATUT
+CAPACITÉ
+DRESSEUR
+UNION
+POLITESSES
+PERSONNES
+VIE QUOTID.
+ÉMOTIONS
+TEXTE ANIMÉ
+TERMES
+CONNEXION
+VOIX
+???
+RETOUR
