@@ -1,29 +1,29 @@
-こちら　ギアステーションから\xfffeバトルサブウェイに　のれますよ！
-バトルサブウェイとは　トレーナーが\xfffeつよさを　きそう　ちかてつ　です！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeだが　さいしょから　のれるのは\xfffeシングル　ダブル　マルチ　とよばれる\xf000븀\x0000\xfffeトレインだけ　らしいぞ！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeスーパーがつく　トレインに\xfffeのれるようなら　なかなかの\xf000븀\x0000\xfffeトレーナー　ということだ！
-ねえねえ！\xf000븁\x0000\xfffeしょうぶの　まえの　じこしょうかい\xfffeとか　かったり　まけたり　したときの\xf000븀\x0000\xfffeきもちを　おしえて　くれない？
-じゃあ　しょうぶの　まえの\xfffeじこしょうかいを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　まけたときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　かったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　いちばんに　なったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-わかったよ　ありがとう！\xfffeそうか　\xf000Ĝ\x0001\x0000　か……
-あれ？　おしえて　くれないの？\xfffeざんねん……
-ありがとう！\xfffeほかにも　おしえてくれる？
-わかったよ　ありがとう！
-じこしょうかい
-かったとき
-まけたとき
-いちばんになったとき
-おしえない
-シングルトレイン　のりば
-ダブルトレイン　のりば
-マルチトレイン　のりば
-Ｗｉ－Ｆｉトレイン　のりば
-スーパーシングルトレイン　のりば
-スーパーダブルトレイン　のりば
-スーパーマルチトレイン　のりば
-カナワタウンいき　トレイン　のりば
-ただいま　ちょうせいちゅう　です
+Tu es ici à l'Engrenage du Métro,\xfffeet de là, tu peux monter dans\xf000븀\x0000\xfffele Métro de Combat!
+Aah, le Métro de Combat!\xf000븁\x0000\xfffeComme son nom l'indique, c'est un métro\xfffedans lequel s'affrontent les Dresseurs.
+Il y a 7 lignes dans le Métro de Combat!\xf000븁\x0000\xfffeAu départ, il paraît que l'on ne peut\xfffemonter que dans certains trains:\xf000븀\x0000\xfffeles Trains Solo, Duo et Multi.
+Il y a 7 lignes dans le Métro de Combat!\xf000븁\x0000\xfffeIl faut s'entraîner dur pour monter dans\xfffeun train qui commence par “Super".
+Eh, s'il te plaît?\xf000븁\x0000\xfffeQu'est-ce que tu dis avant un combat?\xfffeOu après un combat, si tu gagnes?\xf000븀\x0000\xfffeEt même si tu perds, tant que tu y es!
+Eh bien, dis-moi quelle est ta devise\xfffeavant le combat, celle que tu utilises\xf000븀\x0000\xfffepour te présenter!\xf000븁\x0000
+Et maintenant, dis-moi voir ce que tu dis\xfffeaprès avoir perdu un combat!\xf000븁\x0000
+Et maintenant, dis-moi voir ce que tu dis\xfffeaprès avoir gagné un combat!\xf000븁\x0000
+Et maintenant, dis-moi voir ce que tu\xfffedirais si tu devenais numéro un?\xf000븁\x0000
+Compris! Merci!\xfffeJe vois, \xf000Ĝ\x0001\x0000...
+Ben quoi? Tu ne veux pas me le dire?\xfffeC'est dommage...
+Merci!\xfffeTu veux bien me dire autre chose?
+Compris! Merci!
+Avant le combat
+Après une victoire
+Après une défaite
+En devenant numéro un
+Je ne te dirai rien!
+Quai des Trains Solo
+Quai des Trains Duo
+Quai des Trains Multi
+Quai des Trains Wi-Fi
+Quai des Trains Super Solo
+Quai des Trains Super Duo
+Quai des Trains Super Multi
+Trains à destination de Rotombourg
+Maintenance en cours
 no data
 no data
