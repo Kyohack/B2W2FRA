@@ -1,80 +1,80 @@
-「どうあそんでるか　ちょうさ」
-「どんなひとが　いるかの　ちょうさ」
-「すきなポケモンの　ちょうさ」
-「みんなの　りそうを　ちょうさ」
-「すきなひとの　ちょうさ」
-「みんなの　しょうらいを　ちょうさ」
-「みんなの　しゅみを　ちょうさ」
-「もしも……だったら　を　ちょうさ」
-「どんな　あそびがすきか　ちょうさ」
-「ポケモンのことをくわしくちょうさ」
-ブラック２・ホワイト２を\xfffeどのように　あそんでいるか　ちょうさします
-じぶんの　まわりには　どんなひとが\xfffeおおいのか　ちょうさします
-じぶんの　すきな　ポケモンで\xfffeどんな　あそびをしてるのか　ちょうさします
-じぶんの　りそうや　みんなの　たいせつに\xfffeしているものを　ちょうさします
-どんな　ひとが　すきなのか\xfffeその　けいこうを　ちょうさします
-みんなの　しょうらいの　もくひょうや\xfffeなりたいものを　ちょうさします
-みんなが　どんな　しゅみを\xfffeもっているのか　ちょうさします
-もしも……だったら　どうする？\xfffeみんなの　いけんを　ちょうさします
-みんなが　どんな　あそびや　ゲームが\xfffeすきなのか　ちょうさします
-ポケモンに　ついて　みんなのかんそうを\xfffeくわしく　ちょうさします
-・ブラック２とホワイト２　どっち？
-・おとこと　おんな　どっち？
-・たいせんとこうかん　どっちがすき？
-・とかいと　いなか　すむなら？
-・あいてを　えらぶなら　どっち？
-・ほしいものは　どっち？
-・あいてに　もとめるものは？
-・どんな　ポケモンが　すき？
-・さいしょにえらんだ　ポケモンは？
-・ともだちと　どう　あそぶ？
-・タイムマシンが　あったら？
-・じぶんにとって　だいじなのは？
-・どんな　ひとに　なりたい？
-・ゆめを　おう？　げんじつを　みる？
-・すきな　にんげんの　タイプは？
-・ポケモンの　おもしろいところは？
-・どんな　まほうが　ほしい？
-・おかねもちになったら　どうする？
-・ポケモンを　どれくらいあそんでる？
-・きゅうじつは　なにをしてる？
-・どんな　おんがくが　すき？
-・すきな　ＴＶばんぐみは？
-・どんな　えいがが　すき？
-・すきな　ゲームは？
-・がんばりたいことは？
-・どんな　しゅみを　もってる？
-・どんな　しごとを　してる？
-・どのジムリーダーが　すき？
-・すきな　ポケモンの　タイプは？
-・ゲームプレイじかんは？
-ブラック２・ホワイト２\xfffeあそんでいるのは　どっち？　のアンケート
-おとこと　おんな　どっちが　おおい？\xfffeをあつめた　アンケート
-ポケモンで　たいせんと　こうかんの\xfffeどちらがすき？　をあつめた　アンケート
-とかいの　くらしと　いなかの　くらし\xfffeどちらがすき？　をあつめた　アンケート
-あたまがいいひとと　うんどうができるひと\xfffeえらぶなら　どちらをえらぶ？　のアンケート
-じかんと　おかね　すきなだけ　もらえるなら\xfffeどちらをえらぶ？　のアンケート
-がいけんのよいひとと　こころがきれいなひと\xfffeえらぶなら　どちらをえらぶ？　のアンケート
-みんなは　どんなポケモンが　すき？\xfffeをあつめた　アンケート
-たびのはじめに　えらんだ　ポケモンは　\xfffeどのポケモン？　のアンケート
-ともだちと　いっしょに　あそぶときは\xfffeどう　あそびたい？　のアンケート
-タイムマシンが　あったら\xfffeどの　じだいに　いきたい？　のアンケート
-じぶんにとって　たいせつなのは　かぞく？\xfffeともだち？　それとも　じぶん？　のアンケート
-しょうらい　どんな　ひとに　なりたい？\xfffeをあつめた　アンケート
-ゆめを　おうか　げんじつを　みるか\xfffeもくひょうは　どっち？　のアンケート
-みんなの　すきなひとは\xfffeどんな　タイプのひと？　のアンケート
-ポケットモンスターの　どんなぶぶんが\xfffeおもしろい？　をあつめた　アンケート
-もしも　まほうが　つかえたら\xfffeどんなことを　したい？　のアンケート
-もし　たくさん　おかねを　もっていたら\xfffeどうする？　のアンケート
-ポケモンシリーズを　どれくらい　ながく\xfffeあそんでいる？　をあつめた　アンケート
-きゅうじつは　どんなことをしている？\xfffeをあつめた　アンケート
-みんなの　すきな　おんがくは\xfffeどんな　おんがく？　をあつめた　アンケート
-みんなの　すきな　ＴＶばんぐみは\xfffeどんな　ばんぐみ？　をあつめた　アンケート
-みんなの　すきな　えいがは\xfffeどんな　えいが？　をあつめた　アンケート
-みんなの　すきな　ゲームは\xfffeどんな　ジャンル？　をあつめた　アンケート
-しょうらい　いちばん　ちからをいれて\xfffeがんばりたいことは　なに？　のアンケート
-みんなは　どんなことを　しゅみにしている？\xfffeをあつめた　アンケート
-みんなは　どんなことを　しごとにしている？\xfffeをあつめた　アンケート
-ブラック２・ホワイト２で\xfffeどのジムリーダーがすき？　のアンケート
-ポケモンの　どのタイプが　すき？\xfffeをあつめた　アンケート
-ブラック２・ホワイト２で\xfffeあそんだじかんを　あつめた　アンケート
+Enquête “Manière de Jouer"
+Enquête “Personnes Rencontrées"
+Enquête “Pokémon Préférés"
+Enquête “Chacun son Idéal"
+Enquête “Êtres Aimés"
+Enquête “Les Goûts et les Couleurs"
+Enquête “Les Loisirs"
+Enquête “Vie Scolaire"
+Enquête “Temps Libre"
+Enquête “Monde des Pokémon"
+Étudie la manière dont on joue à\xfffePokémon Noir et Pokémon Blanc.
+Étudie quelles personnes sont\xfffeprésentes autour de vous.
+Étudie les goûts en matière\xfffede Pokémon.
+Étudie les choses importantes pour\xfffeles personnes autour de vous.
+Étudie les goûts en matière\xfffede personnes.
+Étudie par exemple votre saison\xfffeou votre couleur préférée.
+Étudie les loisirs des personnes\xfffeautour de vous.
+Étudie la vie scolaire des\xfffepersonnes autour de vous.
+Étudie la façon dont les gens\xfffeoccupent leur temps libre.
+Étudie les points de vue sur\xfffele monde des Pokémon.
+Quelle version du jeu avez-vous?
+Êtes-vous un garçon ou une fille?
+Préférez-vous combattre ou échanger?
+Êtes-vous plutôt ville ou campagne?
+Vous préféreriez un partenaire...
+Vous préféreriez avoir plutôt...
+Quelle qualité vous attire?
+Quel genre de Pokémon préférez-vous?
+Avec quel Pokémon avez-vous commencé?
+Votre choix de vacances favori?
+Que préférez-vous à l'école?
+Le plus important selon vous?
+Quelle est votre saison préférée?
+Quel genre de nourriture aimez-vous?
+Quelle qualité humaine aimez-vous?
+Quel élément du jeu préférez-vous?
+Votre matière préférée?
+La matière que vous aimez le moins?
+Si vous le pouviez, vous deviendriez...
+Que faites-vous de vos jours de repos?
+Quel genre de musique aimez-vous?
+Quel genre d'émission aimez-vous?
+Quel genre de film aimez-vous?
+Votre sport préféré?
+Votre couleur préférée?
+Quels sont vos loisirs?
+Quel genre de travail faites-vous?
+Quel est votre Champion d'Arène favori?
+Quel type de Pokémon préférez-vous?
+Combien d'heures avez-vous joué?
+Une enquête pour déterminer à quelle\xfffeversion du jeu chacun joue.
+Une enquête pour déterminer s'il y a\xfffeplus de filles ou de garçons.
+Une enquête pour déterminer si c'est le\xfffecombat ou l'échange qui intéresse le plus.
+Une enquête pour déterminer si l'on\xfffepréfère la ville ou la campagne.
+Une enquête pour déterminer quel genre\xfffede partenaire les gens préfèrent.
+Une enquête pour déterminer si les gens\xfffepréféreraient plus de temps ou d'argent.
+Une enquête pour déterminer si c'est\xfffel'apparence ou le cœur qui prime.
+Une enquête pour déterminer quel genre\xfffede Pokémon est le plus apprécié.
+Une enquête pour déterminer quel est\xfffele Pokémon le plus choisi au début.
+Une enquête pour déterminer les lieux\xfffede vacances favoris.
+Une enquête pour déterminer les\xfffeactivités préférées à l'école.
+Une enquête pour déterminer les personnes\xfffeimportantes aux yeux de chacun.
+Une enquête pour déterminer la saison\xfffepréférée de chacun.
+Une enquête pour déterminer le genre\xfffede nourriture préféré de chacun.
+Une enquête pour déterminer les qualités\xfffeque l'on recherche chez autrui.
+Une enquête pour déterminer ce que les\xfffegens préfèrent dans le monde des Pokémon.
+Une enquête pour déterminer les\xfffematières préférées à l'école.
+Une enquête pour déterminer les\xfffematières les moins aimées à l'école.
+Une enquête pour déterminer ce que chacun\xfffevoudrait devenir dans le monde des Pokémon.
+Une enquête pour déterminer ce que chacun\xfffefait durant ses jours de repos.
+Une enquête pour déterminer les\xfffegoûts musicaux de chacun.
+Une enquête pour déterminer les\xfffegoûts télévisuels de chacun.
+Une enquête pour déterminer les goûts\xfffecinématographiques de chacun.
+Une enquête pour déterminer les\xfffesports préférés de chacun.
+Une enquête pour déterminer les\xfffecouleurs préférées de chacun.
+Une enquête pour déterminer les\xfffeloisirs de chacun.
+Une enquête pour déterminer les\xfffeactivités professionnelles de chacun.
+Une enquête pour déterminer les\xfffeChampions d'Arène préférés de chacun.
+Une enquête pour déterminer les\xfffetypes de Pokémon préférés de chacun.
+Une enquête pour déterminer le\xfffetemps de jeu de chacun.
