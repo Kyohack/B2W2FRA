@@ -1,28 +1,28 @@
 ことばを　えらんでね！
-たいせんまえの　ことばを　かんがえよう
-かったときの　きめゼリフを　かんがえよう
-まけたときの　いいわけを　かんがえよう
+Inventez une intro avant-combat!
+Inventez une ligne de gagnants!
+Inventez une excuse de perdants!
 はやっている　ものは？
-ユニオンあいさつを　かんがえよう
+Inventez un salut d'Union
 これで　いいですか？
 なにか　ことばを　いれてください！
 なにも　しないで　やめますか？
-はい
-いいえ
-グループ\xfffeモード
-あいうえお\xfffeモード
-つかう
-けってい
-やめる
-へんしゅう
-あたらしく　メッセージを　ついかする
-えらぶ
-けす
-やめる
-メッセージとうろくリスト：\xfffeつかいたい　メッセージを\xfffeえらんで　ください！
-メッセージの　しゅるいや\xfffeことばをいれる　ばしょを\xfffeえらんで　ください！
-ことばをいれる　ばしょを\xfffeえらんで　ください！
-グループモード：\xfffeグループの　なかから\xfffeことばを　えらんで　ください！
-あいうえおモード：\xfffeもじを　えらんでいって\xfffeことばを　しぼりこんでください！
-あいうえおモード：\xfffeしぼりこんだ　なかから\xfffeことばを　えらんで　ください！
-グループモード：\xfffeきめた　ばしょに　あてはまる\xfffeグループを　えらんで　ください
+OUI
+NON
+Mode\xfffeGROUPE
+Mode\xfffeABC
+UTILISER
+OK
+RETOUR
+MODIFIER
+AJOUTER UN MESSAGE
+CHOISIR
+EFFACER
+RETOUR
+Liste des messages enregistrés.\xfffeChoisissez le message que vous\xfffesouhaitez utiliser.
+Choisissez le type de message\xfffeet les mots à insérer.
+Choisissez le texte que vous\xfffesouhaitez insérer.
+Mode groupe:\xfffeChoisissez les mots ou expressions\xfffesouhaités depuis ce groupe.
+Mode alphabet:\xfffeChoisissez les mots souhaités\xfffepar recherche alphabétique.
+Mode alphabet:\xfffeChoisissez le mot souhaité\xfffedans la sélection.
+Mode groupe:\xfffeChoisissez un groupe correspondant\xfffeà l'endroit à remplir.
