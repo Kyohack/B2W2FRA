@@ -1,49 +1,49 @@
-そうぐうパワー　＋
-そうぐうパワー　＋＋
-そうぐうパワー　＋＋＋
-そうぐうパワー　ー
-そうぐうパワー　ーー
-そうぐうパワー　ーーー
-タマゴふかパワー　＋
-タマゴふかパワー　＋＋
-タマゴふかパワー　＋＋＋
-なつきパワー　＋
-なつきパワー　＋＋
-なつきパワー　＋＋＋
-やすうりパワー　＋
-やすうりパワー　＋＋
-やすうりパワー　＋＋＋
-HPかいふくパワー　＋
-HPかいふくパワー　＋＋
-HPかいふくパワー　＋＋＋
-PPかいふくパワー　＋
-PPかいふくパワー　＋＋
-PPかいふくパワー　＋＋＋
-けいけんちパワー　＋
-けいけんちパワー　＋＋
-けいけんちパワー　＋＋＋
-けいけんちパワー　ー
-けいけんちパワー　ーー
-けいけんちパワー　ーーー
-おこづかいパワー　＋
-おこづかいパワー　＋＋
-おこづかいパワー　＋＋＋
-ほかくパワー　＋
-ほかくパワー　＋＋
-ほかくパワー　＋＋＋
-タマゴふかパワー　Ｓ
-やすうりパワー　Ｓ
-なつきパワー　Ｓ
-けいけんちパワー　Ｓ
-おこづかいパワー　Ｓ
-ほかくパワー　Ｓ
-ぜんかいパワー
-タマゴふかパワー　ＭＡＸ
-やすうりパワー　ＭＡＸ
-なつきパワー　ＭＡＸ
-けいけんちパワー　ＭＡＸ
-おこづかいパワー　ＭＡＸ
-ほかくパワー　ＭＡＸ
+Aura Rencontre +
+Aura Rencontre ++
+Aura Rencontre +++
+Aura Rencontre -
+Aura Rencontre --
+Aura Rencontre ---
+Aura Éclosion +
+Aura Éclosion ++
+Aura Éclosion +++
+Aura Amitié +
+Aura Amitié ++
+Aura Amitié +++
+Aura Soldes +
+Aura Soldes ++
+Aura Soldes +++
+Aura Récup' PV +
+Aura Récup' PV ++
+Aura Récup' PV +++
+Aura Récup' PP +
+Aura Récup' PP ++
+Aura Récup' PP +++
+Aura Expérience +
+Aura Expérience ++
+Aura Expérience +++
+Aura Expérience -
+Aura Expérience --
+Aura Expérience ---
+Aura Gain +
+Aura Gain ++
+Aura Gain +++
+Aura Capture +
+Aura Capture ++
+Aura Capture +++
+Aura Éclosion S
+Aura Soldes S
+Aura Amitié S
+Aura Expérience S
+Aura Gain S
+Aura Capture S
+Aura Récup' Totale
+Aura Éclosion MAX
+Aura Soldes MAX
+Aura Amitié MAX
+Aura Expérience MAX
+Aura Gain MAX
+Aura Capture MAX
 むこう　１
 むこう　２
 むこう　ID NULL
