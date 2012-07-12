@@ -27,7 +27,8 @@ Souhaitez-vous monter à bord\xfffedu Train Super Solo?
 Souhaitez-vous monter à bord\xfffedu Train Super Duo?
 Souhaitez-vous monter à bord\xfffedu Train Super Multi?
 test
-おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してくださいtest
+おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してください
+test
 Veuillez choisir les Pokémon\xfffeque vous voulez inscrire.\xf000븁\x0000
 Bien! Veuillez monter à bord du train!\xf000븁\x0000
 Bien! Veuillez monter à bord du train!\xf000븁\x0000
