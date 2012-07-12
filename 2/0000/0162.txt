@@ -1,44 +1,44 @@
-あいしょう
-いちばん
-いまひとつ
-かくご
-かち
-かなわない
-きあい
-きゅうしょ
-きりふだ
-こい！
-こうかがない
-こうげき
-こうさん
-こんじょう
-さいのう
-さくせん
-しょうぶ
-しょうり
-センス
-たいせん
-たたかい
-ちから
-チャレンジ
-チャンピオン
-つよい
-てかげん
-てき
-てんさい
-でんせつ
-トレーナー
-ばつぐん
-バトル
-ピンチ
-ファイト
-ふっかつ
-ポイント
-ほんき
-まけ
-みかた
-むてき
-よゆう
-よわい
-らくしょう
-わざ
+AU NIVEAU
+Nº 1
+DÉBUTANT
+PRÉPARATION
+GAGNÉ
+TROP NUL
+ESPRIT
+DANS LE MILLE
+ATOUT
+ALLEZ VIENS
+AUCUN EFFET
+ATTAQUER
+SE RENDRE
+CRAN
+TALENT
+STRATÉGIE
+MATCH
+VICTOIRE
+SENSATION
+CONTRE
+DISPUTE
+PUISSANCE
+DÉFI
+MAÎTRE
+FORT
+DOUCEMENT
+ENNEMI
+GÉNIE
+LÉGENDE
+DRESSEUR
+COOL
+COMBAT
+MAL EN POINT
+COMBATTRE
+RESSUSCITER
+POINTS
+SÉRIEUX
+DÉFAITE
+PARTENAIRE
+INVINCIBLE
+FACILE
+FAIBLE
+NULLITÉ
+CAPACITÉ
