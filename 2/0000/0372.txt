@@ -4,5 +4,6 @@ Défense
 Vitesse
 Atq Spé
 Déf Spé
+めいちゅうりつ
 Précision
 PV Max
