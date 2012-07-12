@@ -1,7 +1,7 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-マルチバトル
-シューターバトル
-デバッグバトル
+COMBAT SOLO
+COMBAT DUO
+COMBAT TRIO
+COMBAT ROTATIF
+COMBAT MULTI
+COMBAT SHOOTER
+COMBAT DEBUG
