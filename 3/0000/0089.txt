@@ -1,17 +1,17 @@
-ビッグスタジアムでは　ただいま\xfffeアメフトの　しあいちゅう　です！
-ただいま　ビッグスタジアムでは\xfffeアメフトの　せんしゅ　たちが\xf000븀\x0000\xfffeれんしゅうを　しています！\xf000븁\x0000\xfffeいっぱんの　かたがたも\xfffeけんがく　できるんですよ！
-ビッグスタジアムでは　ただいま\xfffeやきゅうの　しあいちゅう　です！
-ただいま　ビッグスタジアムでは\xfffeやきゅうせんしゅ　たちが\xf000븀\x0000\xfffeれんしゅうを　しています！\xf000븁\x0000\xfffeいっぱんの　かたがたも\xfffeけんがく　できるんですよ！
-ビッグスタジアムでは　ただいま\xfffeサッカーの　しあいちゅう　です！
-ただいま　ビッグスタジアムでは\xfffeサッカーせんしゅ　たちが\xf000븀\x0000\xfffeれんしゅうを　しています！\xf000븁\x0000\xfffeいっぱんの　かたがたも\xfffeけんがく　できるんですよ！
-こどもの　ころってさ\xfffeスポーツせんしゅに　あこがれるよな
-すきな　せんしゅと\xfffeおそろいの　ポケモン　そだてているの
-ぼくが　モンスターボールを\xfffeなげるときは　あの　アメフトの\xf000븀\x0000\xfffeなげかたを　マネしているんだ！
-ぼくが　モンスターボールを\xfffeなげるときは　あの　ピッチャーの\xf000븀\x0000\xfffeフォームを　マネしているんだ！
-ぼくが　モンスターボールを\xfffeなげるときは　あの　キーパーの\xf000븀\x0000\xfffeスローイングを　マネしているんだ！
-あはは！　ぼく　アメフトせんしゅ！\xf000븁\x0000\xfffeてを　けがしているから\xfffeサインは　できないんだ！　ごめん！\xf000븁\x0000\xfffeで　キミは　トレーナーカードに\xfffeどんな　サインを　かいているのかな？
-あはは！　ぼく　やきゅうせんしゅ！\xf000븁\x0000\xfffeてを　けがしているから\xfffeサインは　できないんだ！　ごめん！\xf000븁\x0000\xfffeで　キミは　トレーナーカードに\xfffeどんな　サインを　かいているのかな？
-あはは！　ぼく　サッカーせんしゅ！\xf000븁\x0000\xfffeてを　けがしているから\xfffeサインは　できないんだ！　ごめん！\xf000븁\x0000\xfffeで　キミは　トレーナーカードに\xfffeどんな　サインを　かいているのかな？
-もうしわけ　ございません\xf000븁\x0000\xfffeただいま　しあいを　していますので\xfffeスタジアムには　いけません
-もうしわけ　ございません\xf000븁\x0000\xfffeただいま　しあいを　していますので\xfffeスタジアムには　いけません
-もうしわけ　ございません\xf000븁\x0000\xfffeただいま　しあいを　していますので\xfffeスタジアムには　いけません
+Un match se déroule actuellement\xfffedans le Grand Stade.
+Les Quarterbacks sont actuellement en\xfffeplein entraînement dans le Grand Stade.\xf000븁\x0000\xfffeVous pouvez aller les voir en action.
+Un match de baseball se déroule\xfffeactuellement dans le Grand Stade.
+Les Baseballeurs sont actuellement en\xfffeplein entraînement dans le Grand Stade.\xf000븁\x0000\xfffeVous pouvez aller les voir en action.
+Un match de football se déroule\xfffeactuellement dans le Grand Stade.
+Les Footballeurs sont actuellement en\xfffeplein entraînement dans le Grand Stade.\xf000븁\x0000\xfffeVous pouvez aller les voir en action.
+Quand on est gamin, on rêve de\xfffedevenir sportif de haut niveau.
+J'entraîne mon Pokémon pour qu'il\xfffedevienne comme mon joueur favori...
+J'essaye d'imiter le lancer de ce\xfffeQuarterback quand j'envoie mes\xf000븀\x0000\xfffePoké Balls!
+J'essaye d'imiter ce lanceur quand\xfffej'envoie mes Poké Balls!
+J'essaye d'imiter le lancer de ce\xfffegardien de but quand j'envoie mes\xf000븀\x0000\xfffePoké Balls!
+Ha ha ha! J'suis Quarterback!\xf000븁\x0000\xfffeDésolé, j'me suis blessé la main,\xfffej'peux pas signer d'autographes.\xf000븁\x0000\xfffePar contre, j'pourrais voir ta signature,\xfffesur ta Carte de Dresseur?
+Ha ha ha! J'suis Baseballeur!\xf000븁\x0000\xfffeDésolé, j'me suis blessé la main,\xfffej'peux pas signer d'autographes.\xf000븁\x0000\xfffePar contre, j'pourrais voir ta signature,\xfffesur ta Carte de Dresseur?
+Ha ha ha! J'suis Footballeur!\xf000븁\x0000\xfffeDésolé, j'me suis blessé la main,\xfffej'peux pas signer d'autographes.\xf000븁\x0000\xfffePar contre, j'pourrais voir ta signature,\xfffesur ta Carte de Dresseur?
+Nous sommes désolés...\xf000븁\x0000\xfffeMais vous ne pouvez pas accéder\xfffeau terrain pendant les matches.
+Nous sommes désolés...\xf000븁\x0000\xfffeMais vous ne pouvez pas accéder\xfffeau terrain pendant les matches.
+Nous sommes désolés...\xf000븁\x0000\xfffeMais vous ne pouvez pas accéder\xfffeau terrain pendant les matches.
