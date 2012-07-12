@@ -1,21 +1,21 @@
-\xf000봂\x0000ちょうさレーダー
-\xf000봂\x0000すれちがった　みんなのいけんを\xfffe\xf000봂\x0000ちょうさすることが　できます
-\xf000봂\x0000ちょうさを　きめる
-\xf000봂\x0000ちょうさを　みる
-\xf000봂\x0000－ちょうさ　ないよう－
-\xf000봂\x0000したの　こうもくから　ちょうさしたい\xfffe\xf000봂\x0000ないようを　１つ　えらんでください
-この　ないようを\xfffeちょうさ　しますか？
-けってい
-やめる
-\xf000봂\x0000ちょうさを　かいしします！
-\xf000봂\x0000まだ　ちょうさ\xfffe\xf000봂\x0000できていません
-\xf000봂\x0000……かいせきちゅう……
-\xf000봂\x0000－ちょうさほうこく－
-\xf000봃\x0001\x000a\xf000ȁ\x0001\x0000ばん：\xf000Ā\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002にん\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003％
-\xf000봃\x0001\x000aじぶんは\xfffe\xf000봃\x0001\x000a\xf000Ā\x0001\x0000
-\xf000봃\x0001\x000aきょうのにんずう\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000にん
-\xf000봃\x0001ひょうじモード：\xfffe\xf000봃\x0001\x0008きょうのにんずう
-\xf000봃\x0001\x000aごうけいにんずう\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000にん
-\xf000봃\x0001ひょうじモード：\xfffe\xf000봃\x0001\x0008ごうけいにんずう
-\xf000봃\x0001Dデータ\xfffe\xf000봃\x0001\x0014こうしんちゅう
-\xf000봂\x0000このちょうさを　みる
+\xf000봂\x0000Radar Enquête
+\xf000봂\x0000Vous pouvez recueillir le point de vue\xfffe\xf000봂\x0000des personnes croisées.
+\xf000봂\x0000Sélectionner une enquête
+\xf000봂\x0000Visualiser l'enquête
+\xf000봂\x0000Sujet de l'enquête
+\xf000봂\x0000Sélectionnez un des sujets\xfffe\xf000봂\x0000d'enquête ci-dessous.
+Voulez-vous enquêter\xfffesur ce sujet?
+OK
+RETOUR
+\xf000봂\x0000L'enquête commence!
+\xf000봂\x0000Enquête\xfffe\xf000봂\x0000en cours.
+\xf000봂\x0000... En cours d'analyse...
+\xf000봂\x0000Rapport d'enquête
+\xf000봃\x0001\x000aNº \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002 personne(s)\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003%
+\xf000봃\x0001\x000aVotre réponse:\xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
+\xf000봃\x0001\x000aPanel du jour:\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000 personne(s)
+\xf000봄\x0001\x0005Afficher:\xfffe\xf000봄\x0001\x0014Panel du jour
+\xf000봃\x0001\x000a Panel total:\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000 personnes
+\xf000봄\x0001\x0005Afficher:\xfffe\xf000봄\x0001Panel total
+\xf000봄\x0001%Données\xfffe\xf000봄\x0001mises à jour
+\xf000봂\x0000Visualiser cette enquête
