@@ -1,25 +1,25 @@
-ポケモンを　げんきにする\xfffeふしぎな　かんぽうやく　あるよ\xf000븁\x0000
-がいこくから　とりよせた\xfffeかんぽうやくは　ききめ　バッチリ！\xf000븁\x0000\xfffeだけど　ちょっぴり　にがいから\xfffeポケモン　いやがっちゃうみたいなの
-いらっしゃいませ！\xfffeさんちちょくそう　でーす！\xf000븁\x0000\xfffeモーモーミルク　いっぽん　５００円\xfffeたびのおともに　いかがですか？
-モーモーミルク　どうぞ！\xf000븁\x0000
-あらららら！\xfffeバッグが　いっぱいですね！
-あらららら！\xfffeおかねが　たりないですね！
-また　こんど\xfffeかってくださいね！\xf000븁\x0000\xfffeちなみに　うちの　モーモーミルクは\xfffeさんち　ちょくそう\xf000븀\x0000\xfffeしぼりたて　しんせん　なんですよ！
-１ダース　１２ほんの\xfffeモーモーミルク　どうぞです！\xf000븁\x0000
-１ほん
-１ダース
-いらない
-……ごめんね\xf000븁\x0000\xfffeチャールズって　ヤツが\xfffeぜーんぶ　かってっちゃったの
-あなたー　よくきたー！\xfffeいいもの　ほしいかー？
-だったら　レベル３０いじょうの\xfffeポケモン　みせてくれー！\xf000븁\x0000
-おー！　もーれつ！\xf000븁\x0000\xfffeあなた　すごいねー！\xf000븁\x0000\xfffeこれ　もってけー！\xf000븁\x0000
-おー！　まだまだ　これからー！\xf000븁\x0000\xfffeポケモン　きたえたら\xfffeまた　ここに　くると　いいー！
-あなたー　ひかえめー！\xfffeいいもの　ほしがれば　いいのにー！
-あなたー　よくきたー！\xfffeたつじんのおび　つかいこなせー！\xf000븁\x0000\xfffeたつじんのおび　もっていると\xfffeこうかバツグンの　ときに\xf000븀\x0000\xfffeちょっと　いりょく　あがるー！
-なんでも　ゆにゅう　して\xfffeいつでも　モノが　そろっている\xf000븀\x0000\xfffeきっと　べんりな　まちが　あるわ
-きせつを　だいじにする\xfffeゆったりとした　まちが　あるの\xf000븁\x0000\xfffeその　まちから　いろいろ\xfffeゆしゅつ　しているんだって！
-きせつごとの　やさいを\xfffeみているだけでも　たのしくなっちゃう\xf000븁\x0000\xfffeだって　きせつが　かわると\xfffeやさいの　いろあいも　かわるのよ！
-いつ　きても\xfffeあらゆる　きせつの　やさいが\xf000븀\x0000\xfffeそろっているのって　すごいよね
-ホドモエから　はこばれた　にもつが\xfffeどこかの　まちに　とどく……\xf000븁\x0000\xfffeせかいって　こうやって\xfffeどこかに　つながっているんだよな
-どこかの　まちから　はこばれた\xfffeにもつが　ホドモエに　とどく……\xf000븁\x0000\xfffeせかいって　こうやって\xfffeどこかに　つながっているんだよな
-ぼく　もとプラズマだん　です\xfffeいろんな　おこうを　もっています\xf000븁\x0000
+Venez! Venez essayer notre médecine\xfffetraditionnelle qui guérit les Pokémon!\xf000븁\x0000
+Notre médecine traditionnelle utilise\xfffeune recette ancestrale qui vient\xf000븀\x0000\xfffede l'étranger!\xf000븁\x0000\xfffeSes résultats sont exceptionnels!\xf000븁\x0000\xfffeMais elle est un peu amère, alors les\xfffePokémon n'en sont pas forcément fans...
+Bienvenue!\xfffeNos produits sont issus de l'agriculture\xf000븀\x0000\xfffebiologique, et sont directement importés!\xf000븁\x0000\xfffeQue diriez-vous d'un peu de Lait Meumeu,\xfffele carburant idéal pour vos aventures?\xf000븀\x0000\xfffeSeulement 500 $ la bouteille!
+Et une bouteille, une!\xf000븁\x0000
+C'est terriiiiible!\xfffeVotre Sac est plein!
+C'est terriiiiible!\xfffeVous n'avez pas de quoi payer!
+Au plaisir de vous compter parmi nos\xfffeclients une prochaine fois!\xf000븁\x0000\xfffeEt n'oubliez pas! Le Lait Meumeu,\xfffeproduit d'importation directe,\xf000븀\x0000\xfffefraîchement trait et sans additifs!
+Et 12 bouteilles, 12!\xf000븁\x0000
+1 bouteille
+1 douzaine
+Non merci
+... Veuillez (sniff)...\xfffev-v-veuillez m'excuser...\xf000븁\x0000\xfffeMonsieur Raphaël a TOUT acheté,\xfffeTOUT!!!
+T'as l'air d'avoir fait une trotte, toi!\xfffeTu veux quelque chose?
+Hum... Montre-moi d'abord un Pokémon\xfffede niveau 30 ou plus.\xf000븁\x0000
+Punaise! Ça en jette!\xf000븁\x0000\xfffeT'as un sacré talent, j'aime ça!\xf000븁\x0000\xfffeTiens!\xf000븁\x0000
+C'est pas encore ça, on dirait!\xf000븁\x0000\xfffeQuand t'auras bien entraîné\xfffeun Pokémon, reviens me voir!
+Tu serais pas un peu timide?\xfffeAlors que tu meurs d'envie d'avoir\xf000븀\x0000\xfffeun truc sympa, on dirait?
+T'as l'air d'avoir fait une trotte, toi!\xf000븁\x0000\xfffeAllez, apprends à te servir\xfffede la Ceinture Pro!\xf000븁\x0000\xfffeEn la faisant tenir à un Pokémon,\xfffela puissance d'une attaque super\xf000븀\x0000\xfffeefficace augmente encore un peu!
+Cette ville est vraiment bien située.\xfffeOn y trouve toujours mille et un\xf000븀\x0000\xfffeproduits d'importation!
+J'ai entendu parler d'une ville qui vit\xfffeau rythme des saisons.\xf000븁\x0000\xfffeIl semblerait qu'elle exporte\xfffeénormément!
+Tous ces fruits et légumes de saison\xfffeme mettent de bonne humeur!\xf000븁\x0000\xfffeC'est que leur forme et leur couleur\xfffechangent selon la période de l'année!
+Ils ont des fruits et légumes de saison\xfffeà n'importe quelle période de l'année!\xf000븀\x0000\xfffeC'est formidable!
+Les produits de Port Yoneuve sont\xfffeenvoyés dans une autre ville...\xf000븁\x0000\xfffeEt ainsi, le monde est connecté\xfffeen permanence!
+Les produits vendus à Port Yoneuve\xfffeviennent d'une autre ville...\xf000븁\x0000\xfffeEt ainsi, le monde est connecté\xfffeen permanence!
+Je suis un ancien membre de\xfffela Team Plasma.\xf000븁\x0000\xfffeJe suis spécialisé dans l'Encens!\xf000븁\x0000
