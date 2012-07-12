@@ -5,18 +5,18 @@
 ポケモンに　どうぐを\xfffeもたせられるだろ？\xf000븁\x0000\xfffeでもさ　ひとが　つくった　どうぐ……\xfffeたとえば　キズぐすり　とかは\xf000븀\x0000\xfffeつかいかたが　わからないみたいだね
 ノーマルタイプの　ポケモンは\xfffeかくとうタイプに　よわい！\xf000븁\x0000\xfffeだけど　このあたりだと\xfffeサンギぼくじょうの\xf000븀\x0000\xfffeリオル　ぐらいしか　いないからね……\xf000븁\x0000\xfffeほのお　みず　くさタイプの\xfffeポケモンで　たたかうなら\xf000븀\x0000\xfffeじゅんすいな　つよさくらべに　なるね
 こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに　ついて\xfffeかかれてます\xf000븁\x0000
-どれについて　みますか？
-どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
-まひすると　すばやさが　さがり\xfffeときどき　わざが　だせなくなります\xf000븁\x0000\xfffeせんとうの　あとも\xfffeまひした　ままです\xf000븁\x0000\xfffeまひなおしで　なおしましょう\xf000븁\x0000
-ねむって　しまうと\xfffeその　あいだ　こうげき　できません\xf000븁\x0000\xfffeじぶんで　おきることも　ありますが\xfffeねむったまま　せんとうが　おわると\xf000븀\x0000\xfffeずっと　ねむっています\xf000븁\x0000\xfffeねむけざましで　おこしましょう\xf000븁\x0000
-やけどに　なると\xfffeこうげきりょくが　さがるだけでなく\xf000븀\x0000\xfffeたいりょくも　どんどん　へります\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeやけどの　ままです\xf000븁\x0000\xfffeやけどなおしで　なおしましょう\xf000븁\x0000
-こおって　しまうと\xfffeなにも　できなくなります\xf000븁\x0000\xfffeしぜんに　とけることも　ありますが\xfffeこおったまま　せんとうが　おわると\xf000븀\x0000\xfffeこおりついた　ままです\xf000븁\x0000\xfffeこおりなおしで　とかしましょう\xf000븁\x0000
-どく
-まひ
-ねむり
-やけど
-こおり
-やめる
+Laquelle consulter?
+Empoisonné, votre Pokémon perd\xffferégulièrement des PV tant qu'il se bat.\xf000븁\x0000\xfffeLe poison ne se dissipe pas, même\xfffeune fois le combat terminé.\xf000븁\x0000\xfffeL'Antidote guérit cette altération.\xf000븁\x0000
+La paralysie réduit la Vitesse et peut\xfffeempêcher de lancer une attaque.\xf000븁\x0000\xfffeElle dure même après le combat.\xfffeL'Anti-Para sert à la guérir.\xf000븁\x0000
+Endormi, votre Pokémon ne peut pas\xfffecombattre.\xf000븁\x0000\xfffeIl arrive qu'un Pokémon endormi\xfffese réveille de lui-même,\xf000븁\x0000\xfffesinon il continuera à dormir même\xfffeune fois le combat fini.\xf000븁\x0000\xfffeUtilisez un Réveil pour le réveiller.\xf000븁\x0000
+Une brûlure réduit non seulement\xfffel'Attaque d'un Pokémon, mais diminue\xf000븀\x0000\xfffeaussi petit à petit ses PV.\xf000븁\x0000\xfffeCette altération perdure même après\xfffeun combat.\xf000븁\x0000\xfffeUn Anti-Brûle est le remède parfait.\xf000븁\x0000
+Si votre Pokémon est gelé, il ne\xfffepourra plus rien faire.\xf000븁\x0000\xfffeIl arrive qu'un Pokémon se dégèle de\xfffelui-même, sinon il restera gelé\xf000븀\x0000\xfffemême une fois le combat fini.\xf000븁\x0000\xfffeL'Antigel réchauffera votre Pokémon!\xf000븁\x0000
+Poison
+Paralysie
+Sommeil
+Brûlure
+Gel
+Quitter
 ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー！
 ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
 ヒオウギ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　チェレン\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　\xf000Ā\x0001\x0001
