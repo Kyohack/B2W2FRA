@@ -13,5 +13,6 @@ S'il ne se produit aucune réaction lorsque\xfffevous touchez l'écran, veuillez
 no data
 no data
 no data
+no data
 TEST DE SYNCHRONISATION
 Retirez vos doigts et réessayez en\xfffecommençant par la main gauche.
