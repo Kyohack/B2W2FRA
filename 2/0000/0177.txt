@@ -1,10 +1,10 @@
-こうかんにだす
-もどる
-あいてにみせる
-つよさをみる
-こうかんする
-やめる
-つうしん　たいきちゅう！\xfffeしばらく　おまちください
+ÉCHANGE
+RETOUR
+MONTRER
+RÉSUMÉ
+ÉCHANGER
+RETOUR
+Communication en cours...\xfffeVeuillez patienter.
 パートナーとなる　あいてに\xfffeせきがいせんを　むけてください
 リーダーに　なりました！
 たいせん　あいての　リーダーに\xfffeせきがいせんを　むけてください
@@ -14,69 +14,69 @@
 ちゅうだん　しますか？
 こうかんする　あいてに\xfffeせきがいせんを　むけてください
 ポケモンこうかん
-てもち
-\xf000Ă\x0001\x0000と　\xf000Ă\x0001\x0001を\xfffeこうかん　しますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
+ÉQUIPE
+Échanger \xf000Ă\x0001\x0000 contre\xfffe\xf000Ă\x0001\x0001?
+N. \xf000Ȃ\x0001\x0000
 しゅうりょうしますか？
 こうかんしました
 しばらく　おまちください
 あそぶないようが　ちがったので\xfffeさいしょに　もどります
 ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
-はい
-いいえ
+OUI
+NON
 ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-No.\xf000Ȃ\x0001\x0001
+Nº \xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-ＨＰ
-こうげき
-ぼうぎょ
-とくこう
-とくぼう
-すばやさ
-せいかく
-とくせい
+PV
+ATTAQUE
+DÉFENSE
+ATQ SPÉ
+DÉF SPÉ
+VITESSE
+NATURE
+CAP SPÉ
 もちもの
 \xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
 \xf000Ȃ\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000Ć\x0001\x0000
 \xf000ĉ\x0001\x0000
-もっているわざ
+CAPACITÉS
 \xf000ć\x0001\x0000
 ♂
 ♀
-\xf000Ā\x0001\x0000から\xfffe\xf000Ă\x0001\x0001が　おくられてきた
-\xf000Ă\x0001\x0001を\xfffeかわいがって　あげてね！
-つうしん　しています\xfffeしばらく　おまちください
-みつけたい　ポケモンの\xfffeかしらもじを　えらんでください
-えらんだ　かしらもじのつく\xfffeポケモンは　いません
-\xf000봂\x0000ア
-\xf000봂\x0000イ
-\xf000봂\x0000ウ
-\xf000봂\x0000エ
-\xf000봂\x0000オ
-\xf000봂\x0000カ
-\xf000봂\x0000キ
-\xf000봂\x0000ク
-\xf000봂\x0000ケ
-\xf000봂\x0000コ
-\xf000봂\x0000サ
-\xf000봂\x0000シ
-\xf000봂\x0000ス
-\xf000봂\x0000セ
-\xf000봂\x0000ソ
-\xf000봂\x0000タ
-\xf000봂\x0000チ
-\xf000봂\x0000ツ
-\xf000봂\x0000テ
-\xf000봂\x0000ト
-\xf000봂\x0000ナ
-\xf000봂\x0000ニ
-\xf000봂\x0000ヌ
-\xf000봂\x0000ネ
-\xf000봂\x0000ノ
-\xf000봂\x0000ハ
+\xf000Ā\x0001\x0000 a envoyé\xfffe\xf000Ă\x0001\x0001.
+Prends bien soin de \xf000Ă\x0001\x0001!
+Communication en cours...\xfffeVeuillez patienter.
+Sélectionnez la première lettre du\xfffePokémon que vous cherchez.
+Aucun Pokémon ne correspond\xfffeà cette lettre.
+\xf000봂\x0000A
+\xf000봂\x0000B
+\xf000봂\x0000C
+\xf000봂\x0000D
+\xf000봂\x0000E
+\xf000봂\x0000F
+\xf000봂\x0000G
+\xf000봂\x0000H
+\xf000봂\x0000I
+\xf000봂\x0000J
+\xf000봂\x0000K
+\xf000봂\x0000L
+\xf000봂\x0000M
+\xf000봂\x0000N
+\xf000봂\x0000O
+\xf000봂\x0000P
+\xf000봂\x0000Q
+\xf000봂\x0000R
+\xf000봂\x0000S
+\xf000봂\x0000T
+\xf000봂\x0000U
+\xf000봂\x0000V
+\xf000봂\x0000W
+\xf000봂\x0000X
+\xf000봂\x0000Y
+\xf000봂\x0000Z
 \xf000봂\x0000ヒ
 \xf000봂\x0000フ
 \xf000봂\x0000へ
@@ -95,70 +95,70 @@ No.\xf000Ȃ\x0001\x0001
 \xf000봂\x0000レ
 \xf000봂\x0000ロ
 \xf000봂\x0000ワ
-こうかんは\xfffeキャンセル　されました
-そのポケモンを　こうかんすると\xfffeぼうけん　できなくなっちゃうよ！
-あいてが　こうかんできない\xfffeポケモンを　だしています
-じぶんが　こうかんできない\xfffeポケモンを　だしています
-たいせつな　わざを　おぼえているので\xfffeてもちから　はずせません
+L'échange a été annulé.
+Si vous échangez ce Pokémon, vous\xfffeserez bloqué(e) dans votre aventure!
+Le Pokémon de l'autre Dresseur\xfffene peut pas être échangé.
+Votre Pokémon ne peut pas être échangé.
+Ce Pokémon a appris une capacité\xfffeimportante. Impossible de l'échanger.
 その　ポケモンは\xfffeこうかん　できません
-あいては　ポケモンこうかんを\xfffeしたいようです
-こうかんを　やめますか？
-あいての　しゅうりょうを\xfffeまっています……
-タマゴ
-ポケモンが　もっていた　メールを\xfffeパソコンに　てんそう　しました！
+Votre ami(e) veut échanger un\xfffePokémon avec vous.
+Terminer l'échange?
+En attente de l'autre joueur...
+Œuf
+La Lettre tenue par le Pokémon\xfffea été envoyée sur votre PC.
 メールを　すてますが\xfffeよろしいですか？
 メールボックスが　いっぱいです\xfffeせいりしますか？
 メールを　すてました
 とった　メールを\xfffeパソコンに　てんそう　しました
-あいては　メールを　うけとれません\xfffeこうかんを　キャンセル　します
+Votre ami(e) ne peut pas recevoir de\xfffeLettre. L'échange est annulé.
 \xf000ā\x0001\x0000
-さしだすポケモンを　えらんでください\xfffeポケモンは　３ひきまで　えらべます
-\xf000봃\x0001\x0000えらびちゅう
-\xf000봃\x0001\x0000けっていずみ
-\xf000봃\x0001\x0000しゅうりょうまち
-\xf000Ā\x0001\x0000の\xfffeほしいポケモン
-すべてのポケモン
-かっこいいポケモン
-かわいいポケモン
-こわいポケモン
-へんなポケモン
-なんでも
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１から１００
+Veuillez choisir les Pokémon à proposer.\xfffeLa limite est de 3.
+\xf000봃\x0001\x0000Sélection...
+\xf000봃\x0001\x0000Choix effectué.
+\xf000봃\x0001\x0000En attente...
+Pokémon demandé\xfffepar \xf000Ā\x0001\x0000
+Tous genres
+Pokémon sympa
+Pokémon mignon
+Pokémon flippant
+Pokémon bizarre
+Peu importe
+N. 1 à N. 49
+N. 50
+N. 51 à N. 100
 けってい
 \xf000Ā\x0001\x0000
-\xf000Ă\x0001\x0000を　\xf000Ā\x0001\x0001へ　おくります！！\xfffeバイバイ　\xf000Ă\x0001\x0000！
-\xf000Ă\x0001\x0000を　\xf000Ā\x0001\x0001に　かえします！\xfffeありがとう　\xf000Ă\x0001\x0000！
-\xf000Ā\x0001\x0000の　ところから\xfffe\xf000Ă\x0001\x0001が　もどってきた！
-おかえり　\xf000Ă\x0001\x0001！
-こうかんきぼう
-さしだす　ポケモンを　えらんでください\xfffeポケモンは　３ひきまで　えらべます
-あいてに　さしだす　ポケモンは\xfffeこれで　いいですか？
-あいての　せんたくを　まっています\xfffeしばらく　おまちください……
-おたがい　さしだした　ポケモンから\xfffe１ひき　えらびます　よろしいですか？
-あいてが　こうかんを\xfffeキャンセルしました
-あいては　こうかん\xfffeしたがっている　ようです
-こうかんを\xfffeしゅうりょう　しますか？
-こうかんを\xfffeしゅうりょう　しました
-そのポケモンを　あいてに\xfffeさしだすことは　できません
-じぶんに　こうかんできない　ポケモンが\xfffeいます　もういちど　えらびなおしてください
-あいてに　こうかんできない　ポケモンが\xfffeいます　もういちど　えらびなおしてください
-ほしいポケモンを　あいての　さしだした\xfffeポケモンから　１ひき　えらんでください
-「\xf000Ă\x0001\x0000」と　じぶんの「\xf000Ă\x0001\x0001」を\xfffeこうかんします　よろしいですか？
-あいてが　こうかんを　キャンセルしました\xfffeもういちど　えらびなおしてください
-あいてに　さしだした\xfffeポケモンを　へんこうしますか？
-こうかんを　キャンセルしました\xfffeもういちど　えらびなおしてください
-こうかんを　キャンセルしました\xfffeもういちど　１ひき　えらびなおしてください
-あいてが　こうかんを　キャンセルしました\xfffeもういちど　１ひき　えらびなおしてください
-\xf000Ă\x0001\x0000を　あずけます
-\xf000Ă\x0001\x0001を　ひきとった
-せつぞくを　きる
-\xf000Ă\x0001\x0000を　\xf000Ā\x0001\x0001へ\xfffeおくります
-\xf000Ā\x0001\x0000から　\xf000Ă\x0001\x0001が\xfffeおくられてきました
-つうしんを　しっぱいしました
-つうしんエラーが　はっせいしました\xfffe（１３２８０）
-つうしんエラーが　はっせいしました\xfffe（１３２８１）
-つうしんエラーが　はっせいしました\xfffe（１３２８２）
-つうしんエラーが　はっせいしました\xfffe（１３２８３）
-？？？
+Envoi de \xf000Ă\x0001\x0000 à \xf000Ā\x0001\x0001.\xfffeBye-bye \xf000Ă\x0001\x0000!
+Renvoi de \xf000Ă\x0001\x0000 à \xf000Ā\x0001\x0001.\xfffeMerci \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0001 revient\xfffede chez \xf000Ā\x0001\x0000!
+Bienvenue \xf000Ă\x0001\x0001!
+Demande d'échange
+Veuillez choisir les Pokémon à proposer.\xfffeLa limite est de 3.
+Confirmer?
+En attente d'une réponse de votre\xfffeami(e). Veuillez patienter.
+Sélection d'un Pokémon parmi ceux\xfffeproposés. Continuer?
+Votre ami(e) a annulé l'échange.
+Votre ami(e) a accepté l'échange.
+Annuler l'échange?
+Échange annulé.
+Ce Pokémon ne peut pas être échangé!
+Un de vos Pokémon ne peut pas être\xfffeéchangé! Choisissez-en un autre.
+1 des Pokémon de votre ami(e) ne peut pas\xfffeêtre échangé! Choisissez-en un autre.
+Veuillez choisir un Pokémon parmi ceux\xfffeproposés par votre ami(e).
+Voulez-vous échanger votre\xfffe\xf000Ă\x0001\x0001 contre ce \xf000Ă\x0001\x0000?
+Votre ami(e) a annulé l'échange.\xfffeVeuillez recommencer.
+Voulez-vous changer les Pokémon\xfffeproposés à l'échange?
+Échange annulé.\xfffeVeuillez recommencer.
+Échange annulé.\xfffeVeuillez choisir un autre Pokémon.
+Votre ami(e) a annulé l'échange.\xfffeVeuillez choisir un Pokémon.
+\xf000Ă\x0001\x0000 a été déposé.
+\xf000Ă\x0001\x0001 a été retiré.
+ÉTEINDRE
+\xf000Ă\x0001\x0000 est envoyé à\xfffe\xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 a envoyé \xf000Ă\x0001\x0001.
+La communication a échoué.
+Erreur de communication.\xfffe(13280)
+Erreur de communication.\xfffe(13281)
+Erreur de communication.\xfffe(13282)
+Erreur de communication.\xfffe(13283)
+???
