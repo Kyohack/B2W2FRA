@@ -1,49 +1,49 @@
-やせいの　ポケモンと　すこし\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　すこし\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeすこし　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeとても　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　すこし\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　とても\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe１０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe２５％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　かなり　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　かなり　かいふくします
-たたかったあと　もらえる　けいけんちが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeすこし　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-このパワーを　うけとると\xfffeてもちにいる　すべての　ポケモンが\xfffeぜんかい　します
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　６０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　６０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
+La probabilité de rencontrer des Pokémon\xfffesauvages augmente légèrement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages augmente nettement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages augmente énormément.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages diminue légèrement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages diminue nettement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages diminue énormément.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente légèrement.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente nettement.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente énormément.\xfffeL'effet dure 3 minutes.
+Les Pokémon se lient un peu plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 3 minutes.
+Les Pokémon se lient bien plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 3 minutes.
+Les Pokémon se lient beaucoup plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 3 minutes.
+10% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 3 minutes.
+25% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 3 minutes.
+50% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 3 minutes.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffeun peu d'énergie.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffepas mal d'énergie.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffebeaucoup d'énergie.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffeun peu de PP.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffepas mal de PP.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffebeaucoup de PP.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente légèrement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente nettement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente énormément.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat diminue légèrement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat diminue nettement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat diminue énormément.\xfffeL'effet dure 3 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente légèrement.\xfffeL'effet dure 3 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente nettement.\xfffeL'effet dure 3 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente énormément.\xfffeL'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente légèrement.\xfffeL'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente nettement.\xfffeL'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente énormément.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente énormément.\xfffeL'effet dure 30 minutes.
+50% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 30 minutes.
+Les Pokémon se lient beaucoup plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 30 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente énormément.\xfffeL'effet dure 30 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente énormément.\xfffeL'effet dure 30 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente énormément.\xfffeL'effet dure 30 minutes.
+Le Dresseur qui reçoit cette Offri-Aura\xfffevoit tous les Pokémon de son équipe\xfffeêtre totalement soignés.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente énormément.\xfffeL'effet dure 60 minutes.
+50% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 60 minutes.
+Les Pokémon se lient beaucoup plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 60 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente énormément.\xfffeL'effet dure 60 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente énormément.\xfffeL'effet dure 60 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente énormément.\xfffeL'effet dure 60 minutes.
 ダミー
 ダミー
 ダミー
