@@ -1,192 +1,192 @@
-けってい
-もどる
+OK
+RETOUR
 L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-／
-♂
-♀
-ポケモンを　えらんでください
-ポケモンを　えらんでください
-どこに　いどうする？
-どのポケモンに　もたせる？
-どのポケモンに　つかう？
-どのポケモンに　おしえる？
-ポケモンをえらんで　けってい
-どのポケモンを　あずける？
-どのポケモンに　つかう？
-どのポケモンと　がったい？
-\xf000Ă\x0001\x0000を\xfffeどうする？
-もちものを\xfffeどうしますか？
-メールを\xfffeどうしますか？
-どのわざを\xfffeかいふくする？
-どのわざを\xfffeふやす？
-とった　メールを　パソコンに\xfffeてんそう　しますか？
-はい
-いいえ
-とった　メールを　パソコンに\xfffeてんそう　しました
-メールを　とると　メッセージが\xfffeきえてしまいますが　よろしいですか？
-はい
-いいえ
-パソコンの　メールボックスが\xfffeいっぱいです！
-ポケモンから　メールを\xfffeとりました！
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえたい……\xf000븁\x0000\xfffeしかし　\xf000Ă\x0001\x0000は　わざを　４つ\xfffeおぼえるので　せいいっぱいだ！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の　かわりに\xfffeほかの　わざを　わすれさせますか？
-はい
-いいえ
-それでは……　\xf000ć\x0001\x0001を\xfffeおぼえるのを　あきらめますか？
-はい
-いいえ
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffeおぼえずに　おわった！
-どの　わざを\xfffeわすれさせたい？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014　…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！
-\xf000Ă\x0001\x0000は　あたらしく\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븅\x0001\x0002\xf000븅\x0001\x0005
-\xf000Ă\x0001\x0000と　\xf000ć\x0001\x0001は\xfffeあいしょうが　わるかった！\xf000븁\x0000\xfffe\xf000ć\x0001\x0001は　おぼえられない！
-\xf000Ă\x0001\x0000は　すでに\xfffe\xf000ć\x0001\x0001を　おぼえています
-\xf000Ă\x0001\x0000の　たいりょくが\xfffe\xf000Ȃ\x0001\x0001　かいふくした！
-\xf000Ă\x0001\x0000の　どくは\xfffeきれい　さっぱり　なくなった！
-\xf000Ă\x0001\x0000の\xfffeからだの　しびれが　とれた！
-\xf000Ă\x0001\x0000の\xfffeやけどが　なおった！
-\xf000Ă\x0001\x0000の\xfffeからだの　こおりが　とけた！
-パワーポイントが　かいふくした！　
-\xf000Ă\x0001\x0000は\xfffeげんきを　とりもどした！
-\xf000Ă\x0001\x0000は\xfffeけんこうに　なった！
-\xf000ć\x0001\x0000の\xfffeパワーポイントが　ふえた！
-\xf000Ă\x0001\x0000の\xfffeこんらんが　とけた！
-\xf000Ă\x0001\x0000の\xfffeメロメロが　とけた！
-\xf000Ă\x0001\x0000は　\xf000č\x0001\x0001の\xfffeきそポイントが　あがった！
-あたらしい　バッジを　てにするまで\xfffeまだ　つかえません
-メールを　はずさないと\xfffeどうぐは　もてません！
-\xf000Ă\x0001\x0000は　すでに\xfffe\xf000ĉ\x0001\x0001を　もっています\xf000븁\x0000\xfffeもっている　どうぐを\xfffeとりかえますか？
-はい
-いいえ
-\xf000Ă\x0001\x0000は　どうぐを\xfffeなにも　もっていません！
-\xf000Ă\x0001\x0000から\xfffe\xf000ĉ\x0001\x0001を　あずかりました！
-バッグが　いっぱいで\xfffeどうぐを　うけとれません！
-\xf000ĉ\x0001\x0001を　あずかり\xfffe\xf000ĉ\x0001\x0002を　もたせました！
-さんかを　やめますか？
-はい
-いいえ
-ちょうせんを　やめますか？
-はい
-いいえ
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
-ここを　だっしゅつ　して\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
-テレポートして\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
-さんか　できる　ポケモンは\xfffe２ひき　まで　です！
-すでに　なみのり　しています
-ここでは　つかえません
-つかっても　こうかがないよ
+/
+⑭
+⑮
+Veuillez choisir un Pokémon.
+Veuillez choisir un Pokémon.
+Où voulez-vous le mettre?
+Quel Pokémon va tenir l'objet?
+Sur quel Pokémon l'utiliser?
+Quel Pokémon va l'apprendre?
+Quel Pokémon ?
+Quel Pokémon déposer?
+Sur quel Pokémon l'utiliser?
+Avec quel Pokémon l'utiliser?
+\xf000Ă\x0001\x0000\xfffesélectionné.
+Qu'allez-vous faire\xfffeavec un objet?
+Qu'allez-vous faire\xfffeavec cet E-mail?
+Quelle capacité\xffferestaurer?
+De quelle capacité\xfffeaugmenter les PP?
+Voulez-vous envoyer\xfffela Lettre sur votre PC?
+OUI
+NON
+La Lettre a été envoyée sur votre PC.
+Si la Lettre est retirée, le message\xfffesera perdu. Êtes-vous d'accord?
+OUI
+NON
+La Boîte aux Lettres du PC est pleine.
+La Lettre a été retirée au Pokémon.
+\xf000Ă\x0001\x0000 veut apprendre\xfffe\xf000ć\x0001\x0001. \xf000븁\x0000\xfffeMais \xf000Ă\x0001\x0000 connaît déjà\xfffequatre capacités.\xf000븁\x0000\xfffeVoulez-vous remplacer une capacité\xfffepar \xf000ć\x0001\x0001?
+OUI
+NON
+Alors... Voulez-vous\xffferenoncer à \xf000ć\x0001\x0001?
+OUI
+NON
+\xf000Ă\x0001\x0000 n'a pas appris\xfffe\xf000ć\x0001\x0001.
+Quelle capacité voulez-vous\xfffelui faire oublier?
+1, \xf000븂\x0001\x00142, et\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014...\xfffeTadaa!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 a totalement\xfffeoublié \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeEt...
+\xf000Ă\x0001\x0000 a appris\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 et \xf000ć\x0001\x0001\xfffene sont pas compatibles.\xf000븁\x0000\xfffeIl ne peut pas l'apprendre!
+\xf000Ă\x0001\x0000 connaît déjà\xfffe\xf000ć\x0001\x0001.
+\xf000Ă\x0001\x0000 récupère \xf000Ȃ\x0001\x0001 PV.
+\xf000Ă\x0001\x0000 n'est plus\xfffeempoisonné.
+\xf000Ă\x0001\x0000 n'est plus\xfffeparalysé.
+\xf000Ă\x0001\x0000 n'est plus brûlé.
+\xf000Ă\x0001\x0000 est dégelé.
+Les PP sont restaurés.
+\xf000Ă\x0001\x0000 n'est plus K.O.!
+\xf000Ă\x0001\x0000 retrouve la forme.
+Les PP de \xf000ć\x0001\x0000\xfffeaugmentent.
+Le \xf000Ă\x0001\x0000 n'est plus confus!
+Le \xf000Ă\x0001\x0000\xfffen'est plus amoureux!!
+\xf000č\x0001\x0001 de base de \xf000Ă\x0001\x0000\xfffeaugmente.
+Vous devez obtenir un autre Badge\xfffepour pouvoir l'utiliser.
+Il faut enlever la Lettre pour\xfffepouvoir tenir autre chose.
+\xf000Ă\x0001\x0000 tient déjà\xfffel'objet \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffeVoulez-vous échanger les deux objets?
+OUI
+NON
+\xf000Ă\x0001\x0000 ne tient rien.
+\xf000Ă\x0001\x0000 vous a remis\xfffel'objet \xf000ĉ\x0001\x0001!
+Le Sac est plein!
+\xf000ĉ\x0001\x0002 a remplacé\xfffe\xf000ĉ\x0001\x0001!
+Quitter l'enregistrement?
+OUI
+NON
+Quitter le défi?
+OUI
+NON
+\xf000Ă\x0001\x0000 se réveille!
+S'echapper et retourner\xfffevers \xf000ą\x0001\x0000?
+OUI
+NON
+Se teleporter et retourner\xfffevers \xf000ą\x0001\x0000?
+OUI
+NON
+Seuls deux Pokémon\xfffepeuvent participer.
+Vous surfez déjà.
+Impossible ici.
+Ça n'aura aucun effet.
 ひんしの　ポケモンには\xfffeつかえません
 てもちが　いっぱい　なので\xfffeぶんり　できません
 その　ポケモンとは\xfffeがったい　できません
 ひんしの　ポケモンとは\xfffeがったい　できません
 タマゴとは\xfffeがったい　できません
 ２ひき　そろっていません！
-\xf000Ă\x0001\x0000は\xfffeちょっと　なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが　さがった！
-\xf000Ă\x0001\x0000は\xfffeさいこうに　なついていてる！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが　さがった！
-\xf000Ă\x0001\x0000は\xfffeちょっと　なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントは　もうさがらない！
-\xf000Ă\x0001\x0000に\xfffe\xf000ĉ\x0001\x0001を　もたせた！
+\xf000Ă\x0001\x0000 est devenu plus amical.\xf000븁\x0000\xfffe\xf000č\x0001\x0001 de base en baisse!
+\xf000Ă\x0001\x0000 vous adore!\xf000븁\x0000\xfffe\xf000č\x0001\x0001 de base en baisse!
+\xf000Ă\x0001\x0000 est devenu plus amical.\xf000븁\x0000\xfffe\xf000č\x0001\x0001 de base ne peut plus\xfffebaisser!
+\xf000Ă\x0001\x0000 tient\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001と\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002の\xfffe\xf000ĉ\x0001\x0003を　いれかえた！
 はっきんだまを　ギラティナには\xfffeいどうできない！
 はっきんだまは　ギラティナから\xfffeいどうできない！
 タマゴには　どうぐを\xfffeもたせられない！
-ポケモンを　えらんでください
-２ひき　そろっていません！
-３ひき　そろっていません！
-４ひき　そろっていません！
-５ひき　そろっていません！
-６ひき　そろっていません！
-さんか　できる　ポケモンは\xfffe１ひき　です！
-さんか　できる　ポケモンは\xfffe２ひき　まで　です！
-さんか　できる　ポケモンは\xfffe３ひき　まで　です！
-さんか　できる　ポケモンは\xfffe４ひき　まで　です！
-さんか　できる　ポケモンは\xfffe５ひき　まで　です！
-ボックスから　メールを　うつしました
-すでに　どうぐを　もっているので\xfffeメールを　もたせることが　できません
-そのポケモンには\xfffeつかえません
+Veuillez choisir vos Pokémon.
+Il faut deux Pokémon.
+Il faut trois Pokémon.
+Il faut quatre Pokémon.
+Il faut cinq Pokémon.
+Il faut six Pokémon.
+Seul un Pokémon peut participer.
+Seuls deux Pokémon\xfffepeuvent participer.
+Seuls trois Pokémon\xfffepeuvent participer.
+Seuls quatre Pokémon\xfffepeuvent participer.
+Seuls cinq Pokémon\xfffepeuvent participer.
+La Lettre est retirée de la Boîte.
+Ce Pokémon tient un objet.\xfffeIl ne peut pas tenir cette Lettre.
+C'est inutilisable sur ce Pokémon.
 ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
+OUI
+NON
 さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　もどる？
-はい
-いいえ
-たいりょくが　たりません……
-ならびかえ
-つよさをみる
-もちもの
-メール
-メールを　よむ
-メールを　とる
-あずける
-やめる
-いれかえる
-さんかする
-さんかしない
+OUI
+NON
+Pas assez de PV...
+ORDRE
+RÉSUMÉ
+OBJET
+COURRIER
+LIRE
+PRENDRE
+DÉPOSER
+RETOUR
+REMPLACER
+INSCRIRE
+DÉSINSCRIRE
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-もたせる
-あずかる
+DONNER
+PRENDRE
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-いどう
-メールを　いどう
-さんかしない
-でられません
-１ばんめ
-２ばんめ
-３ばんめ
-４ばんめ
-５ばんめ
-６ばんめ
-おぼえられる！
-おぼえられない
-おぼえている
-つかえます
-つかえません
+DEPLACER
+DEPLACER LETTRES
+DISPONIBLE
+INTERDIT
+1⑩
+2⒅
+3⒅
+4⒅
+5⒅
+6⒅
+APTE
+PAS APTE
+APPRIS
+APTE
+PAS APTE
 でられます
-でられません
-おなじ　ポケモンが　います
-どうぐが　おなじ　ポケモンが　います
-ポケモンの　レベルの　ごうけいが\xfffe\xf000Ȃ\x0001\x0000を　こえています
+INTERDIT
+Vous ne pouvez pas inscrire\xfffedeux Pokémon identiques.
+Les objets tenus par les Pokémon\xfffedoivent être différents.
+Le total des niveaux de tous les\xfffemembres de l'équipe dépasse \xf000Ȃ\x0001\x0000.
 でんせつの　ポケモンが\xfffe３ひき　いじょう　います
-さんか　しなければ　ならない\xfffeポケモンが　えらばれて　いません
-さいだいＨＰ
-こうげき
-ぼうぎょ
-とくこう
-とくぼう
-すばやさ
-＋
+Vous n'avez pas choisi les\xfffePokémon devant participer.
+PV MAX.
+ATTAQUE
+DÉFENSE
+ATQ SPÉ
+DÉF SPÉ
+VITESSE
++
 \xf000Ȃ\x0001\x0000
-\xf000Ă\x0001\x0000は\xfffeレベル\xf000Ȃ\x0001\x0001　に　あがった！\xf000븅\x0001\x0002\xf000븅\x0001\x0005
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　おぼえた！\xf000븅\x0001\x0003\xf000븅\x0001\x0005
-ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません！
-いまは　それどころじゃ　ない！
+\xf000Ă\x0001\x0000 monte au\xfffeN. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 a apris\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0003\xf000븅\x0001\x0005
+Inutilisable quand quelqu'un\xfffeest avec vous.
+Ç'est inutilisable ici!
 \xf000ĉ\x0001\x0001
-タマゴを\xfffeどうする？
-タマゴを　えらんでください
+Voulez-vous\xfffeéchanger l'Œuf?
+Veuillez choisir un Œuf.
 ぐるぐるこうかんを\xfffeやめますか？
-けってい
-\xf000ā\x0001\x0000は\xfffeべつの　すがたに　へんかした
+OK
+\xf000ā\x0001\x0000 a changé de forme!
 \xf000Ă\x0001\x0000は　\xf000ĉ\x0001\x0001を\xfffeもつことが　できない！
 この　ばしょでは\xfffe\xf000ĉ\x0001\x0000を　もたせられません
-\xf000Ā\x0001\x0000は　たいきちゅう
-ひとり　たいきちゅう
-ふたり　たいきちゅう
-さんにん　たいきちゅう
-ＳＥＬＥＣＴ　ＴＩＭＥ
-\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+\xf000Ā\x0001\x0000 est en attente.
+Une personne en attente.
+Deux personnes en attente.
+Trois personnes en attente.
+TEMPS RESTANT
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-つうしんたいきちゅう
-はい
-いいえ
-\xf000ĉ\x0001\x0000が　なくなりました
+Communication en cours...
+OUI
+NON
+\xf000ĉ\x0001\x0000 a disparu...
