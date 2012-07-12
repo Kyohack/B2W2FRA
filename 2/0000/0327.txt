@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-まもりを　かためろ！\xfffeセリフのせんたくが　じゅうよう！
-あいてタイプの　じゃくてんを　つけ！
-てんこうを　りようしろ！
-あいてタイプの　じゃくてんを　つけ！
-あいてタイプの　じゃくてんを　つけ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
+SCENARIO
+COUPE 01
+COUPE 02
+COUPE 03
+COUPE 04
+COUPE 05
+COUPE 06
+COUPE 07
+COUPE 08
+COUPE 09
+COUPE 10
+COUPE 11
+COUPE 12
+COUPE 13
+COUPE 14
+COUPE 15
+COUPE 16
+COUPE 17
+COUPE 18
+COUPE 19
+COUPE 20
+Renforcez votre défense!\xfffeChoisissez vos lignes sagement!
+Exploitez la faiblesse de l'ennemi!
+Utilisez la météo en votre aventage!
+Exploitez la faiblesse de l'ennemi!
+Exploitez la faiblesse de l'ennemi!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Finis le immediatement!
+Aucun
+Aucun
+Aucun
+Aucun
+Aucun
+Aucun
