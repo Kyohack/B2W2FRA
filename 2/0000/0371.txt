@@ -1,49 +1,49 @@
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-Ｗｉ－Ｆｉせってい
-バトルたいかい
-ゲームシンクせってい
-てんそうマシンを　つかう
-マイクテスト
-イッシュリンク
-しゅじんこう
-プレイじかん　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-ずかん　\xf000Ȃ\x0001\x0000ひき
-バッジ　\xf000ȁ\x0001\x0000こ
+CONTINUER
+NOUVELLE PARTIE
+CADEAU MYSTÈRE
+PARAMÈTRES CWF NINTENDO
+COMPÉTITIONS
+PARAMÈTRES SYNCHRO-JEU
+UTILISER LE TRANSFÉRON
+TEST MICRO
+LIEN UNYS
+HEROS
+TEMPS DE JEU: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+POKÉDEX: \xf000Ȃ\x0001\x0000
+BADGES: \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
-\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-\xf000Ȃ\x0001\x0000ひき
-\xf000ȁ\x0001\x0000こ
+\xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000
 \xf000ą\x0001\x0000
-レポートじょうほう
-キーシステムせってい
-アシストモード
-チャレンジモード
-ホワイトフォレスト
-ブラックシティ
-いわやまのま
-くろがねのま
-ひょうざんのま
-ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
-ペアレンタルコントロールの\xfffeつうしんせいげん
-イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
-ちゅうい！
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
-ちゅうい！
-べつの　レポートが　かかれています\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを\xfffeかくことが　できません！\xfffeそれでも　はじめますか？
-Ａボタン　ぼうけんを　はじめる
-Ｂボタン　やめる
-つうしんを　はじめますか？
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
-レポートの　ないようが\xfffeきえてしまった！
-きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
-とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
-ミュージカルの　えんもくデータが\xfffeきえてしまった！
-ずかんの　スキンデータが\xfffeきえてしまった！
-でんどういりポケモンの\xfffeきろくが　きえてしまった！
-ふしぎな　おくりものの\xfffeきろくが　きえてしまった！
-きえてしまった　ポケウッドの\xfffeきろくが　あります！
-キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
-きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
+INFOS SAUVEGARDE
+PARAMÈTRES MAIN SYSTÈME
+MODE ASSIST
+MODE DÉFI
+FORET BLANCHE
+VILLE NOIRE
+ROCH
+ACIER
+GLACE
+La fonction de communication\xfffesans fil doit être activée dans les\xf000븀\x0000\xfffeparamètres de la console.\xf000븀\x0000\xfffe(50699)
+Connexion limitée par le contrôle parental.
+Unova Link's Key System\xfffekey mode change\xf000븀\x0000\xfffecan now be sent!\xf000븁\x0000
+ATTENTION!
+Les fonctionnalités de communication sans\xfffefil procurent une expérience de jeu plus\xffferiche. Celles-ci restant toujours actives\xfffeaprès leur démarrage, veuillez les\xfffedésactiver dans les lieux où une telle\xfffecommunication est interdite, comme les\xfffehôpitaux ou les avions. Vous pouvez le\xfffefaire à partir de l'écran du C-Gear.
+ATTENTION!
+Il y a déjà un fichier de sauvegarde.\xfffeSi vous commencez une nouvelle aventure,\xfffevous ne pourrez pas la sauvegarder.\xfffeContinuer?
+BOUTON A: COMMENCER L'AVENTURE
+BOUTON B: ANNULER
+Démarrer la communication sans fil?
+Le C-Gear sera désactivé.\xfffeContinuer tout de même?
+Le fichier de sauvegarde a été effacé\xfffecar il était corrompu ou endommagé.
+Il semble qu'une Vidéo de\xfffecombat ait été effacée.
+Les habillages du C-Gear\xfffeont été effacés!
+Les données des Tests Combat\xfffespéciaux ont été effacées!
+Les données des Clichés du\xfffeMusical ont été effacées!
+Les habillages du Pokédex\xfffeont été effacés!
+Les données des Pokémon du\xfffePanthéon ont été effacées!
+Les données du Cadeau Mystère\xfffeont été effacées!
+Les données Pokéstar\xfffeont été effacées.
+Les données Système main\xfffeont été effacées
+Les données PWT\xfffeont été effacées.
