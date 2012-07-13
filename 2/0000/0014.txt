@@ -32,8 +32,8 @@ Vous ne pouvez pas relâcher un Kyurem fusionné!
 Il se faisait peut-être du souci...
 Un Œuf ne peut pas tenir un objet.
 Touchez un ou plusieurs symboles!
-DEPOSER PKMN
-RETIRER PKMN
+DEPOSER POKÉMON
+RETIRER POKÉMON
 La boîte est pleine.
 Plus de place dans votre équipe.
 DÉPOSER POKÉMON
