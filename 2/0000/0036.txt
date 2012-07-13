@@ -1,51 +1,51 @@
-タイトルダミー
-ミッションダミー
-はじめての　きのみ　さがし！
-かけらを　さがせ！
-いっかく　せんきん！
-トレジャー　ハント！
-きえた　\xf000ȃ\x0001\x0001この　ざいほう
-なぞの　こうせきを　さがせ！
-ひかる　こうせきを　さがせ！
-きのみを　あつめろ！
-きのみ　だいしゅうかく！
-おとしものを　さがせ！
-わすれられた　おとしもの
-みつからない　おとしもの
-こやし　コレクター！
-ときめく　ハートは　どこに？
-まぼろしの　きのみを　さがせ！
-まぼろしの　いっぴん！
-きのみさがしで　だいぼうけん！
-きのみ　フェスティバル！
-まいごの　しょうねんを　さがせ
-そのどうぐ　ちょうだいな！
-かくとうかと　しゅぎょう！
-\xf000ȃ\x0001\x0001にん　くみて！
-エリートへの　みちのり！
-めざせ　わらしべちょうじゃ！
+Titre Dummy
+Mission Dummy
+Pour la 1ère fois, seule la chasse!
+Ah regardez!
+Temps pour courir!
+Chasse au Trésor!
+Le trésor\xf000ȃ\x0001\x0001a disparu...
+Ce mystère sera résolu!
+L'analyse brillera!
+Ne recueillir que les arbres!
+La récolte a commencé!
+Trouvez l'objet perdu!
+L'objet perdu a été oublié...
+L'objet perdu n'a pas été trouvé...
+Capteur d'engrais!
+Combien de temps le cœur va prosperer?
+Trouvez la baie du spectre!
+L'objet du spectre!
+Quête pour la baie du spectre!
+Festival des baies!
+Trouvez le garçon perdu!
+Cette longue route!
+Entrainement et ceintures noires!
+\xf000ȃ\x0001\x0001 ouvriers!
+Chemin pour le conseil!
+Regardez la tige de riz supérieure!
 ドキドキ　ぶつぶつこうかん！
-ウキウキ　ぶつぶつこうかん！
-エンジョイ　ショッピング！
-ショッキング　ショッピング！
-りそうの　おねだんは……？
-ホントの　おねだんは……？
-きおくの　げんかいへ……
-きおくりょく　トレーニング！
-じゃんけん　たいかい！
-ポケモンセンターの　おねえさん
-ポケモン　ずかんクイズ！
-おかいもの　だいさくせん！
-おわりなき　たたかい……！
-ポケモンセンター　クイズおう！
-クイズおう　けっていせん
-めざせ！　ポケモンクイズおう！
-おねえさんからの　プレゼント
-ゆれる　くさむらを　さがせ！
-ポケモンサーチ\xf000ȃ\x0001\x0001！
-\xf000ā\x0001\x0000を　さがせ！
-かねを　ならして……
-\xf000ȃ\x0001\x0001かい　なりひびく　かね
+Troc joyeux!
+Bons achats!
+Mauvais achats!
+Le prix des ideals...?
+Le prix des veritées...?
+Limites de la mémoire...
+Entrainement mémoire!
+Tournoi rocher-papier-ciseaux!
+Infirmière du centre Pokémon
+Quiz Pokédex!
+Competition d'achats épique!
+Lutte infinie...!
+Maître Quiz du Centre Pokémon!
+Séries Éliminatoires du Maître Quiz!
+Allez-y! Maître Quiz Pokémon!
+Cadeau de la grande soeur!
+Cherche les herbes secouants!
+Recherche Pokémon \xf000ȃ\x0001\x0001!
+Recherche pour \xf000ā\x0001\x0000!
+Sonnez...
+Sonnez \xf000ȃ\x0001\x0001 fois
 きのこの　かくれんぼ！
 はねばしに　まいおちる　ハネ
 おたから　はっくつ！
