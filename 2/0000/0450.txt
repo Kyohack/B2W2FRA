@@ -199,7 +199,7 @@
 
 
 
-あるすがた
+Forme unique
 
 
 
@@ -349,7 +349,7 @@
 
 
 
-ポワルンのすがた
+Forme de Morphéo
 
 
 
@@ -384,7 +384,7 @@
 
 
 
-ノーマルフォルム
+Forme Normale
 
 
 
@@ -410,8 +410,8 @@
 
 
 
-くさきのミノ
-くさきのミノ
+Cape Plante
+Cape Plante
 
 
 
@@ -419,9 +419,9 @@
 
 
 
-ネガフォルム
-にしのうみ
-にしのうみ
+Temps Couvert
+Mer Occident
+Mer Occident
 
 
 
@@ -477,7 +477,7 @@
 
 
 
-ロトムのすがた
+Forme de Motisma
 
 
 
@@ -485,13 +485,13 @@
 
 
 
-アナザーフォルム
+Forme Alternative
 
 
 
 
-ランドフォルム
-アルセウスのすがた
+Forme Terrestre
+Forme de Arceus
 
 
 
@@ -548,12 +548,12 @@
 
 
 
-あかすじのすがた
+Motif Rouge
 
 
 
 
-ノーマルモード
+Mode Normal
 
 
 
@@ -583,8 +583,8 @@
 
 
 
-はるのすがた
-はるのすがた
+Forme Printemps
+Forme Printemps
 
 
 
@@ -639,95 +639,95 @@
 
 
 
-けしんフォルム
-けしんフォルム
+Forme Avatar
+Forme Avatar
 
 
-けしんフォルム
-キュレムのすがた
-いつものすがた
-ボイスフォルム
-ゲノセクトのすがた
+Forme Avatar
+Forme Kyurem
+Forme Normale
+Forme Chant
+Forme Genesect
 
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-あるすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-すなちのミノ
-ゴミのミノ
-すなちのミノ
-ゴミのミノ
-ポジフォルム
-ひがしのうみ
-ひがしのうみ
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-オリジンフォルム
-スカイフォルム
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-アルセウスのすがた
-あおすじのすがた
-ダルマモード
-なつのすがた
-あきのすがた
-ふゆのすがた
-なつのすがた
-あきのすがた
-ふゆのすがた
-れいじゅうフォルム
-れいじゅうフォルム
-れいじゅうフォルム
-ホワイトキュレム
-ブラックキュレム
-かくごのすがた
-ステップフォルム
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme unique
+Forme Solaire
+Forme Eau de Pluie
+Forme Blizzard
+Forme Attaque
+Forme Défense
+Forme Vitesse
+Cape Sable
+Cape Déchet
+Cape Sable
+Cape Déchet
+Temps Ensoleillé
+Mer Orient
+Mer Orient
+Motisma Chaleur
+Motisma Lavage
+Motisma Froid
+Motisma Hélice
+Motisma Tonte
+Forme Originelle
+Forme Céleste
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Forme de Arceus
+Motif Bleu
+Mode Transe
+Forme Été
+Forme Automne
+Forme Hiver
+Forme Été
+Forme Automne
+Forme Hiver
+Forme Danse
+Forme Danse
+Forme Danse
+Kyurem Blanc
+Kyurem Noir
+Forme Resolution
+Forme Pirouette
+Forme de Genesect
+Forme de Genesect
+Forme de Genesect
+Forme de Genesect
