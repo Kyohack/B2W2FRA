@@ -1,15 +1,15 @@
 Le \xf000ȁ\x0001\x0001 \xf000ƀ\x0001\x0000 20\xf000ȁ\x0001\x0002
 
 
-◇ Un Dresseur de Renouet a vaincu Tcheren; le Champion d'Arène d'Ogoesse!
-◇ Un Dresseur de Renouet a vaincu Roxie, le Champion d'Arène de Maillard!
-◇ Un Dresseur de Renouet a vaincu Burgh, le Champion d'Arène de Volucité!
-◇ Un Dresseur de Renouet a vaincu Elesa, le Champion d'Arène de Méanville!
-◇ Un Dresseur de Renouet a vaincu Clay, le Champion d'Arène de Port Yoneuve!
-◇ Un Dresseur de Renouet a vaincu Skyla, le Champion d'Arène de Parsemille!
-◇ Un Dresseur de Renouet a vaincu Drayden, le Champion d'Arène de Flocombe!
-◇ Un Dresseur de Renouet a vaincu Shizui, le Champion d'Arène de Janusia!
-◇ Un Dresseur de Renouet a vaincu Shizui, le Champion d'Arène de Janusia!
+◇ Un Dresseur de Pavonnay a vaincu Tcheren; le Champion d'Arène de sa ville !
+◇ Un Dresseur de Pavonnay a vaincu Strykna, la Championne d'Arène d'Ondes-sur-Mer !
+◇ Un Dresseur de Pavonnay a vaincu Artie, le Champion d'Arène de Volucité!
+◇ Un Dresseur de Pavonnay a vaincu Inezia, la Championne d'Arène de Méanville!
+◇ Un Dresseur de Pavonnay a vaincu Bardane, le Champion d'Arène de Port Yoneuve!
+◇ Un Dresseur de Pavonnay a vaincu Carolina, la Championne d'Arène de Parsemille!
+◇ Un Dresseur de Pavonnay a vaincu Watson, le Champion d'Arène de Janusia!
+◇ Un Dresseur de Pavonnay a vaincu Amana, le Champion d'Arène de Segahia City!
+◇ Un Dresseur de Pavonnay a vaincu Amana, le Champion d'Arène de Segahia City!
 ◇ “Vos Pokémon élevés avec amour!": Pension Pokémon, Route 3.
 ◇ “Un nom bien choisi pour une relation harmonieuse": Spécialiste des Noms, Volucité.
 ◇ “Où est-il, que devient-elle? Vite, une enquête!" Bureau d'Enquêtes Rencontres, Volucité.
@@ -209,11 +209,11 @@ Tempête d'une rare violence!!!
 ◆ Félicitations pour leur entrée au Panthéon! \xf000Ā\x0001\x0006 a vaincu le Maître avec \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002 et \xf000ā\x0001\x0003!
 ◆ Félicitations pour leur entrée au Panthéon! \xf000Ā\x0001\x0006 a vaincu le Maître avec \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003 et \xf000ā\x0001\x0004!
 ◆ Félicitations pour leur entrée au Panthéon! \xf000Ā\x0001\x0006 a vaincu le Maître avec \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004 et \xf000ā\x0001\x0005!
-◇ Un Dresseur de Renouet a vaincu Shizui, le Champion d'Arène de Janusia!
-◇ The beautiful view of the mountains is a must-see.
-◇ Aspertia City's Trainer School is a heated educational institution.
-◇ With its blooming flowers, Aspertia City is wrapped in sweet aromas.
-◇ Route 19 ends at the famous clock tower of Sangi Town.
+◇ Un Dresseur de Pavonnay a vaincu Amana, le Champion d'Arène de Segahia City!
+◇ Il faut voir la vue magnifique des montagne
+◇ L'Ecole des dresseurs de Pavonnay est une grande institution en metière d'education.
+◇ Avec les fleurs qui l'environnent, Pavonnay est enveloppée dans de doux arômes.
+◇ La Route 19 finit avec le fameux clocher de Sangi Town.
 ◇ Located at the foot of the mountains, Aspertia City is cool and comfortable even in the Summer.
 ◇ Sangi Town has a religious hut which teaches the wonders of Pokémon to children.
 ◇ Route 19 is characterized by a steep hill.
