@@ -115,39 +115,39 @@ Porte Blanche
 Porte de Pont
 Porte de Route
 Ruines des Abysses
-Aspertia
-Virbank
-Seigaiha
+Pavonnay
+Ondes-sur-Mer
+Seigaiha City
 Pokébois
 Boulevard Raccord
-Sangi
-Yamaji
+Sangi Town
+Yamaji Town
 Route 19
 Route 20
 Route 21
 Route 22
 Route 23
-Égout Castelia
+Égouts de Volucité
 Ferme Sangi
-Complex Virbank
+Complexe d'Ondes-sur-Mer
 Montagne de la Renaissance
 Maison de l'Étranger
 Route Victoire
-FrégatePlasma
+Frégate Plasma
 Chemin Ancien
 Voie d'Argile
 －－－－－－－－－－
 White Tree Hollow
-Grate-Ciel Noire
+Grate-Ciel Noir
 Grotte d'Océan
 Creux de Coeur
 Trou Caché
 Tunnel Marin
-Portail Virbank
-Aspertia
-Resèrve Naturelle
-Secretariat de Médaille
-Ruines Sous-Sol
+Porte Ondes-sur-Mer
+Pavonnay
+Reserve Naturelle
+Secretariat des Médaille
+Ruines du Sous-Sol
 Chambre de Rocher
 Chambre de Glace
 Chambre d'Acier
