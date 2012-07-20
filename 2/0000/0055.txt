@@ -2,40 +2,40 @@ Connexion avec le monde du\xfffeDresseur \xf000Ā\x0001\x0000!
 Connexion avec le monde du\xfffeDresseur \xf000Ā\x0001\x0000!
 Connexion avec le monde du\xfffeDresseur \xf000Ā\x0001\x0000!
 Connexion avec le monde du\xfffeDresseur \xf000Ā\x0001\x0000!
-\xf000Ā\x0001\x0000 is in the Entralink.
-\xf000Ā\x0001\x0001 is in the Entralink.
-\xf000Ā\x0001\x0002 is in the Entralink.
-\xf000Ā\x0001\x0003 is in the Entralink.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
+\xf000Ā\x0001\x0000 est dans l'Heylink.
+\xf000Ā\x0001\x0001 est dans l'Heylink.
+\xf000Ā\x0001\x0002 est dans l'Heylink.
+\xf000Ā\x0001\x0003 est dans l'Heylink.
+Peut entrer dans le monde de \xfffe\xf000Ā\x0001\x0000.
+Peut entrer dans le monde de \xfffe\xf000Ā\x0001\x0000.
+Peut entrer dans le monde de \xfffe\xf000Ā\x0001\x0000.
+Peut entrer dans le monde de \xfffe\xf000Ā\x0001\x0000.
 \xf000Ā\x0001\x0000 est de retour dans son Heylink.
 \xf000Ā\x0001\x0000 est de retour dans son Heylink.
 \xf000Ā\x0001\x0000 est de retour dans son Heylink.
 \xf000Ā\x0001\x0000 est de retour dans son Heylink.
-\xf000Ā\x0001\x0000 left the Entralink.
-\xf000Ā\x0001\x0001 left the Entralink.
-\xf000Ā\x0001\x0002 left the Entralink.
-\xf000Ā\x0001\x0003 left the Entralink.
-Communication will be ended.
-\xf000Ā\x0001\x0000 came to town!
-\xf000Ā\x0001\x0001 came to town!
-\xf000Ā\x0001\x0002 came to town!
-\xf000Ā\x0001\x0003 came to town!
-In \xf000Ā\x0001\x0000's Entralink.
-In \xf000Ā\x0001\x0001's Entralink.
-In \xf000Ā\x0001\x0002's Entralink.
-In \xf000Ā\x0001\x0003's Entralink.
-\xf000Ā\x0001\x0000 entered \xf000Ā\x0001\x0001's\xfffeEntralink.
-\xf000Ā\x0001\x0000 returned\xfffeto the Entralink.
+\xf000Ā\x0001\x0000 a quitté l'Heylink.
+\xf000Ā\x0001\x0001 a quitté l'Heylink.
+\xf000Ā\x0001\x0002 a quitté l'Heylink.
+\xf000Ā\x0001\x0003 a quitté l'Heylink.
+La communication va s'achever.
+\xf000Ā\x0001\x0000 revient en ville!
+\xf000Ā\x0001\x0001 revient en ville!
+\xf000Ā\x0001\x0002 revient en ville!
+\xf000Ā\x0001\x0003 revient en ville!
+Dans l'Heylink de \xf000Ā\x0001\x0000.
+Dans l'Heylink de \xf000Ā\x0001\x0001.
+Dans l'Heylink de \xf000Ā\x0001\x0002.
+Dans l'Heylink de \xf000Ā\x0001\x0003.
+\xf000Ā\x0001\x0000 rejoint l'\xfffeHeylink de \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 retourne\xfffedans l'Heylink.
 Connected to \xf000Ā\x0001\x0000's world!
 \xf000Ā\x0001\x0000 left\xfffefor the home Entralink.
-The mission will begin soon. Please\xfffetap JOIN if you want to participate.
-The mission will begin soon...\xfffePlease wait a moment.
-Seems busy with a mission...
-The mission is complete.
-The mission failed...
+La mission va commencer bientôt. Veuillez\xfffecliquer sur REJOINDRE si vous voulez participer.
+La mission va commencer bientôt...\xfffeVeuillez patienter un moment.
+Semble être occupé dans une mission...
+La mission est terminée.
+La mission a échoué...
 \xf000Ā\x0001\x0000 a reçu une Offri-Aura du\xfffeHeyrable du Dresseur \xf000Ā\x0001\x0001.
 \xf000Ā\x0001\x0000 a reçu une Offri-Aura\xfffede son Heyrable.
 \xf000Ā\x0001\x0000 est à cet endroit.
@@ -61,16 +61,16 @@ Touchez l'écran pour vous téléporter à\xfffel'endroit où se trouve l'autre 
 Touchez l'écran pour vous téléporter à\xfffel'endroit où vous devez cacher l'objet.
 Touchez l'écran pour vous téléporter à\xfffel'endroit où se trouve l'autre Dresseur.
 On dirait que ce Dresseur a\xfffeune mission en cours.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Coming to play in \xf000Ā\x0001\x0000's world.
+Vient jouer dans le monde de \xf000Ā\x0001\x0000.
+Vient jouer dans le monde de \xf000Ā\x0001\x0000.
+Vient jouer dans le monde de \xf000Ā\x0001\x0000.
+Vient jouer dans le monde de \xf000Ā\x0001\x0000.
 Touchez l'écran pour aller au Heylink.
 MON MONDE
 MONDE DU DRESSEUR \xf000Ā\x0001\x0000
 OK
 RETOUR
-You're not connected to anyone,\xfffeso you can't go any further.
+Vous n'êtes connecté à personne,\xfffeso vous ne pouvez pas aller plus loin.
 Connections linked.
 Vous examinez votre Heyrable.
 Vous examinez le Heyrable\xfffedu Dresseur \xf000Ā\x0001\x0000.
@@ -92,7 +92,7 @@ Vous avez soudainement regagné\xfffevotre Heylink!\xf000븁\x0000\xfffe... Il s
 Vous avez soudainement regagné\xfffevotre Heylink!\xf000븁\x0000\xfffe... Il semblerait que l'autre Heylink\xfffeait disparu.
 Échec de la mission.\xfffeL'autre Dresseur a disparu...\xf000븁\x0000\xfffeLe monde de l'autre Dresseur a disparu\xfffeet vous avez regagné votre monde.
 Échec de la mission.\xfffeL'autre Dresseur a refusé...\xf000븁\x0000\xfffeLe monde de l'autre Dresseur a disparu\xfffeet vous avez regagné votre monde.
-Mission restarted!\xfffeTime: Sixty seconds!
+Mission redémarrée!\xfffeTemps : Soixante secondes!
 \xf000Ā\x0001\x0000 warped\xfffeto the Entralink!\xf000븁\x0000
 You can't warp to\xfffethe Entralink here!
 Une mission pour vous venir en aide\xfffea commencé.\xf000븁\x0000\xfffeVous regagnez votre monde.\xf000븁\x0000
