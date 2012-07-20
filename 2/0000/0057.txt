@@ -1,12 +1,12 @@
-たいせんする　あいてと\xfffeせきがいせん　つうしん　します\xf000븁\x0000\xfffeあいてに　せきがいせんを　あわせて\xfffeＡボタンを　おしてください
-おたがいの　えらんでいる\xfffeたいかいが　ちがいます
-たいせん　あいてが\xfffeみつかりました！
-たいせんを　かいし　します！\xfffeＡボタンを　おしてください
-あなたの　かちです
-あなたの　まけです
-ひきわけ　です
-つうしん　たいきちゅう
+Veuillez appuyer sur A pour commencer\xfffela communication infrarougexf000븁\x0000\xfffeà votre adversaire
+Chaque joueur a choisi\xfffeun tournoi différent.
+Ton adversaire a été trouvé！
+Pour commencer à jouer\xfffeappuie sur le bouton A.
+Tu a gagné
+Tu a perdu
+C'est un tirage au sort
+Connexion en attente
 Ｗｉ－Ｆｉたいかいに　さんか
-イベントたいかいに　さんか
+Participer à un tournoi
 デジタルせんしゅしょうを　みる
-もどる
+Retour
