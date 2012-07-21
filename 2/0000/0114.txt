@@ -1,15 +1,15 @@
-いあいきり
+Coupe
 いーふい
 いいよ
 いえ
-いえき
+Suc Digestif
 いえす
 いかく
-いかさま
-いかり
-いかりのこな
+Tricherie
+Frénésie
+PoudreFureur
 いかりのつほ
-いかりのまえは
+Croc Fatal
 いくせ
 いくよ
 いくわよ
@@ -17,30 +17,30 @@
 いしすまい
 いしつふて
 いたすらこころ
-いたみわけ
+Balance
 いちはん
-いちやもん
+Tourmente
 いとまる
-いとをはく
-いのちかけ
+Sécrétion
+Tout ou rien
 いのむー
-いはる
-いひき
+Vantardise
+Ronflement
 いまひとつ
 いやー
 いやしのこころ
 いやしのすす
 いやしのねかい
-いやしのはとう
-いやなおと
+Vibra Soin
+Grincement
 いらつしやい
 いりゆーしよん
 いるみーせ
 いろめかね
 いわ
 いわーく
-いわおとし
-いわくたき
-いわなたれ
+Jet-Pierres
+Eclate-Roc
+Eboulement
 いわはれす
-いんふあいと
+Close Combat
