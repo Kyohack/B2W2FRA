@@ -50,4 +50,4 @@ Ce n'est pas bon! Impossible de viser\xfffesur un Pokémon pas en vue!
 Ce n'est pas assez chargé.
 Conseil du Professeur...\xfffeChaque chose en son temps!\xf000븀\x0000\xfffe
 C'est impossible de viser\xfffesans être concentré!
-La Ball ne peut être utilisée\xfffeà cause de l'appareil Ghetsis utilisé!
+La Ball ne peut être utilisée\xfffeà cause du dispositif de Ghetsis !
