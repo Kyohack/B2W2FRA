@@ -2,7 +2,7 @@ Tu peux changer la langue du jeu.\xfffeVeux-tu jouer en français?\xf000븀\x000
 Français
 Japonais
 Le jeu sera en français.\xf000븁\x0000
-Le jeu sera en japonnais.\xf000븁\x0000
+Le jeu sera en japonais.\xf000븁\x0000
 Merci d'attendre que les \xfffedonnées de sauvegardes soient créées.
 Helloooo!\xf000븁\x0000\xfffeBienvenu dans le monde des Pokémon!\xf000븁\x0000
 Mon nom est Professeur Keteleeria,\xfffemais tout le monde m'appelle\xfffeProfesseur Pokémon!\xf000븁\x0000
@@ -28,7 +28,7 @@ Choix 1
 Choix 2
 Choisir
 Son nom est bien\xfffe\xf000Ā\x0001\x0001？\xf000븁\x0000
-Ce garçcon, c'est Tcheren.\xf000븁\x0000\xfffeIl est un peu spécial, mais\xfffeil a un bon fond.\xf000븁\x0000
+Ce garçon, c'est Tcheren.\xf000븁\x0000\xfffeIl est un peu spécial, mais\xfffeil a un bon fond.\xf000븁\x0000
 Cette fille, c'est Bianca.\xf000븁\x0000\xfffeElle est très gentille, et puis,\xfffeelle fait de son mieux.\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIl faut que tu\xfffey aille pour prendre ton\xf000븀\x0000\xfffenouveau pokemon.\xf000븁\x0000
 Dés que tu auras choisi le Pokémon qui va\xfffedevenir ton plus fidèle compagnon de\xf000븁\x0000\xfffevoyage, ton aventure va commencer.\xf000븁\x0000eTu vas recontrer des centaines de \xfffePokémon, et une foule de gens avec\xf000븀\x0000\xfffedes opinions et des idées très variées.\xf000븀\x0000J'espère que tu retirera quelque chose\xfffed'unique de toutes ces rencontres,\xf000븁\x0000et qu'elles te feront grandir...\xfffeC'est l'objectif principale de ton voyage.\xf000븁\x0000Bon, trêve de bavardage, en\xffferoute pour le monde de Pokémon!\xf000븁\x0000
