@@ -42,7 +42,7 @@ Check Results
 Does not meet the\xfffetournament requirements.\xf000븁\x0000
 The amount of Pokémon does\xfffenot meet the requirements.\xf000븁\x0000
 The level of the Pokémon do\xfffenot meet the requirements.\xf000븁\x0000
-This Pokémon cannot\xfffeparticipate.\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffeparticiper.\xf000븁\x0000
 The Pokémon's type\xfffeis the same.\xf000븁\x0000
 The Pokémon's held item\xfffeis the same.\xf000븁\x0000
 It's an egg.\xf000븁\x0000
