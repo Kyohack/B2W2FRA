@@ -6,7 +6,7 @@ PV/PP
 Restaurer
 Objets de combat
 Poké Balls
-Objet utilisé en dernier
+Dernier Objet utilisé
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
