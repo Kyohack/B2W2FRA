@@ -1,3 +1,3 @@
-Supprimer toutes les sauvegardes?
-Quand les données enregistrées a été supprimé\xfffeIl n'y a aucun moyen de le restaurer.\xf000븁\x0000\xfffeEst-il vraiment OK pour supprimer \xfffetoutes les donneés sauvegardeés?
-Suppression de toutes les données sauvegardées...\xfffeNe mettez pas le système hors line ou retirez carte de jeu!
+Effacer toutes les données\xfffesauvegardées?
+Voune pourrez plus récupérer\xfffeles données effacées.\xf000븁\x0000\xfffeVoulez-vous vraiment effacer toutes\xfffeles donneés sauvegardeés?
+Suppression des données sauvegardées...\xfffeNe pas éteindre ou retirer le carte de jeu.
