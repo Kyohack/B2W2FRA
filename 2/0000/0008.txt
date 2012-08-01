@@ -18,7 +18,7 @@ Mute
 \xf000봂\x0000Résidence
 \xf000봂\x0000Devise
 Donnée
-Profile
+Profil
 
 non enregistré
 \xf000Ĥ\x0001\x0000
@@ -28,7 +28,7 @@ VIDÉO DE \xf000Ā\x0001\x0000
 EFFACER VIDÉO PERSO
 EFFACER AUTRE VIDÉO
 Automne
-Éteigner l'enregistrement de\xf000Ā\x0001\x0000
+Éteidre l'enregistrement de\xf000Ā\x0001\x0000
 PAR CLASSEMENT
 Envoyer des données
 30 PLUS RÉCENTES
@@ -353,20 +353,20 @@ Dérnier 20 dans la boîte Mignon dans le PC.
 Dérnier 20 dans la boîte Suggeré dans le PC.
 Dérnier 20 dans la boîte Amusant dans le PC.
 Dérnier 20 dans la boîte Select dans le PC.
-écolier♂
-Attrapeur d'insecte
-Dresseur pro♂
-Costaud
-Maniac des ruines
-Ceinture noir
-Enfants riche
-Psychique♂
-Fille
-Fille de Combat
-Beautée
-Dresseur pro♀
-Idol
-Socialite
+Écolier
+Entomologiste
+Dresseur
+Alpiniste
+Ruinemaniac
+Karatéka
+Richard
+Télékinesiste
+Fillette
+Combattante
+Canon
+Dresseuse
+Idole
+Social
 Cowgirl
 Dame
-Goldver．
+Goldver
