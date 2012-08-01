@@ -26,7 +26,7 @@ DÉSENREGISTRER
 ―――
 ♂
 ♀
-LV.
+N.
 N°
 ＋
 →
@@ -47,9 +47,9 @@ Il n'y a pas de Pokémon!
 Déplacer \xf000ĉ\x0001\x0000.
 Vous ne pouvez pas lui donner \xfffe\xf000ĉ\x0001\x0000!
 Vous ne pouvez pas lui donner\xfffe\xf000ĉ\x0001\x0000 ici!
-Combien de \xfffe\xf000ĉ\x0001\x0000 stoquer?
-Vous avez stoqué \xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
-Vous ne pouvez plus stoquer!
+Combien de \xfffe\xf000ĉ\x0001\x0000 stocker?
+Vous avez stocké \xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Vous ne pouvez plus stocker!
 C'est un objet important\xfffealors vous ne pouvez pas le jeter！
 En jeter combien?
 Vous jetez \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
@@ -71,9 +71,9 @@ Poudres:　\xf000ȃ\x0001\x0000
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Poudre de baie
-Joue de la  Poke Flute!\xfffeWow! Ca sonne bien!
-Joue de la Poké Flute!
-Le Pokémon a entendu la flute\xfffeet se réveille.
+Joue de la  Poke Flûte!\xfffeWow! Ca sonne bien!
+Joue de la Poké Flûte!
+Le Pokémon a entendu la flûte\xfffeet se réveille.
 Bouge
 \xf000ĉ\x0001\x0000? Oh, non.\xfffeJe ne peux pas acheter ça.
 \xf000ĉ\x0001\x0000? Combien voulez-vous\xfffeen vendre?
@@ -144,8 +144,8 @@ Vos objets ont été\xfffeorganisés!
 \xfffeveut organiser par ordre ascendant!
 Total
 Mettre de la place
-Poche original
-Choisissez svp le\xfffeque vous cherchait!
+Poche originale
+Choisissez le\xfffeque vous cherchiez!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
