@@ -15,6 +15,6 @@ Annuler la participation
 Voulez-vous participer à\xfffeune Compétition Live?
 Vous pouvez trouver les lieux où sont\xfffeorganisées les Compétitions Live\xf000븀\x0000\xfffesur le site officiel de Pokémon:\xf000븁\x0000\xfffehttp://www.pokemon.fr.\xf000븁\x0000\xfffeVous y trouverez également les règles\xfffeet les périodes d'ouverture.\xf000븁\x0000
 Si une panne de courant occure\xfffedurant un tournoi ou un\xf000븀\x0000\xfffematch aléatoire en Wi-Fi,\xf000븁\x0000\xfffeVeuillez\xfffereéssayer dans environ\xf000븀\x0000\xfffeune heure.\xf000븁\x0000
-Sauvegarde en cours!\xfffen'éteignez pas la console!
+Sauvegarde en cours...\xfffeN'éteignez pas la console.
 Points de Combats seront attribué\xfffedans les resultats d'une compétition!\xf000븁\x0000
 \xf000Ā\x0001\x0000a obtenu \xfffe\xf000ȁ\x0001\x0001BP! \xf000븁\x0000
