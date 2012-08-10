@@ -1,3 +1,3 @@
 Effacer toutes les données\xfffesauvegardées?
-Voune pourrez plus récupérer\xfffeles données effacées.\xf000븁\x0000\xfffeVoulez-vous vraiment effacer toutes\xfffeles donneés sauvegardeés?
+Vous ne pourrez plus récupérer\xfffeles données effacées.\xf000븁\x0000\xfffeVoulez-vous vraiment effacer toutes\xfffeles donneés sauvegardeés?
 Suppression des données sauvegardées...\xfffeNe pas éteindre ou retirer le carte de jeu.
