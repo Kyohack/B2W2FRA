@@ -8,8 +8,8 @@ Communication en cours...\xfffeVeuillez patienter.
 パートナーとなる　あいてに\xfffeせきがいせんを　むけてください
 リーダーに　なりました！
 たいせん　あいての　リーダーに\xfffeせきがいせんを　むけてください
-しばらく　おまちください
-ともだちコード
+Veuillez attendre.
+Code-Ami
 フィーリングチェック
 ちゅうだん　しますか？
 こうかんする　あいてに\xfffeせきがいせんを　むけてください
@@ -18,13 +18,13 @@ Communication en cours...\xfffeVeuillez patienter.
 Échanger \xf000Ă\x0001\x0000 contre\xfffe\xf000Ă\x0001\x0001?
 N. \xf000Ȃ\x0001\x0000
 しゅうりょうしますか？
-こうかんしました
-しばらく　おまちください
+Échanger
+Veuillez attendre.
 あそぶないようが　ちがったので\xfffeさいしょに　もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
+Voulez  vous sauvegarder？
 OUI
 NON
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
+Sauvegarde...\xfffeNe pas éteindre.
 Nº \xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
@@ -36,7 +36,7 @@ DÉF SPÉ
 VITESSE
 NATURE
 CAP SPÉ
-もちもの
+ITEM
 \xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
 \xf000Ȃ\x0001\x0000
 \xf000Ĉ\x0001\x0000
@@ -100,7 +100,7 @@ Si vous échangez ce Pokémon, vous\xfffeserez bloqué(e) dans votre aventure!
 Le Pokémon de l'autre Dresseur\xfffene peut pas être échangé.
 Votre Pokémon ne peut pas être échangé.
 Ce Pokémon a appris une capacité\xfffeimportante. Impossible de l'échanger.
-その　ポケモンは\xfffeこうかん　できません
+Ce pokémon ne peut\xfffeêtre remplacé.
 Votre ami(e) veut échanger un\xfffePokémon avec vous.
 Terminer l'échange?
 En attente de l'autre joueur...
@@ -126,7 +126,7 @@ Peu importe
 N. 1 à N. 49
 N. 50
 N. 51 à N. 100
-けってい
+Comfirme
 \xf000Ā\x0001\x0000
 Envoi de \xf000Ă\x0001\x0000 à \xf000Ā\x0001\x0001.\xfffeBye-bye \xf000Ă\x0001\x0000!
 Renvoi de \xf000Ă\x0001\x0000 à \xf000Ā\x0001\x0001.\xfffeMerci \xf000Ă\x0001\x0000!
